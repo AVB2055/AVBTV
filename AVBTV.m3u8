@@ -2,7 +2,7 @@
 #EXTINF:0,Первый канал HD
 #EXTGRP:Общие
 http://178.163.7.232:4022/udp/234.0.0.172:2000
-#EXTINF:0,Первый канал HDR
+#EXTINF:0,Первый канал HD
 #EXTGRP:Общие
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Россия 1 HD
@@ -14,82 +14,82 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:0,НТВ HD
 #EXTGRP:Общие
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пятый канал EDTV
+#EXTINF:0,Пятый канал 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:0,Россия К EDTV
+#EXTINF:0,Россия К 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
-#EXTINF:0,Россия 24 EDTV
+#EXTINF:0,Россия 24 
 #EXTGRP:Общие
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,Карусель EDTV
+#EXTINF:0,Карусель 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:0,ОТР EDTV
 #EXTGRP:Общие
 http://178.212.71.253:8000/play/9/index.m3u8
-#EXTINF:0,ОТР EDTV
+#EXTINF:0,ОТР 
 #EXTGRP:Общие
 http://tv.ttk.mx:9008
-#EXTINF:0,ТВЦ EDTV
+#EXTINF:0,ТВЦ 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:0,РЕН ТВ EDTV
+#EXTINF:0,РЕН ТВ 
 #EXTGRP:Общие
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:0,Телеканал СПАС WSVGA
+#EXTINF:0,Телеканал СПАС 
 #EXTGRP:Общие
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:0,СТС EDTV
+#EXTINF:0,СТС 
 #EXTGRP:Общие
 http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
-#EXTINF:0,СТС EDTV
+#EXTINF:0,СТС 
 #EXTGRP:Общие
 http://tv.ttk.mx:9012
-#EXTINF:0,Домашний EDTV
+#EXTINF:0,Домашний 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF:0,ТВ 3 EDTV
+#EXTINF:0,ТВ 3 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:0,Пятница! HDR
+#EXTINF:0,Пятница! HD
 #EXTGRP:Общие
 http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:0,Пятница! HD
 #EXTGRP:Общие
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=TKI951EGdj3MyiGuWA2j_g&amp;e=1745129010&amp;scheme=https
-#EXTINF:0,Звезда WSVGA
+#EXTINF:0,Звезда 
 #EXTGRP:Общие
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:Общие
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:0,ТНТ EDTV
+#EXTINF:0,ТНТ 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:0,МУЗ-ТВ WSVGA
+#EXTINF:0,МУЗ-ТВ
 #EXTGRP:Общие
 https://a775797840-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/playlist.m3u8?useseq=t&amp;
-#EXTINF:0,ТНТ4 WSVGA
+#EXTINF:0,ТНТ4 
 #EXTGRP:Общие
 http://31.148.48.15/TNT4/index.m3u8
-#EXTINF:0,СТС Love EDTV
+#EXTINF:0,СТС Love 
 #EXTGRP:Общие
 http://178.212.71.253:8002/play/a00r/index.m3u8
-#EXTINF:0,Перец WSVGA
+#EXTINF:0,Перец 
 #EXTGRP:Общие
 https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
-#EXTINF:0,НТВ Хит WSVGA
+#EXTINF:0,НТВ Хит 
 #EXTGRP:Общие
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:0,НТВ Стиль WSVGA
+#EXTINF:0,НТВ Стиль 
 #EXTGRP:Общие
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ Право EDTV
+#EXTINF:0,НТВ Право 
 #EXTGRP:Общие
 https://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ Сериал WSVGA
+#EXTINF:0,НТВ Сериал 
 #EXTGRP:Общие
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Известия HD
@@ -101,10 +101,10 @@ http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:0,360 HD
 #EXTGRP:Общие
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,Вместе-РФ EDTV
+#EXTINF:0,Вместе-РФ 
 #EXTGRP:Общие
 http://tv.ttk.mx:9103
-#EXTINF:0,Соловьев.Live WSVGA
+#EXTINF:0,Соловьев.Live 
 #EXTGRP:Общие
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0,ОСН HD
@@ -116,22 +116,22 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:0,ТАСС HD
 #EXTGRP:Общие
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:0,RTVi EDTV 
+#EXTINF:0,RTVi 
 #EXTGRP:Общие
 http://45.143.108.110:2203/RTVi
 #EXTINF:0,Настоящее время HD
 #EXTGRP:Общие
 http://cdn.admuspeh.my/8525/video.m3u8?token=FKfLUSpbhRvsjpqM
-#EXTINF:0,Красная линия EDTV
+#EXTINF:0,Красная линия 
 #EXTGRP:Общие
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:0,RT Док HDR
+#EXTINF:0,RT Док HD
 #EXTGRP:Общие
 https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:0,Мир 24 HD
 #EXTGRP:Общие
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0,Москва 24 WSVGA
+#EXTINF:0,Москва 24 
 #EXTGRP:Общие
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:0,Твое ТВ HD
@@ -140,28 +140,28 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0,Твое ТВ HD-Юмор HD
 #EXTGRP:Общие
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0,Анекдот ТВ SDTV
+#EXTINF:0,Анекдот ТВ 
 #EXTGRP:Общие
 http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836b59ffb8b03a0
-#EXTINF:0,ЗАЛИПАТЕЛЬНЫЕ РОЛИКИ HDR
+#EXTINF:0,ЗАЛИПАТЕЛЬНЫЕ РОЛИКИ HD
 #EXTGRP:Общие
 https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
-#EXTINF:0,Wloltigerlolw HDR
+#EXTINF:0,Wloltigerlolw HD
 #EXTGRP:Общие
 https://fl1004.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:0,CLASSICAL HARMONY HD
 #EXTGRP:Общие
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
-#EXTINF:0,Лекторий Достоевский HDR
+#EXTINF:0,Лекторий Достоевский HD
 #EXTGRP:Общие
 https://fl1004.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:0,Радио Шансон ТВ HDR
+#EXTINF:0,Радио Шансон ТВ HD
 #EXTGRP:Общие
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:0,Страна FM HDR
+#EXTINF:0,Страна FM HD
 #EXTGRP:Общие
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0,67 HDR
+#EXTINF:0,67 HD
 #EXTGRP:Общие
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:0,Eurosport live HD
@@ -173,10 +173,10 @@ http://cdn.admuspeh.my/8178/video.m3u8?token=FKfLUSpbhRvsjpqM
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:Общие
 http://cdn.admuspeh.my/8163/video.m3u8?token=FKfLUSpbhRvsjpqM
-#EXTINF:0,Мультимузыка WSVGA
+#EXTINF:0,Мультимузыка 
 #EXTGRP:Общие
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
-#EXTINF:0,Мама WSVGA
+#EXTINF:0,Мама 
 #EXTGRP:Общие
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:0,Мульт HD
