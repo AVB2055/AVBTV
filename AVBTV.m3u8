@@ -17,7 +17,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пятый канал 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:0,Россия К 
+#EXTINF:0,Россия Культура 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:0,Россия 24 
@@ -26,7 +26,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Карусель 
 #EXTGRP:Общие
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:0,ОТР EDTV
+#EXTINF:0,ОТР 
 #EXTGRP:Общие
 http://178.212.71.253:8000/play/9/index.m3u8
 #EXTINF:0,ОТР 
