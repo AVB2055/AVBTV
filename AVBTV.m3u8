@@ -49,7 +49,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 http://srv-1-streaming.iptvin.online:8080/tv3_hd/video.m3u8?token=2cfa1ddb40cbdb228b196e23361febd1e95e1a9c-2362845924-1745184251-1745141051
 #EXTINF:0,Пятница! HD
 http://srv-1-streaming.iptvin.online:8080/friday_hd/video.m3u8?token=225bf6436ca91f793f17aba4596f5a6045153200-2362845924-1745184251-1745141051
-#EXTINF:0,Звезда 
+#EXTINF:0,Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0,Звезда HD
 http://srv-1-streaming.iptvin.online:8080/zvezda_hd/video.m3u8?token=7896b6cb6f2c947a4d91f702117fae8f4c26d042-2362845924-1745184251-1745141051
