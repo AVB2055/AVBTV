@@ -17,32 +17,52 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Карусель 
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:0,Карусель HD
+http://srv-1-streaming.iptvin.online:8080/karusel/video.m3u8?token=d53b9435b1140efa4e8733924cac43f9a29fbd98-2362845924-1745184429-1745141229
 #EXTINF:0,ОТР 
 http://178.212.71.253:8000/play/9/index.m3u8
 #EXTINF:0,ОТР 
 http://tv.ttk.mx:9008
 #EXTINF:0,ТВЦ 
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:0,ТВЦ HD
+http://srv-1-streaming.iptvin.online:8080/tvc_hd/video.m3u8?token=08118e1ec9b2767ad3e193b8f84ddaf546396ef1-2362845924-1745184429-1745141229
 #EXTINF:0,РЕН ТВ 
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:0,РЕН ТВ HD
+http://srv-1-streaming.iptvin.online:8080/ren_hd/video.m3u8?token=b87e7c284f97b89bfb2ee0692827eb0da15e56b2-2362845924-1745184429-1745141229
 #EXTINF:0,Телеканал СПАС 
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:0,СТС 
 http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
 #EXTINF:0,СТС 
 http://tv.ttk.mx:9012
+#EXTINF:0,СТС HD
+http://srv-1-streaming.iptvin.online:8080/sts_hd/video.m3u8?token=0a68e39e1c5d5fb037128fd76969f0348a345a30-2362845924-1745184251-1745141051
 #EXTINF:0,Домашний 
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:0,Домашний HD
+http://srv-1-streaming.iptvin.online:8080/domashnij_hd/video.m3u8?token=20f4e99de596160036ddcc5ab26e7faf6e45ac08-2362845924-1745184251-1745141051
 #EXTINF:0,ТВ 3 
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:0,ТВ 3 HD
+http://srv-1-streaming.iptvin.online:8080/tv3_hd/video.m3u8?token=2cfa1ddb40cbdb228b196e23361febd1e95e1a9c-2362845924-1745184251-1745141051
 #EXTINF:0,Пятница! HD
 http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,Пятница! HD
+http://srv-1-streaming.iptvin.online:8080/friday_hd/video.m3u8?token=225bf6436ca91f793f17aba4596f5a6045153200-2362845924-1745184251-1745141051
 #EXTINF:0,Звезда 
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0,Звезда HD
+http://srv-1-streaming.iptvin.online:8080/zvezda_hd/video.m3u8?token=7896b6cb6f2c947a4d91f702117fae8f4c26d042-2362845924-1745184251-1745141051
 #EXTINF:0,Мир HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:0,Мир HD
+http://srv-1-streaming.iptvin.online:8080/mir_hd/index.m3u8?token=3d1e468775b7ffdbc8afd4bda476b8a44e12a15f-2362845924-1745184251-1745141051
 #EXTINF:0,ТНТ 
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:0,ТНТ HD
+http://srv-1-streaming.iptvin.online:8080/tnt_hd/video.m3u8?token=a5f0d1a71886c19723786abf9939f2253e2d95cc-2362845924-1745184251-1745141051
 #EXTINF:0,МУЗ-ТВ
 https://a775797840-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/playlist.m3u8?useseq=t&amp;
 #EXTINF:0,ТНТ4 
@@ -89,6 +109,8 @@ https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Москва 24 
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:0,Ю HD
+http://srv-1-streaming.iptvin.online:8080/yu_hd/index.m3u8?token=352a0577d7334b5533e7d552406fa88da360db3c-2362845924-1745184251-1745141051
 #EXTINF:0,Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0,Твое ТВ HD-Юмор HD
@@ -115,6 +137,8 @@ http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 http://cdn.admuspeh.my/8178/video.m3u8?token=FKfLUSpbhRvsjpqM
 #EXTINF:0,Eurosport 2 HD
 http://cdn.admuspeh.my/8163/video.m3u8?token=FKfLUSpbhRvsjpqM
+#EXTINF:0,Суббота! HD
+http://srv-1-streaming.iptvin.online:8080/subbota_hd/video.m3u8?token=bf63a08ecd73f8776f5265861e19ccc9f732519f-2362845924-1745184251-1745141051
 #EXTINF:0,Мультимузыка 
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:0,Мама 
