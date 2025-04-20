@@ -47,6 +47,8 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 https://a775797840-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/playlist.m3u8?useseq=t&amp;
 #EXTINF:0,ТНТ4 
 http://31.148.48.15/TNT4/index.m3u8
+#EXTINF:0,ТНТ4 HD
+http://srv-1-streaming.iptvin.online:8080/tnt4_hd/video.m3u8?token=4a21d09eb64cd1417d0ac0044e64c12aa42053e1-2362845924-1745184251-1745141051
 #EXTINF:0,СТС Love 
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:0,Перец 
