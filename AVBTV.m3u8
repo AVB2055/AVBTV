@@ -56,9 +56,6 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:0,Пятница! HD
 #EXTGRP:Общие
 http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,Пятница! HD
-#EXTGRP:Общие
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=TKI951EGdj3MyiGuWA2j_g&amp;e=1745129010&amp;scheme=https
 #EXTINF:0,Звезда 
 #EXTGRP:Общие
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
