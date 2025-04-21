@@ -98,8 +98,10 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:0,RTVi 
 http://45.143.108.110:2203/RTVi
+#EXTINF:0,Дождь
+https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Настоящее время HD
-http://cdn.admuspeh.my/8525/video.m3u8?token=FKfLUSpbhRvsjpqM
+https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Красная линия 
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:0,RT Док HD
@@ -136,11 +138,77 @@ http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 http://cdn.admuspeh.my/8178/video.m3u8?token=FKfLUSpbhRvsjpqM
 #EXTINF:0,Eurosport 2 HD
 http://cdn.admuspeh.my/8163/video.m3u8?token=FKfLUSpbhRvsjpqM
-#EXTINF:0,Суббота! HD
-http://srv-1-streaming.iptvin.online:8080/subbota_hd/video.m3u8?token=bf63a08ecd73f8776f5265861e19ccc9f732519f-2362845924-1745184251-1745141051
+#EXTINF:0,Eurosport 1 HD
+https://tv.movielab.pro/145/video.m3u8?token=b3957a598d8c58cd54227dcac52e49f5ae619597-b6b0d771eb58a3eea048dc8e17017eb1-1744268110-1744181710
 #EXTINF:0,Мультимузыка 
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:0,Мама 
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:0,Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:0,Discovery Channel
+
+https://tv.movielab.pro/147/video.m3u8?token=d1a8e2450a4437358866131f2efbb05871443279-e4a9201b4d53ad65c753cd0b55aed27f-1744268110-1744181710
+#EXTINF:0,Eurosport 1
+
+https://tv.movielab.pro/145/video.m3u8?token=b3957a598d8c58cd54227dcac52e49f5ae619597-b6b0d771eb58a3eea048dc8e17017eb1-1744268110-1744181710
+#EXTINF:0,KHL Prime
+
+https://tv.movielab.pro/177/video.m3u8?token=aa95ca3db8c4a932d3f9838ce22fef5cf884cb82-bb6747d4604921128df4f008644ae75b-1744268110-1744181710
+#EXTINF:0,Kinoshka Kids HD
+
+https://tv.movielab.pro/9993/video.m3u8?token=360110b02fedb8b823a6bbfbb55ca286e40a42d3-0248cc58fc0a817aa1ad5bcd6c0044b2-1744268110-1744181710
+#EXTINF:0,NBA TV HD
+
+https://tv.movielab.pro/9984/video.m3u8?token=1daed0607dfe50e75e97f8bff2f8b454818e47cd-128477a6abb310094b5a705232151d5f-1744268110-1744181710
+#EXTINF:0,Nat Geo Wild
+
+https://tv.movielab.pro/162/video.m3u8?token=b37ef2b211674162f586baa85b27b3cb0c46cfb8-378b938c35096f2f7ff453d3a2a77aeb-1744268110-1744181710
+#EXTINF:0,National Geographic
+
+https://tv.movielab.pro/143/video.m3u8?token=e41d53a1bd92766f0fde54c19da36ccddb4998fd-e57a34fa478b1bf291f639511030facd-1744268110-1744181710
+#EXTINF:0,Nickelodeon
+
+https://tv.movielab.pro/174/video.m3u8?token=572a4c22eef70c52459efefcf7301b1baf37db5c-bd9c39084a0ec93d682fdf576cdcb2bd-1744268110-1744181710
+#EXTINF:0,Nicktoons
+
+https://tv.movielab.pro/9941/video.m3u8?token=582ef4735ac449562a9b11bb9d9791b7926a134d-2fefdb2726336c3aad35c63094bd8002-1744268110-1744181710
+#EXTINF:0,Setanta Sports 1
+
+https://tv.movielab.pro/942/video.m3u8?token=d9f7c2747321f4bcd5af3e055c025226775cf11f-751c32322170584a334db6ec4709a06e-1744268110-1744181710
+#EXTINF:0,Setanta Sports 2
+
+https://tv.movielab.pro/943/video.m3u8?token=37552fef2718c071ea483d22dcd18c2d4be2c627-840d4bef2815002780abf8981d9261fa-1744268110-1744181710
+#EXTINF:0,Setanta Казахстан
+
+https://tv.movielab.pro/5094/video.m3u8?token=7e890cf41fae30f522fad31ef13f443797c0f4f4-de20e73902c8d07250319d9b88d77287-1744268110-1744181710
+#EXTINF:0,Детский мир
+
+https://tv.movielab.pro/32/video.m3u8?token=508b80e906ef5edce4e0e1677a9f1a78c0944080-cc54d854615df878a68f94afcdbbc08d-1744268110-1744181710
+#EXTINF:0,Матч! HD
+
+https://tv.movielab.pro/397/video.m3u8?token=f68172c7c54456af31fd346fc0eb5794d02fec84-573066dc3d7f40e2549eb3e458d21053-1744268110-1744181710
+#EXTINF:0,Матч! Арена HD
+
+https://tv.movielab.pro/146/video.m3u8?token=94890fb408a31fa4e208b51b338be5c47e13d58b-20076964dddce58ef757772927cdf7c0-1744268110-1744181710
+#EXTINF:0,Матч! Игра HD
+
+https://tv.movielab.pro/268/video.m3u8?token=ec7bd7e90682ef80ec82964f8788cc2ba6dad04e-38cc01eb6284a5a92f9a8b4779f5c72f-1744268110-1744181710
+#EXTINF:0,Матч! Премьер HD
+
+https://tv.movielab.pro/250/video.m3u8?token=f9ac6aa753690ea454fa66cc7956417c73145339-3ad8bb9316f15dd5b9e9cc4bd6a1efe7-1744268110-1744181710
+#EXTINF:0,Матч! Футбол 1 HD
+
+https://tv.movielab.pro/260/video.m3u8?token=e11a073ef97d017a9a31392a3de5ef3bb7f70136-878b4bc58e7dfca42d40b64bbda17e0d-1744268110-1744181710
+#EXTINF:0,Матч! Футбол 2 HD
+
+https://tv.movielab.pro/271/video.m3u8?token=70122396b49116f0798c7d5f3d6719c1c07644b6-13db576fe5feb59673e3d57862f9db5f-1744268110-1744181710
+#EXTINF:0,Матч! Футбол 3 HD
+
+https://tv.movielab.pro/329/video.m3u8?token=01886b5f03c7c8f02429802ddfa65b96ac353dbc-da0e54b40f24bac014788452a790e7e8-1744268110-1744181710
+#EXTINF:0,Удар
+
+https://tv.movielab.pro/4111/video.m3u8?token=909110dacf404cea794d10d2447d1ffd97822cdb-6a6789fbb88b31eb26c7549a374ef233-1744268110-1744181710
+#EXTINF:0,Футбол
+
+https://tv.movielab.pro/3920/video.m3u8?token=f43bd9d5f0d2f7bd690cdcf570869b82269beb75-cf9a74cb821848d5dd0e8078e60c951f-1744268110-1744181710
