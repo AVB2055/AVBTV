@@ -1007,3 +1007,459 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport28
 #EXTINF:0,Наш спорт 29
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport29
+
+#EXTINF:-1,360 HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9088
+#EXTINF:-1,555 Алушта
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9148
+#EXTINF:-1,7 ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9172
+#EXTINF:-1,Ani
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9049
+#EXTINF:-1,Cinema
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9053
+#EXTINF:-1,RU.TV
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9089
+#EXTINF:-1,Russia Today
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9130
+#EXTINF:-1,ShoppingLive
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9132
+#EXTINF:-1,TV XXI
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9067
+#EXTINF:-1,TV1000 Action
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9182
+#EXTINF:-1,TV1000 Русское Кино
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9183
+#EXTINF:-1,TV1000
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9181
+#EXTINF:-1,Viasat DaVinci
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9188
+#EXTINF:-1,Viasat Explorer
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9184
+#EXTINF:-1,Viasat History
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9185
+#EXTINF:-1,Viasat Nature
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9186
+#EXTINF:-1,Viasat Sport
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9187
+#EXTINF:-1,А1
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9155
+#EXTINF:-1,А2
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9156
+#EXTINF:-1,Авто 24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9031
+#EXTINF:-1,Беларусь 24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9090
+#EXTINF:-1,Белрос
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9139
+#EXTINF:-1,Боец
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9107
+#EXTINF:-1,Большая Азия
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9146
+#EXTINF:-1,Вместе.Рф
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9103
+#EXTINF:-1,Вопросы и ответы
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9038
+#EXTINF:-1,Восток ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9064
+#EXTINF:-1,Детский мир
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9063
+#EXTINF:-1,Доктор
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9058
+#EXTINF:-1,Домашние животные
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9035
+#EXTINF:-1,Домашний
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9013
+#EXTINF:-1,Драйв
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9039
+#EXTINF:-1,Евпатория 24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9177
+#EXTINF:-1,Еврокино
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9030
+#EXTGRP:SPB-Tavrida
+#EXTINF:-1,Живая природа HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9066
+#EXTGRP:SPB-Tavrida
+#EXTINF:-1,Загородная жизнь
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9157
+#EXTINF:-1,Звезда плюс
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9192
+#EXTINF:-1,Звезда
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9016
+#EXTINF:-1,Здоровое ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9036
+#EXTINF:-1,Зоо Парк
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9029
+#EXTINF:-1,Иллюзион+
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9028
+#EXTINF:-1,История
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9048
+#EXTINF:-1,Калейдоскоп
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:907
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9134
+#EXTINF:-1,Карусель
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9007
+#EXTINF:-1,Кино ТВ HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9113
+#EXTINF:-1,Кино ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9046
+#EXTINF:-1,Киномикс
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9199
+#EXTINF:-1,Кинопоказ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9150
+#EXTINF:-1,Кинопремьера
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9162
+#EXTINF:-1,Киносвидание
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9164
+#EXTINF:-1,Киносемья
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9161
+#EXTINF:-1,Киноужас
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9193
+#EXTINF:-1,Кинохит
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9163
+#EXTINF:-1,Комедия
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9050
+#EXTINF:-1,Красная линия
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9102
+#EXTINF:-1,Крым 1
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9020
+#EXTINF:-1,Крым 24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9024
+#EXTINF:-1,ЛДПР-ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9101
+#EXTINF:-1,Легендарный 24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9179
+#EXTINF:-1,ММА
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9196
+#EXTINF:-1,ММТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9202
+#EXTINF:-1,Мама
+http://tv.ttk.mx:9055
+#EXTINF:-1,Матч! Арена
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9153
+#EXTINF:-1,Матч! ИГРА
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9152
+#EXTINF:-1,Матч! Премьер
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:10000
+#EXTINF:-1,Матч! Страна
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9154
+#EXTINF:-1,Матч! ТВ HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9094
+#EXTINF:-1,Матч! ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9002
+#EXTINF:-1,Матч! футбол1 HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9114
+#EXTINF:-1,Матч! футбол1
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9108
+#EXTINF:-1,Матч! футбол2 HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9115
+#EXTINF:-1,Матч! футбол2
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9111
+#EXTINF:-1,Матч! футбол3 HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9116
+#EXTINF:-1,Матч! футбол3
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9112
+#EXTINF:-1,Миллет
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9021
+#EXTINF:-1,Мир HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9140
+#EXTGRP:SPB-Tavrida
+#EXTINF:-1,Мир
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9017
+#EXTINF:-1,Мир24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9025
+#EXTINF:-1,Москва Доверие
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9091
+#EXTINF:-1,Москва-24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9097
+#EXTINF:-1,Мосфильм. Золотая коллекция
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9169
+#EXTINF:-1,Моя планета
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9040
+#EXTINF:-1,Мужское кино
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9165
+#EXTINF:-1,Муз-ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9019
+#EXTINF:-1,Мульт HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9086
+#EXTINF:-1,Мульт и музыка
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9045
+#EXTINF:-1,Мульт
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9054
+#EXTINF:-1,НТВ HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9127
+#EXTINF:-1,НТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9003
+#EXTINF:-1,НТВ-хит
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9173
+#EXTINF:-1,Настоящее страшное телевидение
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9057
+#EXTINF:-1,Наука 2.0
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9041
+#EXTINF:-1,Ностальгия
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9195
+#EXTINF:-1,О!2
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9059
+#EXTINF:-1,ОТР
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9008
+#EXTINF:-1,Обзорная камера. Мирное-Спортплощадка1
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9166
+#EXTINF:-1,Обзорная камера. Мирное-Спортплощадка2
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9168
+#EXTINF:-1,Обзорная камера. Черноморское -Спортплощадка
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9170
+#EXTINF:-1,Открытый мир
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9191
+#EXTINF:-1,Охота и рыбалка
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9034
+#EXTINF:-1,ПРНК
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9201
+#EXTINF:-1,Патриот
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9197
+#EXTINF:-1,Первый HD
+http://tv.ttk.mx:9093
+#EXTINF:-1,Первый канал
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9000
+#EXTINF:-1,Планета HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9087
+#EXTINF:-1,Победа
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9149
+#EXTINF:-1,Подмосковье 360
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9052
+#EXTINF:-1,Психология 21
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9033
+#EXTINF:-1,Пятница
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9015
+#EXTINF:-1,Пятый канал
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9004
+#EXTINF:-1,РБК
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9096
+#EXTINF:-1,РЕН ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9010
+#EXTINF:-1,РТ ДОК HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9100
+#EXTINF:-1,Ратник
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9106
+#EXTINF:-1,Резонанс
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9203
+#EXTINF:-1,Ретро
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9032
+#EXTINF:-1,Россия 1
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9001
+#EXTINF:-1,Россия 24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9006
+#EXTINF:-1,Россия Культура
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9005
+#EXTINF:-1,Россия-1 HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9075
+#EXTINF:-1,Русский бестселлер
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9043
+#EXTINF:-1,Русский детектив
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9051
+#EXTINF:-1,Русский иллюзион
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9027
+#EXTINF:-1,Русский роман HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9085
+#EXTINF:-1,Русский роман
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9042
+#EXTINF:-1,Русский экстрим HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9095
+#EXTINF:-1,СТС Love
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9104
+#EXTINF:-1,СТС
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9012
+#EXTINF:-1,Сарафан
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9044
+#EXTINF:-1,Симферополь 24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9180
+#EXTINF:-1,Спас ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9011
+#EXTINF:-1,Суббота
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9105
+#EXTINF:-1,Супергерои
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9194
+#EXTINF:-1,ТВ Черноморское
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9175
+#EXTINF:-1,ТВ-3
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9014
+#EXTINF:-1,ТВЦ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9009
+#EXTINF:-1,ТНТ HD
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9128
+#EXTINF:-1,ТНТ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9018
+#EXTINF:-1,ТНТ-Музыка
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9023
+#EXTINF:-1,ТНТ4
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9098
+#EXTINF:-1,Тайны галактики
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9071
+#EXTINF:-1,Театр
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9061
+#EXTINF:-1,Техно 24
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9056
+#EXTINF:-1,Точка ТВ
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9073
+#EXTINF:-1,Точка отрыва
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9151
+#EXTINF:-1,Уникум
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9026
+#EXTINF:-1,Усадьба ТВ
+http://tv.ttk.mx:9037
+#EXTINF:-1,Футбол
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9065
+#EXTINF:-1,Че
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9141
+#EXTINF:-1,Шансон
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9062
+#EXTINF:-1,Ю
+#EXTGRP:SPB-Tavrida
+http://tv.ttk.mx:9072
