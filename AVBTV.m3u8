@@ -66,8 +66,8 @@ http://178.159.90.153:81/udp/239.195.1.227:1234
 #EXTINF:0,ТВ 3 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:0,ТВ 3 
-#EXTGRP:AVB HD
+#EXTINF:0,ТВ 3 HD 
+#EXTGRP:AVB
 http://178.159.90.153:81/udp/239.195.1.228:1234
 #EXTINF:0,Пятница! 
 #EXTGRP:AVB
