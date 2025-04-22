@@ -36,6 +36,9 @@ http://tv.ttk.mx:9008
 #EXTINF:0,ТВЦ
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:0,ТВЦ HD
+#EXTGRP:AVB
+http://178.159.90.153:81/udp/239.195.1.129:1234
 #EXTINF:0,РЕН ТВ 
 #EXTGRP:AVB
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
@@ -57,15 +60,24 @@ http://srv-1-streaming.iptvin.online:8080/sts_hd/video.m3u8?token=0a68e39e1c5d5f
 #EXTINF:0,Домашний 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:0,Домашний HD
+#EXTGRP:AVB
+http://178.159.90.153:81/udp/239.195.1.227:1234
 #EXTINF:0,ТВ 3 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:0,ТВ 3 
+#EXTGRP:AVB HD
+http://178.159.90.153:81/udp/239.195.1.228:1234
 #EXTINF:0,Пятница! 
 #EXTGRP:AVB
 http://178.163.12.53:4022/udp/234.0.0.235:2000
 #EXTINF:-1,Пятница
 #EXTGRP:AVB
 http://tv.ttk.mx:9015
+#EXTINF:-1,Пятница HD
+#EXTGRP:AVB
+http://178.159.90.153:81/udp/239.195.1.229:1234
 #EXTINF:0,Звезда HD
 #EXTGRP:AVB
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
@@ -155,6 +167,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Москва 24 
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:0,Ю 
+#EXTGRP:AVB
+http://178.159.90.153:81/udp/239.195.1.23:1234
 #EXTINF:0,Твое ТВ HD
 #EXTGRP:AVB
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -164,6 +179,9 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0,Анекдот ТВ 
 #EXTGRP:AVB
 http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836b59ffb8b03a0
+#EXTINF:0,Сарафан
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/44/index.m3u8
 #EXTINF:0,ЗАЛИПАТЕЛЬНЫЕ РОЛИКИ HD
 #EXTGRP:AVB
 https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
