@@ -86,13 +86,13 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:AVB
-http://srv-1-streaming.iptvin.online:8080/mir_hd/index.m3u8?token=3d1e468775b7ffdbc8afd4bda476b8a44e12a15f-2362845924-1745184251-1745141051
+http://176.113.91.170:81/udp/239.195.1.50:1234
 #EXTINF:0,ТНТ 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:AVB
-http://srv-1-streaming.iptvin.online:8080/tnt_hd/video.m3u8?token=a5f0d1a71886c19723786abf9939f2253e2d95cc-2362845924-1745184251-1745141051
+http://176.113.91.170:81/udp/239.195.1.230:1234
 #EXTINF:0,МУЗ-ТВ
 #EXTGRP:AVB
 https://a775797840-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/playlist.m3u8?useseq=t&amp;
