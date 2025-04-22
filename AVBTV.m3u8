@@ -212,9 +212,6 @@ http://cdn.admuspeh.my/8178/video.m3u8?token=FKfLUSpbhRvsjpqM
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:AVB-TV
 http://cdn.admuspeh.my/8163/video.m3u8?token=FKfLUSpbhRvsjpqM
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:AVB-TV
-https://tv.movielab.pro/145/video.m3u8?token=b3957a598d8c58cd54227dcac52e49f5ae619597-b6b0d771eb58a3eea048dc8e17017eb1-1744268110-1744181710
 #EXTINF:0,Матч Премьер
 #EXTGRP:AVB-TV
 http://195.18.23.20:8000/play/88/index.m3u8
