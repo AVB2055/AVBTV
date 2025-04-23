@@ -151,7 +151,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:0,Ю 
 #EXTGRP:AVB
-http://178.159.90.153:81/udp/239.195.1.23:1234
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:0,Твое ТВ HD
 #EXTGRP:AVB
 http://tvoetv.space:8080/tvoetv/index.m3u8
