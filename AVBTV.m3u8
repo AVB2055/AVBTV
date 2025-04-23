@@ -36,15 +36,9 @@ http://tv.ttk.mx:9008
 #EXTINF:0,ТВЦ
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:0,ТВЦ HD
-#EXTGRP:AVB
-http://178.159.90.153:81/udp/239.195.1.129:1234
 #EXTINF:0,РЕН ТВ 
 #EXTGRP:AVB
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:0,РЕН ТВ HD
-#EXTGRP:AVB
-http://srv-1-streaming.iptvin.online:8080/ren_hd/video.m3u8?token=b87e7c284f97b89bfb2ee0692827eb0da15e56b2-2362845924-1745184429-1745141229
 #EXTINF:0,СПАС 
 #EXTGRP:AVB
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
@@ -54,30 +48,18 @@ http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
 #EXTINF:0,СТС 
 #EXTGRP:AVB
 http://tv.ttk.mx:9012
-#EXTINF:0,СТС HD
-#EXTGRP:AVB
-http://srv-1-streaming.iptvin.online:8080/sts_hd/video.m3u8?token=0a68e39e1c5d5fb037128fd76969f0348a345a30-2362845924-1745184251-1745141051
 #EXTINF:0,Домашний 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF:0,Домашний HD
-#EXTGRP:AVB
-http://178.159.90.153:81/udp/239.195.1.227:1234
 #EXTINF:0,ТВ 3 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:0,ТВ 3 HD 
-#EXTGRP:AVB
-http://178.159.90.153:81/udp/239.195.1.228:1234
 #EXTINF:0,Пятница! 
 #EXTGRP:AVB
 http://178.163.12.53:4022/udp/234.0.0.235:2000
 #EXTINF:-1,Пятница
 #EXTGRP:AVB
 http://tv.ttk.mx:9015
-#EXTINF:-1,Пятница HD
-#EXTGRP:AVB
-http://178.159.90.153:81/udp/239.195.1.229:1234
 #EXTINF:0,Звезда HD
 #EXTGRP:AVB
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
@@ -203,9 +185,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0,67 HD
 #EXTGRP:AVB
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-#EXTINF:0,Eurosport live HD
-#EXTGRP:AVB
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:AVB
 http://cdn.admuspeh.my/8178/video.m3u8?token=FKfLUSpbhRvsjpqM
@@ -215,9 +194,6 @@ http://cdn.admuspeh.my/8163/video.m3u8?token=FKfLUSpbhRvsjpqM
 #EXTINF:0,Матч Премьер
 #EXTGRP:AVB
 http://195.18.23.20:8000/play/88/index.m3u8
-#EXTINF:0,Матч! HD
-#EXTGRP:AVB
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:0,Мультимузыка 
 #EXTGRP:AVB
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
