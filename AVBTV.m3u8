@@ -184,13 +184,25 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:AVB
-http://cdn.admuspeh.my/8178/video.m3u8?token=FKfLUSpbhRvsjpqM
+http://fy4vhata.klaipedalt.xyz/iptv/CW9PUF9N9BALZX/228/index.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:AVB
-http://cdn.admuspeh.my/8163/video.m3u8?token=FKfLUSpbhRvsjpqM
+http://fy4vhata.klaipedalt.xyz/iptv/CW9PUF9N9BALZX/234/index.m3u8
 #EXTINF:0,Матч Премьер
 #EXTGRP:AVB
 http://195.18.23.20:8000/play/88/index.m3u8
+#EXTINF:0,Матч! Премьер HD
+#EXTGRP:AVB
+http://fy4vhata.klaipedalt.xyz/iptv/CW9PUF9N9BALZX/220/index.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:AVB
+http://fy4vhata.klaipedalt.xyz/iptv/CW9PUF9N9BALZX/225/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:AVB
+http://fy4vhata.klaipedalt.xyz/iptv/CW9PUF9N9BALZX/207/index.m3u8
+#EXTINF:0,Старт HD
+#EXTGRP:AVB
+http://fy4vhata.klaipedalt.xyz/iptv/CW9PUF9N9BALZX/6384/index.m3u8
 #EXTINF:0,Мультимузыка 
 #EXTGRP:AVB
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
