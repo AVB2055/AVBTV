@@ -233,9 +233,6 @@ https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:0,Minimal / Deep Tech
 #EXTGRP:AVB
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-
-
-
 #EXTINF:0,Радио Шансон ТВ HD
 #EXTGRP:AVB
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
@@ -253,13 +250,19 @@ http://video.govoritmoskva.ru:8080/rufm/index.m3u8
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:AVB
-https://tv.movielab.pro/145/video.m3u8?token=918cb53882885884ba3b5a93e08081d1b7e5dba4-0b5aeb39b589378aa6b8ee41f45ed15a-1745477719-1745391319
+http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/228/index.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:AVB
-http://pro.ipcover.lol:8080/Alexis58174/857164/401957
+http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/234/index.m3u8
 #EXTINF:0,Матч Премьер
 #EXTGRP:AVB
 http://195.18.23.20:8000/play/88/index.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:AVB
+http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/225/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:AVB
+http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/207/index.m3u8
 #EXTINF:0,Мультимузыка 
 #EXTGRP:AVB
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
