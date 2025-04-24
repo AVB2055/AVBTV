@@ -140,12 +140,21 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 #EXTINF:0,RT Док HD
 #EXTGRP:AVB
 https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
+#EXTINF:0,TV BICS HD
+#EXTGRP:AVB
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мир 24 HD
 #EXTGRP:AVB
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Москва 24 
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:0,ТЕЛЕДОМ
+#EXTGRP:AVB
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:0,ЭХО ТВ
+#EXTGRP:AVB
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:0,Ю 
 #EXTGRP:AVB
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
@@ -173,12 +182,39 @@ https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:0,Лекторий Достоевский HD
 #EXTGRP:AVB
 https://fl1004.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:0,UNIVER
+#EXTGRP:AVB
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:0,LOUPE
+#EXTGRP:AVB
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:0,EIMC
+#EXTGRP:AVB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:0,POWER
+#EXTGRP:AVB
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:0,TV
+#EXTGRP:AVB
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0,1mus.com HD
+#EXTGRP:AVB
+http://rtmp.one.by:1300
+#EXTINF:0,1mus.com HD
+#EXTGRP:AVB
+http://rtmp.one.by:2300
 #EXTINF:0,Радио Шансон ТВ HD
 #EXTGRP:AVB
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:0,Страна FM HD
 #EXTGRP:AVB
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0,Страна FM 
+#EXTGRP:AVB
+http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:0,Говорит Москва HD
+#EXTGRP:AVB
+http://video.govoritmoskva.ru:8080/rufm/index.m3u8
 #EXTINF:0,67 HD
 #EXTGRP:AVB
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
