@@ -143,7 +143,7 @@ https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:0,Говорит Москва HD
 #EXTGRP:AVB
 http://video.govoritmoskva.ru:8080/rufm/index.m3u8
-#EXTINF:0,TV BICS HD
+#EXTINF:0,TV BRICS HD
 #EXTGRP:AVB
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мир 24 HD
@@ -179,18 +179,18 @@ https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:0,Wloltigerlolw HD
 #EXTGRP:AVB
 https://fl1004.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:0,CLASSICAL HARMONY HD
-#EXTGRP:AVB
-https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
-#EXTINF:0,LOUPE
-#EXTGRP:AVB
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:0,Лекторий Достоевский HD
 #EXTGRP:AVB
 https://fl1004.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0,UNIVER
 #EXTGRP:AVB
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:0,CLASSICAL HARMONY HD
+#EXTGRP:AVB
+https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
+#EXTINF:0,LOUPE
+#EXTGRP:AVB
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:0,EIMC
 #EXTGRP:AVB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
