@@ -185,6 +185,9 @@ https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_
 #EXTINF:0,Неизвестная Россия
 #EXTGRP:AVB
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:0,Живая природа HD
+#EXTGRP:AVB
+http://178.212.71.253:8002/play/a00o/index.m3u8?token=test
 #EXTINF:0,CLASSICAL HARMONY HD
 #EXTGRP:AVB
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
