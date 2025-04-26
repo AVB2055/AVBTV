@@ -194,7 +194,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,CLASSICAL HARMONY HD
 #EXTGRP:AVB
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
-#EXTINF:0,LOUPE ART
+#EXTINF:0,LOUPE TV
 #EXTGRP:AVB
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:0,EIMC
