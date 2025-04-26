@@ -98,16 +98,10 @@ http://srv-1-streaming.iptvin.online:8080/zvezda_hd/video.m3u8?token=491b0b114e3
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:-1,Мир HD
 #EXTGRP:AVB
-http://176.113.91.170:81/udp/239.195.1.50:1234
-#EXTINF:0,Мир HD
-#EXTGRP:AVB
 http://srv-1-streaming.iptvin.online:8080/mir_hd/index.m3u8?token=ff8c1af5c0077bf0095b1c5dad18086502334a8d-2362845924-1745717502-1745674302
 #EXTINF:0,ТНТ 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:0,ТНТ HD
-#EXTGRP:AVB
-http://176.113.91.170:81/udp/239.195.1.230:1234
 #EXTINF:-1,ТНТ HD
 #EXTGRP:AVB
 http://srv-1-streaming.iptvin.online:8080/tnt_hd/video.m3u8?token=81727b097c0aa8399073dbd6a7635b675303a3f0-2362845924-1745717502-1745674302
@@ -320,9 +314,6 @@ http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/228/index.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:AVB
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/234/index.m3u8
-#EXTINF:0,Матч Премьер
-#EXTGRP:AVB
-http://195.18.23.20:8000/play/88/index.m3u8
 #EXTINF:0,Матч Премьер HD
 #EXTGRP:AVB
 https://tv.movielab.pro/250/video.m3u8?token=d045dfdd511750cbb8bb3ff4ff96f64d174cd21a-24243efb208dd8a9e512356f70135a69-1745733458-1745647058
