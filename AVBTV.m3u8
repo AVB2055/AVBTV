@@ -260,6 +260,9 @@ http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/234/index.m3u8
 #EXTINF:0,Матч Премьер
 #EXTGRP:AVB
 http://195.18.23.20:8000/play/88/index.m3u8
+#EXTINF:0,Матч Премьер HD
+#EXTGRP:AVB
+https://tv.movielab.pro/250/video.m3u8?token=d045dfdd511750cbb8bb3ff4ff96f64d174cd21a-24243efb208dd8a9e512356f70135a69-1745733458-1745647058
 #EXTINF:0,Матч! Игра HD
 #EXTGRP:AVB
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/225/index.m3u8
