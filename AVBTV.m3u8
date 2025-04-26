@@ -182,18 +182,12 @@ https://fl1004.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0,UNIVER HD
 #EXTGRP:AVB
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
-#EXTINF:0,История
-#EXTGRP:AVB
-http://31.148.48.15/Istoriya/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:0,Неизвестная Россия
 #EXTGRP:AVB
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Naturescape
 #EXTGRP:AVB
 http://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:0,Живая природа HD
-#EXTGRP:AVB
-http://178.212.71.253:8002/play/a00o/index.m3u8?token=test
 #EXTINF:0,Red Bull TV
 #EXTGRP:AVB
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
