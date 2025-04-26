@@ -75,6 +75,9 @@ http://srv-1-streaming.iptvin.online:8080/domashnij_hd/video.m3u8?token=28009742
 #EXTINF:0,ТВ 3 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:0,ТВ 3 HD
+#EXTGRP:AVB
+http://srv-1-streaming.iptvin.online:8080/tv3_hd/video.m3u8?token=d9f2177ff42ac2707bf018a230a97213399c6ef6-2362845924-1745719017-1745675817
 #EXTINF:0,Пятница! 
 #EXTGRP:AVB
 http://178.163.12.53:4022/udp/234.0.0.235:2000
