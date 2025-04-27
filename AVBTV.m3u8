@@ -248,6 +248,9 @@ https://a775797840-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/
 #EXTINF:0,МУЗ ТВ
 #EXTGRP:Reserve
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:0,Звезда Плюс HD
+#EXTGRP:AVB
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:0,ТНТ4 
 #EXTGRP:Reserve
 http://31.148.48.15/TNT4/index.m3u8
@@ -401,6 +404,12 @@ http://194.143.148.28:8080/U/mpegts
 #EXTINF:0,Ю 
 #EXTGRP:Reserve
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:0,2x2
+#EXTGRP:AVB
+http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
+#EXTINF:0,Че
+#EXTGRP:AVB
+http://tv.ttk.mx:9141
 #EXTINF:0,Твое ТВ HD
 #EXTGRP:AVB
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -573,6 +582,9 @@ http://178.124.152.238:8088/khl
 #EXTINF:0,КХЛ Prime
 #EXTGRP:AVB
 http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:0,Суббота
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:0,Мультимузыка 
 #EXTGRP:AVB
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
