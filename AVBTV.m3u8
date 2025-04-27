@@ -1,105 +1,355 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#PLAYLIST:AVBTV
-#EXTINF:0,Первый канал HD
+#EXTINF:-1,Первый канал HD
 #EXTGRP:AVB
 http://178.163.7.232:4022/udp/234.0.0.172:2000
 #EXTINF:-1,Первый канал HD
 #EXTGRP:AVB
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,Первый канал HD
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/62/index.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP:AVB
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:AVB
 http://178.163.13.187:4022/udp/234.0.0.112:2000
-#EXTINF:0,Матч! 
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:AVB
+http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
+#EXTINF:0,Матч HD 
 #EXTGRP:AVB
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:0,Матч HD 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:0,Матч HD 
+#EXTGRP:AVB
+http://31.210.208.171:8080/match_hd/index.m3u8?token=+W2MSER
 #EXTINF:0,НТВ HD
 #EXTGRP:AVB
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:AVB
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/33/index.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:AVB
+http://tv.ttk.mx:9127
+#EXTINF:0,НТВ HD
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_0_hd
 #EXTINF:0,Пятый канал 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:0,Пятый канал 
+#EXTGRP:AVB
+http://213.91.178.133:8000/play/a0av
+#EXTINF:0,Пятый канал 
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal
+#EXTINF:0,Пятый канал 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:0,Россия Культура 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:0,Россия Культура 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/6/index.m3u8
+#EXTINF:0,Россия Культура 
+#EXTGRP:AVB
+http://tv.ttk.mx:9005
+#EXTINF:0,Россия Культура 
+#EXTGRP:AVB
+http://31.210.208.171:8080/russiak/index.m3u8?token=+W2MSER
+#EXTINF:0,Россия Культура 
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_k
+#EXTINF:0,Россия Культура 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:0,Россия 24 
 #EXTGRP:AVB
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:0,Россия 24 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/7/index.m3u8
+#EXTINF:0,Россия 24 
+#EXTGRP:AVB
+http://tv.ttk.mx:9006
+#EXTINF:0,Россия 24 
+#EXTGRP:AVB
+http://135.181.115.81:8000/play/a03b/index.m3u8?token=livetv
+#EXTINF:0,Россия 24 
+#EXTGRP:AVB
+https://streaming.skynetconnect.online/live/30-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0,Россия 24 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:0,Карусель 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:0,Карусель 
+#EXTGRP:AVB
+http://92.53.64.197:5050/karusel/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,Карусель 
+#EXTGRP:AVB
+https://streaming.skynetconnect.online/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0,Карусель 
+#EXTGRP:AVB
+http://31.210.208.171:8080/karusel/index.m3u8?token=+W2MSER
+#EXTINF:0,Карусель 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:0,Карусель HD
 #EXTGRP:AVB
 http://45.87.146.19:81/udp/239.195.1.124:1234
-#EXTINF:0,ОТР 
+#EXTINF:-1,ОТР 
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/9/index.m3u8
+#EXTINF:-1,ОТР 
+#EXTGRP:AVB
+http://tv.ttk.mx:9008
+#EXTINF:-1,ОТР 
+#EXTGRP:AVB
+http://92.53.64.197:5050/otr/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1,ОТР 
+#EXTGRP:AVB
+http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
 #EXTINF:-1,ОТР 
 #EXTGRP:AVB
 http://tv.ttk.mx:9008
 #EXTINF:0,ТВЦ
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:AVB
+http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
+#EXTINF:0,ТВЦ
+#EXTGRP:AVB
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/10/index.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:AVB
+http://tv.ttk.mx:9009
+#EXTINF:0,ТВЦ
+#EXTGRP:AVB
+http://92.53.64.197:5050/tvc/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,ТВЦ
+#EXTGRP:AVB
+http://31.210.208.171:8080/tvc/index.m3u8?token=+W2MSER
+#EXTINF:0,ТВЦ
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
 #EXTINF:0,РЕН ТВ 
 #EXTGRP:AVB
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:0,РЕН ТВ 
+#EXTGRP:AVB
+http://213.91.178.133:8000/play/a0ax
+#EXTINF:0,РЕН ТВ 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/11/index.m3u8
+#EXTINF:0,РЕН ТВ 
+#EXTGRP:AVB
+http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
 #EXTINF:0,СПАС 
 #EXTGRP:AVB
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:0,СПАС 
+#EXTGRP:AVB
+http://tv.ttk.mx:9011
+#EXTINF:0,СПАС 
+#EXTGRP:AVB
+http://92.53.64.197:5050/spas/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,СПАС 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/12/index.m3u8
+#EXTINF:0,СПАС 
+#EXTGRP:AVB
+http://92.53.64.197:5050/spas/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,СПАС 
+#EXTGRP:AVB
+http://31.210.208.171:8080/spas/index.m3u8?token=+W2MSER
+#EXTINF:0,СПАС 
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=spas
+#EXTINF:0,СПАС 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:0,СТС 
 #EXTGRP:AVB
 http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
 #EXTINF:-1,СТС 
 #EXTGRP:AVB
 http://tv.ttk.mx:9012
+#EXTINF:-1,СТС 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/13/index.m3u8
+#EXTINF:-1,СТС 
+#EXTGRP:AVB
+http://92.53.64.197:5050/sts/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1,СТС 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
 #EXTINF:0,Домашний 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:0,Домашний 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/14/index.m3u8
+#EXTINF:0,Домашний 
+#EXTGRP:AVB
+http://tv.ttk.mx:9013
+#EXTINF:0,Домашний 
+#EXTGRP:AVB
+http://92.53.64.197:5050/domashniy/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,Домашний 
+#EXTGRP:AVB
+http://31.210.208.171:8080/home/index.m3u8?token=+W2MSER
+#EXTINF:0,Домашний 
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=domashny
+#EXTINF:0,Домашний 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:0,ТВ 3 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:0,ТВ 3 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:0,ТВ 3 
+#EXTGRP:AVB
+http://tv.ttk.mx:9014
+#EXTINF:0,ТВ 3 
+#EXTGRP:AVB
+http://92.53.64.197:5050/tv3/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,ТВ 3 
+#EXTGRP:AVB
+http://31.210.208.171:8080/tv3/index.m3u8?token=+W2MSER
+#EXTINF:0,ТВ 3 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:0,Пятница! 
 #EXTGRP:AVB
 http://178.163.12.53:4022/udp/234.0.0.235:2000
-#EXTINF:-1,Пятница
+#EXTINF:-1,Пятница!
 #EXTGRP:AVB
 http://tv.ttk.mx:9015
+#EXTINF:-1,Пятница!
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/16/index.m3u8
+#EXTINF:-1,Пятница!
+#EXTGRP:AVB
+http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1,Пятница!
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_0_hd
 #EXTINF:0,Звезда HD
 #EXTGRP:AVB
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0,Звезда HD
+#EXTGRP:AVB
+http://92.53.64.197:5050/Zvezda/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:0,Мир HD
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:0,Мир HD
+#EXTGRP:AVB
+http://tv.ttk.mx:9140
 #EXTINF:0,Мир HD
 #EXTGRP:AVB
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:0,ТНТ 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:0,ТНТ 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/19/index.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:AVB
+http://tv.ttk.mx:9128
+#EXTINF:0,ТНТ HD
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:0,МУЗ-ТВ
 #EXTGRP:AVB
 https://a775797840-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/playlist.m3u8?useseq=t&amp;
+#EXTINF:0,МУЗ ТВ
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:0,ТНТ4 
 #EXTGRP:AVB
 http://31.148.48.15/TNT4/index.m3u8
+#EXTINF:0,ТНТ4 
+#EXTGRP:AVB
+http://tv.ttk.mx:9098
+#EXTINF:0,ТНТ4 
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNT4
+#EXTINF:0,ТНТ4 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0,ТНТ4 HD 
+#EXTGRP:AVB 
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP:AVB
 http://178.212.71.253:8002/play/a00r/index.m3u8
+#EXTINF:0,СТС Love
 #EXTGRP:AVB
+http://tv.ttk.mx:9104
+#EXTINF:0,СТС Love
+#EXTGRP:AVB
+http://31.210.208.171:8080/stslove/index.m3u8?token=+W2MSER
 #EXTINF:0,Перец 
 #EXTGRP:AVB
 https://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
+#EXTINF:0,Перец 
+#EXTGRP:AVB
+http://213.91.178.133:8000/play/a0ay
+#EXTINF:0,Перец 
+#EXTGRP:AVB
+http://178.124.152.238:8088/perec
 #EXTINF:0,НТВ Хит
 #EXTGRP:AVB
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:0,НТВ Хит
+#EXTGRP:AVB
+http://tv.ttk.mx:9173
 #EXTINF:0,НТВ Стиль 
 #EXTGRP:AVB
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ Право 
 #EXTGRP:AVB
 https://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:0,НТВ Право 
+#EXTGRP:AVB
+http://65.21.85.175:8000/play/a01e/index.m3u8?token=livetv
 #EXTINF:0,НТВ Сериал 
 #EXTGRP:AVB
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:0,НТВ Сериал 
+#EXTGRP:AVB
+http://65.21.85.175:8000/play/a01d/index.m3u8?token=livetv
 #EXTINF:0,Известия HD
 #EXTGRP:AVB
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -109,19 +359,27 @@ http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:0,360 HD
 #EXTGRP:AVB
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0,360 HD
+#EXTGRP:AVB
+http://92.53.64.197:5050/360_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:0,Вместе-РФ 
 #EXTGRP:AVB
 http://tv.ttk.mx:9103
+#EXTINF:0,Вместе-РФ 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/84/index.m3u8
 #EXTINF:0,Соловьев.Live 
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:0,Соловьев.Live 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:0,ОСН HD
 #EXTGRP:AVB
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:0,КРИК-ТВ HD
 #EXTGRP:AVB
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTGRP:AVB
 #EXTINF:0,ТАСС HD
 #EXTGRP:AVB
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
@@ -134,9 +392,18 @@ https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=944500988957657842203
 #EXTINF:0,Настоящее время HD
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:0,Настоящее время 
+#EXTGRP:AVB
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:0,Красная линия 
 #EXTGRP:AVB
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:0,Красная линия 
+#EXTGRP:AVB
+http://tv.ttk.mx:9102
+#EXTINF:0,Красная линия 
+#EXTGRP:AVB
+http://31.210.208.171:8080/krasnayaliniya/index.m3u8?token=+W2MSER
 #EXTINF:0,RT Док HD
 #EXTGRP:AVB
 https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
@@ -149,9 +416,39 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мир 24 HD
 #EXTGRP:AVB
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/82/index.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:AVB
+http://31.210.208.171:8080/mir24/index.m3u8?token=+W2MSER
 #EXTINF:0,Москва 24 
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:0,Москва 24 
+#EXTGRP:AVB
+http://213.91.178.133:8000/play/a0b1
+#EXTINF:0,Москва 24 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/28/index.m3u8
+#EXTINF:0,Москва 24 
+#EXTGRP:AVB
+http://tv.ttk.mx:9097
+#EXTINF:0,Москва 24 
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
+#EXTINF:0,Москва 24 
+#EXTGRP:AVB
+http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
+#EXTINF:0,Москва 24 
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moskva24
+#EXTINF:0,Москва 24 
+#EXTGRP:AVB
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 #EXTINF:0,ТЕЛЕДОМ
 #EXTGRP:AVB
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
@@ -161,6 +458,21 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:0,Ю 
 #EXTGRP:AVB
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:0,Ю 
+#EXTGRP:AVB
+http://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:0,Ю 
+#EXTGRP:AVB
+http://194.143.148.28:8080/U/mpegts
+#EXTINF:0,Ю 
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:0,Ю 
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=U
+#EXTINF:0,Ю 
+#EXTGRP:AVB
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:0,Твое ТВ HD
 #EXTGRP:AVB
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -170,42 +482,57 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0,Анекдот ТВ 
 #EXTGRP:AVB
 http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836b59ffb8b03a0
+#EXTINF:0,Анекдот ТВ 
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
 #EXTINF:0,Сарафан
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/44/index.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:AVB
+http://tv.ttk.mx:9044
+#EXTINF:0,Сарафан
+#EXTGRP:AVB
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
+#EXTINF:0,Сарафан
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sarafan
 #EXTINF:0,ЗАЛИПАТЕЛЬНЫЕ РОЛИКИ HD
 #EXTGRP:AVB
 https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
-#EXTINF:0,Лекторий Достоевский HD
-#EXTGRP:AVB
-https://fl1004.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0,UNIVER HD
 #EXTGRP:AVB
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:0,Лекторий Достоевский HD
+#EXTGRP:AVB
+https://fl1004.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0,Неизвестная Россия
 #EXTGRP:AVB
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Naturescape
 #EXTGRP:AVB
 http://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:0,Red Bull TV
-#EXTGRP:AVB
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Охотник и Рыболов HD
 #EXTGRP:AVB
 http://178.163.7.130:4022/udp/234.0.0.98:2000
+#EXTINF:0,Охотник и Рыболов HD
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
+#EXTINF:0,Охотник и рыболов Int HD
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
 #EXTINF:0,Приключения HD
 #EXTGRP:AVB
 http://178.163.7.130:4022/udp/234.0.0.193:2000
-#EXTINF:0,Nano HD
+#EXTINF:0,Приключения HD
 #EXTGRP:AVB
-http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,Первый Космический HD
-#EXTGRP:AVB
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Teletr
 #EXTINF:0,В мире животных HD
 #EXTGRP:AVB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
+#EXTINF:0,Nano HD
+#EXTGRP:AVB
+http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:0,Первый Космический HD
 #EXTGRP:AVB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
@@ -215,6 +542,9 @@ https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:0,LOUPE TV
 #EXTGRP:AVB
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:0,LOUPE 4K
+#EXTGRP:AVB
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB1000002TK
 #EXTINF:0,EIMC
 #EXTGRP:AVB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
@@ -227,12 +557,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0,PMC Royale
 #EXTGRP:AVB
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:0,Первый музыкальный HD
-#EXTGRP:AVB
-http://rtmp.one.by:1300
-#EXTINF:0,1mus.com HD
-#EXTGRP:AVB
-http://rtmp.one.by:2300
 #EXTINF:0,Best of Dance TV
 #EXTGRP:AVB
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -257,6 +581,12 @@ https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:0,Minimal / Deep Tech
 #EXTGRP:AVB
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTINF:0,Первый музыкальный HD
+#EXTGRP:AVB
+http://rtmp.one.by:1300
+#EXTINF:0,1mus.com HD
+#EXTGRP:AVB
+http://rtmp.one.by:2300
 #EXTINF:0,Радио Шансон ТВ HD
 #EXTGRP:AVB
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
@@ -269,6 +599,10 @@ http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:0,67 HD
 #EXTGRP:AVB
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Red Bull TV
+#EXTGRP:AVB
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:AVB
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/228/index.m3u8
@@ -278,9 +612,42 @@ http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/234/index.m3u8
 #EXTINF:0,Матч! Игра HD
 #EXTGRP:AVB
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/225/index.m3u8
+#EXTINF:0,Матч! Игра 
+#EXTGRP:AVB
+http://tv.ttk.mx:9152
+#EXTINF:0,Матч! Игра 
+#EXTGRP:AVB
+http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:0,Матч! Арена HD
 #EXTGRP:AVB
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/207/index.m3u8
+#EXTINF:0,Матч! Арена 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:0,Матч! Арена 
+#EXTGRP:AVB
+http://tv.ttk.mx:9153
+#EXTINF:0,Матч! Страна
+#EXTGRP:AVB
+http://tv.ttk.mx:9154
+#EXTINF:0,Матч! Боец
+#EXTGRP:AVB
+http://tv.ttk.mx:9107
+#EXTINF:0,МАТЧ! ФУТБОЛ 1 HD
+#EXTGRP:AVB
+http://tv.ttk.mx:9114
+#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
+#EXTGRP:AVB
+http://tv.ttk.mx:9111
+#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
+#EXTGRP:AVB
+http://tv.ttk.mx:9116
+#EXTINF:0,КХЛ
+#EXTGRP:AVB
+http://178.124.152.238:8088/khl
+#EXTINF:0,КХЛ Prime
+#EXTGRP:AVB
+http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:0,Мультимузыка 
 #EXTGRP:AVB
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
@@ -289,7 +656,7 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:0,Мульт HD
 #EXTGRP:AVB
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:0,Первый HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=1TV_hd
