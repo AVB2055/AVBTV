@@ -1,1374 +1,915 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:0,Первый канал HD
-#EXTGRP:Reserve
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pervy",Первый канал HD
 http://178.163.7.232:4022/udp/234.0.0.172:2000
-#EXTINF:0,Первый канал HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pervy",Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Россия 1 HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia1",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:0,Россия 1 HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia1",Россия 1 HD
 http://178.163.13.187:4022/udp/234.0.0.112:2000
-#EXTINF:0,Матч ТВ HD 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10566",Матч ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:0,Матч HD 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-tv",Матч HD
 http://31.210.208.171:8080/match_hd/index.m3u8?token=+W2MSER
-#EXTINF:0,НТВ HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv",НТВ HD
 http://tv.ttk.mx:9127
-#EXTINF:0,НТВ HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv",НТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_0_hd
-#EXTINF:0,Пятый канал 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru",Пятый канал
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:0,Пятый канал 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru",Пятый канал
 http://213.91.178.133:8000/play/a0av
-#EXTINF:0,Пятый канал 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru",Пятый канал
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal
-#EXTINF:0,Пятый канал 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:0,Россия Культура 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kultura",Россия Культура
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
-#EXTINF:0,Россия Культура 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kultura",Россия Культура
 http://tv.ttk.mx:9005
-#EXTINF:0,Россия Культура 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kultura",Россия Культура
 http://31.210.208.171:8080/russiak/index.m3u8?token=+W2MSER
-#EXTINF:0,Россия Культура HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9173",Россия Культура HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_k
-#EXTINF:0,Россия Культура 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kultura",Россия Культура
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:0,Россия 24 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia-24",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,Россия 24 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia-24",Россия 24
 http://178.212.71.253:8000/play/7/index.m3u8
-#EXTINF:0,Россия 24 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia-24",Россия 24
 http://tv.ttk.mx:9006
-#EXTINF:0,Россия 24 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia-24",Россия 24
 http://135.181.115.81:8000/play/a03b/index.m3u8?token=livetv
-#EXTINF:0,Россия 24 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia-24",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:0,Карусель 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_karusel",Карусель
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:0,Карусель 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_karusel",Карусель
 http://92.53.64.197:5050/karusel/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,Карусель 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_karusel",Карусель
 http://31.210.208.171:8080/karusel/index.m3u8?token=+W2MSER
-#EXTINF:0,Карусель 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_karusel",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:0,ОТР 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_otr",ОТР
 http://tv.ttk.mx:9008
-#EXTINF:0,ОТР 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_otr",ОТР
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
-#EXTINF:0,ОТР 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_otr",ОТР
 http://tv.ttk.mx:9008
-#EXTINF:0,ТВЦ
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvcentr",ТВЦ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvcentr",ТВЦ
 http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
-#EXTINF:0,ТВЦ
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvcentr",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvcentr",ТВЦ
 http://178.212.71.253:8000/play/10/index.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvcentr",ТВЦ
 http://tv.ttk.mx:9009
-#EXTINF:0,ТВЦ
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvcentr",ТВЦ
 http://92.53.64.197:5050/tvc/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,ТВЦ
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvcentr",ТВЦ
 http://31.210.208.171:8080/tvc/index.m3u8?token=+W2MSER
-#EXTINF:0,ТВЦ HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11020",ТВЦ HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
-#EXTINF:0,РЕН ТВ 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rentv",РЕН ТВ
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:0,РЕН ТВ 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rentv",РЕН ТВ
 http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
-#EXTINF:0,РЕН ТВ HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rentv",РЕН ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
-#EXTINF:0,СПАС 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Спас.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_spas",СПАС
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:0,СПАС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Спас.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_spas",СПАС
 http://tv.ttk.mx:9011
-#EXTINF:0,СПАС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Спас.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_spas",СПАС
 http://92.53.64.197:5050/spas/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,СПАС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Спас.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_spas",СПАС
 http://178.212.71.253:8000/play/12/index.m3u8
-#EXTINF:0,СПАС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Спас.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_spas",СПАС
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=spas
-#EXTINF:0,СПАС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Спас.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_spas",СПАС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:0,СТС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/СТС.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts",СТС
 http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
-#EXTINF:0,СТС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/СТС.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts",СТС
 http://tv.ttk.mx:9012
-#EXTINF:0,СТС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/СТС.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts",СТС
 http://178.212.71.253:8000/play/13/index.m3u8
-#EXTINF:0,СТС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/СТС.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts",СТС
 http://92.53.64.197:5050/sts/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,СТС 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/СТС.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:0,СТС HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts",СТС HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
-#EXTINF:0,Домашний 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF:0,Домашний 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний
 http://178.212.71.253:8000/play/14/index.m3u8
-#EXTINF:0,Домашний 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний
 http://tv.ttk.mx:9013
-#EXTINF:0,Домашний 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний
 http://92.53.64.197:5050/domashniy/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,Домашний 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний
 http://31.210.208.171:8080/home/index.m3u8?token=+W2MSER
-#EXTINF:0,Домашний 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=domashny
-#EXTINF:0,Домашний 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:0,ТВ 3 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/ТВ 3.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10972",ТВ 3
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:0,ТВ 3 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВ 3.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10972",ТВ 3
 http://178.212.71.253:8000/play/15/index.m3u8
-#EXTINF:0,ТВ 3 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВ 3.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10972",ТВ 3
 http://tv.ttk.mx:9014
-#EXTINF:0,ТВ 3 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВ 3.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10972",ТВ 3
 http://92.53.64.197:5050/tv3/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,ТВ 3 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВ 3.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10972",ТВ 3
 http://31.210.208.171:8080/tv3/index.m3u8?token=+W2MSER
-#EXTINF:0,ТВ 3 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТВ 3.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10972",ТВ 3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:0,Пятница! 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",Пятница!
 http://178.163.12.53:4022/udp/234.0.0.235:2000
-#EXTINF:0,Пятница!
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",Пятница!
 http://tv.ttk.mx:9015
-#EXTINF:0,Пятница!
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",Пятница!
 http://178.212.71.253:8000/play/16/index.m3u8
-#EXTINF:0,Пятница!
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",Пятница!
 http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,Пятница!
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",Пятница!
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_0_hd
-#EXTINF:0,Звезда HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zvezda",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:0,Звезда HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zvezda",Звезда HD
 http://92.53.64.197:5050/Zvezda/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,Мир HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mir",Мир HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:0,Мир HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mir",Мир HD
 http://tv.ttk.mx:9140
-#EXTINF:0,Мир HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mir",Мир HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:0,ТНТ 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt",ТНТ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
-#EXTINF:0,ТНТ 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt",ТНТ
 http://178.212.71.253:8000/play/19/index.m3u8
-#EXTINF:0,ТНТ HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:0,МУЗ-ТВ
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Муз-ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_muztv",МУЗ-ТВ
 https://a775797840-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/playlist.m3u8?useseq=t&amp;
-#EXTINF:0,МУЗ ТВ
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_muztv",МУЗ ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:0,Звезда Плюс HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="d09336db60acee31f19aef3ee307fef6_8008",Звезда Плюс HD
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:0,ТНТ4 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt4",ТНТ4
 http://31.148.48.15/TNT4/index.m3u8
-#EXTINF:0,ТНТ4 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt4",ТНТ4
 http://tv.ttk.mx:9098
-#EXTINF:0,ТНТ4 HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt4",ТНТ4 HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNT4
-#EXTINF:0,ТНТ4 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt4",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:0,ТНТ4 HD 
-#EXTGRP:AVB 
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt4",ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:0,ТНТ4 HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt4",ТНТ4 HD
 http://tv.ttk.mx:9128
-#EXTINF:0,СТС Love
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts-love",СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
-#EXTINF:0,СТС Love
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts-love",СТС Love
 http://tv.ttk.mx:9104
-#EXTINF:0,СТС Love
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts-love",СТС Love
 http://31.210.208.171:8080/stslove/index.m3u8?token=+W2MSER
-#EXTINF:0,Перец 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Перец International.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_perec-int",Перец
 http://213.91.178.133:8000/play/a0ay
-#EXTINF:0,Перец 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Перец International.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_perec-int",Перец
 http://178.124.152.238:8088/perec
-#EXTINF:0,НТВ Хит
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv-xit",НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:0,НТВ Хит
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv-xit",НТВ Хит
 http://tv.ttk.mx:9173
-#EXTINF:0,НТВ Стиль 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/НТВ Стиль.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv-style",НТВ Стиль
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ Право 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/НТВ Право.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv-pravo",НТВ Право
 https://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ Право 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/НТВ Право.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv-pravo",НТВ Право
 http://65.21.85.175:8000/play/a01e/index.m3u8?token=livetv
-#EXTINF:0,НТВ Сериал 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/НТВ Сериал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv-serial",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:0,НТВ Сериал 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/НТВ Сериал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv-serial",НТВ Сериал
 http://65.21.85.175:8000/play/a01d/index.m3u8?token=livetv
-#EXTINF:0,Известия HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Известия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_izvestia",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:0,РБК HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/РБК.png" tvg-id="d09336db60acee31f19aef3ee307fef6_7932",РБК HD
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-#EXTINF:0,360 HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/360° HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_360-podmoskovie",360 HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,360 HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/360° HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_360-podmoskovie",360 HD
 http://92.53.64.197:5050/360_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,Вместе-РФ 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Вместе-РФ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_vmeste-rf",Вместе-РФ
 http://tv.ttk.mx:9103
-#EXTINF:0,Вместе-РФ 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Вместе-РФ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_vmeste-rf",Вместе-РФ
 http://178.212.71.253:8000/play/84/index.m3u8
-#EXTINF:0,Соловьев.Live 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Соловьев.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_solovjinypomiot",Соловьев.Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,Соловьев.Live 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Соловьев.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_solovjinypomiot",Соловьев.Live
 http://178.212.71.253:8000/play/111/index.m3u8
-#EXTINF:0,ОСН HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/ОСН_ТВ_2022.jpg" tvg-id="simpleTVFakeEpgId",ОСН HD
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:0,КРИК-ТВ HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Крик ТВ (Екатеринбург).png" tvg-id="48510dc23fd840369a4c540ac0e836b3_krik-tv",КРИК-ТВ HD
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:0,ТАСС HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/тасс.png" tvg-id="simpleTVFakeEpgId",ТАСС HD
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:0,RTVi 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/RTVi.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rtvi",RTVi
 http://45.143.108.110:2203/RTVi
-#EXTINF:0,Дождь
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Дождь.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_dozhd",Дождь
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,Настоящее время HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nastoyaschee-vremia",Настоящее время HD
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,Настоящее время 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nastoyaschee-vremia",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:0,Красная линия 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Красная линия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_krasnaya-linia",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:0,Красная линия 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Красная линия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_krasnaya-linia",Красная линия
 http://tv.ttk.mx:9102
-#EXTINF:0,Красная линия 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Красная линия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_krasnaya-linia",Красная линия
 http://31.210.208.171:8080/krasnayaliniya/index.m3u8?token=+W2MSER
-#EXTINF:0,RT Док HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/RT Arabic.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11046",RT Док HD
 https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:0,Говорит Москва HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",Говорит Москва HD
 http://video.govoritmoskva.ru:8080/rufm/index.m3u8
-#EXTINF:0,TV BRICS HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/TV BRICS.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9939",TV BRICS HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:0,Мир 24 HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="d09336db60acee31f19aef3ee307fef6_7872",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0,Мир 24 HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="d09336db60acee31f19aef3ee307fef6_7872",Мир 24 HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
-#EXTINF:0,Москва 24 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_moskva-24",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:0,Москва 24 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_moskva-24",Москва 24
 http://213.91.178.133:8000/play/a0b1
-#EXTINF:0,Москва 24 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_moskva-24",Москва 24
 http://tv.ttk.mx:9097
-#EXTINF:0,Москва 24 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_moskva-24",Москва 24
 http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
-#EXTINF:0,Москва 24 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_moskva-24",Москва 24
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
-#EXTINF:0,ЭХО ТВ
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Эхо тв.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10502",ЭХО ТВ
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0,Ю 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Ю.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_yu",Ю
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-#EXTINF:0,Ю 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Ю.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_yu",Ю
 http://cdn-01.bonus-tv.ru/u/playlist.m3u8
-#EXTINF:0,Ю 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Ю.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_yu",Ю
 http://194.143.148.28:8080/U/mpegts
-#EXTINF:0,Ю 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Ю.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_yu",Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
-#EXTINF:0,2x2
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/2x2.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_2na2",2x2
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
-#EXTINF:0,Че
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Че.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_che",Че
 http://tv.ttk.mx:9141
-#EXTINF:0,Твое ТВ HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Твое ТВ.jpeg" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvoyo-tv-hd",Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0,Твое ТВ HD-Юмор 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Твое ТВ.jpeg" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvoyo-tv-hd",Твое ТВ HD-Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0,Анекдот ТВ 
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Анекдот ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_anekdottv",Анекдот ТВ
 http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836b59ffb8b03a0
-#EXTINF:0,Анекдот ТВ 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Анекдот ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_anekdottv",Анекдот ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
-#EXTINF:0,Сарафан
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sarafan",Сарафан
 http://178.212.71.253:8000/play/44/index.m3u8
-#EXTINF:0,Сарафан
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sarafan",Сарафан
 http://tv.ttk.mx:9044
-#EXTINF:0,Сарафан
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sarafan",Сарафан
 http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
-#EXTINF:0,ЗАЛИПАТЕЛЬНЫЕ РОЛИКИ HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/залип ролики.jpeg" tvg-id="simpleTVFakeEpgId",ЗАЛИПАТЕЛЬНЫЕ РОЛИКИ HD
 https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
-#EXTINF:0,UNIVER HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="https://veranzo.ru/other/icons/UNIVER TV.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10059",UNIVER HD
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
-#EXTINF:0,Лекторий Достоевский HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Лекторий Достоевский.png" tvg-id="simpleTVFakeEpgId",Лекторий Достоевский HD
 https://fl1004.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:0,Неизвестная Россия
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Неизвестная планета.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_neizvestnaya-rosia",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:0,Naturescape
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Viasat nature.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_viasat-nature",Naturescape
 http://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
-#EXTINF:0,Охотник и Рыболов HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_oxotnik-i-rybolov-hd",Охотник и Рыболов HD
 http://178.163.7.130:4022/udp/234.0.0.98:2000
-#EXTINF:0,Охотник и Рыболов HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_oxotnik-i-rybolov-hd",Охотник и Рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
-#EXTINF:0,Охотник и рыболов Int HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_oxotnik-i-rybolov-int",Охотник и рыболов Int HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
-#EXTINF:0,Приключения HD
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-logo="../Channel/Logo/Приключения HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_prikluchenia-hd",Приключения HD
 http://178.163.7.130:4022/udp/234.0.0.193:2000
-#EXTINF:0,Приключения HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Приключения HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_prikluchenia-hd",Приключения HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Teletr
-#EXTINF:0,В мире животных HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_v-mire-zhivotnyx-hd",В мире животных HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
-#EXTINF:0,Nano HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Nano HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nano-hd",Nano HD
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,Первый Космический HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_eureka-hd",Первый Космический HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
-#EXTINF:0,CLASSICAL HARMONY HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_stingray-classica",CLASSICAL HARMONY HD
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
-#EXTINF:0,LOUPE 4K
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",LOUPE 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:0,LOUPE 4K
-#EXTGRP:Reserve
+#EXTINF:-1 group-title="Резерв" tvg-id="simpleTVFakeEpgId",LOUPE 4K
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB1000002TK
-#EXTINF:0,EIMC
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",EIMC
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:0,Trace Urban
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Trace Sport Stars.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_trace-urban",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:0,Kronehit TV
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0,PMC Royale
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:0,Best of Dance TV
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Babes TV.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_yosso-best",Best of Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:0,DANCE TV TECHNO
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/MTV Dance_.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sundance-pl",DANCE TV TECHNO
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:0,Techno Warehouse
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:0,House Floor
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/FilmBox Arthouse.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_penthouse-hd",House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:0,EDM Mainstage
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",EDM Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:0,Downtempo
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",Downtempo
 https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
-#EXTINF:0,Melodic Tech
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Timeless Dizi Channel.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_melody-fr",Melodic Tech
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-#EXTINF:0,Minimal / Deep Tech
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="https://iptvx.one/picons/minimini-pl.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_minimini-pl",Minimal / Deep Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:0,Первый музыкальный HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_onemuz",Первый музыкальный HD
 http://rtmp.one.by:1300
-#EXTINF:0,1mus.com HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",1mus.com HD
 http://rtmp.one.by:2300
-#EXTINF:0,Радио Шансон ТВ HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Радио Romantika.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_radio-shanson",Радио Шансон ТВ HD
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:0,Страна FM HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_radio-strana-fm-tv",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0,Страна FM 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_radio-strana-fm-tv",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-#EXTINF:0,67 HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="https://iptvx.one/picons/region67.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_region67",67 HD
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,Red Bull TV
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_eurosport1",Eurosport 1 HD
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/228/index.m3u8
-#EXTINF:0,Eurosport 2 HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_eurosport2",Eurosport 2 HD
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/234/index.m3u8
-#EXTINF:0,Матч! Игра HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Игра HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-igra",Матч! Игра HD
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/225/index.m3u8
-#EXTINF:0,Матч! Игра 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-igra",Матч! Игра
 http://tv.ttk.mx:9152
-#EXTINF:0,Матч! Игра 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-igra",Матч! Игра
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
-#EXTINF:0,Матч! Арена HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Арена HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-arena",Матч! Арена HD
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/207/index.m3u8
-#EXTINF:0,Матч! Арена 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-arena",Матч! Арена
 http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:0,Матч! Арена 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-arena",Матч! Арена
 http://tv.ttk.mx:9153
-#EXTINF:0,Матч! Страна
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Матч! Страна
 http://tv.ttk.mx:9154
-#EXTINF:0,Матч! Боец
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-boets",Матч! Боец
 http://tv.ttk.mx:9107
-#EXTINF:0,МАТЧ! ФУТБОЛ 1 HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-football1",МАТЧ! ФУТБОЛ 1 HD
 http://tv.ttk.mx:9114
-#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-football2",МАТЧ! ФУТБОЛ 2 HD
 http://tv.ttk.mx:9111
-#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Футбол 3 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-football3",МАТЧ! ФУТБОЛ 3 HD
 http://tv.ttk.mx:9116
-#EXTINF:0,КХЛ
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/КХЛ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kxl",КХЛ
 http://178.124.152.238:8088/khl
-#EXTINF:0,КХЛ Prime
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/КХЛ HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9317",КХЛ Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
-#EXTINF:0,Суббота
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Суббота!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_super",Суббота
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:0,Мультимузыка 
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Мультимузыка.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_multimuzyka",Мультимузыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
-#EXTINF:0,Мама
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Мама.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mama",Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
-#EXTINF:0,Мульт HD
-#EXTGRP:AVB
+#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Мульт HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mult",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-
-#EXTINF:0,Первый HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pervy",Первый HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=1TV_hd
-#EXTINF:0,Россия 1 HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia1",Россия 1 HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Rossia_1_0_hd
-#EXTINF:0,Россия К
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kultura",Россия К
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_k
-#EXTINF:0,Россия-24
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia-24",Россия-24
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_24
-#EXTINF:0,Москва 24
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_moskva-24",Москва 24
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moskva24
-#EXTINF:0,НТВ HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv",НТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_0_hd
-#EXTINF:0,НТВ +1
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="simpleTVFakeEpgId",НТВ +1
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_1_hd
-#EXTINF:0,НТВ +2
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="simpleTVFakeEpgId",НТВ +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_2_hd
-#EXTINF:0,НТВ +4
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="simpleTVFakeEpgId",НТВ +4
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_4_hd
-#EXTINF:0,РЕН ТВ HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rentv",РЕН ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
-#EXTINF:0,РЕН ТВ +2
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rentv",РЕН ТВ +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_2_sd
-#EXTINF:0,РЕН ТВ +4
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rentv",РЕН ТВ +4
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_4_sd
-#EXTINF:0,РЕН ТВ +7
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rentv",РЕН ТВ +7
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_7_sd
-#EXTINF:0,ТНТ HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt",ТНТ HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd
-#EXTINF:0,ТНТ (+2)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТНТ inter.jpeg" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt-pl2",ТНТ (+2)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_2
-#EXTINF:0,ТНТ (+4)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТНТ inter.jpeg" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt-pl4",ТНТ (+4)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_4
-#EXTINF:0,ТНТ (+7)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТНТ inter.jpeg" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt-pl7",ТНТ (+7)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_7
-#EXTINF:0,ТНТ4
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnt4",ТНТ4
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNT4
-#EXTINF:0,ТВ-3 HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tv3-ru",ТВ-3 HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
-#EXTINF:0,ТВ-3 (+2)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tv3-ru-pl2",ТВ-3 (+2)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_2
-#EXTINF:0,ТВ-3 (+4)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tv3-ru-pl4",ТВ-3 (+4)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_4
-#EXTINF:0,ТВ-3 (+7)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tv3-ru-pl7",ТВ-3 (+7)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_7
-#EXTINF:0,СТС HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sts",СТС HD
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
-#EXTINF:0,СТС +2
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="simpleTVFakeEpgId",СТС +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_2_sd
-#EXTINF:0,СТС +4
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="simpleTVFakeEpgId",СТС +4
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_4_sd
-#EXTINF:0,СТС +7
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="simpleTVFakeEpgId",СТС +7
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_7_sd
-#EXTINF:0,ЗВЕЗДА
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zvezda",ЗВЕЗДА
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=zvezda_hd
-#EXTINF:0,ЗВЕЗДА +2
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zvezda",ЗВЕЗДА +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_2_hd
-#EXTINF:0,ЗВЕЗДА +4
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zvezda",ЗВЕЗДА +4
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_4_hd
-#EXTINF:0,ЗВЕЗДА +7
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zvezda",ЗВЕЗДА +7
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_7_hd
-#EXTINF:0,ТВЦ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvcentr",ТВЦ
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
-#EXTINF:0,Домашний
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=domashny
-#EXTINF:0,Домашний (+2)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний (+2)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_4
-#EXTINF:0,Домашний (+7)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domashny",Домашний (+7)
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_7
-#EXTINF:0,ПЯТНИЦА!
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",ПЯТНИЦА!
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_0_hd
-#EXTINF:0,ПЯТНИЦА! +2
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",ПЯТНИЦА! +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_2_hd
-#EXTINF:0,ПЯТНИЦА! +4
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",ПЯТНИЦА! +4
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_4_hd
-#EXTINF:0,ПЯТНИЦА! +7
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",ПЯТНИЦА! +7
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_7_hd
-#EXTINF:0,Пятый канал
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru",Пятый канал
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal
-#EXTINF:0,Пятый канал +2
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru-pl2",Пятый канал +2
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_2
-#EXTINF:0,Пятый канал +4
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru-pl4",Пятый канал +4
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_4
-#EXTINF:0,Пятый канал +7
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru-pl7",Пятый канал +7
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_7
-#EXTINF:0,Ю
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Ю.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_yu",Ю
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=U
-#EXTINF:0,Ю (+4)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/yu-pl4.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_yu-pl4",Ю (+4)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=U_4
-#EXTINF:0,Суббота!
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Суббота!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_super",Суббота!
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Super
-#EXTINF:0,OCEAN TV
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Ocean TV.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ocean-tv",OCEAN TV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=OCEAN_TV
-#EXTINF:0,Моя Планета HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_moya-planeta",Моя Планета HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moya_Planeta_HD
-#EXTINF:0,Охотник и рыболов HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_oxotnik-i-rybolov-hd",Охотник и рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
-#EXTINF:0,Загородный Int HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Загородный.png" tvg-id="d09336db60acee31f19aef3ee307fef6_8766",Загородный Int HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorodniy_int_HD&serviceArea=GLOBAL
-#EXTINF:0,Охотник и рыболов Int HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_oxotnik-i-rybolov-int",Охотник и рыболов Int HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
-#EXTINF:0,МИР ВОКРУГ HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9539",МИР ВОКРУГ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
-#EXTINF:0,Наука HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наука.png" tvg-id="d09336db60acee31f19aef3ee307fef6_7890",Наука HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD
-#EXTINF:0,Нано ТВ HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Нано.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9066",Нано ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nano_HD
-#EXTINF:0,Продвижение
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Продвижение.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_prodvizhenie",Продвижение
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Prodvizhenie
-#EXTINF:0,В мире животных
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_v-mire-zhivotnyx-hd",В мире животных
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
-#EXTINF:0,История
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/История.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_istoria",История
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Istoriya
-#EXTINF:0,Время
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Время.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_vremia",Время
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Vremya
-#EXTINF:0,Т24
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Т24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_texno-24",Т24
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
-#EXTINF:0,ТНВ-Планета
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТНВ-Планета (Казань).png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tnv-planeta",ТНВ-Планета
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNV_planeta
-#EXTINF:0,Большая Азия
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bolshaya-azia",Большая Азия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Big_Asia
-#EXTINF:0,Оружие
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Оружие.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_oruzhie",Оружие
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
-#EXTINF:0,Телепутешествия
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_teleputeshestvia",Телепутешествия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
-#EXTINF:0,Моя Планета
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_moya-planeta",Моя Планета
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moya_Planeta
-#EXTINF:0,ПОЕХАЛИ!
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Поехали!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_poexali",ПОЕХАЛИ!
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
-#EXTINF:0,Живая Планета
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Живая планета.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zhivaya-planeta",Живая Планета
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivaya_Planeta
-#EXTINF:0,Приключения HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Приключения HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_prikluchenia-hd",Приключения HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Teletr
-#EXTINF:0,Рыболов
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_oxotnik-i-rybolov",Рыболов
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
-#EXTINF:0,Зоо ТВ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Зоо ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zootv",Зоо ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zoo_TV
-#EXTINF:0,Наука
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наука.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nauka",Наука
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka
-#EXTINF:0,TVMChannel
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/TVM Channel.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tvmchannel",TVMChannel
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TVMChannel
-#EXTINF:0,CCTV-4
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/CCTV-4.png" tvg-id="d09336db60acee31f19aef3ee307fef6_7654",CCTV-4
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CCTV4
-#EXTINF:0,CGTN Русский
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10034",CGTN Русский
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CGTN_Rus
-#EXTINF:0,CGTN
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/CGTN.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_cgtn",CGTN
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CGTN
-#EXTINF:0,Исторический HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/История.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_istoria",Исторический HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_20_hd
-#EXTINF:0,Travel+Adventure HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Travel+ adventure HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_travel-adventure",Travel+Adventure HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TravelplusAdventure_HD
-#EXTINF:0,Открытый мир
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Открытый мир.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_otkryty-mir",Открытый мир
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
-#EXTINF:0,Лавстори HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/lavstori-hd.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_lavstori-hd",Лавстори HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
-#EXTINF:0,Лапки Live
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/lapki-live.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_lapki-live",Лапки Live
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=LapkiLive
-#EXTINF:0,Глухарь
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-id="simpleTVFakeEpgId",Глухарь
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal24_SD
-#EXTINF:0,Советская киноклассика HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Советские мультфильмы.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sov-kinklass-hd",Советская киноклассика HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclassica_HD
-#EXTINF:0,Солдаты
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Соловьев.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-05-tricolor",Солдаты
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_5
-#EXTINF:0,Советские фильмы
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Советские мультфильмы.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_yosso-sovfilm",Советские фильмы
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
-#EXTINF:0,Дом Кино Премиум HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domkino-premium",Дом Кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
-#EXTINF:0,Русский роман HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_russky-roman",Русский роман HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
-#EXTINF:0,Премиальное HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Еда Премиум.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_premialnoe-hd",Премиальное HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
-#EXTINF:0,Премиальное HD (+4)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_premialnoe-hd",Премиальное HD (+4)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD_4
-#EXTINF:0,Шокирующее HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_shokiruyushchee-hd",Шокирующее HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
-#EXTINF:0,Шокирующее HD (+3)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_shokiruyushchee-hd",Шокирующее HD (+3)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD1_3
-#EXTINF:0,Остросюжетное HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ostrosiuzhetnoe-hd",Остросюжетное HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
-#EXTINF:0,Комедийное HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_komedijnoe-hd",Комедийное HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
-#EXTINF:0,Любимое HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nashe-lubimoe-hd",Любимое HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
-#EXTINF:0,Душевное HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Душевное_.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_dushevnoe-hd",Душевное HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
-#EXTINF:0,Наше HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наше ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nashehd",Наше HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_krutoe_HD
-#EXTINF:0,Криминальное HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Крик ТВ (Екатеринбург).png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kriminalnoe-hd",Криминальное HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kriminalnoe_HD
-#EXTINF:0,Романтичное HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Романтичное.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_romantichnoe-hd",Романтичное HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Romantichnoe
-#EXTINF:0,Кино ТВ HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kino-tv",Кино ТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
-#EXTINF:0,День Победы HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/День Победы.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_denpobedy",День Победы HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
-#EXTINF:0,Арсенал HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Арсенал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_arsenaltv",Арсенал HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
-#EXTINF:0,Наше Мужское HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наше Мужское.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nashe-muzhskoe-hd",Наше Мужское HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_Muzhskoe_HD
-#EXTINF:0,Хит HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Хит HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_khit-hd",Хит HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
-#EXTINF:0,Блокбастер HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Блокбастер.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_blokbaster-hd",Блокбастер HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
-#EXTINF:0,Камеди HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Камеди.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kamedi",Камеди HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kamedi_HD
-#EXTINF:0,Про Любовь HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pro-lyubov",Про Любовь HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pro_Love_HD
-#EXTINF:0,Наш Кинопоказ HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nash-kinopokaz-hd",Наш Кинопоказ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
-#EXTINF:0,Кинопоказ HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kinopokaz-hd",Кинопоказ HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
-#EXTINF:0,Мосфильм. Золотая коллекция HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11134",Мосфильм. Золотая коллекция HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
-#EXTINF:0,Дом Кино
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domkino",Дом Кино
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
-#EXTINF:0,Дом Кино (+2)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domkino",Дом Кино (+2)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DomKino_2_SD
-#EXTINF:0,Дом Кино (+4)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_domkino",Дом Кино (+4)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DomKino_4_SD
-#EXTINF:0,НСТ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nst",НСТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=NST
-#EXTINF:0,Русский детектив
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Русский детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_russky-detektiv",Русский детектив
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
-#EXTINF:0,Кинопоказ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kinopokaz",Кинопоказ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz
-#EXTINF:0,Русский бестселлер
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_russky-bestseller",Русский бестселлер
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
-#EXTINF:0,Комедия
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Комедия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_russkaya-komedia",Комедия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
-#EXTINF:0,Scream
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/scream.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_scream",Scream
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Scream
-#EXTINF:0,KINOJAM 1
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/312-kino.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kinojam1",KINOJAM 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
-#EXTINF:0,KINOJAM 2
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/312-kino.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kinojam2",KINOJAM 2
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
-#EXTINF:0,Дорама
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_dorama",Дорама
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Dorama
-#EXTINF:0,Cinema
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_cinema-ru",Cinema
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Cinema
-#EXTINF:0,Кино ТВ (+4)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kino-tv-pl4",Кино ТВ (+4)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinotvhd4
-#EXTINF:0,ПОБЕДА
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Победа_.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pobeda",ПОБЕДА
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pobeda
-#EXTINF:0,Bollywood
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bollywood-hd",Bollywood
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
-#EXTINF:0,Flix Snip
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://veranzo.ru/other/icons/FlixSnip.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9508",Flix Snip
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
-#EXTINF:0,МИР
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Мир.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mir",МИР
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Mir_HD
-#EXTINF:0,РБК
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/РБК.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rbk",РБК
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RBK_TV
-#EXTINF:0,Загородный
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Загородный.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zagorodny",Загородный
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
-#EXTINF:0,Первый Космический
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_eureka-hd",Первый Космический
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
-#EXTINF:0,RT
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/RT.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rt-news",RT
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RT
-#EXTINF:0,RTД
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/RTД.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rtd-ru",RTД
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RTD
-#EXTINF:0,Первый Вегетарианский
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pervy-vegetariansky",Первый Вегетарианский
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
-#EXTINF:0,Центральное телевидение
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Центральное телевидение.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_centralnoye-tv",Центральное телевидение
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Centralnoe_TV
-#EXTINF:0,Наша Тема
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наша тема.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_nasha-tema",Наша Тема
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nasha_Tema
-#EXTINF:0,KBS World
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/KBS World.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kbs-world",KBS World
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KBS_World
-#EXTINF:0,TOP SECRET
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/MCM Top.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sovsek",TOP SECRET
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Top_secret
-#EXTINF:0,Калейдоскоп ТВ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Калейдоскоп ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kaleydoskop-tv",Калейдоскоп ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kaleydoskop
-#EXTINF:0,Russian Extreme
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Russian Extreme.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_russky-ekstrim",Russian Extreme
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Russkiy_Extreme
-#EXTINF:0,Эра
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/era.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_era",Эра
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE3
-#EXTINF:0,Телеканал Е HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_e-tv",Телеканал Е HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telekanal_E_HD
-#EXTINF:0,Luxury HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Luxury HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_luxury-hd",Luxury HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Luxury_HD
-#EXTINF:0,Спас
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Спас.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_spas",Спас
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=spas
-#EXTINF:0,Анекдот ТВ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Анекдот ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_anekdottv",Анекдот ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
-#EXTINF:0,Тонус
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Тонус.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10956",Тонус
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
-#EXTINF:0,Телекафе
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_telekafe",Телекафе
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telecafe
-#EXTINF:0,Еда
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Еда.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_eda",Еда
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
-#EXTINF:0,Fashion & LifeStyle
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/World Fashion Channel HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11225",Fashion & LifeStyle
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Fashion_one
-#EXTINF:0,Сарафан
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sarafan",Сарафан
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sarafan
-#EXTINF:0,Food time
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Food network HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9321",Food time
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
-#EXTINF:0,Зал суда
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Зал суда.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-suda",Зал суда
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zal_suda
-#EXTINF:0,Gags Network
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Gagsnetwork.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_gags-network",Gags Network
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Gagsnetwork
-#EXTINF:0,Живи активно
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Живи.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zhivi-aktivno",Живи активно
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivi_aktivno
-#EXTINF:0,FAN HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/FAN (Fantastic animation).png" tvg-id="48510dc23fd840369a4c540ac0e836b3_fanhd",FAN HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
-#EXTINF:0,Arirang TV
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Arirang.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_arirang",Arirang TV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arirang_TV
-#EXTINF:0,DetectiveJam
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/detectivejam.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_detectivejam",DetectiveJam
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
-#EXTINF:0,KIONХИТ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://veranzo.ru/other/icons/KION ХИТ.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11092",KIONХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
-#EXTINF:0,КИНЕКО
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/О!Кино.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kineko",КИНЕКО
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kineko_HD
-#EXTINF:0,САПФИР
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/sapfir.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sapfir",САПФИР
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sapphire_HD
-#EXTINF:0,Боевики HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_liberty-boeviki",Боевики HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
-#EXTINF:0,Ужасы HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_minimax-ujasi",Ужасы HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_9
-#EXTINF:0,Аниме HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Мультимания.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_liberty-anime",Аниме HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
-#EXTINF:0,Зачарованные
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-id="simpleTVFakeEpgId",Зачарованные
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_13_HD
-#EXTINF:0,Супергероини
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Супер.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_malysh",Супергероини
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_21_sd
-#EXTINF:0,Обучалки
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-id="simpleTVFakeEpgId",Обучалки
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
-#EXTINF:0,Русский Корабль
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Русский Экстрим.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ruskorabl",Русский Корабль
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=russian_ship_HD
-#EXTINF:0,Epic
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/epic.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_epic",Epic
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Epic_HD
-#EXTINF:0,Пятницкий
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Пятница!2.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piatnica",Пятницкий
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
-#EXTINF:0,Карпов
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="simpleTVFakeEpgId",Карпов
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal26_SD
-#EXTINF:0,Улицы разбитых фонарей
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-id="simpleTVFakeEpgId",Улицы разбитых фонарей
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
-#EXTINF:0,6 кадров
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/86 канал (Сургут).png" tvg-id="simpleTVFakeEpgId",6 кадров
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
-#EXTINF:0,Евлампия Романова
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-id="simpleTVFakeEpgId",Евлампия Романова
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
-#EXTINF:0,Мажор
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-id="simpleTVFakeEpgId",Мажор
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
-#EXTINF:0,Women's Magazine
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/womens-magazine.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_womens-magazine",Women's Magazine
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=WomensMagazine_SD
-#EXTINF:0,Взвешенные люди
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/zal-01-tricolor.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-01-tricolor",Взвешенные люди
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
-#EXTINF:0,След
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/следстви вели.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-02-tricolor",След
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_2
-#EXTINF:0,Ментовские войны
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Тюменское время.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-03-tricolor",Ментовские войны
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
-#EXTINF:0,Любовь и тайны Тумахана
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pro-lyubov",Любовь и тайны Тумахана
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_6
-#EXTINF:0,Три кота
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Три ангела.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-07-tricolor",Три кота
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_7
-#EXTINF:0,Вне закона
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/zal-08-tricolor.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-08-tricolor",Вне закона
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_8
-#EXTINF:0,Мент в законе
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/КиноМеню HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-03-tricolor",Мент в законе
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
-#EXTINF:0,Смешарики
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/zal-11-tricolor.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-11-tricolor",Смешарики
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
-#EXTINF:0,Комедии
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Комедия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-12-tricolor",Комедии
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
-#EXTINF:0,Архыз 24
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Архыз 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_arxyz24",Архыз 24
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arkhyz_24
-#EXTINF:0,БСТ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/БСТ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bst",БСТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BST
-#EXTINF:0,Мир Белогорья
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Мир Белогорья.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mir-belogoria",Мир Белогорья
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_Belogorya_SD
-#EXTINF:0,Санкт-Петербург
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Санкт-Петербург.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sankt-peterburg",Санкт-Петербург
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=SanktPeterburg
-#EXTINF:0,Санкт-Петербург HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Санкт-Петербург.png" tvg-id="d09336db60acee31f19aef3ee307fef6_7946",Санкт-Петербург HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
-#EXTINF:0,БелРос
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/БелРос.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tro",БелРос
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BelRos
-#EXTINF:0,СвоёТВ.Ставропольский край
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Своё ТВ (Ставрополь).png" tvg-id="simpleTVFakeEpgId",СвоёТВ.Ставропольский край
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=SvoeTV_Stavropolskiy_krai
-#EXTINF:0,Грозный
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/grozny.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_grozny",Грозный
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Grozniy
-#EXTINF:0,Осетия-Ирыстон
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Осетия-Ирыстон.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_osetia-iryston",Осетия-Ирыстон
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Osetiya-Iryston
-#EXTINF:0,Юрган
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Юрган (Сыктывкар).png" tvg-id="48510dc23fd840369a4c540ac0e836b3_yurgan",Юрган
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Yurgan
-#EXTINF:0,Губерния
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_gubernia",Губерния
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=GUBERNIA
-#EXTINF:0,АОТВ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-id="simpleTVFakeEpgId",АОТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=AOTV
-#EXTINF:0,НВК Саха
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/НВК Саха.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_saxa",НВК Саха
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=NVK_Saha
-#EXTINF:0,Волгоград 24
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/9 Волна.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_volgograd-24",Волгоград 24
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Volgograd_24
-#EXTINF:0,Туган Тел
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/tugan-tel.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tugan-tel",Туган Тел
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=tugantel_hd
-#EXTINF:0,Майдан
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Майдан.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_maydan",Майдан
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Maidan
-#EXTINF:0,Кубань 24
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Кубань 24 Орбита.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kuban-24",Кубань 24
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kuban24
-#EXTINF:0,RUSSIAN MUSICBOX HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Russian Extreme Ultra.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_russian-musicbox",RUSSIAN MUSICBOX HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russian_Musicbox_HD
-#EXTINF:0,Music Box Gold
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Music Box Gold.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10166",Music Box Gold
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Music_Box_GOLD
-#EXTINF:0,Музыка Первого
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_muzyka-pervogo",Музыка Первого
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
-#EXTINF:0,Mezzo
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Mezzo.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mezzo",Mezzo
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mezzo
-#EXTINF:0,ЖАРА
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Жара.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zhara",ЖАРА
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhara
-#EXTINF:0,Europa Plus TV
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Europa Plus TV.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_europa-plus-tv",Europa Plus TV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eur_Plus
-#EXTINF:0,BRIDGE TV
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/BRIDGE TV.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bridge-tv",BRIDGE TV
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge
-#EXTINF:0,BRIDGE TV РУССКИЙ ХИТ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bridge-tv-ruxit",BRIDGE TV РУССКИЙ ХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BRIDGE_TV_Russkiy_hit
-#EXTINF:0,BRIDGE TV DELUXE
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/BRIDGE TV DELUXE.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bridge-hd",BRIDGE TV DELUXE
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BRIDGE_TV_DELUXE_HD
-#EXTINF:0,BRIDGE TV HITS
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bridge-tv-dance",BRIDGE TV HITS
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
-#EXTINF:0,BRIDGE TV ROCK
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bridge-tv-rock",BRIDGE TV ROCK
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_rock_hd
-#EXTINF:0,BRIDGE TV CLASSIC
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bridge-tv-classic",BRIDGE TV CLASSIC
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_tv_classic
-#EXTINF:0,МУЗТВ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_muztv",МУЗТВ
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=mus-tv
-#EXTINF:0,Шансон ТВ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Шансон ТВ.png" tvg-id="d09336db60acee31f19aef3ee307fef6_7992",Шансон ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Shanson
-#EXTINF:0,Classic Music
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Vh1 classic.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_classic-music",Classic Music
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Classic_Music_HD
-#EXTINF:0,Карусель
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_karusel",Карусель
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=karusel
-#EXTINF:0,Бобёр
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Бобёр.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bobior",Бобёр
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bober
-#EXTINF:0,Солнце (+4)
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Соловьев.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_solnce-pl4",Солнце (+4)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney_4
-#EXTINF:0,Радость моя
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Радость Моя.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_radost-moya",Радость моя
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Radost_moya
-#EXTINF:0,Ералаш
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Ералаш.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_vf-eralash",Ералаш
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
-#EXTINF:0,Солнце
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Соловьев.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_solnce",Солнце
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney
-#EXTINF:0,Мама
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Мама.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mama",Мама
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
-#EXTINF:0,Спортмастер ТВ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Моторспорт ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sportmaster-tv",Спортмастер ТВ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE1
-#EXTINF:0,Матч ТВ
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10566",Матч ТВ
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
-#EXTINF:0,Старт Триумф HD
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Старт.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_start-triumf",Старт Триумф HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Start_triumph
-#EXTINF:0,MMA-TV.com
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9322",MMA-TV.com
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
-#EXTINF:0,Хоккейный
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Хоккейный HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11121",Хоккейный
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
-#EXTINF:0,Спортивный
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Моторспорт ТВ.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sportivny",Спортивный
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
-#EXTINF:0,Футбольный
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Футбол HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_footbolny",Футбольный
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
-#EXTINF:0,Большой эфир
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bolshoj-efir",Большой эфир
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=ChannelLIVE
-#EXTINF:0,Поединок
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Поехали!.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_poedinok",Поединок
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE2
-#EXTINF:0,Игра
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_igra",Игра
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
-#EXTINF:0,Сила
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="https://iptvx.one/picons/sila.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_sila",Сила
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
-#EXTINF:0,Наш спорт 1
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 1
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey1
-#EXTINF:0,Наш спорт 2
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 2
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey2
-#EXTINF:0,Наш спорт 3
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 3
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey3
-#EXTINF:0,Наш спорт 4
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 4
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey4
-#EXTINF:0,Наш спорт 5
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 5
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey5
-#EXTINF:0,Наш спорт 6
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 6
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey6
-#EXTINF:0,Наш спорт 7
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 7
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey7
-#EXTINF:0,Наш спорт 8
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey8
-#EXTINF:0,Наш спорт 9
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 9
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey9
-#EXTINF:0,Наш спорт 10
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 10
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport10
-#EXTINF:0,Наш спорт 11
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 11
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport11
-#EXTINF:0,Наш спорт 12
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 12
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport12
-#EXTINF:0,Наш спорт 13
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 13
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport13
-#EXTINF:0,Наш спорт 14
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 14
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport14
-#EXTINF:0,Наш спорт 15
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 15
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport15
-#EXTINF:0,Наш спорт 16
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 16
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport16
-#EXTINF:0,Наш спорт 17
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 17
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport17
-#EXTINF:0,Наш спорт 18
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 18
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport18
-#EXTINF:0,Наш спорт 19
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 19
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport19
-#EXTINF:0,Наш спорт 20
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 20
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport20
-#EXTINF:0,Наш спорт 21
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 21
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport21
-#EXTINF:0,Наш спорт 22
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 22
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport22
-#EXTINF:0,Наш спорт 23
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 23
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport23
-#EXTINF:0,Наш спорт 24
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 24
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport24
-#EXTINF:0,Наш спорт 25
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 25
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport25
-#EXTINF:0,Наш спорт 26
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 26
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport26
-#EXTINF:0,Наш спорт 27
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 27
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport27
-#EXTINF:0,Наш спорт 28
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 28
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport28
-#EXTINF:0,Наш спорт 29
-#EXTGRP:Tricolor
+#EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Наш детектив.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Наш спорт 29
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport29
