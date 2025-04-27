@@ -30,6 +30,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Карусель 
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:0,Карусель HD
+#EXTGRP:AVB
+http://45.87.146.19:81/udp/239.195.1.124:1234
 #EXTINF:0,ОТР 
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/9/index.m3u8
