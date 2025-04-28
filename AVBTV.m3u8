@@ -18,7 +18,7 @@ http://92.53.64.197:5050/karusel/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_otr",ОТР
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11020",ТВЦ 
-http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rentv",РЕН ТВ 
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Спас.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_spas",СПАС
@@ -157,8 +157,6 @@ http://rtmp.one.by:2300
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_radio-strana-fm-tv",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_radio-strana-fm-tv",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 group-title="AVB" tvg-logo="https://iptvx.one/picons/region67.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_region67",67 HD
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="simpleTVFakeEpgId",Red Bull TV
@@ -170,15 +168,11 @@ http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/234/index.m3u8
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Игра HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-igra",Матч! Игра HD
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/225/index.m3u8
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-igra",Матч! Игра
-http://tv.ttk.mx:9152
-#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-igra",Матч! Игра
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Арена HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-arena",Матч! Арена HD
 http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/207/index.m3u8
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-arena",Матч! Арена
 http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-arena",Матч! Арена
-http://tv.ttk.mx:9153
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-nash-sport",Матч! Страна
 http://tv.ttk.mx:9154
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_match-boets",Матч! Боец
