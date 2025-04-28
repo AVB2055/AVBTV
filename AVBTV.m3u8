@@ -200,3 +200,149 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="AVB" tvg-logo="../Channel/Logo/Мульт HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_mult",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+
+
+#EXTINF:0,4K ULTRA HD
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/Dfa7faIWG4rK8z4JP09gBw/1746280239/1816/0x5000c500c897aa45/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160_24688
+#EXTINF:0,4K 60fps
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/SeUggGJVCf_XVOWaWzNvFQ/1746280241/1786/0x5000c500c8a5aa7f/fc85c4ba867d442f8c3161a0ff3045fe.mp4.m3u8?i=3840x2160_20911
+#EXTINF:0,4K Удивительные животные
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/OE_dznJvOEBQtsFATsA3iQ/1746280245/1772/0x5000c500db80bc6a/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160_11616
+#EXTINF:0,Demo 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/p96jk9AxZxQse9BVN3K7tw/1746280247/1764/0x5000c500e34b76b7/e2871e209eb74d2ca924c256233583d7.mp4.m3u8?i=3840x2160_29461
+#EXTINF:0,РАЙСКИЕ МЕСТА НА ЗЕМЛЕ 4K 60fps
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/ut0tw4Ld8uwflG76rX2_aQ/1746280257/1822/0x5000c500c9978ccd/ce1ba50a90b24925a689493496d705d4.mp4.m3u8?i=3840x2160_12559
+#EXTINF:0,Высококачественное видео
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/bE9bkcjpBVn-PVhCoh3SwQ/1746280260/1790/0x5000c500db14be00/6f56967b122f447096b17b390a342bb9.mp4.m3u8?i=3840x2160_22125
+#EXTINF:0,FLYING OVER SEYCHELLES
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/XKLnFWNETzOYjYlucBMZdA/1746280262/2596/0x5000039ce8400c99/ec9d1eade8c746cca27743ab4f24e714.mp4.m3u8?i=3840x2160_13145
+#EXTINF:0,Невероятная Красота 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/yYVbIJSOnBs98v8vF6H6Pg/1746280264/1766/0x5000c500e3493e2d/556a1a55f7d541ac9aecbe8f1378f025.mp4.m3u8?i=3840x2160_17089
+#EXTINF:0,Птицы 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/E7U9aw3tI8WHjOaJiiMcsA/1746280265/1788/0x5000c500c4278cfd/9b3049d858f744bb9212feff045bc341.mp4.m3u8?i=3840x2160_24383
+#EXTINF:0,Каттегат в 4К С Музыкой Викингов
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/0GCprIk4txlvtezAjcf3pg/1746280274/1836/0x5000c500c46e7f4f/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160_16049
+#EXTINF:0,Пакистан в 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/nFoutt9xZ7sPfOTuPJVX6A/1746280277/1891/0x5000c500e539c97b/d2deee2b1e68476daa2645ef36da01db.mp4.m3u8?i=3840x2160_16056
+#EXTINF:0,Антарктика В 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/1WdBJGiBNum3SjIUqEmkYw/1746280279/1770/0x5000c500c8b71440/43d466c1d81b44f895cad3ca5ea028e9.mp4.m3u8?i=3840x2160_10515
+#EXTINF:0,Греция 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/Io9OYqACBSuOuDf9y4jZ4A/1746280281/1776/0x5000c500c750a96f/47ee63aaebd54d10aa7f9b7c0dadfe83.mp4.m3u8?i=3840x2160_10503
+#EXTINF:0,Италия 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/wwALAZ8T8RYH492hmbnI-A/1746280283/2413/0x5000c500f2ba2b2f/de35e42315ee4c6ea18fb3eebf5a6443.mp4.m3u8?i=3840x2160_18643
+#EXTINF:0,Украина 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/pc7O7i5maoEL32tkWQZiPQ/1746280285/2401/0x5000c500f2b43677/10eb8a693e514290b6118b54126b871c.mp4.m3u8?i=3840x2160_21591
+#EXTINF:0,Казахстан 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/mr_0SUobI4i2ityKg0M_3A/1746280286/1871/0x5000c500e8d21c37/fa6af8430d704326bdbcec67fd5c4730.mp4.m3u8?i=3840x2160_24931
+#EXTINF:0,Камчатка 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/pumszViGGz2ID3XE6A_DVA/1746280288/2464/0x5000c500e883f3df/afaaf25369594e2984734f9089fccfb3.mp4.m3u8?i=3840x2160_16810
+#EXTINF:0,Венгрия 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/M75W_f4tFPGM4BFxLFk4KA/1746280290/2171/0x5000c500e6697c05/3f9e42dad9d04963aed33112f9487717.mp4.m3u8?i=3840x2160_27572
+#EXTINF:0,Грузия 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/xLppkOAR2HAIJr4skvXg1w/1746280291/2508/0x5000039ce8635539/a30d636080c5491aa3422713c2bf4340.mp4.m3u8?i=3840x2160_17848
+#EXTINF:0,Мексика 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/YaFv5YPTa5ywKvEUBUjOcQ/1746280292/2173/0x5000c500e7526f25/f45c7734f1ba41468e7a193691612393.mp4.m3u8?i=3840x2160_12898
+#EXTINF:0,Гватемала 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/FjdWNO-QxiRHP3nuz_fvgg/1746280293/2588/0x5000039ce8694615/3a373a9132d64a749df8c5fecfde1c18.mp4.m3u8?i=3840x2160_16954
+#EXTINF:0,Молдова 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/Ei2Tt0wPF2hQ3FQ9yZcXeA/1746280295/2207/0x5000c5007446425f/313be372eee6431fa282c70f46b9fe1e.mp4.m3u8?i=3840x2160_17436
+#EXTINF:0,Природа Аргентины 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/Yy3cBfqLNPNjYamckruvMA/1746280297/1780/0x5000c500db164266/c52a030a1c2044ffa66f78445eefa6ce.mp4.m3u8?i=3840x2160_21330
+#EXTINF:0,Москва 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/xHFq07wrmJOSIQbfAm6XoA/1746280298/1766/0x5000c500e34d8ba1/cf49bab452b0423e94330844a86f95d6.mp4.m3u8?i=3840x2024_25835
+#EXTINF:0,Ливия 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/vlSmxM3FqfoybWgIq4X8Vg/1746280299/2552/0x5000039ce83385c1/5c3746f865e047fb86c316dd0ac053e1.mp4.m3u8?i=3840x2160_11659
+#EXTINF:0,Киргизстан 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/unjF4GMZ02nXE-8vH67KRQ/1746280301/2508/0x5000039ce8686cb5/184bf36f277c4a70b7d2729b544353b4.mp4.m3u8?i=3840x2160_19422
+#EXTINF:0,Узбекистан 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/LNwNGsYEgPrc6XeYwRL5Ng/1746280302/2612/0x5000039ce868ab25/22c69726f20b43069bf4793004fa3c27.mp4.m3u8?i=3840x2160_21010
+#EXTINF:0,Эквадор 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/7hTddYvLt6SWestqaarddQ/1746280304/2564/0x5000039ce84025f5/247fa9a63c5041f0976a98ee16e29fa9.mp4.m3u8?i=3840x2160_16246
+#EXTINF:0,Турция в 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/fVyTOynFCUPIDI5QrJoZCg/1746280306/1798/0x5000c500e3d50955/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160_25103
+#EXTINF:0,Вьетнам в 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/I3NrTNC2wz5_UYLtv0tbmA/1746280307/2161/0x5000c500e72baa8b/18ad4a3a69134dacb378d14d66138be8.mp4.m3u8?i=3840x2160_38998
+#EXTINF:0,Манила в 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/fwPWQ2ggduqmqfc6Wbrt-Q/1746280309/1776/0x5000c500d6d906ed/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160_20784
+#EXTINF:0,Кения В 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/1qns19nhUi-Q2j4IJ-KqJg/1746280313/1816/0x5000c500c91c4b8c/378db7d4f4ad4aafbb4535e9125ce221.mp4.m3u8?i=3840x2160_15323
+#EXTINF:0,Бора-Бора в 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/rg-ZGmNJcXJIFFr811qlzA/1746280314/1873/0x5000c500e539127b/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160_17254
+#EXTINF:0,Карибы в 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/ZkGcDiLm2v4i4yGQoo-dpA/1746280315/1772/0x5000c500d6d78c87/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160_11480
+#EXTINF:0,Намибия в 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/_rNqp_6u92TK2KB9xDP2Cg/1746280317/1764/0x5000c500e34cbd12/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160_11828
+#EXTINF:0,Китай В 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/ZJNBm6M8YOjwU3R-s407Qg/1746280319/1863/0x5000c500e538cbf2/c978b1e2beaa4b8f92c50918c7ecc933.mp4.m3u8?i=3840x2160_12530
+#EXTINF:0,Серенгети в 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/irxFYV980JdOVRjN4-QysQ/1746280320/1796/0x5000c500c99753ea/174e9ce15c7d4baebec7149609e7ea17.mp4.m3u8?i=3840x2160_17442
+#EXTINF:0,Морокко в 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/SZb4Av05v6HcCAw9gBqn5w/1746280321/1768/0x5000c500e34c9a66/2a52b66f92314c188a9781d462cf8b3e.mp4.m3u8?i=3840x2160_16178
+#EXTINF:0,Мальдивы в 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/_7sNpxCFPCq0qQ4qW7mzGg/1746280322/1846/0x5000c500c7262c36/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160_23873
+#EXTINF:0,Германия в 4K
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/RPBiXOjN11CpwAJPFkROqQ/1746280325/1776/0x5000c500c92079c7/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160_9532
+#EXTINF:0,Россия В 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/Hg5_T7JIOYd3WYnB_vUk6Q/1746280326/1776/0x5000c500c3920f7f/9195d28dad90489aac2cb7c6dd6725aa.mp4.m3u8?i=3840x2160_15878
+#EXTINF:0,Подводный Мир В 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/46__4VMKyp_P-FEhBa4OzA/1746280328/1877/0x5000c500e53bc570/8a19e5ed6a9840349280d2cba180870a.mp4.m3u8?i=3840x2160_16302
+#EXTINF:0,Дикая Природа Сафари В 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/auB8fPcpWYXUpVH5ObDyTA/1746280329/1871/0x5000c500e511605b/5fc452403be54483bc4c8c5b19ee7742.mp4.m3u8?i=3840x2160_16319
+#EXTINF:0,Детеныши Животных В 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/qmEEJZOCvoO9OvO3eho2Fw/1746280330/1897/0x5000c500e4a02f9a/5481e2c1a8e5473c804cfbc908dd7899.mp4.m3u8?i=3840x2160_15516
+#EXTINF:0,Животные Австралии В 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/YHk9XH_RVrcw_nlAbossug/1746280331/1764/0x5000c500dcea0ef9/bec395a0100c42a1b52bec53605116a4.mp4.m3u8?i=3840x2160_16020
+#EXTINF:0,Повседневные Вещи В Макро Съемке
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/QQ-vV4os1MbBjGjgWtqSpQ/1746280333/1790/0x5000c500d6c05d87/7ea3d827b7234257abffc94e1cce193e.mp4.m3u8?i=3840x2160_11802
+#EXTINF:0,Океан В 4К Релакс
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/-WI92sQ2vN_8tdOt2cnI2Q/1746280334/1788/0x5000c500c939412d/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
+#EXTINF:0,Лес В 4К
+#EXTGRP:4K VIDEO VPN
+https://river-1.rutube.ru/hls-vod/WMBPl4ZURIAi9OgbeP8Pzg/1746280335/1846/0x5000c500db17284f/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
