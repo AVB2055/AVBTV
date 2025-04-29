@@ -283,7 +283,6 @@ https://river-1.rutube.ru/hls-vod/QQ-vV4os1MbBjGjgWtqSpQ/1746280333/1790/0x5000c
 https://river-1.rutube.ru/hls-vod/-WI92sQ2vN_8tdOt2cnI2Q/1746280334/1788/0x5000c500c939412d/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
 #EXTINF:-1 group-title="AVB-/4K VIDEO VPN" tvg-id="simpleTVFakeEpgId",Лес В 4К
 https://river-1.rutube.ru/hls-vod/WMBPl4ZURIAi9OgbeP8Pzg/1746280335/1846/0x5000c500db17284f/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
-
 #EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia-24",Россия-24
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_24
 #EXTINF:-1 group-title="Tricolor" tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_tv3-ru",ТВ-3 HD
