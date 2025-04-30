@@ -1,5 +1,5 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="AVB-/Эфирные" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pervy",Первый канал HD
+#EXTINF:-1 group-title="AVB / Эфирные" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pervy",Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="AVB-/Эфирные" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia1",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
