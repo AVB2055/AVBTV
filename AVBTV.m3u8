@@ -5,13 +5,13 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="/AVB/ Эфирные" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10566",Матч ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="AVB Эфирные" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv",НТВ HD
+#EXTINF:-1 group-title="/AVB/ Эфирные" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_ntv",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AVB Эфирные" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru",Пятый канал
+#EXTINF:-1 group-title="/AVB/ Эфирные" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_5kanal-ru",Пятый канал
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:-1 group-title="AVB Эфирные" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9173",Россия Культура
+#EXTINF:-1 group-title="/AVB/ Эфирные" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9173",Россия Культура
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
-#EXTINF:-1 group-title="AVB Эфирные" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia-24",Россия 24
+#EXTINF:-1 group-title="/AVB/ Эфирные" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_rossia-24",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="AVB-/Эфирные" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_karusel",Карусель
 http://92.53.64.197:5050/karusel/video.m3u8?token=m3VIth-Rou_bM1
