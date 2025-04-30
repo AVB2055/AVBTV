@@ -16,7 +16,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:0,Россия Культура
 #EXTGRP:AVB Эфирные
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP:AVB Эфирные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
@@ -110,6 +110,39 @@ https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=9445009889576578422036
 #EXTINF:0,Красная линия
 #EXTGRP:AVB Общественные
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:AVB Киноканалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:AVB Киноканалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:AVB Киноканалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_Muzhskoe_HD
+#EXTINF:0,Наш кинопоказ HD
+#EXTGRP:AVB Киноканалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
+#EXTINF:0,Кинопоказ HD
+#EXTGRP:AVB Киноканалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
+#EXTINF:0,Душевное HD
+#EXTGRP:AVB Киноканалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
+#EXTINF:0,Дом кино Премиум HD
+#EXTGRP:AVB Киноканалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
+#EXTINF:0,BollywooD HD
+#EXTGRP:AVB Киноканалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:AVB Киноканалы
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:AVB Развлекательные
+http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:0,НТВ Хит
+#EXTGRP:AVB Развлекательные
+http://tv.ttk.mx:9173
 #EXTINF:0,BCU Russia 90s HD
 #EXTGRP:AVB Киноканалы
 http://srv-3-streaming.iptvin.online:8080/BCU_Russia_90s/index.m3u8?token=592bf1b895b63e2eb706a69b24fab72bff406218-2362845924-1746053131-1746009931
@@ -305,12 +338,9 @@ http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
 #EXTINF:0,Анекдот ТВ
 #EXTGRP:AVB Развлекательные
 http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836b59ffb8b03a0
-#EXTINF:0,НТВ Сериал
+#EXTINF:0,Китай ТВ HD
 #EXTGRP:AVB Развлекательные
-http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:0,НТВ Хит
-#EXTGRP:AVB Развлекательные
-http://tv.ttk.mx:9173
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:0,Перец
 #EXTGRP:AVB Развлекательные
 http://213.91.178.133:8000/play/a0ay
@@ -344,6 +374,9 @@ https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:0,Best of Dance TV
 #EXTGRP:AVB Музыкальные
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:0,Clubbing TV HD
+#EXTGRP:AVB Музыкальные
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0,DANCE TV TECHNO
 #EXTGRP:AVB Музыкальные
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
@@ -383,6 +416,12 @@ http://rtmp.one.by:2300
 #EXTINF:0,Первый музыкальный HD
 #EXTGRP:AVB Музыкальные
 http://rtmp.one.by:1300
+#EXTINF:0,Russian MusicBox HD
+#EXTGRP:AVB Музыкальные
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
+#EXTINF:0,ТНТ Music HD
+#EXTGRP:AVB Музыкальные
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:0,Радио Шансон ТВ HD
 #EXTGRP:AVB Музыкальные
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
@@ -431,6 +470,15 @@ http://srv-4-streaming.iptvin.online:8080/KHL_TV_HD/index.m3u8?token=b1d99c20f2f
 #EXTINF:0,KHL
 #EXTGRP:AVB Спортивные
 http://hls.iptvin.online:2134/channel/n4763ac85/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
+#EXTINF:0,ТВ Спорт HD
+#EXTGRP:AVB Спортивные
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
+#EXTINF:0,Карусель Int HD
+#EXTGRP:AVB Детские
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:0,Смайл ТВ HD
+#EXTGRP:AVB Детские
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:0,Мультимузыка
 #EXTGRP:AVB Детские
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
