@@ -1,13 +1,136 @@
 #EXTM3U
+#EXTINF:0,Первый HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=1TV_hd
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Rossia_1_0_hd
+#EXTINF:0,Россия К
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_k
 #EXTINF:0,Россия-24
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_24
+#EXTINF:0,Москва 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moskva24
+#EXTINF:0,НТВ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_0_hd
+#EXTINF:0,НТВ +1
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_1_hd
+#EXTINF:0,НТВ +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_2_hd
+#EXTINF:0,НТВ +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_4_hd
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
+#EXTINF:0,РЕН ТВ +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_2_sd
+#EXTINF:0,РЕН ТВ +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_4_sd
+#EXTINF:0,РЕН ТВ +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_7_sd
+#EXTINF:0,ТНТ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_2
+#EXTINF:0,ТНТ (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_4
+#EXTINF:0,ТНТ (+7)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_7
+#EXTINF:0,ТНТ4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNT4
 #EXTINF:0,ТВ-3 HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
+#EXTINF:0,ТВ-3 (+2)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_2
+#EXTINF:0,ТВ-3 (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_4
+#EXTINF:0,ТВ-3 (+7)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_7
+#EXTINF:0,СТС HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
+#EXTINF:0,СТС +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_2_sd
+#EXTINF:0,СТС +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_4_sd
+#EXTINF:0,СТС +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_7_sd
+#EXTINF:0,ЗВЕЗДА
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=zvezda_hd
+#EXTINF:0,ЗВЕЗДА +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_2_hd
+#EXTINF:0,ЗВЕЗДА +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_4_hd
+#EXTINF:0,ЗВЕЗДА +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_7_hd
+#EXTINF:0,ТВЦ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
+#EXTINF:0,Домашний
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=domashny
+#EXTINF:0,Домашний (+2)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_4
+#EXTINF:0,Домашний (+7)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_7
 #EXTINF:0,ПЯТНИЦА!
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_0_hd
+#EXTINF:0,ПЯТНИЦА! +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_2_hd
+#EXTINF:0,ПЯТНИЦА! +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_4_hd
+#EXTINF:0,ПЯТНИЦА! +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_7_hd
+#EXTINF:0,Пятый канал
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal
+#EXTINF:0,Пятый канал +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_2
+#EXTINF:0,Пятый канал +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_4
+#EXTINF:0,Пятый канал +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_7
+#EXTINF:0,Ю
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=U
+#EXTINF:0,Ю (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=U_4
 #EXTINF:0,Суббота!
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Super
@@ -35,18 +158,75 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD
 #EXTINF:0,Нано ТВ HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nano_HD
+#EXTINF:0,Продвижение
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Prodvizhenie
 #EXTINF:0,В мире животных
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
+#EXTINF:0,История
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Istoriya
+#EXTINF:0,Время
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Vremya
+#EXTINF:0,Т24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
+#EXTINF:0,ТНВ-Планета
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNV_planeta
+#EXTINF:0,Большая Азия
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Big_Asia
+#EXTINF:0,Оружие
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
+#EXTINF:0,Телепутешествия
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
+#EXTINF:0,Моя Планета
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moya_Planeta
 #EXTINF:0,ПОЕХАЛИ!
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
+#EXTINF:0,Живая Планета
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivaya_Planeta
+#EXTINF:0,Приключения HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Teletr
+#EXTINF:0,Рыболов
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
+#EXTINF:0,Зоо ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zoo_TV
+#EXTINF:0,Наука
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka
+#EXTINF:0,TVMChannel
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TVMChannel
 #EXTINF:0,CCTV-4
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CCTV4
+#EXTINF:0,CGTN Русский
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CGTN_Rus
+#EXTINF:0,CGTN
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CGTN
 #EXTINF:0,Исторический HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_20_hd
+#EXTINF:0,Travel+Adventure HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TravelplusAdventure_HD
+#EXTINF:0,Открытый мир
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
 #EXTINF:0,Лавстори HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
@@ -65,33 +245,102 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_5
 #EXTINF:0,Советские фильмы
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
+#EXTINF:0,Русский роман HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
+#EXTINF:0,Премиальное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
 #EXTINF:0,Премиальное HD (+4)
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD_4
+#EXTINF:0,Шокирующее HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
 #EXTINF:0,Шокирующее HD (+3)
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD1_3
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+#EXTINF:0,Комедийное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
 #EXTINF:0,Любимое HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
+#EXTINF:0,Душевное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
 #EXTINF:0,Наше HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_krutoe_HD
 #EXTINF:0,Криминальное HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kriminalnoe_HD
+#EXTINF:0,Романтичное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Romantichnoe
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
 #EXTINF:0,День Победы HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
+#EXTINF:0,Арсенал HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_Muzhskoe_HD
+#EXTINF:0,Хит HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
+#EXTINF:0,Блокбастер HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
+#EXTINF:0,Камеди HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kamedi_HD
+#EXTINF:0,Про Любовь HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pro_Love_HD
+#EXTINF:0,Наш Кинопоказ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
+#EXTINF:0,Мосфильм. Золотая коллекция HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
+#EXTINF:0,Дом Кино
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
 #EXTINF:0,Дом Кино (+2)
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DomKino_2_SD
 #EXTINF:0,Дом Кино (+4)
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DomKino_4_SD
+#EXTINF:0,НСТ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=NST
+#EXTINF:0,Русский детектив
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
+#EXTINF:0,Кинопоказ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz
+#EXTINF:0,Русский бестселлер
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
+#EXTINF:0,Комедия
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 #EXTINF:0,Scream
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Scream
@@ -101,24 +350,60 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:0,KINOJAM 2
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
+#EXTINF:0,Дорама
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Dorama
+#EXTINF:0,Cinema
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Cinema
 #EXTINF:0,Кино ТВ (+4)
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinotvhd4
+#EXTINF:0,ПОБЕДА
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pobeda
 #EXTINF:0,Bollywood
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTINF:0,Flix Snip
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
+#EXTINF:0,МИР
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Mir_HD
+#EXTINF:0,РБК
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RBK_TV
+#EXTINF:0,Загородный
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
 #EXTINF:0,Первый Космический
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+#EXTINF:0,RT
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RT
 #EXTINF:0,RTД
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RTD
+#EXTINF:0,Первый Вегетарианский
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
+#EXTINF:0,Центральное телевидение
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Centralnoe_TV
+#EXTINF:0,Наша Тема
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nasha_Tema
+#EXTINF:0,KBS World
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KBS_World
 #EXTINF:0,TOP SECRET
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Top_secret
+#EXTINF:0,Калейдоскоп ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kaleydoskop
 #EXTINF:0,Russian Extreme
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Russkiy_Extreme
@@ -131,27 +416,57 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telekanal_E_HD
 #EXTINF:0,Luxury HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Luxury_HD
+#EXTINF:0,Спас
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=spas
+#EXTINF:0,Анекдот ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
 #EXTINF:0,Тонус
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
+#EXTINF:0,Телекафе
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telecafe
+#EXTINF:0,Еда
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:0,Fashion & LifeStyle
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Fashion_one
+#EXTINF:0,Сарафан
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sarafan
 #EXTINF:0,Food time
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
+#EXTINF:0,Зал суда
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zal_suda
+#EXTINF:0,Gags Network
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Gagsnetwork
 #EXTINF:0,Живи активно
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivi_aktivno
 #EXTINF:0,FAN HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
+#EXTINF:0,Arirang TV
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arirang_TV
 #EXTINF:0,DetectiveJam
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
 #EXTINF:0,KIONХИТ
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
+#EXTINF:0,КИНЕКО
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kineko_HD
+#EXTINF:0,САПФИР
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sapphire_HD
 #EXTINF:0,Боевики HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
@@ -170,6 +485,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_21_sd
 #EXTINF:0,Обучалки
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
+#EXTINF:0,Русский Корабль
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=russian_ship_HD
+#EXTINF:0,Epic
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Epic_HD
 #EXTINF:0,Пятницкий
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
@@ -188,6 +509,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
 #EXTINF:0,Мажор
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
+#EXTINF:0,Women's Magazine
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=WomensMagazine_SD
 #EXTINF:0,Взвешенные люди
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
@@ -215,15 +539,75 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
 #EXTINF:0,Комедии
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
+#EXTINF:0,Архыз 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arkhyz_24
+#EXTINF:0,БСТ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BST
+#EXTINF:0,Мир Белогорья
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_Belogorya_SD
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=SanktPeterburg
 #EXTINF:0,Санкт-Петербург HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
+#EXTINF:0,БелРос
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BelRos
+#EXTINF:0,СвоёТВ.Ставропольский край
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=SvoeTV_Stavropolskiy_krai
+#EXTINF:0,Грозный
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Grozniy
+#EXTINF:0,Осетия-Ирыстон
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Osetiya-Iryston
+#EXTINF:0,Юрган
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Yurgan
+#EXTINF:0,Губерния
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=GUBERNIA
+#EXTINF:0,АОТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=AOTV
+#EXTINF:0,НВК Саха
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=NVK_Saha
+#EXTINF:0,Волгоград 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Volgograd_24
+#EXTINF:0,Туган Тел
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=tugantel_hd
+#EXTINF:0,Майдан
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Maidan
+#EXTINF:0,Кубань 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kuban24
 #EXTINF:0,RUSSIAN MUSICBOX HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russian_Musicbox_HD
 #EXTINF:0,Music Box Gold
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Music_Box_GOLD
+#EXTINF:0,Музыка Первого
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
+#EXTINF:0,Mezzo
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mezzo
+#EXTINF:0,ЖАРА
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhara
+#EXTINF:0,Europa Plus TV
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eur_Plus
 #EXTINF:0,BRIDGE TV
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge
@@ -239,18 +623,45 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
 #EXTINF:0,BRIDGE TV ROCK
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_rock_hd
+#EXTINF:0,BRIDGE TV CLASSIC
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_tv_classic
 #EXTINF:0,МУЗТВ
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=mus-tv
+#EXTINF:0,Шансон ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Shanson
 #EXTINF:0,Classic Music
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Classic_Music_HD
+#EXTINF:0,Карусель
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=karusel
+#EXTINF:0,Бобёр
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bober
 #EXTINF:0,Солнце (+4)
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney_4
+#EXTINF:0,Радость моя
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Radost_moya
+#EXTINF:0,Ералаш
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
+#EXTINF:0,Солнце
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney
+#EXTINF:0,Мама
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
 #EXTINF:0,Спортмастер ТВ
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE1
+#EXTINF:0,Матч ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
 #EXTINF:0,Старт Триумф HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Start_triumph
@@ -260,6 +671,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
 #EXTINF:0,Хоккейный
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
+#EXTINF:0,Спортивный
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
+#EXTINF:0,Футбольный
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
 #EXTINF:0,Большой эфир
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=ChannelLIVE
@@ -269,6 +686,96 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE2
 #EXTINF:0,Игра
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
+#EXTINF:0,Сила
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
+#EXTINF:0,Наш спорт 1
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey1
+#EXTINF:0,Наш спорт 2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey2
+#EXTINF:0,Наш спорт 3
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey3
+#EXTINF:0,Наш спорт 4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey4
+#EXTINF:0,Наш спорт 5
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey5
+#EXTINF:0,Наш спорт 6
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey6
+#EXTINF:0,Наш спорт 7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey7
+#EXTINF:0,Наш спорт 8
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey8
+#EXTINF:0,Наш спорт 9
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey9
+#EXTINF:0,Наш спорт 10
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport10
+#EXTINF:0,Наш спорт 11
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport11
+#EXTINF:0,Наш спорт 12
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport12
+#EXTINF:0,Наш спорт 13
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport13
+#EXTINF:0,Наш спорт 14
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport14
+#EXTINF:0,Наш спорт 15
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport15
+#EXTINF:0,Наш спорт 16
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport16
+#EXTINF:0,Наш спорт 17
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport17
+#EXTINF:0,Наш спорт 18
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport18
+#EXTINF:0,Наш спорт 19
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport19
+#EXTINF:0,Наш спорт 20
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport20
+#EXTINF:0,Наш спорт 21
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport21
+#EXTINF:0,Наш спорт 22
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport22
+#EXTINF:0,Наш спорт 23
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport23
+#EXTINF:0,Наш спорт 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport24
+#EXTINF:0,Наш спорт 25
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport25
+#EXTINF:0,Наш спорт 26
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport26
+#EXTINF:0,Наш спорт 27
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport27
+#EXTINF:0,Наш спорт 28
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport28
+#EXTINF:0,Наш спорт 29
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport29
 #EXTINF:0,Rutube TV
 #EXTGRP:Rutube VPN
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=dhwZ6jcQ0__BkFpv7AsApQ&e=1746168868&scheme=https
