@@ -1640,9 +1640,6 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:0,Ратник HD
 #EXTGRP:AVB Общественные
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:0,Amedia Premium HD
-#EXTGRP:AVB Киноканалы
-http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:0,НТВ Сериал
 #EXTGRP:AVB Киноканалы
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
@@ -1655,27 +1652,18 @@ http://31.173.165.29:8000/play/a04z/index.m3u8
 #EXTINF:0,.sci-fi
 #EXTGRP:AVB Киноканалы
 http://130.193.73.10:8937/play/a02q
-#EXTINF:0,Cinema
-#EXTGRP:AVB Киноканалы
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:0,Filmbox
 #EXTGRP:AVB Киноканалы
 http://130.193.73.10:8937/play/a03s
 #EXTINF:0,Filmbox Arthouse
 #EXTGRP:AVB Киноканалы
 http://130.193.73.10:8937/play/a03t
-#EXTINF:0,SHOT TV
-#EXTGRP:AVB Киноканалы
-http://109.200.130.123:7537/play/a02b
 #EXTINF:0,Viasat Kino World
 #EXTGRP:AVB Киноканалы
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:0,Еврокино
 #EXTGRP:AVB Киноканалы
 http://109.200.130.123:7537/play/a020
-#EXTINF:0,Кино ТВ
-#EXTGRP:AVB Киноканалы
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киноман
 #EXTGRP:AVB Киноканалы
 http://178.212.71.253:8000/play/66/index.m3u8
@@ -1694,9 +1682,6 @@ http://130.193.73.10:8937/play/a03c
 #EXTINF:0,Видеокассета VHS
 #EXTGRP:AVB Киноканалы
 https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
-#EXTINF:0,Bolt
-#EXTGRP:AVB Киноканалы
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYxNjkwODksImlhdCI6MTc0NjA4MjY4OSwiY2lkIjo2LCJ1aWQiOjkxMjk2MjQ3MywicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.No6oPCsYizJK07F0X8eRun57sy6ugb0iOD1n475H1iU&amp;offset=10
 #EXTINF:0,Кинолента 24
 #EXTGRP:AVB Киноканалы
 https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=goJZLoOrQJ97baTAUwhNiA&e=1746168894&scheme=https
