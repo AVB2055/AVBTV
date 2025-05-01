@@ -1685,6 +1685,15 @@ https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
 #EXTINF:0,Кинолента 24
 #EXTGRP:AVB Киноканалы
 https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=goJZLoOrQJ97baTAUwhNiA&e=1746168894&scheme=https
+#EXTINF:0,Cinema
+#EXTGRP:AVB Киноканалы
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:0, Видеокассета Киномир
+#EXTGRP:AVB Киноканалы
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#EXTINF:0,  Иллюзион+
+#EXTGRP:AVB Киноканалы
+http://31.173.165.29:8000/play/a04l/index.m3u8
 #EXTINF:0,Nano HD
 #EXTGRP:AVB Познавательные
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
