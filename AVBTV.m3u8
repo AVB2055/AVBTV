@@ -302,11 +302,9 @@ http://tv.ttk.mx:9111
 #EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
 #EXTGRP:AVB Спортивные
 http://tv.ttk.mx:9116
+#EXTINF:0,KHL Live
 #EXTGRP:AVB Спортивные
 http://hls.iptvin.online:2134/channel/n4763ac85/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,ТВ Спорт HD
-#EXTGRP:AVB Спортивные
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
 #EXTINF:0,Карусель Int HD
 #EXTGRP:AVB Детские
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
