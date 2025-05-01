@@ -110,30 +110,12 @@ https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=9445009889576578422036
 #EXTINF:0,Красная линия
 #EXTGRP:AVB Общественные
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:0,Премиальное HD
-#EXTGRP:AVB Киноканалы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
-#EXTINF:0,Остросюжетное HD
-#EXTGRP:AVB Киноканалы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
-#EXTINF:0,Наше Мужское HD
-#EXTGRP:AVB Киноканалы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_Muzhskoe_HD
-#EXTINF:0,Наш кинопоказ HD
-#EXTGRP:AVB Киноканалы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
-#EXTINF:0,Кинопоказ HD
-#EXTGRP:AVB Киноканалы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
-#EXTINF:0,Душевное HD
-#EXTGRP:AVB Киноканалы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
-#EXTINF:0,Дом кино Премиум HD
-#EXTGRP:AVB Киноканалы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
-#EXTINF:0,BollywooD HD
-#EXTGRP:AVB Киноканалы
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
+#EXTINF:0,ПРНК
+#EXTGRP:AVB Общественные
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:0,Ратник HD
+#EXTGRP:AVB Общественные
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:0,Amedia Premium HD
 #EXTGRP:AVB Киноканалы
 http://195.18.23.20:8000/play/3/index.m3u8
@@ -143,6 +125,48 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:AVB Киноканалы
 http://tv.ttk.mx:9173
+#EXTINF:0,.red
+#EXTGRP:AVB Киноканалы
+http://31.173.165.29:8000/play/a04z/index.m3u8
+#EXTINF:0,.sci-fi
+#EXTGRP:AVB Киноканалы
+http://130.193.73.10:8937/play/a02q
+#EXTINF:0,Cinema
+#EXTGRP:AVB Киноканалы
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:0,Filmbox
+#EXTGRP:AVB Киноканалы
+http://130.193.73.10:8937/play/a03s
+#EXTINF:0,Filmbox Arthouse
+#EXTGRP:AVB Киноканалы
+http://130.193.73.10:8937/play/a03t
+#EXTINF:0,SHOT TV
+#EXTGRP:AVB Киноканалы
+http://109.200.130.123:7537/play/a02b
+#EXTINF:0,Viasat Kino World
+#EXTGRP:AVB Киноканалы
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:0,Еврокино
+#EXTGRP:AVB Киноканалы
+http://109.200.130.123:7537/play/a020
+#EXTINF:0,Кино ТВ
+#EXTGRP:AVB Киноканалы
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Киноман
+#EXTGRP:AVB Киноканалы
+http://178.212.71.253:8000/play/66/index.m3u8
+#EXTINF:0,Кинопоказ HD
+#EXTGRP:AVB Киноканалы
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
+#EXTINF:0,Комедия
+#EXTGRP:AVB Киноканалы
+http://130.193.73.10:8937/play/a03k
+#EXTINF:0,Любимое кино
+#EXTGRP:AVB Киноканалы
+http://130.193.73.10:8937/play/a037
+#EXTINF:0,НСТ
+#EXTGRP:AVB Киноканалы
+http://130.193.73.10:8937/play/a03c
 #EXTINF:0,Nano HD
 #EXTGRP:AVB Познавательные
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
@@ -833,9 +857,6 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:0,Москва24
 #EXTGRP:WEB Информационные
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:0,Первый информационный HD
-#EXTGRP:WEB Информационные
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:0,РБК HD
 #EXTGRP:WEB Информационные
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
