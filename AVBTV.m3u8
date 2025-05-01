@@ -170,6 +170,9 @@ http://130.193.73.10:8937/play/a03c
 #EXTINF:0,Nano HD
 #EXTGRP:AVB Познавательные
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,RTG HD
+#EXTGRP:AVB Познавательные
+http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:0,UNIVER HD
 #EXTGRP:AVB Познавательные
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
@@ -188,6 +191,9 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Охотник и Рыболов HD
 #EXTGRP:AVB Познавательные
 http://178.163.7.130:4022/udp/234.0.0.98:2000
+#EXTINF:0,Первый Космический HD
+#EXTGRP:AVB Познавательные
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 #EXTINF:0,Приключения HD
 #EXTGRP:AVB Познавательные
 http://178.163.7.130:4022/udp/234.0.0.193:2000
@@ -278,6 +284,9 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:0,Trace Urban
 #EXTGRP:AVB Музыкальные
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:0,RU TV HD
+#EXTGRP:AVB Музыкальные
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:0,1mus.com HD
 #EXTGRP:AVB Музыкальные
 http://rtmp.one.by:2300
