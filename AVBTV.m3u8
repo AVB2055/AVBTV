@@ -176,6 +176,9 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:0,2x2
 #EXTGRP:AVB Развлекательные
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
+#EXTINF:0,Развлекательные
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
 #EXTINF:0,Анекдот ТВ
 #EXTGRP:AVB Развлекательные
 http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836b59ffb8b03a0
