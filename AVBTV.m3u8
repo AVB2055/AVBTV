@@ -16,7 +16,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:0,Россия Культура
 #EXTGRP:AVB Эфирные
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP:AVB Эфирные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
@@ -138,170 +138,20 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 #EXTGRP:AVB Киноканалы
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:0,НТВ Сериал
-#EXTGRP:AVB Развлекательные
+#EXTGRP:AVB Киноканалы
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:0,НТВ Хит
-#EXTGRP:AVB Развлекательные
+#EXTGRP:AVB Киноканалы
 http://tv.ttk.mx:9173
-#EXTINF:0,BCU Russia 90s HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/BCU_Russia_90s/index.m3u8?token=592bf1b895b63e2eb706a69b24fab72bff406218-2362845924-1746053131-1746009931
-#EXTINF:0,BCU СССР HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcusssr/index.m3u8?token=bb8a8234d2bcec0827abcdc07e1834f02b8ff0c7-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Action HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcuaction/video.m3u8?token=d712e4aab00a50ce3395a078ebf39ac7af39e6dc-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Catastrophe HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcucatastrophe/video.m3u8?token=89cbbc0073465c42b0265195be08891ba30ab025-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcufantastic/video.m3u8?token=21292099a68637336a1fc57f8896e49bcc99fc96-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Marvel DC HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcumarvel/video.m3u8?token=4cd67b4f5233b9b57a9288dbe1e0319a17768d18-2362845924-1746053131-1746009931
-#EXTINF:0,BCU FilMystic HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcufilmystic/video.m3u8?token=8efafd468229b64f269d0507da84ca4d41470310-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Kinorating HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcukinorating/video.m3u8?token=6fbe9e602d1858574e1a69341f5d662cc8af7c17-2362845924-1746053131-1746009931
-#EXTINF:0,BCU RUSerial HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcuruserial/video.m3u8?token=d5fbc69ca7db11a88814894e66eefcb1d2adb6b7-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Cinema HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcucinema/video.m3u8?token=9e0ba81652247e269e1b95435437aea05b992f4d-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Cinema+ HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcucinemaplus/video.m3u8?token=a48f59a2d893b0a78651a61d1b3b6f7accdde060-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Survival HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/BCUSurvival/index.m3u8?token=4b426efdce4870d9605b37268ef83707665a71ca-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Cosmo HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcu_cosmo/index.m3u8?token=0c2dec661c701e0ba28704d31efd4a9798cd2a40-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Romantic HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcuromantic/video.m3u8?token=c0044ac7db739483f12242a50287508bce6248ab-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Criminal HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcucriminal/video.m3u8?token=e9ead8da2aeb5d11efd5ed2da4d58d3023ec5eb4-2362845924-1746053131-1746009931
-#EXTINF:0,BCU History HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcuhistory/video.m3u8?token=6d8681a46e19188b9ebd0ee63de445860a57b8b3-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Stars HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/BCUStars/video.m3u8?token=f84e65aeefdc88e04a6aab6ba08cc3a9ae8bdee4-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Russian HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcurussian/video.m3u8?token=83fd9522b8bd72d452ac48ef49ffa2f95cca2cda-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Premiere HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcupremiere/video.m3u8?token=b0c6084c09d4796e36e9061397783462c811fae1-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Кинозал Premiere 1 HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcuprem1/video.m3u8?token=1ac7a8b38b1bb0edcfad3d8c3a05b0f16931e676-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Кинозал Premiere 2 HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcuprem2/video.m3u8?token=6f4b7494c1904d6a6e0a5b33ca4af980a2f1626a-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Кинозал Premiere 3 HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcuprem3/video.m3u8?token=e87dc53a6842be39fb757a616018efc14909c9b0-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Reality HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcuprem4/video.m3u8?token=d5a7800d537f89a1238be3ba9d0ce2c8b99d47c9-2362845924-1746053131-1746009931
-#EXTINF:0,BCU VHS HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcuvhs/video.m3u8?token=163342fc83fb43f167c5f82a8ee095f56f6e3898-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Kids HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcukidshd/video.m3u8?token=dc5f3d99193b9e4d98c2c0c0c9e655c6e2e7d377-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Kids+ HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcukidsplushd/video.m3u8?token=28f3b0e3713b3923a023167b1958d61a5995458f-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Мультсериал HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcumultserial/video.m3u8?token=eeeeae69a0b216584218374169febb2a66e13df2-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Сваты HD
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcusvaty/video.m3u8?token=480e9d46bb039468a57b37231795f19760ec2be6-2362845924-1746053131-1746009931
-#EXTINF:0,BCU Ultra 4K
-#EXTGRP:AVB Киноканалы
-http://srv-3-streaming.iptvin.online:8080/bcu_ultra/video.m3u8?token=7455c59f2f5e5ee6044e3494b3c196c289f17ac1-2362845924-1746053131-1746009931
-#EXTINF:0,555hf.TV HD
-#EXTGRP:AVB Познавательные
-http://srv-2-streaming.iptvin.online:8080/podsekaj_hd/index.m3u8?token=b8d5555dc8f13e34652c00d3b90a27bb9fcca115-2362845924-1746053131-1746009931
-#EXTINF:0,Animal Planet HD
-#EXTGRP:AVB Познавательные
-http://srv-3-streaming.iptvin.online:8080/AnimalPlanetHD/index.m3u8?token=d5976b7fcb829a11698095c4c5fc1a073a6fad6a-2362845924-1746053131-1746009931
-#EXTINF:0,Big Planet HD
-#EXTGRP:AVB Познавательные
-http://srv-1-streaming.iptvin.online:8080/BigPlanet/index.m3u8?token=4e4163d38a359426a7a68037c1ec3f52e88e1cf6-2362845924-1746053131-1746009931
-#EXTINF:0,EPIC HD
-#EXTGRP:AVB Познавательные
-http://srv-2-streaming.iptvin.online:8080/Epic_HD/index.m3u8?token=15ec2f1d976cb5038f4a21f453f72852a1779585-2362845924-1746053131-1746009931
-#EXTINF:0,Fast&FunBox HD
-#EXTGRP:AVB Познавательные
-http://srv-1-streaming.iptvin.online:8080/FastFunBoxHD/index.m3u8?token=429018f446ba831599315f110fb95f715799dd62-2362845924-1746053131-1746009931
-#EXTINF:0,Galaxy TV HD
-#EXTGRP:AVB Познавательные
-http://srv-3-streaming.iptvin.online:8080/Galaxy_hd/index.m3u8?token=ed973cd622f12d29eeee8cd3aa023f30c0294941-2362845924-1746053131-1746009931
-#EXTINF:0,HGTV HD
-#EXTGRP:AVB Познавательные
-http://srv-4-streaming.iptvin.online:8080/HGTV/index.m3u8?token=e31d04788cb93671957543b90b22bb30221ae33e-2362845924-1746053131-1746009931
-#EXTINF:0,Investigation Discovery CEE HD
-#EXTGRP:AVB Познавательные
-http://srv-4-streaming.iptvin.online:8080/ID_Xtra_HD/index.m3u8?token=ac1961f869feb55783ef7948c410b9792da62027-2362845924-1746053131-1746009931
 #EXTINF:0,Nano HD
 #EXTGRP:AVB Познавательные
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,National Geographic HD
-#EXTGRP:AVB Познавательные
-http://srv-3-streaming.iptvin.online:8080/national_geographic_hd/index.m3u8?token=aa287ac6526fee734c7ce46f796216ca04b7bba0-2362845924-1746053131-1746009931
-#EXTINF:0,One Planet HD
-#EXTGRP:AVB Познавательные
-http://srv-1-streaming.iptvin.online:8080/OnePlanetHD/index.m3u8?token=b58a795e381046a6c77e311a2d89c5051aec6b4e-2362845924-1746053131-1746009931
-#EXTINF:0,RTG HD
-#EXTGRP:AVB Познавательные
-http://srv-3-streaming.iptvin.online:8080/RTGhd/video.m3u8?token=1a1af8d125948a31a0c38faa503381f8adfc2d06-2362845924-1746053131-1746009931
-#EXTINF:0,Travel Channel HD
-#EXTGRP:AVB Познавательные
-http://srv-2-streaming.iptvin.online:8080/TravelChannelHD/video.m3u8?token=142c24a1152d103d3e1d5f89ecb86b14235579b1-2362845924-1746053131-1746009931
-#EXTINF:0,Travel+Adventure HD
-#EXTGRP:AVB Познавательные
-http://srv-1-streaming.iptvin.online:8080/travel_adventure_hd/index.m3u8?token=b085001f159b871ab3848052fd4ded90cf86376c-2362845924-1746053131-1746009931
-#EXTINF:0,Travel&Food HD
-#EXTGRP:AVB Познавательные
-http://srv-1-streaming.iptvin.online:8080/Travel&food_HD/index.m3u8?token=f8f26ebd6de7a276d13e335a65117f81d096fdce-2362845924-1746053131-1746009931
-#EXTINF:0,Travelxp TV HD
-#EXTGRP:AVB Познавательные
-http://srv-3-streaming.iptvin.online:8080/TravelXP_HD/index.m3u8?token=db796dd7440b7c72b2c1cd9e5fa296f324de9f9e-2362845924-1746053131-1746009931
 #EXTINF:0,UNIVER HD
 #EXTGRP:AVB Познавательные
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
-#EXTINF:0,365 дней ТВ HD
-#EXTGRP:AVB Познавательные
-http://srv-1-streaming.iptvin.online:8080/365dnej_hd/index.m3u8?token=91fe505ecdd2777ca0ad520d95401a28b7f73e35-2362845924-1746053131-1746009931
-#EXTINF:0,Авто24 HD
-#EXTGRP:AVB Познавательные
-http://srv-6-streaming.iptvin.online:8080/Avto_24_HD/index.m3u8?token=98de8a8cd5a000ddf34d7336658ba539acdeff49-2362845924-1746053131-1746009931
-#EXTINF:0,Авто Плюс HD
-#EXTGRP:AVB Познавательные
-http://srv-2-streaming.iptvin.online:8080/AutoPlusHD/index.m3u8?token=fef1bbcedf49fc680bd9c8f78e6e447fcb4f1769-2362845924-1746053131-1746009931
-#EXTINF:0,Драйв HD
-#EXTGRP:AVB Познавательные
-http://srv-4-streaming.iptvin.online:8080/drajv_hd/index.m3u8?token=61392ab01e7188f40ad8f819a08b0061b3738193-2362845924-1746053131-1746009931
-#EXTINF:0,Криминальное HD
-#EXTGRP:AVB Познавательные
-http://srv-2-streaming.iptvin.online:8080/kriminalnoe_hd/index.m3u8?token=fbe251cbce56b166520e54162b94180f0962a556-2362845924-1746053131-1746009931
 #EXTINF:0,Мир вокруг HD
 #EXTGRP:AVB Познавательные
 http://hls.iptvin.online:2134/channel/3cda2488/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,Моя Планета HD
-#EXTGRP:AVB Познавательные
-http://srv-2-streaming.iptvin.online:8080/my_planet_hd/index.m3u8?token=8e422c47d33ddae45a8ce226459db1261f3ea80a-2362845924-1746053131-1746009931
 #EXTINF:0,НТВ Стиль
 #EXTGRP:AVB Познавательные
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -317,18 +167,9 @@ http://178.163.7.130:4022/udp/234.0.0.98:2000
 #EXTINF:0,Приключения HD
 #EXTGRP:AVB Познавательные
 http://178.163.7.130:4022/udp/234.0.0.193:2000
-#EXTINF:0,Первый Космический HD
-#EXTGRP:AVB Познавательные
-http://srv-6-streaming.iptvin.online:8080/prvyjkosmichskij/video.m3u8?token=bc3983d63f3ab0bd78005b9a73c8be4e309d019a-2362845924-1746053131-1746009931
-#EXTINF:0,Приключения HD
-#EXTGRP:AVB Познавательные
-http://srv-4-streaming.iptvin.online:8080/Priklucheniya_HD/index.m3u8?token=def082fb44c2e60475f9a8b0ea2bf3de16cbe629-2362845924-1746053131-1746009931
 #EXTINF:0,Терра Инкогнита HD
 #EXTGRP:AVB Познавательные
 http://hls.iptvin.online:2134/channel/131d7c28/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,Чемодан ТВ HD
-#EXTGRP:AVB Познавательные
-http://srv-6-streaming.iptvin.online:8080/chemodan_hd/index.m3u8?token=ebb01752a1b0fd2ea95dad6885ae3292a2398ed4-2362845924-1746053131-1746009931
 #EXTINF:0,ЭХО ТВ
 #EXTGRP:AVB Познавательные
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
@@ -416,9 +257,6 @@ http://rtmp.one.by:2300
 #EXTINF:0,Первый музыкальный HD
 #EXTGRP:AVB Музыкальные
 http://rtmp.one.by:1300
-#EXTINF:0,Russian MusicBox HD
-#EXTGRP:AVB Музыкальные
-https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:0,ТНТ Music HD
 #EXTGRP:AVB Музыкальные
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
@@ -464,10 +302,6 @@ http://tv.ttk.mx:9111
 #EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
 #EXTGRP:AVB Спортивные
 http://tv.ttk.mx:9116
-#EXTINF:0,KHL Prime HD
-#EXTGRP:AVB Спортивные
-http://srv-4-streaming.iptvin.online:8080/KHL_TV_HD/index.m3u8?token=b1d99c20f2fbfb9e7e38482ba3a8477bf5e7ca95-2362845924-1746053131-1746009931
-#EXTINF:0,KHL
 #EXTGRP:AVB Спортивные
 http://hls.iptvin.online:2134/channel/n4763ac85/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,ТВ Спорт HD
