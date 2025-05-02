@@ -1193,9 +1193,6 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:0,Ru TV
 #EXTGRP:WEB
-https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-#EXTINF:0,Russian MusicBox HD
-#EXTGRP:WEB
 https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:0,ЖАРА
 #EXTGRP:WEB
@@ -1206,9 +1203,6 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:0,Музыка Первого
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
-#EXTINF:0,О!2
-#EXTGRP:WEB
-http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:0,Страна FM HD
 #EXTGRP:WEB
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -1218,15 +1212,9 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:0,Шансон ТВ
 #EXTGRP:WEB
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:0,Galaxy TV
-#EXTGRP:WEB
-http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:0,Nano HD
 #EXTGRP:WEB
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,RTG
-#EXTGRP:WEB
-http://195.26.83.96:7007/play/a00n/index.m3u8
 #EXTINF:0,RTG HD
 #EXTGRP:WEB
 http://194.143.148.28:8080/RTG_HD/index.m3u8
@@ -1260,9 +1248,6 @@ http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0,Моя Планета
 #EXTGRP:WEB
 http://194.143.148.28:8080/Nauka20/mpegts
-#EXTINF:0,Наша Сибирь
-#EXTGRP:WEB
-https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
 #EXTINF:0,Первый Космический HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
@@ -1353,9 +1338,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0,Твоё ТВ Юмор HD
 #EXTGRP:WEB
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0,Театр
-#EXTGRP:WEB
-http://195.26.83.96:7005/play/16/index.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:WEB
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
@@ -1398,9 +1380,6 @@ http://178.124.152.238:8088/auto24
 #EXTINF:0,Бобёр
 #EXTGRP:WEB
 http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:0,Глазами туриста HD
-#EXTGRP:WEB
-https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
 #EXTINF:0,Доктор
 #EXTGRP:WEB
 http://130.193.73.10:8937/play/a01q
@@ -1485,9 +1464,6 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Радость Моя
 #EXTGRP:WEB
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:0,СТС Kids
-#EXTGRP:WEB
-http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:0,Смайл ТВ HD
 #EXTGRP:WEB
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
