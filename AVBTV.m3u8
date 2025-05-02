@@ -305,9 +305,6 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:0,Радио Шансон ТВ HD
 #EXTGRP:AVB
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:0,Шансон ТВ 
-#EXTGRP:AVB
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:0,Страна FM HD
 #EXTGRP:AVB
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -687,9 +684,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Centralnoe_TV
 #EXTINF:0,Наша Тема
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nasha_Tema
-#EXTINF:0,KBS World
-#EXTGRP:Tricolor
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KBS_World
 #EXTINF:0,TOP SECRET
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Top_secret
@@ -780,9 +774,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
 #EXTINF:0,Русский Корабль
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=russian_ship_HD
-#EXTINF:0,Epic
-#EXTGRP:Tricolor
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Epic_HD
 #EXTINF:0,Пятницкий
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
