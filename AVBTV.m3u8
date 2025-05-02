@@ -1614,3 +1614,84 @@ https://river-1.rutube.ru/hls-vod/WMBPl4ZURIAi9OgbeP8Pzg/1746280335/1846/0x5000c
 #EXTINF:0,4K ULTRA HD
 #EXTGRP:4K VIDEO
 https://river-1.rutube.ru/hls-vod/Dfa7faIWG4rK8z4JP09gBw/1746280239/1816/0x5000c500c897aa45/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160_24688
+
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Action HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11027.m3u8?bw943150461232
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Catastrophe HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11028.m3u8
+#EXTINF:-1 group-title="BCU",BCU Charm HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/18053.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Cinema HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11029.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Cinema+ HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11030.m3u8
+#EXTINF:-1 group-title="BCU",BCU Comedy HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/15026.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Comedy HDR
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11031.m3u8
+#EXTINF:-1 group-title="BCU",BCU Cosmo HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/17021.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Criminal HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11048.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Fantastic HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11032.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU FilMystic HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11033.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU History HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11034.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Kids HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11035.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Kids+ HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11036.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Kinorating HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11037.m3u8?bw943150461232
+#EXTINF:-1 group-title="BCU",BCU Kinozakaz Premiere 4K
+https://taptv.ru/channel/LQAFFA6I56G49639H4/31547.m3u8?bw943150461232
+#EXTINF:-1 group-title="BCU",BCU Little HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/19425.m3u8
+#EXTINF:-1 group-title="BCU",BCU Marvel HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/15025.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Marvel HDR
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11038.m3u8
+#EXTINF:-1 group-title="BCU",BCU Media HD OLD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/15024.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Media HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11043.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Multserial HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11025.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Premiere HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11039.m3u8
+#EXTINF:-1 group-title="BCU",BCU Reality HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/16082.m3u8
+#EXTINF:-1 group-title="BCU",BCU Reality OLD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/16083.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Romantic HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11040.m3u8
+#EXTINF:-1 group-title="BCU",BCU Romantic OLD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/18052.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU RuSerial HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11046.m3u8
+#EXTINF:-1 group-title="BCU",BCU Russia 90s HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/31658.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Russian HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11041.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Stars HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11044.m3u8
+#EXTINF:-1 group-title="BCU",BCU Survival HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/17019.m3u8
+#EXTINF:-1 group-title="BCU",BCU Survival OLD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/17020.m3u8
+#EXTINF:-1 group-title="BCU",BCU TruMotion HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/17054.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU VHS HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11042.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Кинозал Premiere 1 HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11015.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Кинозал Premiere 2 HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11016.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Кинозал Premiere 3 HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11017.m3u8?bw943150461232
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU СССР HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11026.m3u8
+#EXTINF:-1 group-title="BCU" catchup="shift" catchup-days="7",BCU Сваты HD
+https://taptv.ru/channel/LQAFFA6I56G49639H4/11047.m3u8?bw943150461232
