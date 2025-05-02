@@ -474,9 +474,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Vremya
 #EXTINF:0,Т24
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
-#EXTINF:0,ТНВ-Планета
-#EXTGRP:Tricolor
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNV_planeta
 #EXTINF:0,Большая Азия
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Big_Asia
@@ -510,15 +507,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka
 #EXTINF:0,TVMChannel
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TVMChannel
-#EXTINF:0,CCTV-4
-#EXTGRP:Tricolor
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CCTV4
 #EXTINF:0,CGTN Русский
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CGTN_Rus
-#EXTINF:0,CGTN
-#EXTGRP:Tricolor
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CGTN
 #EXTINF:0,Исторический HD
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_20_hd
