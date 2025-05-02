@@ -122,54 +122,6 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:AVB
 hhttp://cdn2.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:0,.red
-#EXTGRP:AVB
-http://31.173.165.29:8000/play/a04z/index.m3u8
-#EXTINF:0,.sci-fi
-#EXTGRP:AVB
-http://130.193.73.10:8937/play/a02q
-#EXTINF:0,Filmbox
-#EXTGRP:AVB
-http://130.193.73.10:8937/play/a03s
-#EXTINF:0,Filmbox Arthouse
-#EXTGRP:AVB
-http://130.193.73.10:8937/play/a03t
-#EXTINF:0,Viasat Kino World
-#EXTGRP:AVB
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF:0,Еврокино
-#EXTGRP:AVB
-http://109.200.130.123:7537/play/a020
-#EXTINF:0,Киноман
-#EXTGRP:AVB
-http://178.212.71.253:8000/play/66/index.m3u8
-#EXTINF:0,Кинопоказ HD
-#EXTGRP:AVB
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
-#EXTINF:0,Комедия
-#EXTGRP:AVB
-http://130.193.73.10:8937/play/a03k
-#EXTINF:0,Любимое кино
-#EXTGRP:AVB
-http://130.193.73.10:8937/play/a037
-#EXTINF:0,НСТ
-#EXTGRP:AVB
-http://130.193.73.10:8937/play/a03c
-#EXTINF:0,Видеокассета VHS
-#EXTGRP:AVB
-https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
-#EXTINF:0,Cinema
-#EXTGRP:AVB
-http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:0, Видеокассета Киномир
-#EXTGRP:AVB
-https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-#EXTINF:0,  Иллюзион+
-#EXTINF:0,SHOT TV
-#EXTGRP:WEB
-http://109.200.130.123:7537/play/a02b
-#EXTGRP:AVB
-http://31.173.165.29:8000/play/a04l/index.m3u8
 #EXTINF:0,Nano HD
 #EXTGRP:AVB
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
@@ -206,9 +158,6 @@ http://hls.iptvin.online:2134/channel/131d7c28/index.m3u8?q=cebe60f0fe6458e026d8
 #EXTINF:0,ЭХО ТВ
 #EXTGRP:AVB
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0,Доктор Достоевский
-#EXTGRP:AVB
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0,Живая Природа HD
 #EXTGRP:AVB
 http://tv.ttk.mx:9066
@@ -221,9 +170,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
 #EXTINF:0,Анекдот ТВ
 #EXTGRP:AVB
 http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836b59ffb8b03a0
-#EXTINF:0,Китай ТВ HD
-#EXTGRP:AVB
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:0,Перец
 #EXTGRP:AVB
 http://213.91.178.133:8000/play/a0ay
