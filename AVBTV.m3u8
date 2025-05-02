@@ -73,7 +73,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:0,Вместе-РФ
 #EXTGRP:AVB
-http://178.212.71.253:8000/play/84/index.m3u8
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:0,Соловьев.Live
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
