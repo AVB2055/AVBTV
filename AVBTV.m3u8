@@ -225,7 +225,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 #EXTGRP:AVB
 https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 #EXTINF:0,Fresh HD
-#EXTGRP:Музыкальные
+#EXTGRP:AVB
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:0,House Floor
 #EXTGRP:AVB
@@ -249,13 +249,13 @@ https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTGRP:AVB
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:0,NOW 70s
-#EXTGRP:Музыкальные
+#EXTGRP:AVB
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0,NOW 80s
-#EXTGRP:Музыкальные
+#EXTGRP:AVB
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0,NOW 90s
-#EXTGRP:Музыкальные
+#EXTGRP:AVB
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0,PMC Royale
 #EXTGRP:AVB
