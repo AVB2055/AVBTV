@@ -1574,8 +1574,6 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTGRP:WEB
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:0,Солнце
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/7d/e0/7de0c641a0e47a2fc645444ba8c1b114.jpg" tvg-id="simpleTVFakeEpgId",Аляска 4K 60fps
-https://river-1.rutube.ru/hls-vod/SJBKTHfs4wPa8WbwR0RFHw/1746887170/1889/0x5000c500e538249f/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160_26582
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/0f/c5/0fc5980685a33c9259252135090c2a7a.jpg" tvg-id="simpleTVFakeEpgId",Антарктика В 4К
 https://river-1.rutube.ru/hls-vod/H5jpYMNkEzUMPOTfGx_XaA/1746887171/1770/0x5000c500c8b71440/43d466c1d81b44f895cad3ca5ea028e9.mp4.m3u8?i=3840x2160_10515
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/32/0b/320b1080d4ee71d56a021c5d39dc4fd0.jpg" tvg-id="simpleTVFakeEpgId",Греция 4K
@@ -1616,10 +1614,6 @@ https://river-1.rutube.ru/hls-vod/RmHBkWVULiAPXF7-hzN1Ag/1746887188/1798/0x5000c
 https://river-1.rutube.ru/hls-vod/5hIWRrZz371kubRRn6tN0w/1746887189/2161/0x5000c500e72baa8b/18ad4a3a69134dacb378d14d66138be8.mp4.m3u8?i=3840x2160_38998
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/b3/3d/b33db6df61ad9fc77e54f98f03d8fc9d.jpg" tvg-id="simpleTVFakeEpgId",Манила в 4K
 https://river-1.rutube.ru/hls-vod/3l0X1CBNWPDbUDH3yTypuQ/1746887190/1776/0x5000c500d6d906ed/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160_20784
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/a7/13/a7139249b7fe0bf2b2ddffbbaba6a913.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_tlc-blk",Болгария 4K
-https://river-1.rutube.ru/hls-vod/yGSnqj3pnqCcf-r0YmdvCw/1746887191/1895/0x5000c500e53979ec/b527c6a1a6084c1ba9202bb8b607f90d.mp4.m3u8?i=3840x2160_25379
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/5a/89/5a894e03615d859ca15497ca636e79e2.jpg" tvg-id="simpleTVFakeEpgId",Перу 4K 60fps
-https://river-1.rutube.ru/hls-vod/RfHHC2S6t0S2XCEIBpkDAg/1746887192/1875/0x5000c500e53957cd/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160_26231
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/ec/6e/ec6eb7f0891bcf8f4ad9699fcfbdb205.jpg" tvg-id="simpleTVFakeEpgId",Кения В 4К
 https://river-1.rutube.ru/hls-vod/yG7jWVx-fE5qxAgYbQOd2Q/1746887193/1816/0x5000c500c91c4b8c/378db7d4f4ad4aafbb4535e9125ce221.mp4.m3u8?i=3840x2160_15323
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/bf/63/bf63ccc22cd2bacdefb8b27571dff50b.jpg" tvg-id="simpleTVFakeEpgId",Бора-Бора в 4К
@@ -1636,8 +1630,6 @@ https://river-1.rutube.ru/hls-vod/_EAkYPSGDMrDZfJowK6wxA/1746887199/1796/0x5000c
 https://river-1.rutube.ru/hls-vod/qNPSltir5nc2scjjEV2Bng/1746887200/1768/0x5000c500e34c9a66/2a52b66f92314c188a9781d462cf8b3e.mp4.m3u8?i=3840x2160_16178
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/72/6a/726a9243184bbfe47c42763b374a1f25.jpg" tvg-id="simpleTVFakeEpgId",Мальдивы в 4К
 https://river-1.rutube.ru/hls-vod/yH8ZI_7HRfGqEP_1q6El8Q/1746887201/1846/0x5000c500c7262c36/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160_23873
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/5e/5a/5e5a9cb6a10424f8ede9adc9848680c8.jpg" tvg-id="simpleTVFakeEpgId",Дубай в 4K
-https://river-1.rutube.ru/hls-vod/Rd7M4BUMCQ0zCDmkxkPfLw/1746887202/2462/0x5000c500e8828a7e/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160_23768
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/14/98/14988617a7aed21381889ab5ceb7b1d9.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_fashion-one",Германия в 4K
 https://river-1.rutube.ru/hls-vod/aY4L8EWlGa1LdCAozdOTIg/1746887203/1776/0x5000c500c92079c7/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160_9532
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/1d/b4/1db4116552339ca6a936c366f7582b38.jpg" tvg-id="48510dc23fd840369a4c540ac0e836b3_kultura",Россия В 4К
