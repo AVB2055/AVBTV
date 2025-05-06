@@ -128,52 +128,6 @@ http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:AVB
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:0,Fan HD
-#EXTGRP:AVB
-http://hls.goodgame.ru:8080/hls/157239.m3u8
-#EXTINF:0,IPTVPLAY PROMO HD
-#EXTGRP:AVB
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,IPTVPLAY МультСказки HD
-#EXTGRP:AVB
-http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,IPTVPLAY ПАМЯТЬ HD
-#EXTGRP:AVB
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,IPTVPLAY УЖАСТИК HD
-#EXTGRP:AVB
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,IPTVPLAY ФАНТАСТИКА HD
-#EXTGRP:AVB
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,IPTVPLAY ВЕДЬМАК HD
-#EXTGRP:AVB
-http://92.53.64.197:5050/IPTVPLAYVEDMAK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО HD
-#EXTGRP:AVB
-http://92.53.64.197:5050/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:0,KINOJAM 1
-#EXTGRP:AVB
-http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/7260/index.m3u8
-#EXTINF:0,KINOJAM 2
-#EXTINF:0,Viasat Kino World
-#EXTGRP:AVB
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF:0,Видеокассета VHS
-#EXTGRP:AVB
-http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:0,Космос ТВ
-#EXTGRP:AVB
-http://178.124.152.238:8088/cinema
-#EXTINF:0,СТРАХ FHD (2.0)
-#EXTGRP:AVB
-http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/31720/index.m3u8
-#EXTINF:0,СТРАХ HD
-#EXTGRP:AVB
-http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/11069/index.m3u8
-#EXTINF:0,Фантастика FHD (2.0)
-#EXTGRP:AVB
-http://2f7b11c9.edemist.com/iptv/N8HKZ3DNUQKK2D/31722/index.m3u8
 #EXTINF:0,360 HD
 #EXTGRP:AVB
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
