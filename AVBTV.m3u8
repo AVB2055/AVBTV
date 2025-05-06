@@ -179,9 +179,6 @@ http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836
 #EXTINF:0,КВН ТВ
 #EXTGRP:AVB
 http://hls.iptvin.online:2134/channel/39c50b9a/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
-#EXTINF:0,Конгресс ТВ HD
-#EXTGRP:AVB
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:0,Перец
 #EXTGRP:AVB
 http://213.91.178.133:8000/play/a0ay
@@ -266,9 +263,6 @@ https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:0,Oxygen Music
 #EXTGRP:AVB
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:0,Pulse Rock TV
-#EXTGRP:AVB
-https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?token=27be3ad2-9e96-4704-9d1c-a14e39190f47&streamSessionId=e06bc853-bdf6-40a7-bd8b-1297e2edbf85&code=TELEATLANTIC&expires=1728345600000&playUrl=true&ctrl=34324b5f8f340cefa3c1da57608b92edc43a0146cfea4ec23f598d0f1d5425a88be9fc02fab522f5318ca0074bf2cb1eac38938bed55763bd6bc0a24854a140d
 #EXTINF:0,QUEER
 #EXTGRP:AVB
 http://stream.queerhd.com:4444/live/queerhd/playlist.m3u8
