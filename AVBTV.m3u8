@@ -116,9 +116,6 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:0,Ратник HD
 #EXTGRP:AVB
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:0,Freedom UA HD
-#EXTGRP:AVB
-http://hls.iptvin.online:2134/channel/n2a88e1f3/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,Белсат HD
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
@@ -146,9 +143,6 @@ http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:0,Лекторий Достоевский
 #EXTGRP:AVB
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:0,Мир вокруг HD
-#EXTGRP:AVB
-http://hls.iptvin.online:2134/channel/3cda2488/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,Неизвестная Россия
 #EXTGRP:AVB
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -158,9 +152,6 @@ http://178.163.7.130:4022/udp/234.0.0.98:2000
 #EXTINF:0,Первый Космический HD
 #EXTGRP:AVB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
-#EXTINF:0,Терра Инкогнита HD
-#EXTGRP:AVB
-http://hls.iptvin.online:2134/channel/131d7c28/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,ЭХО ТВ
 #EXTGRP:AVB
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
@@ -178,7 +169,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
 http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836b59ffb8b03a0
 #EXTINF:0,КВН ТВ
 #EXTGRP:AVB
-http://hls.iptvin.online:2134/channel/39c50b9a/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
+http://178.163.6.92:4022/udp/234.0.0.233:2000
 #EXTINF:0,Перец
 #EXTGRP:AVB
 http://213.91.178.133:8000/play/a0ay
@@ -218,15 +209,9 @@ https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:0,Afrobeats TV
 #EXTGRP:AVB
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:0,California Music Channel
-#EXTGRP:AVB
-https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2/high.m3u8
 #EXTINF:0,Dance TV Chillaf
 #EXTGRP:AVB
 https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
-#EXTINF:0,Dance TV Dance
-#EXTGRP:AVB
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:0,Dance TV Deep House District
 #EXTGRP:AVB
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
@@ -266,21 +251,12 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:0,QUEER
 #EXTGRP:AVB
 http://stream.queerhd.com:4444/live/queerhd/playlist.m3u8
-#EXTINF:0,The Ultimate Music Channel [us]
-#EXTGRP:AVB
-https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
 #EXTINF:0,Trace Urban HD
 #EXTGRP:AVB
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:0,USA Rock Modern 2020
-#EXTGRP:AVB
-http://ky-iptv.com:80/Geneva123/Geneva321/177121
 #EXTINF:0,1HD
 #EXTGRP:AVB
 http://31.210.208.171:8080/1hd/index.m3u8?token=+W2MSER
-#EXTINF:0,BRIDGE Deluxe
-#EXTGRP:AVB
-http://hls.iptvin.online:2134/channel/n538fb90f/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,RU TV HD
 #EXTGRP:AVB
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
@@ -338,13 +314,9 @@ http://31.210.208.171:8080/khl_hd/index.m3u8?token=+W2MSER
 #EXTINF:0,KHL Prime HD
 #EXTGRP:AVB
 http://178.124.179.122:8088/KHL_HD/index.m3u8
-#EXTINF:0,KHL Live
-#EXTGRP:AVB
-http://hls.iptvin.online:2134/channel/n4763ac85/index.m3u8?q=cebe60f0fe6458e026d8650218b856ca
 #EXTINF:0,Старт ТРИУМФ HD
 #EXTGRP:AVB
 https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-
 #EXTINF:0,Карусель Int HD
 #EXTGRP:AVB
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
@@ -363,9 +335,6 @@ http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:0,Baraza TV Deep House
 #EXTGRP:AVB
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:0,Baraza TV Relaxing
-#EXTGRP:AVB
-https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8#EXTINF:0,CLASSICAL HARMONY HD
 #EXTGRP:AVB
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:0,HolidayScapes
