@@ -175,7 +175,7 @@ http://178.163.6.92:4022/udp/234.0.0.233:2000
 http://213.91.178.133:8000/play/a0ay
 #EXTINF:0,Сарафан
 #EXTGRP:AVB
-http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
+http://tv.ttk.mx:9044
 #EXTINF:0,СТС Love
 #EXTGRP:AVB
 http://178.212.71.253:8002/play/a00r/index.m3u8
