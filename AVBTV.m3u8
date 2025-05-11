@@ -1439,7 +1439,6 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:0,Смайл ТВ HD
 #EXTGRP:WEB
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:0,Солнце
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/0f/c5/0fc5980685a33c9259252135090c2a7a.jpg" tvg-id="simpleTVFakeEpgId",Антарктика В 4К
 https://river-1.rutube.ru/hls-vod/H5jpYMNkEzUMPOTfGx_XaA/1746887171/1770/0x5000c500c8b71440/43d466c1d81b44f895cad3ca5ea028e9.mp4.m3u8?i=3840x2160_10515
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rutube.ru/video/32/0b/320b1080d4ee71d56a021c5d39dc4fd0.jpg" tvg-id="simpleTVFakeEpgId",Греция 4K
