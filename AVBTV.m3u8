@@ -248,9 +248,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:0,Minimal / Deep Tech
 #EXTGRP:AVB
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:0,Oxygen Music
-#EXTGRP:AVB
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:0,QUEER
 #EXTGRP:AVB
 http://stream.queerhd.com:4444/live/queerhd/playlist.m3u8
