@@ -1004,15 +1004,9 @@ http://130.193.73.10:8937/play/a02r
 #EXTINF:0,Romance
 #EXTGRP:WEB
 http://130.193.73.10:8937/play/a01o
-#EXTINF:0,SHOT TV
-#EXTGRP:WEB
-http://109.200.130.123:7537/play/a02b
 #EXTINF:0,Start World
 #EXTGRP:WEB
 http://95.156.76.230:33001/udp/230.4.34.66:1234
-#EXTINF:0,Viasat Kino World
-#EXTGRP:WEB
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:0,Viju TV1000
 #EXTGRP:WEB
 http://130.193.73.10:8937/play/a02s
@@ -1034,9 +1028,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premiu
 #EXTINF:0,Душевное HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
-#EXTINF:0,Еврокино
-#EXTGRP:WEB
-http://109.200.130.123:7537/play/a020
 #EXTINF:0,Кино 1 Int
 #EXTGRP:WEB
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -1157,9 +1148,6 @@ http://130.193.73.10:8937/play/a026
 #EXTINF:0,Univer HD
 #EXTGRP:WEB
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:0,Viju Nature
-#EXTGRP:WEB
-http://109.70.186.70:9090/udp/239.185.1.7:1234
 #EXTINF:0,В мире животных HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
@@ -1298,9 +1286,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
 #EXTINF:0,Хоккей ТВ HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
-#EXTINF:0,Viju Explore
-#EXTGRP:WEB
-http://109.70.186.70:9090/udp/239.185.1.5:1234
 #EXTINF:0,АВТО 24
 #EXTGRP:WEB
 http://178.124.152.238:8088/auto24
