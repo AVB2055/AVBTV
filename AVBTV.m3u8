@@ -143,9 +143,6 @@ http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:0,RTG HD
 #EXTGRP:AVB
 http://194.143.148.28:8080/RTG_HD/index.m3u8
-#EXTINF:0,Лекторий Достоевский
-#EXTGRP:AVB
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0,Неизвестная Россия
 #EXTGRP:AVB
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -172,7 +169,7 @@ http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
 #EXTINF:0,Анекдот ТВ
 #EXTGRP:AVB
-http://hls.iptvin.online:2134/channel/51646a66/index.m3u8?q=0430eeaaa069d270a836b59ffb8b03a0
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
 #EXTINF:0,КВН ТВ
 #EXTGRP:AVB
 http://178.163.6.92:4022/udp/234.0.0.233:2000
@@ -250,7 +247,7 @@ http://stream.queerhd.com:4444/live/queerhd/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,1HD
 #EXTGRP:AVB
-http://31.210.208.171:8080/1hd/index.m3u8?token=+W2MSER
+http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:0,RU TV HD
 #EXTGRP:AVB
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
@@ -302,9 +299,6 @@ http://tv.ttk.mx:9116
 #EXTINF:0,Матч Премьер
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:0,KHL HD
-#EXTGRP:AVB
-http://31.210.208.171:8080/khl_hd/index.m3u8?token=+W2MSER
 #EXTINF:0,KHL Prime HD
 #EXTGRP:AVB
 http://178.124.179.122:8088/KHL_HD/index.m3u8
@@ -908,9 +902,6 @@ http://178.212.71.253:8000/play/5/index.m3u8
 #EXTINF:0,Ратник HD
 #EXTGRP:WEB
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:0,Рен ТВ
-#EXTGRP:WEB
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:0,Рен ТВ HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
@@ -962,9 +953,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Соловьев.Live HD
 #EXTGRP:WEB
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,.sci-fi
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a02q
 #EXTINF:0,1Filmax Фантастика
 #EXTGRP:WEB
 http://hls.goodgame.ru:8080/hls/204708.m3u8
@@ -974,9 +962,6 @@ http://hls.goodgame.ru:8080/hls/204717.m3u8?bw943150461232
 #EXTINF:0,312 Кино
 #EXTGRP:WEB
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:0,Amedia 1
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a02m
 #EXTINF:0,Amedia Premium HD
 #EXTGRP:WEB
 http://195.18.23.20:8000/play/3/index.m3u8
@@ -992,30 +977,9 @@ http://194.158.222.36:6086
 #EXTINF:0,FAN HD
 #EXTGRP:WEB
 http://hlss.goodgame.ru/hls/157239.m3u8
-#EXTINF:0,Filmbox
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a03s
-#EXTINF:0,Filmbox Arthouse
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a03t
-#EXTINF:0,FlixSnip
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a02r
-#EXTINF:0,Romance
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a01o
 #EXTINF:0,Start World
 #EXTGRP:WEB
 http://95.156.76.230:33001/udp/230.4.34.66:1234
-#EXTINF:0,Viju TV1000
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a02s
-#EXTINF:0,Viju TV1000 Action
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a02t
-#EXTINF:0,Viju TV1000 Русское
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a02u
 #EXTINF:0,День Победы HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
@@ -1040,15 +1004,6 @@ http://178.212.71.253:8000/play/66/index.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
-#EXTINF:0,Комедия
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a03k
-#EXTINF:0,Любимое кино
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a037
-#EXTINF:0,НСТ
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a03c
 #EXTINF:0,НТВ Сериал
 #EXTGRP:WEB
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
@@ -1067,15 +1022,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
 #EXTINF:0,Премиальное HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
-#EXTINF:0,Ретро
-#EXTGRP:WEB
-http://194.158.218.123:8880/Retrotv/index.m3u8
-#EXTINF:0,Русский бестселлер
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a03l
-#EXTINF:0,Русский детектив
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a03o
 #EXTINF:0,Русский роман
 #EXTGRP:WEB
 http://178.212.71.253:8000/play/42/index.m3u8
@@ -1109,9 +1055,6 @@ https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0,Retro Music TV
 #EXTGRP:WEB
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,Ru TV
-#EXTGRP:WEB
-https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:0,ЖАРА
 #EXTGRP:WEB
 http://178.212.71.253:8000/play/141/index.m3u8
@@ -1142,9 +1085,6 @@ http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:0,Top Secret
 #EXTGRP:WEB
 http://178.124.152.238:8088/sovsec
-#EXTINF:0,Travel+Adventure
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a026
 #EXTINF:0,Univer HD
 #EXTGRP:WEB
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
@@ -1166,9 +1106,6 @@ http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:0,Первый Космический HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
-#EXTINF:0,Поехали!
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a01n
 #EXTINF:0,Просвещение
 #EXTGRP:WEB
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
@@ -1199,9 +1136,6 @@ http://178.212.71.253:8000/play/97/index.m3u8
 #EXTINF:0,Девятка HD
 #EXTGRP:WEB
 http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:0,Домашний
-#EXTGRP:WEB
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:0,Домашний Int
 #EXTGRP:WEB
 http://178.124.152.238:8088/dom
@@ -1214,9 +1148,6 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:0,Китай ТВ HD
 #EXTGRP:WEB
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:0,НТВ Право
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a01s
 #EXTINF:0,Перец
 #EXTGRP:WEB
 https://cdn2.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
@@ -1268,15 +1199,9 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:0,Матч!
 #EXTGRP:WEB
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:0,Мир баскетбола
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a04m
 #EXTINF:0,Мяч HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
-#EXTINF:0,Старт
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a04l
 #EXTINF:0,Старт Триумф HD
 #EXTGRP:WEB
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
@@ -1289,21 +1214,12 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
 #EXTINF:0,АВТО 24
 #EXTGRP:WEB
 http://178.124.152.238:8088/auto24
-#EXTINF:0,Доктор
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a01q
-#EXTINF:0,Домашние животные
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a02d
 #EXTINF:0,Еда
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:0,Загородная Жизнь
 #EXTGRP:WEB
 http://185.57.68.33/40/mpegts
-#EXTINF:0,Здоровое ТВ
-#EXTGRP:WEB
-http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:0,Кулинар ТВ
 #EXTGRP:WEB
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
@@ -1331,18 +1247,12 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:0,Тонус
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
-#EXTINF:0,Усадьба
-#EXTGRP:WEB
-http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:0,Ani
 #EXTGRP:WEB
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:WEB
 http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
-#EXTINF:0,Da Vinci
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a014
 #EXTINF:0,Детский мир
 #EXTGRP:WEB
 http://178.124.152.238:8088/detmir
@@ -1361,9 +1271,6 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:0,Мультимузыка
 #EXTGRP:WEB
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
-#EXTINF:0,О!
-#EXTGRP:WEB
-http://130.193.73.10:8937/play/a016
 #EXTINF:0,Пингвин
 #EXTGRP:WEB
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
