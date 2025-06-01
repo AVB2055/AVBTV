@@ -1144,7 +1144,7 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:0,Перец
 #EXTGRP:WEB
-https://cdn2.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
+http://178.124.152.238:8088/perec
 #EXTINF:0,Продвижение
 #EXTGRP:WEB
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
