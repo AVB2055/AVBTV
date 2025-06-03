@@ -305,9 +305,6 @@ http://178.124.179.122:8088/KHL_HD/index.m3u8
 #EXTINF:0,Старт ТРИУМФ HD
 #EXTGRP:AVB
 https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-#EXTINF:0,Карусель 
-#EXTGRP:AVB
-https://live-stream-12.ott.tricolor.tv/live/live/karusel/hls_enc/karusel-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
 #EXTINF:0,Мульт HD
 #EXTGRP:AVB
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
@@ -325,7 +322,7 @@ http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Rossia_1_0_hd
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_k
 #EXTINF:0,Россия-24
 #EXTGRP:Tricolor
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moskva24
@@ -346,7 +343,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNT4
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
 #EXTINF:0,СТС HD
 #EXTGRP:Tricolor
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
+http://cdn.admuspeh.my/8005/video.m3u8?token=FKfLUSpbhRvsjpqM
 #EXTINF:0,ЗВЕЗДА
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=zvezda_hd
@@ -595,7 +592,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
 #EXTINF:0,МИР
 #EXTGRP:Tricolor
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Mir_HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:0,РБК
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RBK_TV
@@ -902,9 +899,6 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:0,Рен ТВ HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
-#EXTINF:0,Рен ТВ Int HD
-#EXTGRP:WEB
-http://er-cdn.ertelecom.ru/os/video/hls/d8a8d3d5b4560de33d00abfc6f4112d199bd9d1370753ceb762e533505174890c318ff2df7833a1dbdb2d8813a814c8cb99d4f449d8e9adfd38471386d0df64e2d62b8f2220384247745d80a04e2a22ecdc13d8ca0b2c0600bb09dd359ebe48f5fcf825598fc25f46c108801059a7c28f99b2002da80ed854dd5050aedf6e1708845e3a22785e9a66da9974db141f15d0ecfdeca23bd96095b6a3b90f4a23351d46a52262de1b108fd045bfc5a8d5ea02e06154dbd78a5f1d14e84df093de200c731cf9aadd4204f568fe8e5366ba78e3cf53ed7b4cd56b240423a8bc9f4164aa6e27e729d5404a2e1f623e21a6d56593805e980703820003cff00b65c09ad3d2c0f877b798650777d2fff1b375afa156b78e452a0afb841ee8b096095a86658f129e7e28a656da0754bfb79e330d582cf6d11014f56af38850f8c9d52eebbb984cf5481dcc16edf86229863890d307a/playlist.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:WEB
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
@@ -1250,9 +1244,6 @@ http://178.124.152.238:8088/detmir
 #EXTINF:0,Детское кино Int
 #EXTGRP:WEB
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0,Карусель Int HD
-#EXTGRP:WEB
-https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:0,Мульт HD
 #EXTGRP:WEB
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
