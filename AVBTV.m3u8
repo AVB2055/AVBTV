@@ -101,7 +101,7 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 #EXTINF:0,Красная линия
 #EXTGRP:AVB
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:0,ПРНК
+#EXTINF:0, Первый Российский Национальный канал
 #EXTGRP:AVB
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:0,Ратник HD
