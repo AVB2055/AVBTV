@@ -1253,849 +1253,1803 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:0,Смайл ТВ HD
 #EXTGRP:WEB
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Очи (2025)
+#EXTINF:0,ХИТ: Третье дело (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/AXpYsqofS-7w834IxHmYag/1749932145/2720/0x5000039ce85b8631/ae6d924aa46c47ca9256fbbb0fb1c24e.mp4.m3u8?i=1920x1080_3879
+#EXTINF:0,Отречение (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/MfcPXYCg8I4ERXUYa0xO9A/1749932145/2544/0x5000039ce83bb48d/34b4e1b4d7ca4c16adb7a848c5df1201.mp4.m3u8?i=848x456_566
+#EXTINF:0,Игра вдовы (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/0IGgcK8gQmfGlIh5SXAseQ/1749932146/2644/0x5000039ce838d655/e3eb00b0851f4f369a4ff31af609b231.mp4.m3u8?i=848x424_666
+#EXTINF:0,Полный нокаут (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/aqYaAJ57CFhZdGhRJSWywQ/1749932147/2722/0x5000039ce8694d79/6bd7a2a0edb443e082873ade4d24d663.mp4.m3u8?i=1920x1080_2683
+#EXTINF:0,Хищник: Убийца убийц (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ZviLvAOOcrenksc1h6iC8g/1749932148/2217/0x5000c500e74f50b5/ff4b58dde8794980b9652240b1060e5e.mp4.m3u8?i=1920x1080_2676
+#EXTINF:0,Затерявшись в звёздах (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/pau6380-JAMFAc9uNvmPVg/1749932149/2668/0x5000039ce83bf771/3cb4eaf87f874b048d8a14e297784881.mp4.m3u8?i=1920x1080_2679
+#EXTINF:0,На вершине горы (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/uQLswqcFfmd6UCfDZVdbUg/1749932150/2217/0x5000c500e7510e1f/aeb47d9ac02844dfa10c865fe9b67923.mp4.m3u8?i=1920x1080_3347
+#EXTINF:0,Улица страха: Королева выпускного (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/gUfiQs9UNAvx7XuokzLavA/1749932150/2684/0x5000039ce838b7a9/52067283c4a041089c3f1b7eb1bd5581.mp4.m3u8?i=1920x1080_2769
+#EXTINF:0,Розарио (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/_kuvqfEretmEaVpWCEMONg/1749932151/2722/0x5000039ce833afb1/63d86bb2bb4947fdb01fdb1119760eae.mp4.m3u8?i=1920x960_1659
+#EXTINF:0,Шальная пуля 3 (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/A6XdpLqsdXrlqPu_ViWr4g/1749932152/2518/0x5000039ce868e7e5/e0a54361772a40c089cd6f3dd86601b7.mp4.m3u8?i=1920x1080_2875
+#EXTINF:0,Мандейн (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ovtA-u9tFDOPad1iFusmPA/1749932153/2682/0x5000039ce839b571/4229d20e7a4c42c4803c04498c255228.mp4.m3u8?i=1920x960_2583
+#EXTINF:0,Румпельштильцхен (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/6NWrhHEpynzkbxoScTObdQ/1749932154/2548/0x5000039ce8401725/d77722b7c5fa4b8b952da7df5849a157.mp4.m3u8?i=1440x1080_1337
+#EXTINF:0,Грешники (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/1ZLKJsv2QuIUJu9RmzQleA/1749932155/2616/0x5000039ce83aa9e1/a4d69a9d22aa4eaa9153b2423ecb8e17.mp4.m3u8?i=3840x2160_5600
+#EXTINF:0,Миссия невыполнима: Финальная расплата (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/8zH24b3iCPNuFKjcm3VODw/1749932156/2692/0x5000039ce83bf195/cfc77090ade24f148df1497716c35b02.mp4.m3u8?i=1920x1080_3480
+#EXTINF:0,Восьмой день (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/_-dVtJ0DjEF2gY5xQbLAJA/1749932157/2668/0x5000039ce83b9cf9/2ef657633b204cf6aac8e881f7232261.mp4.m3u8?i=1920x800_1666
+#EXTINF:0,Источник вечной молодости (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Wgc_ngu6bQ47EsNh2JBf2Q/1749932157/2504/0x5000039ce8706d15/56fb7e5648474830b4a18c89b049ecc7.mp4.m3u8?i=3840x1608_6167
+#EXTINF:0,Оловянный солдатик (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/x0HKGQEvj8SCVPlRL4JZOg/1749932158/2644/0x5000039ce838cd2d/88da8108ae0d4c559942203296117963.mp4.m3u8?i=1920x800_3956
+#EXTINF:0,Попай-душегуб (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/WT-pRuepxh18KWsqLRJiYg/1749932159/2674/0x5000039ce863647d/1bb3590131524a0a9a84078c6578f4fd.mp4.m3u8?i=1920x816_1303
+#EXTINF:0,Восьмой день (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/-uth6gflbudJhYclRH6sDw/1749932160/2604/0x5000039ce8639341/d53b07e58f9846ea87bd224e34b38fc9.mp4.m3u8?i=1920x800_1666
+#EXTINF:0,Дожить до рассвета (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/aXQBKRSvhGc_vjlLQdTMTg/1749932161/2183/0x5000c500e75022fb/863686e8761b461e94d4aa12d18fbdaf.mp4.m3u8?i=1920x1040_1802
+#EXTINF:0,Любовь навеки (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/h4sVeWrzRcqomEAcd2byhg/1749932162/2672/0x5000039ce839b549/ccf14a1516bb458a95c39d7c46f82249.mp4.m3u8?i=1920x1080_3218
+#EXTINF:0,Спрей от зомби (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/irDv6CKmgRAJh4jrNX1t9w/1749932163/2223/0x5000c500e6969654/b1eec09048e946aba41f067311e1a583.mp4.m3u8?i=1920x816_1701
+#EXTINF:0,Взрыв на Синкансэне (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/FURNXNFpa0H1UdMhMmbz2g/1749932164/2706/0x5000039ce8635fe9/96b92f78aacb4e12913f0b8445cbf974.mp4.m3u8?i=1920x1080_3121
+#EXTINF:0,Мания контроля (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/3xpSCe3T-Mx-nXIHj4YYbQ/1749932164/2690/0x5000039ce8687cb1/9bdc82f786b04bfc986e1f14b9982a20.mp4.m3u8?i=1920x1080_1435
+#EXTINF:0,Человек без прошлого (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/vana9CKqyR7O2kZP00XKyw/1749932166/2696/0x5000039ce8636b1d/7767cc0f027d40b8b86b3b48511c536d.mp4.m3u8?i=1920x800_2067
+#EXTINF:0,Громовержцы (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/2b6z9KO_KJ2EpfDoBFM8Gw/1749932167/2630/0x5000039ce839aaed/dbd91ac989b4486e9a095b3e2863ca4c.mp4.m3u8?i=1920x1080_1916
+#EXTINF:0,Дыхание шторма (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/JMqE9DVu8HoLEZiSWGJlvg/1749932167/2736/0x5000039ce863f7a5/700dbdbfd17a4a3d964dc3feebe1b36a.mp4.m3u8?i=3840x1600_7570
+#EXTINF:0,Бабули (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ebiP8PZHkgbP4bIIYcKuWw/1749932168/2692/0x5000039ce83be8e9/a326c60568f849f8b2b5068a4e779e48.mp4.m3u8?i=3840x2160_4844
+#EXTINF:0,Minecraft в кино (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Nt-qGoEWAX7HB1xPjEWkmg/1749932169/2590/0x5000039ce83a1499/39550c841d614eb4b4f5d47f9a8c5e62.mp4.m3u8?i=1920x1080_4212
+#EXTINF:0,Белоснежка (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/_ZSywYFlKSD7xyh2dXxrAQ/1749932170/2686/0x5000039ce838ccfd/67bc3c50fa7c468aa45277bc0b99beb4.mp4.m3u8?i=1920x1040_4900
+#EXTINF:0,Мудрые парни (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/4FzF1u3AxWDSsmlOozOPCA/1749932171/2580/0x5000039ce862ace1/e2c4feaa122c465e9e92b98b38baa7cb.mp4.m3u8?i=1920x1080_1845
+#EXTINF:0,Ещё одна простая просьба (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/V5_yX9s54042iKHOoVIgsg/1749932171/2702/0x5000039ce86942d1/cf58f904a8b14ff49a7a46cd0458dd7b.mp4.m3u8?i=3840x1920_9915
+#EXTINF:0,Судный день (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/7TA4I7rExxzpmw4xJV2niw/1749932172/2648/0x5000039ce861e065/57ca19891d2a4d26b5884e8b11bc7877.mp4.m3u8?i=1920x800_1640
+#EXTINF:0,День расплаты (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/cYn3RcgfEn5ZaDK8sUWPSw/1749932173/2686/0x5000039ce838d255/30661088a46a493994ffce78860a7e8c.mp4.m3u8?i=1920x1080_1722
+#EXTINF:0,Зов пустоты (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/NjzGe-VCj1P7ZbuIgDxdSw/1749932174/2652/0x5000039ce87033dd/5e9ad49e061341fe884bcee35398c68a.mp4.m3u8?i=1920x800_1590
+#EXTINF:0,Неверный путь (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/8zfloGu-id0zKCU3WHojmw/1749932175/2223/0x5000c500e65b3f39/1fe4203e21534195a270ee3efc70195c.mp4.m3u8?i=1920x1080_3166
+#EXTINF:0,Трупоходик (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/AoUZH59GTJlQF-2dwnlP_Q/1749932176/2548/0x5000039ce8635489/6587d7a8bac94501985231a90ce941dc.mp4.m3u8?i=1920x816_1629
+#EXTINF:0,Робин (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/YHGJ9flNdHqIZYUK5DhwbQ/1749932177/2223/0x5000c500e717e1f4/938eaeb872824d44bec29a2168e5c099.mp4.m3u8?i=1920x816_1059
+#EXTINF:0,Запертый (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/2AgrNb1Bw6vt29jja74a5w/1749932177/2734/0x5000039ce85379bd/96356a73a3f14b1d86d53853d55541de.mp4.m3u8?i=1920x1080_2798
+#EXTINF:0,Соседский дозор (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/NvDO81Lh6ipwfsKCnjswsA/1749932178/2698/0x5000039ce832fee1/74a862ea7abd4a859caf5c7d1e48bf68.mp4.m3u8?i=1920x1040_1544
+#EXTINF:0,Особо опасный пассажир (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/DUAPEij94qvMx-wY_RyuDA/1749932179/2738/0x5000039ce839a759/2ffe10cea0f34bfbb562329385424d3c.mp4.m3u8?i=3840x1600_13772
+#EXTINF:0,Утроба (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/umXqX57SYb7zpotKCnt0Rg/1749932180/2688/0x5000039ce86bfc65/5827f81d57264cff87e8ecbff72e3717.mp4.m3u8?i=1920x1080_3502
+#EXTINF:0,Заложник в магазине Apple (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/-JTzQPsDgjiq8BdXBsDzEQ/1749932181/2662/0x5000039ce8401791/5bf0dfaa3fbb4065b65048fd0c953d09.mp4.m3u8?i=1920x1080_2087
+#EXTINF:0,Дроп (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ze6ZRN1PKj9tz9gUcMEokw/1749932182/2217/0x5000c500e7519825/9354bc14c9e248479d011c29dd22dce2.mp4.m3u8?i=1920x1080_7694
+#EXTINF:0,Реннер (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/5vijEvc0CzhgnRv4o1jfVA/1749932182/2696/0x5000039ce863a581/9a1cdec653064f9baece378cce8f487f.mp4.m3u8?i=1920x1040_1772
+#EXTINF:0,Безумный Техас (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/XqC-2Zlgys298oVcnggFZA/1749932183/2415/0x5000c500f2b54a9f/e381402bb2e0492789d7a953a06adc90.mp4.m3u8?i=1920x1080_1774
+#EXTINF:0,Большая двадцатка (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/_UDwSm9dOfLWSVizddYE8g/1749932184/2223/0x5000c500e7526523/9f190d8d45b4485992b41277f158ad6f.mp4.m3u8?i=1920x800_7853
+#EXTINF:0,Безудержные (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/-P0ZtTeX90vi5QLKjvHUkw/1749932185/2652/0x5000039ce869a8cd/ddac7d0f9b8a4f4d812d160a41c43d9c.mp4.m3u8?i=3840x1632_3504
+#EXTINF:0,История любви в Копенгагене (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/jkuD-pD0CeHtln-kP6MDhQ/1749932186/2580/0x5000039ce839b8c9/0932bc8e8aa74360b7946f86b993b4f0.mp4.m3u8?i=1920x1080_5117
+#EXTINF:0,Тот самый день (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/X4fMsnq_xriL5O7ahu2Vsw/1749932187/2448/0x5000c500e882d94b/821b62597eb643788f6e72bf97c0c8dd.mp4.m3u8?i=1920x800_6731
+#EXTINF:0,Опустошение (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/pZcTGbeL4u7FOHEWXavIKQ/1749932187/2730/0x5000039ce87098a5/34ecdba3a077410688ff9f8c80ab9687.mp4.m3u8?i=1920x1080_7789
+#EXTINF:0,Пепел (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/NeAtprDrRms736g5JhPnJQ/1749932188/2692/0x5000039ce863c625/76070cb603f34e6b81ef175bd14d06a3.mp4.m3u8?i=3840x1600_7507
+#EXTINF:0,Мудрые парни (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/WsCWi89jaDYGAF0zw3aQ4Q/1749932189/2223/0x5000c500e72abb33/3e0cb74bd9dd4f1d816cd8c97f9fac7f.mp4.m3u8?i=1920x1080_2006
+#EXTINF:0,Взрывные (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/QXGslK8zN0rI9lPXMIQ5GA/1749932190/2734/0x5000039ce8637319/d617996df789401ba51c109d950e6f21.mp4.m3u8?i=1920x1080_7982
+#EXTINF:0,Искажение (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/LEusny7Wr2VO5ZV3Lz7U-w/1749932191/2726/0x5000039ce833d7ad/2eff35fd56fc4fe496e3ea2bf7eef779.mp4.m3u8?i=1920x1080_2308
+#EXTINF:0,Кровь в холмах (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/uIE2D_mJeq5gOhq8d9Ouow/1749932191/2666/0x5000039ce83a1a9d/9522caa77b14443b80459e7f44774302.mp4.m3u8?i=1920x1080_3346
+#EXTINF:0,Ночная тишина (2024)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/PY5vrYeMNG4AHYvLpLmFGg/1749932192/2626/0x5000039ce868e589/7ac76df2d06e491f991316883f652e6e.mp4.m3u8?i=1920x1080_1472
+#EXTINF:0,Женщина во дворе (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/RZI6Q70nYXBPNg6Caujctw/1749932193/2710/0x5000039ce838b721/4258a9a12aaf43c68b87f32701af6c99.mp4.m3u8?i=1920x1080_1353
+#EXTINF:0,Телефон доверия (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/OqFGTYv8WzYZJnIbjNbNSg/1749932194/2676/0x5000039ce838035d/7f331fb8c6dc4269b5ad86df7a025587.mp4.m3u8?i=1800x1080_2016
+#EXTINF:0,Маленькая Сибирь (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/gEp8JWGUihj3U6AUCyLj4A/1749932195/2518/0x5000039ce83ac501/e331606bfd194b2a97d7db14f4bab4cb.mp4.m3u8?i=1920x1080_1619
+#EXTINF:0,Полицейский из Беверли-Хиллз: Аксель Фоули (2024)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/BYCs_q4M3anhZd_pVVf8yQ/1749932196/2163/0x5000c500e6847b34/92918fd27f1a469897b0b9ab2c46c6eb.mp4.m3u8?i=1920x800_6374
+#EXTINF:0,Властелин колец: Братство Кольца | Режиссёрская версия (2001)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/fYdSFM7eJSgzs816tQ64xA/1749932196/2088/0x5000c500f1d65693/39a841bc94a1467480fe1e7475986612.mp4.m3u8?i=1920x800_3030
+#EXTINF:0,Властелин колец: Две крепости | Режиссёрская версия (2002)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/cNKVNjTMTfItKedtFdX8qw/1749932197/2078/0x5000c500f1e59b02/d0f2431fa0514c18a922acc12c11863a.mp4.m3u8?i=1920x800_4143
+#EXTINF:0,Властелин колец: Возвращение короля | Режиссёрская версия (2003)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/jM9TcTbleG9D0Ppnd0hDLA/1749932198/2092/0x5000c500f1dc587c/0a24ef3899be43119b61835e67788fd9.mp4.m3u8?i=1920x792_4355
+#EXTINF:0,Бэтмен (1989)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/n0c7XkRBRSTvtIJT8vf5fQ/1749932199/2076/0x5000c500f1e31216/36a7874b57634ef2ac1e1e72d4c152b8.mp4.m3u8?i=1920x1080_3401
+#EXTINF:0,Бэтмен Возвращается (1992)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/yo42TS07YjHLUH7AaUaK7w/1749932200/2084/0x5000c500f1d96f55/0cf08fee2f814713b1d8ba60ad0ad505.mp4.m3u8?i=1920x1080_5059
+#EXTINF:0,Бэтмен Навсегда (1995)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/d9ddp8ZOZau-h3ZBUl9LJg/1749932203/2092/0x5000c500f1dcd48c/384306e8b72e4734ac3656e6a6c10440.mp4.m3u8?i=1920x1080_3754
+#EXTINF:0,Бэтмен и Робин (1997)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Z-PtgeSq0zBD__slTv7orQ/1749932203/2088/0x5000c500f1e58f7d/45a2f783a0564d9f90769a0d920c4890.mp4.m3u8?i=1920x1080_4413
+#EXTINF:0,Бэтмен: Начало (2005)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/STlPEHC2v9lleHaxo11v3Q/1749932204/2080/0x5000c500f1e58c21/dac0e519b6da4660bb8a8b475923691b.mp4.m3u8?i=1920x800_2262
+#EXTINF:0,Темный рыцарь (2008)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/w4K2G0sgzw7SquyeMO-kYw/1749932205/2080/0x5000c500f1da748a/d5263d18a7804f0ca327eef990f75fc0.mp4.m3u8?i=1920x1080_3481
+#EXTINF:0,Темный рыцарь: Возрождение легенды (2012)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/7xfAGfdQt1hU8M7xgl4b-Q/1749932206/2082/0x5000c500f1df30f5/b032f3c59d794f938e46c3265b34f92a.mp4.m3u8?i=1920x1080_3262
+#EXTINF:0,Бэтмен (2022)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/hkhCxe9JiwRKMGSd6t-n7w/1749932207/2086/0x5000c500f1e56de3/9de2911dea204690ac0b1188951639ca.mp4.m3u8?i=1920x808_1744
+#EXTINF:0,Бэтмен против Супермена: На заре справедливости (2024)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ZLCrkCxOkdPwSAK72XELZQ/1749932207/2074/0x5000c500f1da6e43/57645a3242bc4249b4a911fb85a7f290.mp4.m3u8?i=1920x800_2235
+#EXTINF:0,Индиана Джонс: В поисках утраченного ковчега (1981)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/e5n8jFnA2-nLO5F59DjHYg/1749932208/2080/0x5000c500f1e3749d/c52ff8bb90904a49b0d272ac65e2f496.mp4.m3u8?i=1920x816_4502
+#EXTINF:0,Индиана Джонс и Храм Судьбы (1984)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/-BhbTSNAgI3770FaGgUaAQ/1749932209/2076/0x5000c500f1e52299/1533f43905004dc8ae06e74af4e9e9fd.mp4.m3u8?i=1920x816_6669
+#EXTINF:0,Индиана Джонс и последний крестовый поход (1989)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/dO8Jscp64mqUZvVg8d8L2w/1749932210/2076/0x5000c500f1e52299/f599e848539a4da195a2220ec603b38b.mp4.m3u8?i=1920x816_10173
+#EXTINF:0,Индиана Джонс и Королевство хрустального черепа (2008)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/UR1NyprrP4c77H_vCWQnKQ/1749932211/2086/0x5000c500f1e563e5/3e0ceb5ffaad405b8f09c6b5a30e46f9.mp4.m3u8?i=1920x800_4764
+#EXTINF:0,Индиана Джонс и колесо судьбы (2023)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/VB3Zt_b-8SWdvL4FFe_7ow/1749932212/2078/0x5000c500f1e56958/6b6697d524144fe4a099b16ef6a7d590.mp4.m3u8?i=1920x800_3131
+#EXTINF:0,Кровавый алмаз (2006)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/6Tv-sRpYJlviV8fYdSuldw/1749932212/2084/0x5000c500f1e5abcf/a373f1095d4f459f840d8bb603ce594f.mp4.m3u8?i=1920x792_3772
+#EXTINF:0,Лига выдающихся джентльменов (2003)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/uzVb5EYrAgpz-psKVBQVWw/1749932213/2189/0x5000c500e65678c9/77bba4322c02486f922690a587c089c1.mp4.m3u8?i=1920x808_3115
+#EXTINF:0,Блэйд (1998)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/8zO-HM5OLtvY9aFO8pjk3g/1749932214/2082/0x5000c500f1db4f74/77930ec2cb98415689e265c5c1d99f40.mp4.m3u8?i=1920x808_3370
+#EXTINF:0,Блэйд 2 (2002)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/vUeKamV4aZPSxYKqB_pLVg/1749932215/2092/0x5000c500f1dc6662/27419ebf67ba468cb8dde37e95a3f61c.mp4.m3u8?i=1920x1080_3246
+#EXTINF:0,Блэйд 3 (2004)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Z3Nu7ISi875wQLIkCKeehg/1749932216/2092/0x5000c500f1e2a661/6d6c325d5f2448ecb6d766a7b3306cb5.mp4.m3u8?i=1920x816_2862
+#EXTINF:0,Робокоп (1987)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/RGnbdq64ZFInT0ajYQjnVw/1749932217/2086/0x5000c500f1e579b3/b7236552664a4a8dae918093c2ce013f.mp4.m3u8?i=1920x1040_5794
+#EXTINF:0,Робокоп 2 (1990)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/VZZYKQnbEXq0P0sDHeitBw/1749932217/2092/0x5000c500f1df2daa/c5e81bd24deb4eff9589b0d79f0b9bc4.mp4.m3u8?i=1920x1040_3800
+#EXTINF:0,Робокоп 3 (1992)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/yrGeWumvOFhmvuUz9lJd_A/1749932218/2096/0x5000c500f1e59a45/cec8171628cd44858da5e5e8c08731fb.mp4.m3u8?i=1920x1040_3042
+#EXTINF:0,Обитель зла (2002)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/_vwPpKaIQJ4vXky5Uy4i2w/1749932219/2076/0x5000c500f1d3b626/5b6ce3dbdf634277b00fae168c74a541.mp4.m3u8?i=1920x1040_3775
+#EXTINF:0,Обитель зла 2: Апокалипсис (2004)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Q3-WPzHFxW7FVhx3g2BdjA/1749932220/2076/0x5000c500f1e405ef/aeb8795f6f5c4d8e929a461e7028bf26.mp4.m3u8?i=1920x792_4058
+#EXTINF:0,Обитель зла 3 (2007)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/fBkr-sbAhLiRg9G3rlZtaQ/1749932221/2076/0x5000c500f1e31400/8aeb9ea933534391ae8695f37e00ca81.mp4.m3u8?i=1920x800_4510
+#EXTINF:0,Обитель зла 4: Жизнь после смерти (2010)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/jWp7KRwvODjQoeiedVKYMg/1749932221/2076/0x5000c500f1e4c974/07657c479fec47d69474a2638db9ebbe.mp4.m3u8?i=1920x800_4046
+#EXTINF:0,Обитель Зла: Возмездие (2012)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/O2FY84V6K2tYuaAUpdOCQg/1749932222/2094/0x5000c500f1e5b4c4/b563a3f7a16f4c4485d963abe4098a89.mp4.m3u8?i=1920x800_7683
+#EXTINF:0,Обитель зла: Последняя глава (2016)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/eneAvyHq5gz_e1wlL-zs3Q/1749932223/2076/0x5000c500f1e31400/083a5dd97c6747489ef3698d875f7b62.mp4.m3u8?i=1920x800_2958
+#EXTINF:0,Терминатор (1984)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/FZvxAGJz204upKuMbO5Q0A/1749932224/2094/0x5000c500f1dd6d05/f8c016d4d0ef453293eea58a2615a842.mp4.m3u8?i=1920x1040_5058
+#EXTINF:0,Терминатор 3: Восстание машин 60 fps (2003)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/KPswT2Bypy45cuxdZojs-Q/1749932225/2470/0x5000c500e883ba7e/ba92cb112ca240ccaa80e325b8ee50a1.mp4.m3u8?i=1920x784_8583
+#EXTINF:0,Терминатор 4: Да прийдет спаситель (2009)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ofCFi9w5OmZIBeUY4JT0pg/1749932225/2094/0x5000c500f1db122f/1d3b3734284f473fbcd923f9ddc2d817.mp4.m3u8?i=1920x800_3637
+#EXTINF:0,Люди в черном (1997)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/zryjoBUGyj2Btpfk6L9j1g/1749932226/1861/0x5000c500e53c916b/0f27da6c54774499be1c5cc4691734a3.mp4.m3u8?i=1920x1032_10882
+#EXTINF:0,Матрица (1999)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/PXqDZpm1VS2bBhZ2OMiwdA/1749932227/2092/0x5000c500f1db0e75/2cfaad81a8dc452b92c9f0a99d35f0e9.mp4.m3u8?i=1920x800_3057
+#EXTINF:0,Матрица: Перезагрузка (2003)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/bZ6Dv35IW_wZP7UA4OhPsQ/1749932228/2096/0x5000c500f1d6b600/e198f30b21ba41fda5038630ace6030c.mp4.m3u8?i=1920x800_2965
+#EXTINF:0,Матрица: Революция (2003)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/YnCd9Wnbunvwr7p_JxD38Q/1749932229/2086/0x5000c500f1d8b72b/a7bb4b89a5ae48a293f77d27baf276f9.mp4.m3u8?i=1920x800_3406
+#EXTINF:0,Матрица: Воскрешение (2021)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/3aus0mPp8ywstANeC_pZyw/1749932230/2090/0x5000c500f1e363b1/3d2c7b8be89044ffb958d07906b4f592.mp4.m3u8?i=1920x800_2781
+#EXTINF:0,Смертельное оружие 1 (1987)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/DdgNB18DYhlkKfKzn2F3LA/1749932230/2078/0x5000c500f1dd70fe/4e75229a5c424a98b18e9acf1eaafa6d.mp4.m3u8?i=1920x1080_7279
+#EXTINF:0,Смертельное оружие 2 (1989)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/hIotFKdjDSHAacIziYneRw/1749932231/2078/0x5000c500f1e50e46/8e00639e9be74efe821523ef944f4163.mp4.m3u8?i=1920x800_2559
+#EXTINF:0,Смертельное оружие 3 (1992)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/XqnLXrpckT8a9S04MxKS0A/1749932232/2080/0x5000c500f1d9b395/f5639425e4ff4ff2b4dac49ef2f99428.mp4.m3u8?i=1920x792_3095
+#EXTINF:0,Смертельное оружие 4 (1998)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/yARGZuqb-fA42r9sxABhtg/1749932233/2092/0x5000c500f1db50ea/6573729710e74f9ca0f7b3336a10b85a.mp4.m3u8?i=1920x800_3130
+#EXTINF:0,Крепкий орешек 1 (1988)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/kjocrUwGicZ4GBGTkHUV5w/1749932234/2080/0x5000c500f1e5bef2/eee9699e83834d5c9398806781620b61.mp4.m3u8?i=1920x808_3111
+#EXTINF:0,Крепкий орешек 2 (1990)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ZKEIh-A-tXBDg-50S6LjSg/1749932234/2094/0x5000c500f1e373ab/58c8c5f7b0294431a70f9f3269a55c2a.mp4.m3u8?i=1920x808_2656
+#EXTINF:0,Крепкий орешек 3: Возмездие (1995)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/a4AwtGZrQWuc9GQL4VtrEA/1749932235/2086/0x5000c500f1e56de3/63095003d0344536a133943c076a361b.mp4.m3u8?i=1920x816_5140
+#EXTINF:0,Крепкий орешек 4.0 (2007)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Z9f86R1VJPTRi18RzXmEWA/1749932236/2096/0x5000c500f1ddd63f/d40201d85254411688b481ea8c6e5cc4.mp4.m3u8?i=1920x800_4010
+#EXTINF:0,Крепкий орешек: Хороший день чтобы умереть (2013)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/oesjjSzH0p0j_l6lnLQuFg/1749932237/2074/0x5000c500f1e5bcb3/7f025662e55f448a84e4525daa024f1e.mp4.m3u8?i=1920x1040_6334
+#EXTINF:0,Голый пистолет (1988)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/9EG9u6B4prt-kqENgvm-BA/1749932238/2389/0x5000c500f2b4348b/65c2d1794041468184173eb9b2a2a343.mp4.m3u8?i=1920x1080_9545
+#EXTINF:0,Голый пистолет 2 1/2: Запах страха (1991)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/kHcGN51wYG3WdxAsAZyc-Q/1749932239/2199/0x5000c500e74e8332/389d8de069f742acba88730f981d509e.mp4.m3u8?i=1920x1080_17617
+#EXTINF:0,Голый пистолет 33 1/3: Последний выпад (1994)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/JlN-6nQroevvl0gHoiOKGA/1749932240/2084/0x5000c500f1e56cb7/1c3a5ddc4fbb4c89a69270e74da7b80b.mp4.m3u8?i=1920x1080_5164
+#EXTINF:0,Роман с камнем (1984)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/W59XsruKD0OFqVeh-OBF7g/1749932240/2088/0x5000c500f1e528b2/01a622d6ece446518bf60e650fbd6d48.mp4.m3u8?i=1920x808_4126
+#EXTINF:0,За бортом (1987)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/bJZI6UJFkOrREeT2XCHS6A/1749932241/2161/0x5000c500e716d47f/95ba52b3146e4bf6bd82d336288128f4.mp4.m3u8?i=1920x1040_7960
+#EXTINF:0,Сонная Лощина (1999)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/VkxYQbD-vinQqSPyQRHT6A/1749932242/2560/0x5000039ce86356a5/0df93f3df7924f5f839ed787966429dd.mp4.m3u8?i=1920x1040_8141
+#EXTINF:0,Эдвард руки-ножницы (1990)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/VPHXyvdkMcIbyJbosDFi1Q/1749932243/2082/0x5000c500f1e58de1/4a39ec11a1db471398cf5f861a484f56.mp4.m3u8?i=1920x1040_3623
+#EXTINF:0,Суини Тодд демон-парикмахер с Флит-стрит (2007)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/GRt8BhVppZbbCSGfXdMY0Q/1749932244/2084/0x5000c500f1d6eb4f/f34f9a60442644ff8945ab40cdec10cd.mp4.m3u8?i=1920x1080_4521
+#EXTINF:0,Бегущий по лезвию (1982)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/eYTs7WjUjAcugxedfZI8Dg/1749932245/2094/0x5000c500f1e56b86/a4b73c567f7c4008a015d195501e1322.mp4.m3u8?i=1920x800_4439
+#EXTINF:0,Побег из Шоушенка (1994)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/9lT-bRtWy3OhSyMW92NfVw/1749932245/2090/0x5000c500f1e53ed1/fb597d78a4664d439e00bece9987f52a.mp4.m3u8?i=1920x1080_3158
+#EXTINF:0,Плохие парни (1995)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/rUwYbc0pELm70217cGwJfg/1749932246/2678/0x5000039ce8708905/ec44be3452214b1eb9557e766abde4fb.mp4.m3u8?i=1920x1040_3684
+#EXTINF:0,Плохие парни 2 (2003)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/xYIPVs9T7BY3G3zJ70eAKQ/1749932247/2387/0x5000c500f2b8d4ef/cf66e7867bf74f71ba202baa13b4264a.mp4.m3u8?i=1920x1080_7181
+#EXTINF:0,Плохие парни навсегда (2020)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/r6lqiXFdkLBO4Ojveod6qw/1749932248/2407/0x5000c500f2b8fd77/41b238f863414ee69f8e4c3706695c24.mp4.m3u8?i=1920x800_5410
+#EXTINF:0,Плохие парни до конца (2024)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Jd3fOFWK3T2rtbRr8l-eXg/1749932249/2195/0x5000c500e68dd46b/7709893a9127431b8d2e3542d508e7c5.mp4.m3u8?i=1920x800_4154
+#EXTINF:0,Хищник 1 (1987)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/0ipZdzX4urnzXHr3F-LoNw/1749932250/2086/0x5000c500f1dc5f4c/e610d9ec709a46d188a7eb884048687a.mp4.m3u8?i=1920x1040_3276
+#EXTINF:0,Хищник 2 (1990)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/cGHcsG5TJOPvSKPnU-bBPw/1749932250/2086/0x5000c500f1e563e5/b401b1bbd15444f1920801e8644d0fa5.mp4.m3u8?i=1920x1040_3463
+#EXTINF:0,Харли Дэвидсон и ковбой Мальборо (1991)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/tmRra6pWeKXvRoviTgK4VA/1749932251/2446/0x5000c500e883eb8a/2c4ba25009c54ceead8b309c1e5a427d.mp4.m3u8?i=1920x1080_10607
+#EXTINF:0,Хищники (2010)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/S7zj3W-EGhyClZFhCTRXng/1749932252/2094/0x5000c500f1e5abf9/6b8948b8aa3b4bf3a94ca30f983aa630.mp4.m3u8?i=1920x816_4261
+#EXTINF:0,Братство волка (2001)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Z1f_IIAkN3_ywRS33NZuLg/1749932253/2096/0x5000c500f1e5ac99/1bf6eca24e114ec7a641745355d4193c.mp4.m3u8?i=1920x824_3319
+#EXTINF:0,Патриот (2000)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/LnVGmn1VkOyq_AocM3gVwg/1749932254/2094/0x5000c500f1e5251e/5fd295c49670408b99e8c6adb60685c3.mp4.m3u8?i=1920x800_3418
+#EXTINF:0,Багровые реки 2: Ангелы апокалипсиса (2001)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/uyxV0Bt1aDwauzj2CrWnwg/1749932255/2074/0x5000c500f1e5245e/0998d790978e4a9f8fe6d3a3afa18eac.mp4.m3u8?i=1920x808_2711
+#EXTINF:0,Труп невесты (2005)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/8jRNFAO7XGkT4_64hP4_zw/1749932255/1879/0x5000c500e5355ac6/e93b2fbb82534cdb92846a7f46211646.mp4.m3u8?i=1920x1080_3238
+#EXTINF:0,Шрек (2001)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/jGmHqavg5SAiR0vVzxb8Og/1749932256/2084/0x5000c500f1e37576/2ca2b39ebe46452ea52a78ff68e899de.mp4.m3u8?i=1920x1080_4155
+#EXTINF:0,Сияние (1980)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/-CdMpscndUs5JhVBDRmqvg/1749932257/2086/0x5000c500f1dd737a/61778e2f29b24b0f9b08e2a5ac789cd8.mp4.m3u8?i=1920x1080_2531
+#EXTINF:0,Девятые врата (1999)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Dw7Gk7D8gQ3C26cxJtZEMA/1749932258/1970/rutube-ds-origin-132-2/eec2312992094d108e2bd5fa628aad0b.mp4.m3u8?i=1920x816_1648
+#EXTINF:0,Человек тьмы 4K (1990)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/f37snmiXhNXsyK6gz_Ns3g/1749932259/1822/0x5000c500c8c54e6e/8de341325a954ce294d71aea60cf3878.mp4.m3u8?i=3840x2160_16011
+#EXTINF:0,Тень (1994)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/7tjvJIbIDGer_qZtvVrLbQ/1749932260/2080/0x5000c500f1e579e7/63c7983d4528474a81ee35790eb7ba8c.mp4.m3u8?i=1920x1080_16172
+#EXTINF:0,Дракула (1992)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/jBonbzqjAof2CJlLSmTBMQ/1749932261/2454/0x5000c500e883918f/afae75fe6b404565af920e8a9b22c941.mp4.m3u8?i=1920x1040_9349
+#EXTINF:0,Храброе сердце (1995)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/KQkr8p1ZIH3xh_N4plckZQ/1749932261/1887/0x5000c500e53d01b1/7567e5ba9b4b4e4e8b9d898f943a5b39.mp4.m3u8?i=1920x816_5758
+#EXTINF:0,Скала (1996)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/4xpzEe0z2MxWmoQlnHcw7A/1749932262/2219/0x5000c5007446408c/2adbb045f8a9444a84763592074598ec.mp4.m3u8?i=1920x816_8620
+#EXTINF:0,Троя (2004)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/HWUfQ88eYFKWhGPrTxbXIA/1749932263/2090/0x5000c500f1e53ed1/90a9e35084074e7e9064af7cb873b067.mp4.m3u8?i=1920x792_3570
+#EXTINF:0,Гремлины (1984)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/s5h0L58p9fuh5PDgMNi0ng/1749932264/2448/0x5000c500e882ba60/d19532cb7a434d2691c9ea43bd718311.mp4.m3u8?i=1920x1080_4302
+#EXTINF:0,Гремлины 2: Новенькая партия (1990)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/PTDt91jzisFYXZtMXu0p3w/1749932265/2468/0x5000c500e883962b/7c69a78d37c144d09a1a2343c2a5744c.mp4.m3u8?i=1920x1080_5455
+#EXTINF:0,Царство небесное (2005)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/nUPUeLVAwEhz0f7qNZT5Eg/1749932265/2088/0x5000c500f1e14287/bf7a0e2b30444d00a7c9ddb5af4642fc.mp4.m3u8?i=1920x816_3352
+#EXTINF:0,Один дома (1990)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/RzPMNCFMG2PsHmfWAcaQLg/1749932266/1893/0x5000c500e539c06f/d0618f08c897472f9c4de21f44ff781f.mp4.m3u8?i=1920x1032_15816
+#EXTINF:0,Один дома 2: Затерянный в Нью-Йорке (2010)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Lq5-5gdxsfT--ipzM0SyLA/1749932267/1867/0x5000c500e53d02d1/4f87990c33ba494c8d6398fd965f5eaf.mp4.m3u8?i=1920x1040_8282
+#EXTINF:0,Принц Персии: Пески времени (2010)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/mbIgBPsXSyu7lm_9BYiX0A/1749932268/2080/0x5000c500f1e5215e/139d7acc71564a8a994a7d7d2c59ddb8.mp4.m3u8?i=1920x800_4812
+#EXTINF:0,Ван Хельсинг (2004)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/doPYZgget80Zn3OcUrlU_w/1749932269/1772/0x5000c500c45cabe9/0840331647944eb3868994c2f1617540.mp4.m3u8?i=1920x1040_6471
+#EXTINF:0,Сайлент Хилл (2006)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/nnvlNucy2rKpW53w-h0ztA/1749932270/1867/0x5000c500e53c8763/9fcfcfb520ed436894e63e3e9436bf81.mp4.m3u8?i=1920x816_4945
+#EXTINF:0,Сайлент Хилл 2 (2012)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/KQmZONGZ-F1SkNHuRysg4w/1749932271/2082/0x5000c500f1dc0cc2/09b0fc7833db4a258833f29562cd954b.mp4.m3u8?i=1920x800_4027
+#EXTINF:0,Спасти рядового Райана (1998)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/QPP40IMtUYmo2sG9XqHY7w/1749932271/2092/0x5000c500f1d0a129/bb4ac6697dc2407287174dd499373df9.mp4.m3u8?i=1920x1032_7893
+#EXTINF:0,Перл-Харбор (2001)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/0jjuNHCP1mYzMnb7Pt15TQ/1749932272/2076/0x5000c500f1e2a653/a3f8cba0c03e45a893390662dabd7339.mp4.m3u8?i=1920x800_3629
+#EXTINF:0,Армагеддон (1998)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/_2Om7Y_m8odK4woCehYBuw/1749932273/1877/0x5000c500e539cbb9/f877b0389ecd41e0b5b6daa253a1d9f8.mp4.m3u8?i=1920x800_7584
+#EXTINF:0,Бегущий человек (1987)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/BEwNq53EWynX-BzOG3atkw/1749932274/1871/0x5000c500e4db1142/10aab125431544c7acc2aff36ceb78ba.mp4.m3u8?i=848x480_1508
+#EXTINF:0,Эффект бабочки (2004)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/V4O2cyaQUoWPfNh7_crfYA/1749932275/2167/0x5000c500e6685066/6b719a4751b844ad92096509569d9787.mp4.m3u8?i=1920x1080_7681
+#EXTINF:0,Пираты Карибского моря. Проклятие Черной жемчужины (2003)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/csfXlxa-F1K1HZ1aGlz0zQ/1749932276/1861/0x5000c500e539f074/143b42bb4ee242dd9d660f01c2b8925c.mp4.m3u8?i=1920x1080_6473
+#EXTINF:0,Пираты Карибского моря: Сундук мертвеца (2006)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/HybzNsG2TlNhyacLdjeVqQ/1749932276/2090/0x5000c500f1e5b45d/0d4ca73a35cb4e70becf7254f9549a03.mp4.m3u8?i=1920x800_3894
+#EXTINF:0,Пираты Карибского моря: На краю Света (2007)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/i0FyqEnldNNKpkU2PBOPLg/1749932277/2080/0x5000c500f1e52678/213d02ad10ab45e19cb295e105c758f3.mp4.m3u8?i=1920x800_3784
+#EXTINF:0,Пираты Карибского моря: На странных берегах (2011)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/UmyDIyamjvamyZ4Kg6AZNQ/1749932278/2096/0x5000c500f1e53214/605bd8c592134555b0f053cffb26c179.mp4.m3u8?i=1920x800_3839
+#EXTINF:0,Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/7-DErCrQUayFFnqflISxWA/1749932279/2082/0x5000c500f1d6dd69/abf6800e5d244a80ad962f338feef7ca.mp4.m3u8?i=1920x800_5067
+#EXTINF:0,Остров головорезов (1995)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ttInvMQKJ1XnptgCJqBtQg/1749932280/2201/0x5000c5007446d66b/830f26601914454fba826cb33aa9cb28.mp4.m3u8?i=1920x816_3512
+#EXTINF:0,Разрушитель (1993)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/B0UFWKsfR0LSdyMkEg1uoA/1749932280/2084/0x5000c500f1e5bc16/f787157213a94061aa65e4082c73f37e.mp4.m3u8?i=1920x800_2579
+#EXTINF:0,Судья Дредд (1995)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/2z9dPasAqdhy6PD2b-ooWQ/1749932281/2094/0x5000c500f1e5b4c4/a057446b03a44dad81482c771ec41efd.mp4.m3u8?i=1904x1080_9316
+#EXTINF:0,Звездный десант (1997)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/i8awJt6UPcyE95BNU3C3BA/1749932282/2096/0x5000c500f1e5ac51/35797a988b1c405f8dae381e1c52843a.mp4.m3u8?i=1920x1040_5893
+#EXTINF:0,Маска (1994)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/2GsHvs1qIKDRDhfkkkcV9Q/1749932283/2088/0x5000c500f1e50207/2a73d46b6ead4b469a0f23b9f124ab3a.mp4.m3u8?i=1920x1080_2964
+#EXTINF:0,Форрест Гамп (1994)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ge4Adl09YZnirFyFbi4BNQ/1749932284/2080/0x5000c500f1e4ee8f/98def6ae0af54c518a5792673792e81f.mp4.m3u8?i=1920x816_7406
+#EXTINF:0,Пятый элемент (1997)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/HwNcTvZvG2nnLtnMRo3DTQ/1749932285/2082/0x5000c500f1e3d606/da5a7d6529ae4b3e991e7b9a45a8bda6.mp4.m3u8?i=1920x1080_4117
+#EXTINF:0,К-9: (Собачья работа 1989)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/9XMMnGwDdJkukfFJp-sJ3Q/1749932286/1881/0x5000c500e539f380/6114d6a8726d468d9b20d97a867fe9a2.mp4.m3u8?i=1920x1040_14461
+#EXTINF:0,Чужой (1979)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/5yc08l-nTBCwVGsK1XZVsA/1749932287/1869/0x5000c500e53c0ba6/c159441ba24c4270b832f2ccf6b4c638.mp4.m3u8?i=1920x816_3577
+#EXTINF:0,Чужие (1986)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ZyttUEj4vUSIo_2_7jCGVQ/1749932288/2084/0x5000c500f1e565cc/720238d9fbdd432099836d93b4f02e9c.mp4.m3u8?i=1920x1080_4495
+#EXTINF:0,Чужой 3 (1992)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/foKRtZu5TZxISQUosNaUPA/1749932288/2088/0x5000c500f1e5bbdf/6e1acd4f84504a119ac1a7eb2808ad9f.mp4.m3u8?i=1920x808_2837
+#EXTINF:0,Чужой 4: Воскрешение (1997)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/n5p3UxYY8fYDwNND6Zf2DQ/1749932289/2096/0x5000c500f1e50966/157552c816314567b0bee921d4490b54.mp4.m3u8?i=1920x816_4061
+#EXTINF:0,Чужой: Завет (2017)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/wfU8X-Ap8qRWuxbbSjetYA/1749932290/1818/0x5000c500c97c9439/6a7a7e0db6ad474e9731b3eb6ce4f8e6.mp4.m3u8?i=1920x800_9695
+#EXTINF:0,Чужой: Ромул (2024)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/OKZXwGcoEjEhLilf1rFlQw/1749932291/2462/0x5000c500e883042c/055d2b9eb61d40f2a2997f82d7f460c8.mp4.m3u8?i=2560x1064_3046
+#EXTINF:0,Бешеные псы (1991)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/WXV1FBPekB-9EvVsQaO6eg/1749932292/2417/0x5000c500f2b4a9bb/c09d0b20afc94057b1c502381e64d5af.mp4.m3u8?i=1920x1080_5179
+#EXTINF:0,Гадкая сестра (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/GMPb65uk/bTkXNvLx6U/5jktNnX4f0P2DK58Jxa/ZX
+#EXTINF:0,Грешники (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/JLxVTeJD/bTkXNvLx6U/zE2SWKSXYaayEsjVKcS/ZX
+#EXTINF:0,Особо опасный пассажир (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/xdhKhqAx/bTkXNvLx6U/zE2SWKSkbEtX5KN8NyA/ZX
+#EXTINF:0,Очи (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zgo80TEGgy/zE2SWKS4zhlvZYtkgrh/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Мисс Мымра и волшебное спасение (2025)
+#EXTINF:0,Мисс Мымра и волшебное спасение (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zgo80TEGgy/zE2SWKSE9MdTRKaNI_y/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Minecraft в кино (2025)
+#EXTINF:0,Minecraft в кино (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zgo80TEGgy/zE2SWKSd5ZerUS9YziR/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Ещё одна простая просьба (2025)
+#EXTINF:0,Ещё одна простая просьба (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zgo80TEGgy/zE2SWKSUznuRNVDP5Lo/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Отдохнуть по-людски (2025)
+#EXTINF:0,Отдохнуть по-людски (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zgo80TEGgy/zE2SWKSg_GMyciO0Zt1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Почтарь (2025)
+#EXTINF:0,Почтарь (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zgo80TEGgy/zE2SWKSkqiwZB9j5GRo/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Самый быстрый Индиан (2005)
+#EXTINF:0,Самый быстрый Индиан (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zgo80TEGgy/zE2SWKSoasZGoB8yEPW/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Белоснежка (2025)
+#EXTINF:0,Белоснежка (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zgo80TEGgy/5jktNnX9lyOmteKHQxM/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Пoд oгнeм (2025)
+#EXTINF:0,Пoд oгнeм (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zgo80TEGgy/5jktNnXjqoY4nMuvQ72/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Новокаин (2025)
+#EXTINF:0,Новокаин (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zgo80TEGgy/zE2SWKSvxhIeJZVJebb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Опустошение (2025)
+#EXTINF:0,Опустошение (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/cXyXEGJ0A4/zE2SWKSCv665aZH0xas/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Царевна-лягушка (2025)
+#EXTINF:0,Царевна-лягушка (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/cXyXEGJ0A4/zE2SWKSfzn7uc7E6DIU/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Капитан Америка: Новый мир (2025)
+#EXTINF:0,Капитан Америка: Новый мир (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/5jktNnXi0afdMsAFDZL/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Красный шёлк (2025)
+#EXTINF:0,Красный шёлк (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/cXyXEGJ0A4/zE2SWKSnXgShPKDLRGB/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Электрический штат (2025)
+#EXTINF:0,Электрический штат (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/cXyXEGJ0A4/zE2SWKSohdXl3YvF7P_/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Свои Баллада о войне (2025)
+#EXTINF:0,Свои Баллада о войне (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/cXyXEGJ0A4/zE2SWKSeHmTCqEFwkZ1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Микки 17 (2025)
+#EXTINF:0,Микки 17 (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/zE2SWKSt0MqmAh2NqO2/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Богатыри земли Русской HDR (2025)
+#EXTINF:0,Богатыри земли Русской HDR (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/zE2SWKSK-sBwurhrOkf/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Лотерея (2025)
+#EXTINF:0,Лотерея (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/EiKYJIFOyO/aItZ6wk0BMhnfLWaPE2/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",ON и Она (2025)
+#EXTINF:0,ON и Она (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/zE2SWKSACbaiut9RR6-/ZX
-#EXTINF:-1  group-title="KINO ZAL 4К" tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Бастион 36 (2025)
+#EXTINF:0,Бастион 36 (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/zE2SWKSnzculiON8MNN/ZX
-#EXTINF:-1  group-title="KINO ZAL 4К", tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Помешанная на контроле (2025)
+#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Помешанная на контроле (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/EiKYJIFOyO/zE2SWKSfuNH2BkHmn1m/ZX
-#EXTINF:-1  group-title="KINO ZAL 4К", tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Шелдон Планктон: Фильм (2025)
+#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Шелдон Планктон: Фильм (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/zE2SWKSujCpY3fRbZY-/ZX
-#EXTINF:-1  group-title="KINO ZAL 4К", tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Василий (2025)
+#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Василий (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/EiKYJIFOyO/zE2SWKSosCh22CLvSlQ/ZX
-#EXTINF:-1  group-title="KINO ZAL 4К", tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Капитан Крюк (2025)
+#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Капитан Крюк (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/EiKYJIFOyO/zE2SWKSitlPaLVDOhBU/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Компаньон (2025)
+#EXTINF:0,Компаньон (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/zE2SWKScas4nGXJzw1X/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Аларум (2025)
+#EXTINF:0,Аларум (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/AZAevqJa5r/zE2SWKS6g67NFqRLw9Z/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Снова в деле (2025)
+#EXTINF:0,Снова в деле (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/AZAevqJa5r/zE2SWKSvFW5SHGaPT1t/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ущелье (2025)
+#EXTINF:0,Ущелье (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/AZAevqJa5r/zE2SWKScq1IujP2eba4/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Моя вина: Лондон (2025)
+#EXTINF:0,Моя вина: Лондон (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/zE2SWKSFxqFCK57y2QK/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Вы сердечно приглашены (2025)
+#EXTINF:0,Вы сердечно приглашены (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/FP7MRNS3w8qj2YC5DhT/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Пятое сентября (2024)
+#EXTINF:0,Пятое сентября (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/zE2SWKSuZ7DUQ_zfZYX/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Люби меня (2024)
+#EXTINF:0,Люби меня (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/AZAevqJa5r/zE2SWKSKg8Q7G81dqXL/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Мелеха Первый приколист (2024)
+#EXTINF:0,Мелеха Первый приколист (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/AZAevqJa5r/zE2SWKSIVaR2AjEHCrE/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Вульфмен (2025)
+#EXTINF:0,Вульфмен (2025)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/zE2SWKSN-T7IU0bQ09D/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Летучий корабль (2024)
+#EXTINF:0,Летучий корабль (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/AZAevqJa5r/zE2SWKS3hquVKgRvOPv/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Соник 3 в кино (2024)
+#EXTINF:0,Соник 3 в кино (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSTL36h5XVp0Yu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Стрелок (2024)
+#EXTINF:0,Стрелок (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS6hsjPmoQrrCU/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Носферату (2024)
+#EXTINF:0,Носферату (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSeYmXY2TjKG7Z/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Нипал (2024)
+#EXTINF:0,Нипал (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS9AMp8ir-Za_Q/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Тогда Сейчас Потом (2024)
+#EXTINF:0,Тогда Сейчас Потом (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSSY81e9hPiM4j/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Присяжный номер два (2024)
+#EXTINF:0,Присяжный номер два (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSogS94qpbf8aW/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Сто лет тому вперёд (2024)
+#EXTINF:0,Сто лет тому вперёд (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS-urjqZAN8udr/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Годзилла и Конг: Новая империя (2024)
+#EXTINF:0,Годзилла и Конг: Новая империя (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSsjcGBp67FWoQ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Высокое напряжение (2024)
+#EXTINF:0,Высокое напряжение (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSJ2IgrKrplzCd/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",На расстоянии удара (2024)
+#EXTINF:0,На расстоянии удара (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSXDixoY5G7bza/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Конклав (2024)
+#EXTINF:0,Конклав (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/5jktNnXsnLFpaeDlhmV/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Хищные земли (2024)
+#EXTINF:0,Хищные земли (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/5jktNnXxYYslVGzUk2d/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Федерико. Великий футболист (2024)
+#EXTINF:0,Федерико. Великий футболист (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSTTldnti7Qf3t/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Союз (2024)
+#EXTINF:0,Союз (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/zE2SWKSzVBe5IRoxlJ5/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Моя жена – киллер (2024)
+#EXTINF:0,Моя жена – киллер (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/5jktNnXi-c0IppAH0KM/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Головоломка 2 (2024)
+#EXTINF:0,Головоломка 2 (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/5jktNnXE33ZucThLBQE/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Спящие псы (2024)
+#EXTINF:0,Спящие псы (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/5jktNnXH_8DhXDvws1x/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Смотрители (2024)
+#EXTINF:0,Смотрители (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/5jktNnX9PIW4ivJABpA/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Дева и дракон (2024)
+#EXTINF:0,Дева и дракон (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSUs9l9kXJ-1jC/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Каскадёры (2024)
+#EXTINF:0,Каскадёры (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/5jktNnX9JhqbJEBFdz2/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Карающая длань (2024)
+#EXTINF:0,Карающая длань (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSLcTbbe8r5ctz/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Псы войны (2024)
+#EXTINF:0,Псы войны (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnX16Za2ro5Sj0i/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Жребий (2024)
+#EXTINF:0,Жребий (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXFQAH4tQB-Yhu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Битлджус Битлджус (2024)
+#EXTINF:0,Битлджус Битлджус (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnX-UvrlRYr6ljL/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Каменщик (2024)
+#EXTINF:0,Каменщик (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXlaT3R2oFByhu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Последнее путешествие «Деметра» (2024)
+#EXTINF:0,Последнее путешествие «Деметра» (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSqoTGZXOoq-lr/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Улыбка 2 (2024)
+#EXTINF:0,Улыбка 2 (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSKGQgTRzOd2mt/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Уоллес и Громит: Самая дикая месть (2024)
+#EXTINF:0,Уоллес и Громит: Самая дикая месть (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS4GwHpQoJEZoa/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Mиниcтepcтвo нeджeнтльмeнcкиx дeл (2024)
+#EXTINF:0,Mиниcтepcтвo нeджeнтльмeнcкиx дeл (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/5jktNnXUzHUjveSkb9N/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Пpoфeccиoнaл (2024)
+#EXTINF:0,Пpoфeccиoнaл (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/5jktNnXAyNEUDXd8i7Q/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гарфилд в кино (2024)
+#EXTINF:0,Гарфилд в кино (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSrZ3iaIT2EZ9Q/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Переговорщик (2024)
+#EXTINF:0,Переговорщик (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS2cDsF_NNcFNM/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Роб Пис (2024)
+#EXTINF:0,Роб Пис (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSloTBFxThuWPT/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Пришествие демона (2024)
+#EXTINF:0,Пришествие демона (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXPQBYKZdYBQC-/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Новички (2024)
+#EXTINF:0,Новички (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSFypbpmqWD60z/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Избавление (2024)
+#EXTINF:0,Избавление (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSISrvOB1vDapf/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Мой пингвин (2024)
+#EXTINF:0,Мой пингвин (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKS9gfHcWjvkFQp/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Озеро Каддо (2024)
+#EXTINF:0,Озеро Каддо (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSiUNxNZtbxreS/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Бeзмoлвнoe бpaтcтвo (2024)
+#EXTINF:0,Бeзмoлвнoe бpaтcтвo (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/FP7MRNSs8Z4TvoR3bYJ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Другой мир: Год волка (2024)
+#EXTINF:0,Другой мир: Год волка (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSEbMHOPkI9CxM/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Панда (2024)
+#EXTINF:0,Панда (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKStnNrQegSXxP_/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Аквамен (2018)
+#EXTINF:0,Аквамен (2018)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSQoOCOuHKnPEi/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Аквамен и потерянное царство (2023)
+#EXTINF:0,Аквамен и потерянное царство (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSl1-RzTDvUd2E/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Meгaлoпoлиc (2024)
+#EXTINF:0,Meгaлoпoлиc (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSj2d7OEv6bLBe/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ночная сучка (2024)
+#EXTINF:0,Ночная сучка (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSscWxzIi4pSGj/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Мятежная Луна:Часть 1 - Дитя огня (2023)
+#EXTINF:0,Мятежная Луна:Часть 1 - Дитя огня (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKS_iMjZ8VCFUGU/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Мятежная Луна:Часть 2 - Оставляющая шрамы (2024)
+#EXTINF:0,Мятежная Луна:Часть 2 - Оставляющая шрамы (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXz9SL-Pf7udo5/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ускорение (2024)
+#EXTINF:0,Ускорение (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXTbjSX4xrcD_q/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Росомаха и Дэдпул (2024)
+#EXTINF:0,Росомаха и Дэдпул (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/5jktNnXDk3rRcggVxrW/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ковбои страны АбраКадабра (2024)
+#EXTINF:0,Ковбои страны АбраКадабра (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/YI8o3Ntq7px6n_O_lF1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Платформа 2 (2024)
+#EXTINF:0,Платформа 2 (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXJ0qwywJJdl7L/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Очень Холодно (2024)
+#EXTINF:0,Очень Холодно (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSiQMFDGzQDpfd/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Планета обезьян: Новое царство (2024)
+#EXTINF:0,Планета обезьян: Новое царство (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS7CrWRL68KXFf/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Досье «Чёрная канарейка» (2024)
+#EXTINF:0,Досье «Чёрная канарейка» (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSeOy4rIAMEzJF/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Зять (2024)
+#EXTINF:0,Зять (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSuZSJv9_mPPj6/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Скорость (1994)
+#EXTINF:0,Скорость (1994)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS4Ory7A6w3u06/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Небритая рука 4К (2024)
+#EXTINF:0,Небритая рука 4К (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSZ4wpuU3BVyKP/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Граф Монте-Кристо (2024)
+#EXTINF:0,Граф Монте-Кристо (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSeCa0D7wNVzU2/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Миссия: Красный (2024)
+#EXTINF:0,Миссия: Красный (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKS1wLeDJxVMnxS/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Властелин колец: Война рохирримов (2024)
+#EXTINF:0,Властелин колец: Война рохирримов (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKShe1GPwGGalGs/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Одинокие волки (2024)
+#EXTINF:0,Одинокие волки (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/YI8o3NtJ2UqZYWdxV0t/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ускорение (2024)
+#EXTINF:0,Ускорение (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXtV5QhOmDvVbM/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гладиатор 2 (2024)
+#EXTINF:0,Гладиатор 2 (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSboYPDiH40SG_/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ручная кладь (2024)
+#EXTINF:0,Ручная кладь (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSelCfQR8rozwW/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Миллениум (2024)
+#EXTINF:0,Миллениум (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS8507zA9gG2ap/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Атлас (2024)
+#EXTINF:0,Атлас (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS04F4psVU6KeE/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Неуязвимый (2000)
+#EXTINF:0,Неуязвимый (2000)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSz7Xj6CU9RPM7/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Снайпер (2014)
+#EXTINF:0,Снайпер (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSQWL2mWUXs2Ed/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Зверь (2022)
+#EXTINF:0,Зверь (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSq3aee9TuSanb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",1+1 (2011)
+#EXTINF:0,1+1 (2011)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSikOuFunSVHj3/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Хулиганы зеленой улицы (2005)
+#EXTINF:0,Хулиганы зеленой улицы (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSlHCJoFxJpIVI/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",На гребне волны (1991)
+#EXTINF:0,На гребне волны (1991)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSOETRlkKMSxLE/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Адвокат дьявола (1997)
+#EXTINF:0,Адвокат дьявола (1997)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSHZFieZd4XciX/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",За пригоршню долларов (1964)
+#EXTINF:0,За пригоршню долларов (1964)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSGmNib-8VvFmB/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Миллион лет до нашей эры (1966)
+#EXTINF:0,Миллион лет до нашей эры (1966)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS_2jeex_2PHnH/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Выстрел в пустоту (2017)
+#EXTINF:0,Выстрел в пустоту (2017)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS7V4tUEhtCPP1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Рейд (2011)
+#EXTINF:0,Рейд (2011)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSlmeC0kSUWFJi/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",65 (2023)
+#EXTINF:0,65 (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/YI8o3Ntob7QmDyV4DSj/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Шерлок Холмс (2009)
+#EXTINF:0,Шерлок Холмс (2009)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSLO04wtmlx8DD/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Луна 2112 (2009)
+#EXTINF:0,Луна 2112 (2009)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSS0ek9idmG7I9/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Социальная сеть (2010)
+#EXTINF:0,Социальная сеть (2010)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSRvIWiyOfqzx3/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Небесный капитан и мир будущего (2004)
+#EXTINF:0,Небесный капитан и мир будущего (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKS6nZ0aw_6ZPQN/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Бруклин (2015)
+#EXTINF:0,Бруклин (2015)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSTcEmtJ5JjKjY/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Битва за Землю (2019)
+#EXTINF:0,Битва за Землю (2019)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSlFDFUN8FYeKA/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Луна (2023)
+#EXTINF:0,Луна (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSklZYQubNALIh/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Эпидемия: Вирус-32 (2022)
+#EXTINF:0,Эпидемия: Вирус-32 (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSo1xac1S8NSCs/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Крупный улов (2023)
+#EXTINF:0,Крупный улов (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSZfPXQElykw3m/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Восстание зловещих мертвецов (2023)
+#EXTINF:0,Восстание зловещих мертвецов (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKS-NXDq5MwU__H/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Последняя фантазия: Духи внутри (2001)
+#EXTINF:0,Последняя фантазия: Духи внутри (2001)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/zE2SWKSUBHwHuTh4BY0/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Одержимость (2014)
+#EXTINF:0,Одержимость (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/5jktNnXX9D5OwG9CflW/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Константин: Повелитель тьмы 60 FPS (2005)
+#EXTINF:0,Константин: Повелитель тьмы 60 FPS (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSbbt_iOoMTlsY/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Париж: Город мёртвых (2014)
+#EXTINF:0,Париж: Город мёртвых (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/5jktNnXesxcSKisWxuM/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Призрачный патруль (2013)
+#EXTINF:0,Призрачный патруль (2013)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSR7tJjLdDk517/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Особняк с привидениями (2023)
+#EXTINF:0,Особняк с привидениями (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/YI8o3NtR6SaXrPOE0QA/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Вонка (2023)
+#EXTINF:0,Вонка (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSRX-3pNX7WFxQ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Братья Супер Марио в кино (2023)
+#EXTINF:0,Братья Супер Марио в кино (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/FP7MRNSpZ78c90rz95U/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Райское озеро (2008)
+#EXTINF:0,Райское озеро (2008)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSHBEKezyTZG3N/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Идиократия (2006)
+#EXTINF:0,Идиократия (2006)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSKJUs4-7VylDq/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Забирая жизни (2004)
+#EXTINF:0,Забирая жизни (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSGTnfJSLFjxFa/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Знакомьтесь Джо Блэк (1998)
+#EXTINF:0,Знакомьтесь Джо Блэк (1998)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSyNH0ayNPt0zQ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Игра (1997)
+#EXTINF:0,Игра (1997)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSYhhWV6watVka/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Отряд самоубийц (2016)
+#EXTINF:0,Отряд самоубийц (2016)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/zE2SWKSDmFUT4b79iFz/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Тёмная башня (2017)
+#EXTINF:0,Тёмная башня (2017)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSJVFd9LZgpn01/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Армия воров (2021)
+#EXTINF:0,Армия воров (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKS4D2pjdoAlnJQ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Машина времени (2002)
+#EXTINF:0,Машина времени (2002)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSmxsFjO6Tw1HD/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Форма воды (2017)
+#EXTINF:0,Форма воды (2017)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS7dMu_f0hQQlt/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Пятая власть (2013)
+#EXTINF:0,Пятая власть (2013)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSqA399z5Koxej/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",13-й район (2004)
+#EXTINF:0,13-й район (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSn5IF-JXJrJiX/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Затащи меня в ад (2009)
+#EXTINF:0,Затащи меня в ад (2009)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSJJUHc8Mit0xt/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Лучшие в Аду (2022)
+#EXTINF:0,Лучшие в Аду (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKShBkm4dWR2uPw/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ярость (2014)
+#EXTINF:0,Ярость (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSZ8TllbS52MPw/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Красная планета (2000)
+#EXTINF:0,Красная планета (2000)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXtmGX4kQ2DUtd/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Чарли и Шоколадная Фабрика (2005)
+#EXTINF:0,Чарли и Шоколадная Фабрика (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKS8_iejIDLad_p/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Забытое (2004)
+#EXTINF:0,Забытое (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXwEbIGHg9n_tW/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Большой и добрый великан (2016)
+#EXTINF:0,Большой и добрый великан (2016)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSpw-YIYjGw1Ip/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Большой баг (2022)
+#EXTINF:0,Большой баг (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS9tq02eRmn-Gj/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",G. I. Joe. Бросок кобры : Снейк Айз (2021)
+#EXTINF:0,G. I. Joe. Бросок кобры : Снейк Айз (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSWIqP9bkN8R27/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Молодой Кесьлёвский (2014)
+#EXTINF:0,Молодой Кесьлёвский (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS7QIJdzp_tQDn/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Космическая одиссея 2001 (1968)
+#EXTINF:0,Космическая одиссея 2001 (1968)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSxFTFgJjywddp/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Хищник (2018)
+#EXTINF:0,Хищник (2018)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKS55C1NoCpNdzY/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Расплата (2010)
+#EXTINF:0,Расплата (2010)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS8FQg8O3LZV_2/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Легенда жемчуга Наги (2017)
+#EXTINF:0,Легенда жемчуга Наги (2017)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSBvJGxRNCyGYp/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Варкрафт (2016)
+#EXTINF:0,Варкрафт (2016)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS2GS22U81_IJB/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",6-ой день (2000)
+#EXTINF:0,6-ой день (2000)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSot7KI-M1XMin/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Мистер и миссис Смит (2005)
+#EXTINF:0,Мистер и миссис Смит (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSZKj3mGX1p4Xd/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Возмещение ущерба (2002)
+#EXTINF:0,Возмещение ущерба (2002)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS_38wP_nKXsTD/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Бегущая в лабиринте (2020)
+#EXTINF:0,Бегущая в лабиринте (2020)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSuqlooHlX2IX_/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Финч (2021)
+#EXTINF:0,Финч (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXJSCbgYkHprJl/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Барби (2023)
+#EXTINF:0,Барби (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSs8U7Oec2eLPl/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Дюнкерк (2017)
+#EXTINF:0,Дюнкерк (2017)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKS5xCTVwmgcEAd/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",К звёздам (2019)
+#EXTINF:0,К звёздам (2019)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/5jktNnXo-d3oftdQZv9/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Митчеллы против машин (2021)
+#EXTINF:0,Митчеллы против машин (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXFTNCYehRdmo_/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Джейсон Борн (2016)
+#EXTINF:0,Джейсон Борн (2016)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKS9h1DUe4PRr8R/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Вавилон Н.Э (2008)
+#EXTINF:0,Вавилон Н.Э (2008)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSiLlAlg_BFtJ8/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Aпгрейд (2018)
+#EXTINF:0,Aпгрейд (2018)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/FP7MRNSkuI82HP1hOHn/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Тетрадь смерти (2017)
+#EXTINF:0,Тетрадь смерти (2017)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSMIXxMMeoQ7NQ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Зов волка (2019)
+#EXTINF:0,Зов волка (2019)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSHCebauKycu5l/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Сфера (1998)
+#EXTINF:0,Сфера (1998)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSIqcGlWA8kLCU/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Великий уравнитель (2014)
+#EXTINF:0,Великий уравнитель (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSpcq-3w6JpOs3/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ван Хельсинг (2004)
+#EXTINF:0,Ван Хельсинг (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKSKI_VNrukjTDZ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Радиоволна (2000)
+#EXTINF:0,Радиоволна (2000)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSfyUfydbL2rQv/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Aквамен и потерянное цaрство (2023)
+#EXTINF:0,Aквамен и потерянное цaрство (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS5nG2WSS86wl9/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Глaвный герoй (2021)
+#EXTINF:0,Глaвный герoй (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/FP7MRNSh8VojdQHHps_/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Санктум (2011)
+#EXTINF:0,Санктум (2011)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS7nb0kkShRLKv/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Новая земля (2008)
+#EXTINF:0,Новая земля (2008)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXkDmny-tb_Fib/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Роковое число 23 (2007)
+#EXTINF:0,Роковое число 23 (2007)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXSVzMkuHyiFwY/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Алиса в стране чудес (2010)
+#EXTINF:0,Алиса в стране чудес (2010)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXryxHJU0FD7Gu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ледниковый период (2002)
+#EXTINF:0,Ледниковый период (2002)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXhNtXkGPxHMth/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Грейхаунд (2020)
+#EXTINF:0,Грейхаунд (2020)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXbUXwz7elC9fi/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Планета сокровищ (2002)
+#EXTINF:0,Планета сокровищ (2002)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSIyfmSnw6_i_S/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",ВАЛЛ·И (2008)
+#EXTINF:0,ВАЛЛ·И (2008)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/FP7MRNSjR50pVDHFBdB/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гран Туризмо (2023)
+#EXTINF:0,Гран Туризмо (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSCClH_WBleY4z/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Битва за планету Терра (2007)
+#EXTINF:0,Битва за планету Терра (2007)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnXOSVv_6wHu7YX/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Восемь ног (2023)
+#EXTINF:0,Восемь ног (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSjrXsNKQk1BtZ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Город Эмбер: Побег (2008)
+#EXTINF:0,Город Эмбер: Побег (2008)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/5jktNnX-2nBiGDH2ZEY/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ренфилд (2023)
+#EXTINF:0,Ренфилд (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnXKqRxUb7n_VxN/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Музей восковых фигур 2: Затерянные во времени (1992)
+#EXTINF:0,Музей восковых фигур 2: Затерянные во времени (1992)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSBBCtnHJ6-dpl/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Пекло (2007)
+#EXTINF:0,Пекло (2007)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSciJxLTnFM34B/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Джокер (2019)
+#EXTINF:0,Джокер (2019)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXk4XM1shOsmAL/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Джокер: Безумие на двоих (2024)
+#EXTINF:0,Джокер: Безумие на двоих (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/5jktNnXBzcTeg8Fj_Tu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Люси (2014)
+#EXTINF:0,Люси (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSSlAmsiNeQS9k/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Пассажиры (2016)
+#EXTINF:0,Пассажиры (2016)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSLQnPWf1lXzgH/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Грань будущего (2014)
+#EXTINF:0,Грань будущего (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSB3I9FwmYydWj/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Джон Картер (2012)
+#EXTINF:0,Джон Картер (2012)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKS9neAz0E0RWlg/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Тихое место: День первый (2024)
+#EXTINF:0,Тихое место: День первый (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKS78Rx1NeoNfhe/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Интерстеллар (2014)
+#EXTINF:0,Интерстеллар (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS1bOOmsSEcxUC/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Тор: Любовь и гром (2022)
+#EXTINF:0,Тор: Любовь и гром (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSXFjOCOcC61cK/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Колдунья и волшебный шкаф (2005)
+#EXTINF:0,Колдунья и волшебный шкаф (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSR0IC15XYKNJV/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Хроники Нарнии: Принц Каспиан (2008)
+#EXTINF:0,Хроники Нарнии: Принц Каспиан (2008)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKS5kz3c84m6GIA/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Хеллбой: Герой из пекла (2004)
+#EXTINF:0,Хеллбой: Герой из пекла (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSxSCoyd24EBIC/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Хеллбой 2: Золотая армия (2008)
+#EXTINF:0,Хеллбой 2: Золотая армия (2008)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSTMcMUF6fuHNP/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Блэйд (1998)
+#EXTINF:0,Блэйд (1998)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSZHUSxcbgtKH9/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Блэйд 3: Троица (2004)
+#EXTINF:0,Блэйд 3: Троица (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSCGksXvwjhJcQ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Сокровище нации (2004)
+#EXTINF:0,Сокровище нации (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSmSShWCM6U-zk/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Сокровище нации: Книга Тайн (2007)
+#EXTINF:0,Сокровище нации: Книга Тайн (2007)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXN-LfJJfJxnUG/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Пацан против всех (2023)
+#EXTINF:0,Пацан против всех (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSXqpV2falylUJ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Затура: Космическое приключение (2005)
+#EXTINF:0,Затура: Космическое приключение (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSxJVqImuRz1fU/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",От заката до рассвета (1996)
+#EXTINF:0,От заката до рассвета (1996)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSc9vQgJqLJGmb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",От заката до рассвета 2: Кровавые деньги из Техаса (1999)
+#EXTINF:0,От заката до рассвета 2: Кровавые деньги из Техаса (1999)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSWVZCVXTX5HDi/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Тихоокеанский рубеж (2013)
+#EXTINF:0,Тихоокеанский рубеж (2013)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSIf6hn7ZcQ4wi/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Доктор Стрэндж: В мультивселенной безумия (2022)
+#EXTINF:0,Доктор Стрэндж: В мультивселенной безумия (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKS68zWXHE5pzko/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Капитан Марвел 2 (2023)
+#EXTINF:0,Капитан Марвел 2 (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXksw3sfJX1eoF/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Столкновение с бездной (1988)
+#EXTINF:0,Столкновение с бездной (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSWmW05xmJosG5/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Я – легенда (2007)
+#EXTINF:0,Я – легенда (2007)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSoKn4cN-S9jVT/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Клоуны-убийцы из космоса (1988)
+#EXTINF:0,Клоуны-убийцы из космоса (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKS9YcIND0omYGf/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Хроники Риддика (2004)
+#EXTINF:0,Хроники Риддика (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSvtOk22l9Fwyw/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Прометей (2012)
+#EXTINF:0,Прометей (2012)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKS-Qs2gNTo3rco/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Чужой против Хищника (2004)
+#EXTINF:0,Чужой против Хищника (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSl5Nhi2qiDYjs/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Чужой: Завет (2017)
+#EXTINF:0,Чужой: Завет (2017)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSDSW_8kYHCei-/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Чужой: Ромул (2024)
+#EXTINF:0,Чужой: Ромул (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSqg0946T0rLL1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Тёмный город (1988)
+#EXTINF:0,Тёмный город (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/5jktNnX_pGMU7wzkRjb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Война миров (1953)
+#EXTINF:0,Война миров (1953)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSN5omlC8M7bP9/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Война миров (2005)
+#EXTINF:0,Война миров (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS1zDdUzoPJq7I/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ворон (2024)
+#EXTINF:0,Ворон (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/YI8o3NtvSCoud1XMcEB/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Война миров (2005)
+#EXTINF:0,Война миров (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKS-l_Ml2puAPms/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Петля времени (2012)
+#EXTINF:0,Петля времени (2012)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/5jktNnXDPJC-iuRZV_x/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Хоттабыч (2006)
+#EXTINF:0,Хоттабыч (2006)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSNp2cAi6bvR5G/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Меню (2022)
+#EXTINF:0,Меню (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/5jktNnXaGRp02LvsEZ-/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Послезавтра (2004)
+#EXTINF:0,Послезавтра (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKS6Z04FrFibihI/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Полночь с дьяволом (2023)
+#EXTINF:0,Полночь с дьяволом (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSLOec1CuhmZQ8/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Подай знак (2024)
+#EXTINF:0,Подай знак (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSL6TwHEOL-EIM/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Зло: Проклятая комната (2022)
+#EXTINF:0,Зло: Проклятая комната (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/5jktNnX7U_yhaotJL9r/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Земля будущего (2015)
+#EXTINF:0,Земля будущего (2015)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKSJnkO8R1w9Jvw/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Вечно молодой (1992)
+#EXTINF:0,Вечно молодой (1992)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSTy8Nq_3Sgr0x/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Куда приводят мечты (1998)
+#EXTINF:0,Куда приводят мечты (1998)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/5jktNnXjz2nOhUiKpjC/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гретель и Гензель (2020)
+#EXTINF:0,Гретель и Гензель (2020)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSPxDWjpvv8uWx/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",На Западном фронте без перемен (2022)
+#EXTINF:0,На Западном фронте без перемен (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/YI8o3Nth7xthlXWygKx/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Проект «Адам» (2022)
+#EXTINF:0,Проект «Адам» (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/5jktNnXT3uog0fmU6Pc/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Живая сталь (2011)
+#EXTINF:0,Живая сталь (2011)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSZlxujw047Q9c/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Время (2021)
+#EXTINF:0,Время (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSZfLBx3jCK7Bn/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Исчезнувшая (2014)
+#EXTINF:0,Исчезнувшая (2014)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSjRwHIusxYvoi/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Хардкор (2015)
+#EXTINF:0,Хардкор (2015)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSgTYziXfYLZkO/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ночь Живых Мертвецов (1990)
+#EXTINF:0,Ночь Живых Мертвецов (1990)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSWTIrirkNntLJ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Под водой (2020)
+#EXTINF:0,Под водой (2020)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKS708Cv8od5hOP/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Начало (2010)
+#EXTINF:0,Начало (2010)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSaX1tL8iIM3HJ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Троя (2004)
+#EXTINF:0,Троя (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSZfX1fMVKLph_/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Шестое чувство (1999)
+#EXTINF:0,Шестое чувство (1999)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSxt6C7jv21bKl/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Бесславные ублюдки (2009)
+#EXTINF:0,Бесславные ублюдки (2009)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSEW5uXY2jLo3v/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Крепкий орешек 4.0 (2007)
+#EXTINF:0,Крепкий орешек 4.0 (2007)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKS9cDLru3RHRvd/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Виллоу (1988)
+#EXTINF:0,Виллоу (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSDohPI15mRnKu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Путеводитель: Автостопом по галактике (2005)
+#EXTINF:0,Путеводитель: Автостопом по галактике (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSbezIK6a3ek_k/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Оз: Великий и Ужасный (2013)
+#EXTINF:0,Оз: Великий и Ужасный (2013)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSR4qBafyKyWKf/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Дюна: Часть 1 (2021)
+#EXTINF:0,Дюна: Часть 1 (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSgoQqxoCt0MA_/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Дюна: Часть 2 (2024)
+#EXTINF:0,Дюна: Часть 2 (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/5jktNnXxmSZtGqI5BLk/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Бэтмен и Робин (1997)
+#EXTINF:0,Бэтмен и Робин (1997)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSDxFyNHtTXifb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Бэтмен: Начало (2005)
+#EXTINF:0,Бэтмен: Начало (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSA5tv0T503q1s/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Джонни Мнемоник (1995)
+#EXTINF:0,Джонни Мнемоник (1995)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSPNgbbD7vbpnA/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Левиафан (1989)
+#EXTINF:0,Левиафан (1989)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSYs8jrligxj-R/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Мир Юрского периода: Господство (2022)
+#EXTINF:0,Мир Юрского периода: Господство (2022)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSf--w0lCdbLzm/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Последние дни на Марсе (2013)
+#EXTINF:0,Последние дни на Марсе (2013)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSqHKDJ-u9Jz0-/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Слизняк (2006)
+#EXTINF:0,Слизняк (2006)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/zE2SWKSLUKye7_91I68/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Такси (1998)
+#EXTINF:0,Такси (1998)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSHw0z6WMgWK1c/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Такси 2 (2000)
+#EXTINF:0,Такси 2 (2000)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSGaMXkeJU_NPb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Такси 3 (2003)
+#EXTINF:0,Такси 3 (2003)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKScUxMveDTTzuK/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Такси 4 (2007)
+#EXTINF:0,Такси 4 (2007)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSjZnAtUL4Y5JT/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Эквилибриум (2002)
+#EXTINF:0,Эквилибриум (2002)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/5jktNnXbC6amqqYpaki/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Омерзительная восьмерка (2015)
+#EXTINF:0,Омерзительная восьмерка (2015)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSdR0zEUaAWh87/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Элементарно (2023)
+#EXTINF:0,Элементарно (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSviNPXI_i6ZI7/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Тайлер Рейк: Операция по спасению 2 (2023)
+#EXTINF:0,Тайлер Рейк: Операция по спасению 2 (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSMS9bVZfHYtGX/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Чёрный телефон (2021)
+#EXTINF:0,Чёрный телефон (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSGTBe0IZwMR-w/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Квартира 7А (2023)
+#EXTINF:0,Квартира 7А (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSDpqYbDndsYQL/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Криминальное чтиво (1994)
+#EXTINF:0,Криминальное чтиво (1994)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSpWacyXtvoCku/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Зеленая миля (1999)
+#EXTINF:0,Зеленая миля (1999)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSjKHsxpX0guiY/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Рембо: Первая кровь (1982)
+#EXTINF:0,Рембо: Первая кровь (1982)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS2Uzj1uUoCv3q/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Рэмбо: Первая кровь 2 (1985)
+#EXTINF:0,Рэмбо: Первая кровь 2 (1985)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/5jktNnXmo7VwXS42yvb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Рембо 3 (1988)
+#EXTINF:0,Рембо 3 (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/YI8o3NtarMgcqBJBQia/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Марс Атакует! (1996)
+#EXTINF:0,Марс Атакует! (1996)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXukTjJs237_6K/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Бешеные псы (1992)
+#EXTINF:0,Бешеные псы (1992)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSlLW9nEMG4mt-/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Американская история X (1998)
+#EXTINF:0,Американская история X (1998)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSVuQW70xk7Otj/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Законопослушный Гражданин (2009)
+#EXTINF:0,Законопослушный Гражданин (2009)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS5A1uUsGnUJfw/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Четыре комнаты (1995)
+#EXTINF:0,Четыре комнаты (1995)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/FP7MRNSHlWl5RL79L4j/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Батальон 6888 (2024)
+#EXTINF:0,Батальон 6888 (2024)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSyQWqkCvMo_TF/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Безумный Макс: Дорога ярости (2015)
+#EXTINF:0,Безумный Макс: Дорога ярости (2015)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS18Eo70e5EcvL/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Веном (2018)
+#EXTINF:0,Веном (2018)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/FP7MRNSagl5fCPUTtQU/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Не пойман — не вор (2006)
+#EXTINF:0,Не пойман — не вор (2006)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSgjCWnaCZ1J4B/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",День независимости (1996)
+#EXTINF:0,День независимости (1996)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSyR1F_4dwSBMd/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",День независимости: Возрождение (2016)
+#EXTINF:0,День независимости: Возрождение (2016)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSA2-0g_K9HN58/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гравитация (2013)
+#EXTINF:0,Гравитация (2013)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXj9dV3DWG5RT1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Коралина в стране кошмаров (2009)
+#EXTINF:0,Коралина в стране кошмаров (2009)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/5jktNnX_sy0kqpSnnQt/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Аэроплан (1980)
+#EXTINF:0,Аэроплан (1980)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXZRm2ukLcseFd/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Аэроплан 2 (1982)
+#EXTINF:0,Аэроплан 2 (1982)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKS6ibiMgVhBjEh/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Сексмиссия (1984)
+#EXTINF:0,Сексмиссия (1984)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSwH8RwaNUuh07/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Электрошок (1989)
+#EXTINF:0,Электрошок (1989)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSba5ED9kO9RY4/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Зловещие мертвецы (1981)
+#EXTINF:0,Зловещие мертвецы (1981)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSnsFKR5JpaLNr/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ва Банк (1981)
+#EXTINF:0,Ва Банк (1981)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/YI8o3NtR7dHWmyGtoTW/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Крикуны (1995)
+#EXTINF:0,Крикуны (1995)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSltFY47_Kc5sH/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Немыслимое (2010)
+#EXTINF:0,Немыслимое (2010)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSJ3kF51j8vNRG/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Паспорт (1990)
+#EXTINF:0,Паспорт (1990)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSgwj6w0QR33g1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Классик (1998)
+#EXTINF:0,Классик (1998)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSCBHr79jzec36/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",День сурка (1993)
+#EXTINF:0,День сурка (1993)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSjqBJiZStadjz/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Джуманджи (1995)
+#EXTINF:0,Джуманджи (1995)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnX-QO4NBTYvDQH/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Универсальный солдат (1992)
+#EXTINF:0,Универсальный солдат (1992)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/YI8o3NtX0dEU5BUeoOm/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Кровавый спорт (1988)
+#EXTINF:0,Кровавый спорт (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSMCrAeBcz8Uw1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Демоны (1986)
+#EXTINF:0,Демоны (1986)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKStAcaN65gKjZQ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Телемертвецы (1987)
+#EXTINF:0,Телемертвецы (1987)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS_VB8fnB2xAzu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Кошмар на улице Вязов (1984)
+#EXTINF:0,Кошмар на улице Вязов (1984)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/YI8o3NtkoP9-tu3n_28/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Кто подставил кролика Роджера (1988)
+#EXTINF:0,Кто подставил кролика Роджера (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/YI8o3Nt-91QC2tRMhG-/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Не отступать и не сдаваться (1985)
+#EXTINF:0,Не отступать и не сдаваться (1985)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/YI8o3Nt_zTAbqbWwrkX/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Схватка (1995)
+#EXTINF:0,Схватка (1995)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSrpB_zlaYerV2/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Зверобой 2 серии (1990)
+#EXTINF:0,Зверобой 2 серии (1990)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSthTGE8COKqRW/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Земные девушки легко доступны (1988)
+#EXTINF:0,Земные девушки легко доступны (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/YI8o3NtpvA81lTHTgg7/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Особенности национальной охоты (1995)
+#EXTINF:0,Особенности национальной охоты (1995)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSb_UvTgXelNtH/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Щен из созвездия Гончих псов (1991)
+#EXTINF:0,Щен из созвездия Гончих псов (1991)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKS5Ou33CTNuZbn/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Полосатый рейс (1961)
+#EXTINF:0,Полосатый рейс (1961)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSPgYH_sXDmg0C/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Самогонщики (1961)
+#EXTINF:0,Самогонщики (1961)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKSWZyE9YwtS6_l/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Мимино (1977)
+#EXTINF:0,Мимино (1977)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/YI8o3NtuFrwnq_NYe4u/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Операция «Ы» и другие приключения Шурика (1965)
+#EXTINF:0,Операция «Ы» и другие приключения Шурика (1965)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/zE2SWKSNbnp8UWm2ysu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Миколка-паровоз (1956)
+#EXTINF:0,Миколка-паровоз (1956)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSdFEgvheaqF0m/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Баллада о солдате (1959)
+#EXTINF:0,Баллада о солдате (1959)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSmQgNZ7YXTxQY/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Пёс Барбос и необычный кросс (1961)
+#EXTINF:0,Пёс Барбос и необычный кросс (1961)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKS7dIClLbe8gJm/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Человек с бульвара Капуцинов (1987)
+#EXTINF:0,Человек с бульвара Капуцинов (1987)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXMYrFJUPHGFiw/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Илья Муромец (1956)
+#EXTINF:0,Илья Муромец (1956)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/5jktNnXLO_dMbwy4kHb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",В бой идут одни «старики» (1973)
+#EXTINF:0,В бой идут одни «старики» (1973)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSZhdZXd1zZmjo/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Закадычные друзья (1954)
+#EXTINF:0,Закадычные друзья (1954)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSWJMLGvX1PwI_/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Морозко (1964)
+#EXTINF:0,Морозко (1964)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSWv0tMNq2hqq8/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Женитьба Бальзаминова (1964)
+#EXTINF:0,Женитьба Бальзаминова (1964)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKS91T4rjWe-VJ6/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",За спичками (1979)
+#EXTINF:0,За спичками (1979)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/5jktNnXltSMR0hh4M7H/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Сорок первый (1956)
+#EXTINF:0,Сорок первый (1956)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKS_rGzNsb_Rbu7/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Собачье сердце (1988)
+#EXTINF:0,Собачье сердце (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSflzYkqPfG6j4/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Чернокнижник (1989)
+#EXTINF:0,Чернокнижник (1989)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/YI8o3Ntzi0HWRkNXsgZ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Белое солнце пустыни (1970)
+#EXTINF:0,Белое солнце пустыни (1970)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS86hKXzkWewFs/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Не может быть! (1975)
+#EXTINF:0,Не может быть! (1975)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKS01-AeJGUdfjF/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Карнавальная ночь (1956)
+#EXTINF:0,Карнавальная ночь (1956)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSOUEg-apeAcXA/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Вий (1967)
+#EXTINF:0,Вий (1967)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSIX1BbfDu3JC1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Алые паруса (1961)
+#EXTINF:0,Алые паруса (1961)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXBrJfcBss2usi/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Начальник Чукотки (1966)
+#EXTINF:0,Начальник Чукотки (1966)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/5jktNnXNvuDFDpo2EFm/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Дядя Вася (1970)
+#EXTINF:0,Дядя Вася (1970)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKS3UwYsZmPS_4P/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Cамая обаятельная и привлекательная (1985)
+#EXTINF:0,Cамая обаятельная и привлекательная (1985)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/YI8o3NtXHV0CSviB0eQ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Любовь и голуби (1984)
+#EXTINF:0,Любовь и голуби (1984)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSFLYkE1fJA54R/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Игла (1988)
+#EXTINF:0,Игла (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSdoBQWQvjY36N/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Старик Хоттабыч (1956)
+#EXTINF:0,Старик Хоттабыч (1956)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSCVZ9-Pjbj_o7/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Руслан и Людмила 2 серии (1972)
+#EXTINF:0,Руслан и Людмила 2 серии (1972)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSffzNzkzgx494/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Солярис (1972)
+#EXTINF:0,Солярис (1972)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKS33ZuUMZ5h_zP/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Три тополя на Плющихе (1967)
+#EXTINF:0,Три тополя на Плющихе (1967)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnX-nSXaJzImbIu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Старик Хоттабыч (1956)
+#EXTINF:0,Старик Хоттабыч (1956)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSqblImLV6ciqy/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Ирония судьбы или С лёгким паром (1975)
+#EXTINF:0,Ирония судьбы или С лёгким паром (1975)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSxldZz4DE8l9o/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Иван Васильевич меняет профессию (1973)
+#EXTINF:0,Иван Васильевич меняет профессию (1973)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSqlC9rnLzaFve/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Джентльмены удачи (1971)
+#EXTINF:0,Джентльмены удачи (1971)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSZe_XcMMhQL51/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Нафаня (1975)
+#EXTINF:0,Нафаня (1975)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSZGWji_2oLSdu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Отцы и деды (1982)
+#EXTINF:0,Отцы и деды (1982)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS-0i-xH-rh0J0/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Три орешка для Золушки (1973)
+#EXTINF:0,Три орешка для Золушки (1973)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSQwQpYIJxEocq/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Д'Артаньян и три мушкетера 1-серия (1979)
+#EXTINF:0,Д'Артаньян и три мушкетера 1-серия (1979)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSvx14wvS1Pr6J/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Д'Артаньян и три мушкетера 2-серия (1979)
+#EXTINF:0,Д'Артаньян и три мушкетера 2-серия (1979)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSznl1UHnM6PDE/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Д'Артаньян и три мушкетера 3-серия (1979)
+#EXTINF:0,Д'Артаньян и три мушкетера 3-серия (1979)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSjmX16r35J8XK/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Кин-дза-дза! 1-серия (1986)
+#EXTINF:0,Кин-дза-дза! 1-серия (1986)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSavweT78bbBNH/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Кин-дза-дза! 2-серия (1986)
+#EXTINF:0,Кин-дза-дза! 2-серия (1986)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSQ10lGogXI6Ss/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Золотой телёнок 1-серия (1968)
+#EXTINF:0,Золотой телёнок 1-серия (1968)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSlrwyXCLE4feQ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Золотой телёнок 2-серия (1968)
+#EXTINF:0,Золотой телёнок 2-серия (1968)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSmb2_d0rdAy2Q/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Зимний вечер в Гаграх (1985)
+#EXTINF:0,Зимний вечер в Гаграх (1985)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKS0dqOCbyeHEWZ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Сталкер (1979)
+#EXTINF:0,Сталкер (1979)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKSuqOxa7561NUW/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Человек–амфибия (1961)
+#EXTINF:0,Человек–амфибия (1961)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSuPIP-I_oL0hk/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Я шагаю по Москве (1963)
+#EXTINF:0,Я шагаю по Москве (1963)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXphbWMnRP-e89/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Морозко (1964)
+#EXTINF:0,Морозко (1964)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSJ07vnQdHwgIq/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Осенний марафон (1979)
+#EXTINF:0,Осенний марафон (1979)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSvujccWkCDn30/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Терминатор (1984)
+#EXTINF:0,Терминатор (1984)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS8icpv5rp--qK/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Терминатор: Да придёт спаситель (2009)
+#EXTINF:0,Терминатор: Да придёт спаситель (2009)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSwV8bOrHd810S/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Скала (1996)
+#EXTINF:0,Скала (1996)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/YI8o3NtELQL6-NIuajP/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Эльвира: Повелительница тьмы (1988)
+#EXTINF:0,Эльвира: Повелительница тьмы (1988)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/YI8o3NtHSwPt9n_MdIY/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Воздушная тюрьма (1997)
+#EXTINF:0,Воздушная тюрьма (1997)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/YI8o3NtmFOQR4HK--Fv/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Киборг (1989)
+#EXTINF:0,Киборг (1989)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/YI8o3NtozWx7xjrnitv/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Форсаж (2001)
+#EXTINF:0,Форсаж (2001)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKS4YZUhfTLByke/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Форсаж 5 (2011)
+#EXTINF:0,Форсаж 5 (2011)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSZHyVO_EzZfca/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Форсаж 10 (2023)
+#EXTINF:0,Форсаж 10 (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/YI8o3NtJuym_3R6fDDh/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Беглец (1993)
+#EXTINF:0,Беглец (1993)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/YI8o3NttjFXvJfd6eIx/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Маска (1994)
+#EXTINF:0,Маска (1994)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSRJdaPntQOUSX/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Один дома (1990)
+#EXTINF:0,Один дома (1990)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSNzJREV9d2HV7/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Один Дома 2: Затерянный В Нью-Йорке (1992)
+#EXTINF:0,Один Дома 2: Затерянный В Нью-Йорке (1992)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKScjRc2EFhHPlw/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Зубастики (1986)
+#EXTINF:0,Зубастики (1986)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSvz3roZTuIXYl/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Крестный отец 1 (1972)
+#EXTINF:0,Крестный отец 1 (1972)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKS49K_h508_7al/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Крестный отец 2 (1974)
+#EXTINF:0,Крестный отец 2 (1974)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSfCp5mQTfuUrX/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Крестный отец 3 (1990)
+#EXTINF:0,Крестный отец 3 (1990)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSExGaWMGn7dyl/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Властелин колец: Братство кольца (2001)
+#EXTINF:0,Властелин колец: Братство кольца (2001)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSTY6cqmnX9WVb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Властелин колец: Две крепости (2002)
+#EXTINF:0,Властелин колец: Две крепости (2002)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSSC0TPFF3_697/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Властелин колец: Возвращение короля (2003)
+#EXTINF:0,Властелин колец: Возвращение короля (2003)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKS8qqHzuWKc8R5/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Назад в будущее 1 (1985)
+#EXTINF:0,Назад в будущее 1 (1985)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/YI8o3NtdnnoA5eOf7k4/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Назад в будущее 2 (1989)
+#EXTINF:0,Назад в будущее 2 (1989)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/YI8o3Nt9K-ktpkftuLC/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Назад в будущее 3 (1990)
+#EXTINF:0,Назад в будущее 3 (1990)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/ZQ01hGw4gFnO4gb55_o/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Полицейский из Беверли Хиллз 1 (1984)
+#EXTINF:0,Полицейский из Беверли Хиллз 1 (1984)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/YI8o3NtRk2uSBhW2pmT/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Полицейский из Беверли-Хиллз 2 (1987)
+#EXTINF:0,Полицейский из Беверли-Хиллз 2 (1987)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/FP7MRNSW7dVXf-ebDaB/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Полицейский из Беверли-Хиллз 3 (1994)
+#EXTINF:0,Полицейский из Беверли-Хиллз 3 (1994)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/aItZ6wk4TbtlBJBJDNl/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Железный человек 1 (2008)
+#EXTINF:0,Железный человек 1 (2008)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/YI8o3NtGYSH-n7wg_D1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Железный человек 2 (2010)
+#EXTINF:0,Железный человек 2 (2010)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/YI8o3NtoMIQ1tuZ1KYU/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Железный человек 3 (2013)
+#EXTINF:0,Железный человек 3 (2013)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/YI8o3Nt6I_wOYtOY7kT/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Обитель зла 1 (2002)
+#EXTINF:0,Обитель зла 1 (2002)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/5jktNnXhv9CGKnzAZmk/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Обитель зла 2: Апокалипсис (2004)
+#EXTINF:0,Обитель зла 2: Апокалипсис (2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/5jktNnXL32yJpGzJCOs/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Обитель зла 3 (2007)
+#EXTINF:0,Обитель зла 3 (2007)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXIz7zmgrYZV6j/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Обитель зла 4: Жизнь после смерти (2010)
+#EXTINF:0,Обитель зла 4: Жизнь после смерти (2010)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSl1Ia6NicTYfG/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Обитель зла: Возмездие (2012)
+#EXTINF:0,Обитель зла: Возмездие (2012)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXJOU6V1T3yBDs/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Обитель зла: Последняя глава (2016)
+#EXTINF:0,Обитель зла: Последняя глава (2016)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnX4vvAtJbUfqFY/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Обитель зла: Раккун-Сити (2021)
+#EXTINF:0,Обитель зла: Раккун-Сити (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXw_nMG40euPla/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гарри Поттер и философский камень (2001)
+#EXTINF:0,Гарри Поттер и философский камень (2001)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXRoYDkDF9uZBy/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гарри Поттер и Тайная комната (2002)
+#EXTINF:0,Гарри Поттер и Тайная комната (2002)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXjLVnxYwoyy4a/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гарри Поттер и узник Азкабана(2004)
+#EXTINF:0,Гарри Поттер и узник Азкабана(2004)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/YI8o3NtTbYuJipTKQg1/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гарри Поттер и Кубок огня (2005)
+#EXTINF:0,Гарри Поттер и Кубок огня (2005)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSJtdJvI21kfsu/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гарри Поттер и Орден Феникса (2007)
+#EXTINF:0,Гарри Поттер и Орден Феникса (2007)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKS6DKuu2jKvlvf/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гарри Поттер и Принц-полукровка (2009)
+#EXTINF:0,Гарри Поттер и Принц-полукровка (2009)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/aItZ6wkYz3Lx1wJzqFE/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гарри Поттер и Дары Смерти: Часть 1 (2010)
+#EXTINF:0,Гарри Поттер и Дары Смерти: Часть 1 (2010)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXQW1t4vHKD1KR/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Гарри Поттер и Дары Смерти: Часть 2 (2010)
+#EXTINF:0,Гарри Поттер и Дары Смерти: Часть 2 (2010)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXwmE7Tjryww_b/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Матрица (1999)
+#EXTINF:0,Матрица (1999)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXeF1D-Mz3ft_e/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Матрица: Перезагрузка (2003)
+#EXTINF:0,Матрица: Перезагрузка (2003)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/zE2SWKS9rfYWarrdGbz/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Матрица: Революция (2003)
+#EXTINF:0,Матрица: Революция (2003)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/5jktNnXoUDvedOxZblB/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Матрица: Воскрешение (2021)
+#EXTINF:0,Матрица: Воскрешение (2021)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnXbS1RsZpnHGmj/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Индиана Джонс: В поисках утраченного ковчега (1981)
+#EXTINF:0,Индиана Джонс: В поисках утраченного ковчега (1981)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSnBTu9cfLTEHJ/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Индиана Джонс и Храм судьбы (1984)
+#EXTINF:0,Индиана Джонс и Храм судьбы (1984)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSTR9PwlMSgwCs/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Индиана Джонс и последний крестовый поход (1989)
+#EXTINF:0,Индиана Джонс и последний крестовый поход (1989)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSg7ARgZXu9gWO/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Индиана Джонс и Королевство хрустального черепа (2008)
+#EXTINF:0,Индиана Джонс и Королевство хрустального черепа (2008)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSxouzsIoGXekb/ZX
-#EXTINF:-1 group-title="KINO ZAL 4К",Индиана Джонс и Колесо судьбы (2023)
+#EXTINF:0,Индиана Джонс и Колесо судьбы (2023)
+#EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXDUCGkZpEubis/ZX
