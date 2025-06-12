@@ -55,16 +55,16 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:AVB
-http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
+http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MDA1NTMwNSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzQ5NDUwNTA1LCJzZXNzaW9uX2lkIjoiZDFlMTUwNzUzMWMwYWY1OGQzNzAwYmVhZTMwZGJmZjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ZWAEF-fXv0YunZk6JkToUviBig_V7uMlP0KoioZIQfA
 #EXTINF:0,МУЗ-ТВ
 #EXTGRP:AVB
-https://a775797840-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/video_800x450_avc1/playlist.m3u8?useseq=t&amp;
+http://178.163.13.217:4022/udp/234.0.0.96:2000
 #EXTINF:0,360 Новости HD
 #EXTGRP:AVB
 http://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:AVB
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+http://srv-1-streaming.iptvin.online:8080/zvezda_plus_hd/video.m3u8?token=46b90cf5cc4c0302c1caa64c0ff998caf397475f-2362845924-1749756911-1749713711
 #EXTINF:0,Известия HD
 #EXTGRP:AVB
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -175,7 +175,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
 http://178.163.6.92:4022/udp/234.0.0.233:2000
 #EXTINF:0,Перец
 #EXTGRP:AVB
-http://178.124.152.238:8088/perec
+http://213.91.178.133:8000/play/a0ay
 #EXTINF:0,Сарафан
 #EXTGRP:AVB
 http://tv.ttk.mx:9044
@@ -233,9 +233,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:0,Minimal / Deep Tech
 #EXTGRP:AVB
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:0,QUEER
-#EXTGRP:AVB
-http://stream.queerhd.com:4444/live/queerhd/playlist.m3u8
 #EXTINF:0,Trace Urban HD
 #EXTGRP:AVB
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -974,9 +971,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premiu
 #EXTINF:0,Душевное HD
 #EXTGRP:WEB
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
-#EXTINF:0,Кино 1 Int
-#EXTGRP:WEB
-http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP:WEB
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
@@ -1028,9 +1022,6 @@ http://178.212.71.253:8000/play/101/index.m3u8
 #EXTINF:0,Bridge Шлягер
 #EXTGRP:WEB
 http://178.212.71.253:8000/play/142/index.m3u8
-#EXTINF:0,Clubbing TV HD
-#EXTGRP:WEB
-https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0,Retro Music TV
 #EXTGRP:WEB
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -1129,7 +1120,7 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:0,Перец
 #EXTGRP:WEB
-http://178.124.152.238:8088/perec
+http://195.245.99.242/Perec/playlist.m3u8
 #EXTINF:0,Продвижение
 #EXTGRP:WEB
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
@@ -1250,9 +1241,6 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Радость Моя
 #EXTGRP:WEB
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:0,Смайл ТВ HD
-#EXTGRP:WEB
-https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:0,ХИТ: Третье дело (2025)
 #EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/AXpYsqofS-7w834IxHmYag/1749932145/2720/0x5000039ce85b8631/ae6d924aa46c47ca9256fbbb0fb1c24e.mp4.m3u8?i=1920x1080_3879
@@ -1847,16 +1835,16 @@ https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/zE2SWKSACbaiut9RR6-/ZX
 #EXTINF:0,Бастион 36 (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/zE2SWKSnzculiON8MNN/ZX
-#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Помешанная на контроле (2025)
+#EXTINF:0,Помешанная на контроле (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/EiKYJIFOyO/zE2SWKSfuNH2BkHmn1m/ZX
-#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Шелдон Планктон: Фильм (2025)
+#EXTINF:0,Шелдон Планктон: Фильм (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/zE2SWKSujCpY3fRbZY-/ZX
-#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Василий (2025)
+#EXTINF:0,Василий (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/EiKYJIFOyO/zE2SWKSosCh22CLvSlQ/ZX
-#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Капитан Крюк (2025)
+#EXTINF:0,Капитан Крюк (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/EiKYJIFOyO/zE2SWKSitlPaLVDOhBU/ZX
 #EXTINF:0,Компаньон (2025)
