@@ -64,7 +64,7 @@ http://178.163.13.217:4022/udp/234.0.0.96:2000
 http://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:AVB
-http://srv-1-streaming.iptvin.online:8080/zvezda_plus_hd/video.m3u8?token=46b90cf5cc4c0302c1caa64c0ff998caf397475f-2362845924-1749756911-1749713711
+https://mhd128.iptv2022.com/p/5A-JJpd_d6BOxKU3jGI4Xg,1750021204/streaming/zvezdaplus/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Известия HD
 #EXTGRP:AVB
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -77,9 +77,6 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:0,Соловьев.Live
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,ОСН HD
-#EXTGRP:AVB
-https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:0,КРИК-ТВ HD
 #EXTGRP:AVB
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
@@ -158,9 +155,6 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:0,Живая Природа HD
 #EXTGRP:AVB
 http://tv.ttk.mx:9066
-#EXTINF:0,Love Nature 4k
-#EXTGRP:AVB
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:0,2x2
 #EXTGRP:AVB
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
@@ -221,9 +215,6 @@ http://185.57.68.33/232/mpegts
 #EXTINF:0,Afrobeats TV
 #EXTGRP:AVB
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:0,House Floor
-#EXTGRP:AVB
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:0,Juice TV [nz]
 #EXTGRP:AVB
 https://juicex.nz/hls/mystream.m3u8
