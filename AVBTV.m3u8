@@ -148,7 +148,7 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 http://178.163.7.130:4022/udp/234.0.0.98:2000
 #EXTINF:0,Первый Космический HD
 #EXTGRP:AVB
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+https://mhd116.iptv2022.com/p/lUiYch2cuVs0s-QVO4bLWQ,1750100343/streaming/eurekahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,ЭХО ТВ
 #EXTGRP:AVB
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
@@ -158,12 +158,9 @@ http://tv.ttk.mx:9066
 #EXTINF:0,2x2
 #EXTGRP:AVB
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
-#EXTINF:0,6 кадров
-#EXTGRP:AVB
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
 #EXTINF:0,Анекдот ТВ
 #EXTGRP:AVB
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
+https://mhd116.iptv2022.com/p/R6COS3cqFHWytm-NBQU5og,1750100343/streaming/anekdot/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,КВН ТВ
 #EXTGRP:AVB
 http://178.163.6.92:4022/udp/234.0.0.233:2000
@@ -1066,7 +1063,7 @@ http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:0,Первый Космический HD
 #EXTGRP:WEB
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+https://mhd116.iptv2022.com/p/lUiYch2cuVs0s-QVO4bLWQ,1750100343/streaming/eurekahd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Просвещение
 #EXTGRP:WEB
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
