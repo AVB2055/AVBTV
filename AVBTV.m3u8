@@ -628,336 +628,1330 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Радость Моя
 #EXTGRP:WEB
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:0,Первый HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=1TV_hd
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Rossia_1_0_hd
+#EXTINF:0,Россия К
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_k
+#EXTINF:0,Россия-24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=rossia_24
+#EXTINF:0,Москва 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moskva24
+#EXTINF:0,НТВ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_0_hd
+#EXTINF:0,НТВ +1
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_1_hd
+#EXTINF:0,НТВ +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_2_hd
+#EXTINF:0,НТВ +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=NTV_4_hd
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
+#EXTINF:0,РЕН ТВ +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_2_sd
+#EXTINF:0,РЕН ТВ +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_4_sd
+#EXTINF:0,РЕН ТВ +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_7_sd
+#EXTINF:0,ТНТ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_2
+#EXTINF:0,ТНТ (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_4
+#EXTINF:0,ТНТ (+7)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd_7
+#EXTINF:0,ТНТ4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNT4
+#EXTINF:0,ТВ-3 HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
+#EXTINF:0,ТВ-3 (+2)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_2
+#EXTINF:0,ТВ-3 (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_4
+#EXTINF:0,ТВ-3 (+7)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd_7
+#EXTINF:0,СТС HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
+#EXTINF:0,СТС +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_2_sd
+#EXTINF:0,СТС +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_4_sd
+#EXTINF:0,СТС +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_7_sd
+#EXTINF:0,ЗВЕЗДА
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=zvezda_hd
+#EXTINF:0,ЗВЕЗДА +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_2_hd
+#EXTINF:0,ЗВЕЗДА +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_4_hd
+#EXTINF:0,ЗВЕЗДА +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Zvezda_7_hd
+#EXTINF:0,ТВЦ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=TV_Center_HD
+#EXTINF:0,Домашний
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=domashny
+#EXTINF:0,Домашний (+2)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_4
+#EXTINF:0,Домашний (+7)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=dom_sd_7
+#EXTINF:0,ПЯТНИЦА!
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_0_hd
+#EXTINF:0,ПЯТНИЦА! +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_2_hd
+#EXTINF:0,ПЯТНИЦА! +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_4_hd
+#EXTINF:0,ПЯТНИЦА! +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Friday_7_hd
+#EXTINF:0,Пятый канал
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal
+#EXTINF:0,Пятый канал +2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_2
+#EXTINF:0,Пятый канал +4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_4
+#EXTINF:0,Пятый канал +7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=5_kanal_7
+#EXTINF:0,Ю
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=U
+#EXTINF:0,Ю (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=U_4
+#EXTINF:0,Суббота!
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Super
+#EXTINF:0,OCEAN TV
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=OCEAN_TV
+#EXTINF:0,Моя Планета HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moya_Planeta_HD
+#EXTINF:0,Охотник и рыболов HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
+#EXTINF:0,Загородный Int HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorodniy_int_HD&serviceArea=GLOBAL
+#EXTINF:0,Охотник и рыболов Int HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ohotnik_i_ryb_int_HD&serviceArea=GLOBAL
+#EXTINF:0,МИР ВОКРУГ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
+#EXTINF:0,Наука HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka_HD
+#EXTINF:0,Нано ТВ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nano_HD
+#EXTINF:0,Продвижение
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Prodvizhenie
+#EXTINF:0,В мире животных
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
+#EXTINF:0,История
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Istoriya
+#EXTINF:0,Время
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Vremya
+#EXTINF:0,Т24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
+#EXTINF:0,ТНВ-Планета
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TNV_planeta
+#EXTINF:0,Большая Азия
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Big_Asia
+#EXTINF:0,Оружие
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Oruzhie
+#EXTINF:0,Телепутешествия
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
+#EXTINF:0,Моя Планета
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Moya_Planeta
+#EXTINF:0,ПОЕХАЛИ!
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Poehali
+#EXTINF:0,Живая Планета
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivaya_Planeta
+#EXTINF:0,Приключения HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Teletr
+#EXTINF:0,Рыболов
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
+#EXTINF:0,Зоо ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zoo_TV
+#EXTINF:0,Наука
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nauka
+#EXTINF:0,TVMChannel
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TVMChannel
+#EXTINF:0,CCTV-4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CCTV4
+#EXTINF:0,CGTN Русский
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CGTN_Rus
+#EXTINF:0,CGTN
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=CGTN
+#EXTINF:0,Исторический HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_20_hd
+#EXTINF:0,Travel+Adventure HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=TravelplusAdventure_HD
+#EXTINF:0,Открытый мир
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Otkryti_mir
+#EXTINF:0,Лавстори HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
+#EXTINF:0,Лапки Live
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=LapkiLive
+#EXTINF:0,Глухарь
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal24_SD
+#EXTINF:0,Советская киноклассика HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclassica_HD
+#EXTINF:0,Солдаты
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_5
+#EXTINF:0,Советские фильмы
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
+#EXTINF:0,Русский роман HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
+#EXTINF:0,Премиальное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
+#EXTINF:0,Премиальное HD (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD_4
+#EXTINF:0,Шокирующее HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
+#EXTINF:0,Шокирующее HD (+3)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD1_3
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+#EXTINF:0,Комедийное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
+#EXTINF:0,Любимое HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lubimoe_HD
+#EXTINF:0,Душевное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
+#EXTINF:0,Наше HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_krutoe_HD
+#EXTINF:0,Криминальное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kriminalnoe_HD
+#EXTINF:0,Романтичное HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Romantichnoe
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kino_TV_HD
+#EXTINF:0,День Победы HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
+#EXTINF:0,Арсенал HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_Muzhskoe_HD
+#EXTINF:0,Хит HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
+#EXTINF:0,Блокбастер HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Blokbaster_HD
+#EXTINF:0,Камеди HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kamedi_HD
+#EXTINF:0,Про Любовь HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pro_Love_HD
+#EXTINF:0,Наш Кинопоказ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
+#EXTINF:0,Кинопоказ HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
+#EXTINF:0,Мосфильм. Золотая коллекция HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mosfilm_HD
+#EXTINF:0,Дом Кино
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=D_Kino
+#EXTINF:0,Дом Кино (+2)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DomKino_2_SD
+#EXTINF:0,Дом Кино (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DomKino_4_SD
+#EXTINF:0,НСТ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=NST
+#EXTINF:0,Русский детектив
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
+#EXTINF:0,Кинопоказ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz
+#EXTINF:0,Русский бестселлер
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
+#EXTINF:0,Комедия
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
+#EXTINF:0,Scream
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Scream
+#EXTINF:0,KINOJAM 1
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
+#EXTINF:0,KINOJAM 2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
+#EXTINF:0,Дорама
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Dorama
+#EXTINF:0,Cinema
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Cinema
+#EXTINF:0,Кино ТВ (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinotvhd4
+#EXTINF:0,ПОБЕДА
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Pobeda
+#EXTINF:0,Bollywood
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
+#EXTINF:0,Flix Snip
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Flix_Snip
+#EXTINF:0,МИР
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=Mir_HD
+#EXTINF:0,РБК
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RBK_TV
+#EXTINF:0,Загородный
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
+#EXTINF:0,Первый Космический
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+#EXTINF:0,RT
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RT
+#EXTINF:0,RTД
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=RTD
+#EXTINF:0,Первый Вегетарианский
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Perviy_Vegetor
+#EXTINF:0,Центральное телевидение
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Centralnoe_TV
+#EXTINF:0,Наша Тема
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nasha_Tema
+#EXTINF:0,KBS World
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KBS_World
+#EXTINF:0,TOP SECRET
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Top_secret
+#EXTINF:0,Калейдоскоп ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kaleydoskop
+#EXTINF:0,Russian Extreme
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Russkiy_Extreme
+#EXTINF:0,Эра
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE3
+#EXTINF:0,Телеканал Е HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telekanal_E_HD
+#EXTINF:0,Luxury HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Luxury_HD
+#EXTINF:0,Спас
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=spas
+#EXTINF:0,Анекдот ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Anekdot_TV
+#EXTINF:0,Тонус
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
+#EXTINF:0,Телекафе
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telecafe
+#EXTINF:0,Еда
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+#EXTINF:0,Fashion & LifeStyle
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Fashion_one
+#EXTINF:0,Сарафан
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sarafan
+#EXTINF:0,Food time
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eda
+#EXTINF:0,Зал суда
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zal_suda
+#EXTINF:0,Gags Network
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Gagsnetwork
+#EXTINF:0,Живи активно
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhivi_aktivno
+#EXTINF:0,FAN HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
+#EXTINF:0,Arirang TV
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arirang_TV
+#EXTINF:0,DetectiveJam
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=DetectiveJam
+#EXTINF:0,KIONХИТ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
+#EXTINF:0,КИНЕКО
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kineko_HD
+#EXTINF:0,САПФИР
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sapphire_HD
+#EXTINF:0,Боевики HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
+#EXTINF:0,Ужасы HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_9
+#EXTINF:0,Аниме HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_3
+#EXTINF:0,Зачарованные
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_13_HD
+#EXTINF:0,Супергероини
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_21_sd
+#EXTINF:0,Обучалки
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
+#EXTINF:0,Русский Корабль
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=russian_ship_HD
+#EXTINF:0,Epic
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Epic_HD
+#EXTINF:0,Пятницкий
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
+#EXTINF:0,Карпов
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal26_SD
+#EXTINF:0,Улицы разбитых фонарей
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
+#EXTINF:0,6 кадров
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
+#EXTINF:0,Евлампия Романова
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
+#EXTINF:0,Мажор
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
+#EXTINF:0,Women's Magazine
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=WomensMagazine_SD
+#EXTINF:0,Взвешенные люди
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
+#EXTINF:0,След
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_2
+#EXTINF:0,Ментовские войны
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
+#EXTINF:0,Любовь и тайны Тумахана
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_6
+#EXTINF:0,Три кота
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_7
+#EXTINF:0,Вне закона
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_8
+#EXTINF:0,Мент в законе
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
+#EXTINF:0,Смешарики
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
+#EXTINF:0,Комедии
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
+#EXTINF:0,Архыз 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arkhyz_24
+#EXTINF:0,БСТ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BST
+#EXTINF:0,Мир Белогорья
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_Belogorya_SD
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=SanktPeterburg
+#EXTINF:0,Санкт-Петербург HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sankt_Peterburg_HD
+#EXTINF:0,БелРос
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BelRos
+#EXTINF:0,СвоёТВ.Ставропольский край
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=SvoeTV_Stavropolskiy_krai
+#EXTINF:0,Грозный
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Grozniy
+#EXTINF:0,Осетия-Ирыстон
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Osetiya-Iryston
+#EXTINF:0,Юрган
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Yurgan
+#EXTINF:0,Губерния
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=GUBERNIA
+#EXTINF:0,АОТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=AOTV
+#EXTINF:0,НВК Саха
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=NVK_Saha
+#EXTINF:0,Волгоград 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Volgograd_24
+#EXTINF:0,Туган Тел
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=tugantel_hd
+#EXTINF:0,Майдан
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Maidan
+#EXTINF:0,Кубань 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kuban24
+#EXTINF:0,RUSSIAN MUSICBOX HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russian_Musicbox_HD
+#EXTINF:0,Music Box Gold
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Music_Box_GOLD
+#EXTINF:0,Музыка Первого
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
+#EXTINF:0,Mezzo
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mezzo
+#EXTINF:0,ЖАРА
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zhara
+#EXTINF:0,Europa Plus TV
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eur_Plus
+#EXTINF:0,BRIDGE TV
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge
+#EXTINF:0,BRIDGE TV РУССКИЙ ХИТ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BRIDGE_TV_Russkiy_hit
+#EXTINF:0,BRIDGE TV DELUXE
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=BRIDGE_TV_DELUXE_HD
+#EXTINF:0,BRIDGE TV HITS
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
+#EXTINF:0,BRIDGE TV ROCK
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_rock_hd
+#EXTINF:0,BRIDGE TV CLASSIC
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_tv_classic
+#EXTINF:0,МУЗТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=mus-tv
+#EXTINF:0,Шансон ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Shanson
+#EXTINF:0,Classic Music
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Classic_Music_HD
+#EXTINF:0,Карусель
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=karusel
+#EXTINF:0,Бобёр
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bober
+#EXTINF:0,Солнце (+4)
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney_4
+#EXTINF:0,Радость моя
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Radost_moya
+#EXTINF:0,Ералаш
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
+#EXTINF:0,Солнце
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Disney
+#EXTINF:0,Мама
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mama
+#EXTINF:0,Спортмастер ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE1
+#EXTINF:0,Матч ТВ
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
+#EXTINF:0,Старт Триумф HD
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Start_triumph
+#EXTINF:0,MMA-TV.com
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
+#EXTINF:0,Хоккейный
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
+#EXTINF:0,Спортивный
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
+#EXTINF:0,Футбольный
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
+#EXTINF:0,Большой эфир
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=ChannelLIVE
+#EXTINF:0,Поединок
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE2
+#EXTINF:0,Игра
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
+#EXTINF:0,Сила
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
+#EXTINF:0,Наш спорт 1
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey1
+#EXTINF:0,Наш спорт 2
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey2
+#EXTINF:0,Наш спорт 3
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey3
+#EXTINF:0,Наш спорт 4
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey4
+#EXTINF:0,Наш спорт 5
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey5
+#EXTINF:0,Наш спорт 6
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey6
+#EXTINF:0,Наш спорт 7
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey7
+#EXTINF:0,Наш спорт 8
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey8
+#EXTINF:0,Наш спорт 9
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_khokkey9
+#EXTINF:0,Наш спорт 10
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport10
+#EXTINF:0,Наш спорт 11
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport11
+#EXTINF:0,Наш спорт 12
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport12
+#EXTINF:0,Наш спорт 13
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport13
+#EXTINF:0,Наш спорт 14
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport14
+#EXTINF:0,Наш спорт 15
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport15
+#EXTINF:0,Наш спорт 16
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport16
+#EXTINF:0,Наш спорт 17
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport17
+#EXTINF:0,Наш спорт 18
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport18
+#EXTINF:0,Наш спорт 19
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport19
+#EXTINF:0,Наш спорт 20
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport20
+#EXTINF:0,Наш спорт 21
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport21
+#EXTINF:0,Наш спорт 22
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport22
+#EXTINF:0,Наш спорт 23
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport23
+#EXTINF:0,Наш спорт 24
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport24
+#EXTINF:0,Наш спорт 25
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport25
+#EXTINF:0,Наш спорт 26
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport26
+#EXTINF:0,Наш спорт 27
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport27
+#EXTINF:0,Наш спорт 28
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport28
+#EXTINF:0,Наш спорт 29
+#EXTGRP:Tricolor
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport29
 
+
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/hV479s34A4Onaa0d7Spz8Q/1750514921/2223/0x5000c500e6b094b8/b0995b461d1b467399b678467959b9ae.mp4.m3u8?i=1920x1080_2236
+#EXTINF:0,Убийства в Баланье (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ESofDzwfwsrNN-ZCoTeF1Q/1750514922/2722/0x5000039ce833afb1/95e33e1cc80d4ca1977dac32df358fdf.mp4.m3u8?i=1920x1080_1448
+#EXTINF:0,Последний охотник на демонов (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/2qa-7t6l4eOMbQfKebdDYQ/1750514923/2730/0x5000039ce8638cc5/fd2a40ded370453694ed3e9f3d316dc9.mp4.m3u8?i=1920x1080_8108
+#EXTINF:0,Расплата 2 (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/W3SBdCIm5v3hOxBRn5xvuw/1750514924/2696/0x5000039ce8401755/e9f8c72454524972b9d7d489fc7bdda0.mp4.m3u8?i=1920x800_2062
+#EXTINF:0,Детектив из Чайнатауна, 1900 год (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/HWsZb75is3wUd3xJZl9O7A/1750514924/2518/0x5000039ce85262dd/968234651cd2428981d2212a4d2cbcdd.mp4.m3u8?i=848x352_1004
+#EXTINF:0,Последняя капля (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Qa_ioB178P9x0lNIvqh9PQ/1750514925/2670/0x5000039ce84019d9/b1c69c159caf4ba6b48ef6efd60e5af6.mp4.m3u8?i=1920x1080_1908
+#EXTINF:0,Новичок (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/E9QoJDAnOcGhJ8Du8G_JrQ/1750514926/2650/0x5000039ce863f209/5ab6666bce6e47f182a39c8b9654b7a5.mp4.m3u8?i=1920x1080_1658
+#EXTINF:0,Под прикрытием (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/7ca0t1k8P_TeTsTmWsvqRg/1750514927/2642/0x5000039ce8696fad/2758bcc201c14e6ea290f44dce055713.mp4.m3u8?i=1920x800_2592
+#EXTINF:0,Долина Эхо (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/2o4qFvoGEwwCEpZ0hvS3-A/1750514928/2652/0x5000039ce87035c9/e0c39529c55c4461bf018fef1e9d2ed3.mp4.m3u8?i=1920x1080_1687
+#EXTINF:0,Дьявол (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/WhWNExS8bfXRgt-c_667Ow/1750514929/2728/0x5000039ce869ae55/d920432203c84173be3bd08c6afede95.mp4.m3u8?i=1920x1080_3053
 #EXTINF:0,ХИТ: Третье дело (2025)
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/BRIDGE TV РУССКИЙ ХИТ.png" tvg-id="simpleTVFakeEpgId",ХИТ: Третье дело (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/5bDEJseuCtUTwcOO66ve8A/1750514930/2720/0x5000039ce85b8631/ae6d924aa46c47ca9256fbbb0fb1c24e.mp4.m3u8?i=1920x1080_3879
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Точка отрыва.png" tvg-id="simpleTVFakeEpgId",Отречение (2025)
+#EXTINF:0,Отречение (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/W5vNwdo3xNgCINRMmHmJwg/1750514931/2544/0x5000039ce83bb48d/34b4e1b4d7ca4c16adb7a848c5df1201.mp4.m3u8?i=848x456_566
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Матч! Игра HD.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_igra",Игра вдовы (2025)
+#EXTINF:0,Игра вдовы (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/GMqu3JCSL8cH0urqtfSl1Q/1750514932/2726/0x5000039ce868ea65/e3eb00b0851f4f369a4ff31af609b231.mp4.m3u8?i=848x424_666
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Своё ТВ (Ставрополь).png" tvg-id="simpleTVFakeEpgId",Полный нокаут (2025)
-https://vod.plvideo.ru/FbZEopwh/bTkXNvLx6U/5jktNnX7UhePBJk4zD9/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Хищник: Убийца убийц (2025)
+#EXTINF:0,Полный нокаут (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/0h2UfpwO2uAUG0CNuHZtwQ/1750514933/2642/0x5000039ce8694e21/6bd7a2a0edb443e082873ade4d24d663.mp4.m3u8?i=1920x1080_2683
+#EXTINF:0,Хищник: Убийца убийц (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Tt4_EP_HTfg0htFprP-NPw/1750514934/2217/0x5000c500e74f50b5/ff4b58dde8794980b9652240b1060e5e.mp4.m3u8?i=1920x1080_2676
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Затерявшись в звёздах (2025)
+#EXTINF:0,Затерявшись в звёздах (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/XsN8O-oLbl1CdEc_rgKIew/1750514935/2668/0x5000039ce83bf771/3cb4eaf87f874b048d8a14e297784881.mp4.m3u8?i=1920x1080_2679
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Матч! Арена HD.png" tvg-id="simpleTVFakeEpgId",На вершине горы (2025)
+#EXTINF:0,На вершине горы (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/-BomdiuuY7Lpn1-xLSrdVQ/1750514936/2630/0x5000039ce8400a65/aeb47d9ac02844dfa10c865fe9b67923.mp4.m3u8?i=1920x1080_3347
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Улица страха: Королева выпускного (2025)
+#EXTINF:0,Улица страха: Королева выпускного (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Bep8JaXmIQvshiPBR-ZzKw/1750514937/2666/0x5000039ce86920e5/52067283c4a041089c3f1b7eb1bd5581.mp4.m3u8?i=1920x1080_2769
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Розарио (2025)
+#EXTINF:0,Розарио (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/iLYylhCaW-FXRvGyRL4nJg/1750514938/2658/0x5000039ce868e835/63d86bb2bb4947fdb01fdb1119760eae.mp4.m3u8?i=1920x960_1659
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Шалун.png" tvg-id="simpleTVFakeEpgId",Шальная пуля 3 (2025)
+#EXTINF:0,Шальная пуля 3 (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/_z6IXzbWrGH2ZUngqzyT-A/1750514939/2734/0x5000039ce8637d7d/e0a54361772a40c089cd6f3dd86601b7.mp4.m3u8?i=1920x1080_2875
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Наш кинороман.png" tvg-id="simpleTVFakeEpgId",Мандейн (2025)
+#EXTINF:0,Мандейн (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/9Y5yx5AKlQTUwxa-UwEYSQ/1750514940/2682/0x5000039ce839b571/4229d20e7a4c42c4803c04498c255228.mp4.m3u8?i=1920x960_2583
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Румпельштильцхен (2025)
+#EXTINF:0,Румпельштильцхен (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/uGSL9keHsTDriRopx4IP1g/1750514941/2694/0x5000039ce87073ad/d77722b7c5fa4b8b952da7df5849a157.mp4.m3u8?i=1440x1080_1337
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Грешники (2025)
-https://vod.plvideo.ru/JLxVTeJD/bTkXNvLx6U/zE2SWKSXYaayEsjVKcS/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Сити Эдем Киномистика.jpeg" tvg-id="simpleTVFakeEpgId",Миссия невыполнима: Финальная расплата (2025)
+#EXTINF:0,Грешники (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/e0ZbVUxHepgBfKedSc8Pkg/1750514942/2616/0x5000039ce83aa9e1/a4d69a9d22aa4eaa9153b2423ecb8e17.mp4.m3u8?i=3840x2160_5600
+#EXTINF:0,Миссия невыполнима: Финальная расплата (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/7PSaFHwTQWyd5c7woSZOeg/1750514944/2692/0x5000039ce83bf195/cfc77090ade24f148df1497716c35b02.mp4.m3u8?i=1920x1080_3480
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/49 канал Новосибирск.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_8kanal-by",Восьмой день (2025)
-https://river-1.rutube.ru/hls-vod/WjU8q82qbTlGKuxftSVa9g/1750514949/2670/0x5000039ce84019a9/d53b07e58f9846ea87bd224e34b38fc9.mp4.m3u8?i=1920x800_1666
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/История.png" tvg-id="simpleTVFakeEpgId",Источник вечной молодости (2025)
+#EXTINF:0,Восьмой день (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/5A2Hlj5oys-stBFq6N6Q8g/1750514945/2606/0x5000039ce83ba2e9/2ef657633b204cf6aac8e881f7232261.mp4.m3u8?i=1920x800_1666
+#EXTINF:0,Источник вечной молодости (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/J6Ah3ejHCkHM8x-hxNhCiQ/1750514946/2504/0x5000039ce8706d15/56fb7e5648474830b4a18c89b049ecc7.mp4.m3u8?i=3840x1608_6167
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="simpleTVFakeEpgId",Оловянный солдатик (2025)
+#EXTINF:0,Оловянный солдатик (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/SWUJoUiHnDJYc-zyXMkD0A/1750514947/2644/0x5000039ce838cd2d/88da8108ae0d4c559942203296117963.mp4.m3u8?i=1920x800_3956
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Попай-душегуб (2025)
+#EXTINF:0,Попай-душегуб (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/aMjKz9t73Tn48Rj2DIYSTA/1750514948/2654/0x5000039ce868ea15/1bb3590131524a0a9a84078c6578f4fd.mp4.m3u8?i=1920x816_1303
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Дождь.png" tvg-id="simpleTVFakeEpgId",Дожить до рассвета (2025)
+#EXTINF:0,Восьмой день (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/WjU8q82qbTlGKuxftSVa9g/1750514949/2670/0x5000039ce84019a9/d53b07e58f9846ea87bd224e34b38fc9.mp4.m3u8?i=1920x800_1666
+#EXTINF:0,Дожить до рассвета (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/QRlddLCXEZJnyHi-oLhOZg/1750514950/2183/0x5000c500e75022fb/863686e8761b461e94d4aa12d18fbdaf.mp4.m3u8?i=1920x1040_1802
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_pro-lyubov",Любовь навеки (2025)
+#EXTINF:0,Любовь навеки (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/xoJF6FmQ_GcX9Xu7MISOwg/1750514951/2672/0x5000039ce839b549/ccf14a1516bb458a95c39d7c46f82249.mp4.m3u8?i=1920x1080_3218
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Спрей от зомби (2025)
+#EXTINF:0,Спрей от зомби (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/jUZ8iQBO_IyPga8dQsnZ7w/1750514952/2223/0x5000c500e6969654/b1eec09048e946aba41f067311e1a583.mp4.m3u8?i=1920x816_1701
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="https://iptvx.one/picons/vf-tbbt.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_vf-tbbt",Взрыв на Синкансэне (2025)
+#EXTINF:0,Взрыв на Синкансэне (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/hTiq9qvMgXlX5oh4xR5aCg/1750514952/2706/0x5000039ce8635fe9/96b92f78aacb4e12913f0b8445cbf974.mp4.m3u8?i=1920x1080_3121
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Мультимания.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_multimania",Мания контроля (2025)
+#EXTINF:0,Мания контроля (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/2d0rTjgdpocy_t3blp2hQg/1750514953/2690/0x5000039ce8687cb1/9bdc82f786b04bfc986e1f14b9982a20.mp4.m3u8?i=1920x1080_1435
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/ОТВ Челябинск.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kernel-spiderman",Человек без прошлого (2025)
+#EXTINF:0,Человек без прошлого (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/3kNyPHxXIkl0FvQgjszKdg/1750514955/2712/0x5000039ce869a605/7767cc0f027d40b8b86b3b48511c536d.mp4.m3u8?i=1920x800_2067
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Громовержцы (2025)
+#EXTINF:0,Громовержцы (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/mr81jDscWmkTgARzlWRH1g/1750514956/2630/0x5000039ce839aaed/dbd91ac989b4486e9a095b3e2863ca4c.mp4.m3u8?i=1920x1080_1916
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Дыхание шторма (2025)
+#EXTINF:0,Дыхание шторма (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Ea3h-T-xQLKERX5DYIR_TA/1750514957/2736/0x5000039ce863f7a5/700dbdbfd17a4a3d964dc3feebe1b36a.mp4.m3u8?i=3840x1600_7570
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бабули (2025)
+#EXTINF:0,Бабули (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/1WWQSkv4GynzuVwAp1guxg/1750514963/2720/0x5000039ce83bf921/a326c60568f849f8b2b5068a4e779e48.mp4.m3u8?i=3840x2160_4844
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Minecraft в кино (2025)
-https://vod.plvideo.ru/JLxVTeJD/zgo80TEGgy/zE2SWKSd5ZerUS9YziR/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Мир Белогорья.png" tvg-id="simpleTVFakeEpgId",Белоснежка (2025)
-https://vod.plvideo.ru/GMPb65uk/zgo80TEGgy/5jktNnX9lyOmteKHQxM/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Мудрые парни (2025)
+#EXTINF:0,Minecraft в кино (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Z_d1AQoTyPu8t2qM0qbbag/1750514964/2606/0x5000039ce868ffb1/39550c841d614eb4b4f5d47f9a8c5e62.mp4.m3u8?i=1920x1080_4212
+#EXTINF:0,Белоснежка (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/x_M_OqrY0tgL0LsFVDl-lQ/1750514965/2668/0x5000039ce8401659/67bc3c50fa7c468aa45277bc0b99beb4.mp4.m3u8?i=1920x1040_4900
+#EXTINF:0,Мудрые парни (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/FT3sLROEZrlJ_aOakl6ehw/1750514968/2223/0x5000c500e6ac5f00/e2c4feaa122c465e9e92b98b38baa7cb.mp4.m3u8?i=1920x1080_1845
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Ещё одна простая просьба (2025)
-https://vod.plvideo.ru/GMPb65uk/zgo80TEGgy/zE2SWKSUznuRNVDP5Lo/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Зал суда.png" tvg-id="simpleTVFakeEpgId",Судный день (2025)
+#EXTINF:0,Ещё одна простая просьба (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/vi31LiDX1u3rKMZsiPNAhw/1750514969/2544/0x5000039ce83bf1ed/cf58f904a8b14ff49a7a46cd0458dd7b.mp4.m3u8?i=3840x1920_9915
+#EXTINF:0,Судный день (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/I14nAOs87rVGM2ypxzx2RA/1750514969/2648/0x5000039ce861e065/57ca19891d2a4d26b5884e8b11bc7877.mp4.m3u8?i=1920x800_1640
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/День Победы.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_denpobedy",День расплаты (2025)
+#EXTINF:0,День расплаты (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/yKia9yDLD28tCAtJ50MuQQ/1750514970/2686/0x5000039ce838d255/30661088a46a493994ffce78860a7e8c.mp4.m3u8?i=1920x1080_1722
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Первый Образовательный.png" tvg-id="simpleTVFakeEpgId",Зов пустоты (2025)
+#EXTINF:0,Зов пустоты (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/33btcldRHPNLvgL6TX8xRg/1750514971/2632/0x5000039ce83bf3fd/5e9ad49e061341fe884bcee35398c68a.mp4.m3u8?i=1920x800_1590
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Неверный путь (2025)
+#EXTINF:0,Неверный путь (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/79ZBb3BDb9DJxHCjT9IkRQ/1750514972/2223/0x5000c500e65b3f39/1fe4203e21534195a270ee3efc70195c.mp4.m3u8?i=1920x1080_3166
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Трупоходик (2025)
+#EXTINF:0,Трупоходик (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/S-JSCOIcDZYVSyfThS9FvA/1750514973/2548/0x5000039ce8635489/6587d7a8bac94501985231a90ce941dc.mp4.m3u8?i=1920x816_1629
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Робин (2025)
+#EXTINF:0,Робин (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/YFw5KDDdfSeA-QMbc4KUHA/1750514974/2223/0x5000c500e717e1f4/938eaeb872824d44bec29a2168e5c099.mp4.m3u8?i=1920x816_1059
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Запертый (2025)
+#EXTINF:0,Запертый (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/XVwV3VlY9gsuHqQZlPlNNw/1750514975/2223/0x5000c500e5e7e04b/96356a73a3f14b1d86d53853d55541de.mp4.m3u8?i=1920x1080_2798
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Соседский дозор (2025)
+#EXTINF:0,Соседский дозор (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/T4Smf0vLPQ-mvnaeolx-Ng/1750514976/2698/0x5000039ce832fee1/74a862ea7abd4a859caf5c7d1e48bf68.mp4.m3u8?i=1920x1040_1544
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Особо опасный пассажир (2025)
-https://vod.plvideo.ru/xdhKhqAx/bTkXNvLx6U/zE2SWKSkbEtX5KN8NyA/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Утроба (2025)
+#EXTINF:0,Особо опасный пассажир (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ooTgPqFYtX9G5ApCNUo2ow/1750514977/2738/0x5000039ce839a759/2ffe10cea0f34bfbb562329385424d3c.mp4.m3u8?i=3840x1600_13772
+#EXTINF:0,Утроба (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/ruy7k90LR6GnouyVWc0JIA/1750514978/2688/0x5000039ce86bfc65/5827f81d57264cff87e8ecbff72e3717.mp4.m3u8?i=1920x1080_3502
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/залип ролики.jpeg" tvg-id="simpleTVFakeEpgId",Заложник в магазине Apple (2025)
+#EXTINF:0,Заложник в магазине Apple (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/gWybip78AuJUHKDs2m7NYg/1750514979/2662/0x5000039ce8401791/5bf0dfaa3fbb4065b65048fd0c953d09.mp4.m3u8?i=1920x1080_2087
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Дроп (2025)
-https://vod.plvideo.ru/xdhKhqAx/bTkXNvLx6U/zE2SWKSI6NbMOa3hrCx/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Матч! Арена HD.png" tvg-id="simpleTVFakeEpgId",Реннер (2025)
+#EXTINF:0,Дроп (2025)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/p2kH_ILT6KB-7bBCoR7dTw/1750514980/2546/0x5000039ce8397331/42d71e00eb7e44d0a317f89a66cfc99b.mp4.m3u8?i=3840x2160_4719
+#EXTINF:0,Реннер (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Q6FmKdGVPBWizlzGWR4vPA/1750514981/2696/0x5000039ce863a581/9a1cdec653064f9baece378cce8f487f.mp4.m3u8?i=1920x1040_1772
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Кино без границ.png" tvg-id="simpleTVFakeEpgId",Безумный Техас (2025)
+#EXTINF:0,Безумный Техас (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/IkvokINavn9S0N3J_7ogBQ/1750514982/2415/0x5000c500f2b54a9f/e381402bb2e0492789d7a953a06adc90.mp4.m3u8?i=1920x1080_1774
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bolshaya-azia",Большая двадцатка (2025)
+#EXTINF:0,Большая двадцатка (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/KpzC-LrDSPRBgBNj2BCSSQ/1750514983/2223/0x5000c500e7526523/9f190d8d45b4485992b41277f158ad6f.mp4.m3u8?i=1920x800_7853
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Кино без границ.png" tvg-id="simpleTVFakeEpgId",Безудержные (2025)
+#EXTINF:0,Безудержные (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/iuQJfvCAoNVE1VoaDG1o_Q/1750514984/2584/0x5000039ce85a5e55/ddac7d0f9b8a4f4d812d160a41c43d9c.mp4.m3u8?i=3840x1632_3504
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/История.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_istoria",История любви в Копенгагене (2025)
+#EXTINF:0,История любви в Копенгагене (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/QaceICWmWPBJxxV1FnAkIw/1750514985/2580/0x5000039ce839b8c9/0932bc8e8aa74360b7946f86b993b4f0.mp4.m3u8?i=1920x1080_5117
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Тот самый день (2025)
+#EXTINF:0,Тот самый день (2025)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/fWDo1nZiwHmp78YozkM40w/1750514986/2448/0x5000c500e882d94b/821b62597eb643788f6e72bf97c0c8dd.mp4.m3u8?i=1920x800_6731
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Опустошение (2025)
-https://vod.plvideo.ru/FbZEopwh/cXyXEGJ0A4/zE2SWKSCv665aZH0xas/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Своё ТВ (Ставрополь).png" tvg-id="48510dc23fd840369a4c540ac0e836b3_minimax-police",Полицейский из Беверли-Хиллз: Аксель Фоули (2024)
+#EXTINF:0,Полицейский из Беверли-Хиллз: Аксель Фоули (2024)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/wwQ8T1R_UaUCjGiwJXdbDw/1750514987/2163/0x5000c500e6847b34/92918fd27f1a469897b0b9ab2c46c6eb.mp4.m3u8?i=1920x800_6374
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Властелин колец: Братство Кольца | Режиссёрская версия (2001)
+#EXTINF:0,Властелин колец: Братство Кольца | Режиссёрская версия (2001)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/KCfUIj4J8p4uCSdOWWVJJA/1750514988/2088/0x5000c500f1d65693/39a841bc94a1467480fe1e7475986612.mp4.m3u8?i=1920x800_3030
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Властелин колец: Две крепости | Режиссёрская версия (2002)
+#EXTINF:0,Властелин колец: Две крепости | Режиссёрская версия (2002)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/TRc4YESHL2Z25cCCQsmLIQ/1750514989/2078/0x5000c500f1e59b02/d0f2431fa0514c18a922acc12c11863a.mp4.m3u8?i=1920x800_4143
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Властелин колец: Возвращение короля | Режиссёрская версия (2003)
+#EXTINF:0,Властелин колец: Возвращение короля | Режиссёрская версия (2003)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/U8Wljul87a0MYh3caByf5g/1750514990/2092/0x5000c500f1dc587c/0a24ef3899be43119b61835e67788fd9.mp4.m3u8?i=1920x792_4355
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бэтмен (1989)
+#EXTINF:0,Бэтмен (1989)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/pzoFQqarQEi6ERLEqIzTvQ/1750514991/2076/0x5000c500f1e31216/36a7874b57634ef2ac1e1e72d4c152b8.mp4.m3u8?i=1920x1080_3401
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бэтмен Возвращается (1992)
+#EXTINF:0,Бэтмен Возвращается (1992)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/QiLn6lrzbaO2BlZG4PkLjQ/1750514992/2084/0x5000c500f1d96f55/0cf08fee2f814713b1d8ba60ad0ad505.mp4.m3u8?i=1920x1080_5059
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бэтмен Навсегда (1995)
+#EXTINF:0,Бэтмен Навсегда (1995)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/UHOuQX2L4fnWumyhoc850A/1750514992/2092/0x5000c500f1dcd48c/384306e8b72e4734ac3656e6a6c10440.mp4.m3u8?i=1920x1080_3754
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бэтмен и Робин (1997)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSDxFyNHtTXifb/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бэтмен: Начало (2005)
-https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSA5tv0T503q1s/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Наша тема.png" tvg-id="simpleTVFakeEpgId",Темный рыцарь (2008)
+#EXTINF:0,Бэтмен и Робин (1997)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/7xESgTSb63iS7TaF2ufiXw/1750514993/2088/0x5000c500f1e58f7d/45a2f783a0564d9f90769a0d920c4890.mp4.m3u8?i=1920x1080_4413
+#EXTINF:0,Бэтмен: Начало (2005)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/_3RnMDhKAoex0D21uZBBmA/1750514994/2088/0x5000c500f1e4fc47/dac0e519b6da4660bb8a8b475923691b.mp4.m3u8?i=1920x800_2262
+#EXTINF:0,Темный рыцарь (2008)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Hv93Y3lh6KDL35aBoszvVw/1750514996/2080/0x5000c500f1da748a/d5263d18a7804f0ca327eef990f75fc0.mp4.m3u8?i=1920x1080_3481
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Наша тема.png" tvg-id="simpleTVFakeEpgId",Темный рыцарь: Возрождение легенды (2012)
+#EXTINF:0,Темный рыцарь: Возрождение легенды (2012)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/bP_yGyA-Bkn5szeKgz7DcQ/1750514996/2082/0x5000c500f1df30f5/b032f3c59d794f938e46c3265b34f92a.mp4.m3u8?i=1920x1080_3262
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бэтмен (2022)
+#EXTINF:0,Бэтмен (2022)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/KUCIOzeXTncQWGW2UQVTOA/1750514997/2086/0x5000c500f1e56de3/9de2911dea204690ac0b1188951639ca.mp4.m3u8?i=1920x808_1744
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бэтмен против Супермена: На заре справедливости (2024)
+#EXTINF:0,Бэтмен против Супермена: На заре справедливости (2024)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/UAGJGEmICg8GNSzHjfYxyw/1750514998/2074/0x5000c500f1da6e43/57645a3242bc4249b4a911fb85a7f290.mp4.m3u8?i=1920x800_2235
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="simpleTVFakeEpgId",Индиана Джонс: В поисках утраченного ковчега (1981)
-https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSnBTu9cfLTEHJ/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="simpleTVFakeEpgId",Индиана Джонс и Храм Судьбы (1984)
+#EXTINF:0,Индиана Джонс: В поисках утраченного ковчега (1981)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/yhxBlIu_lV6lXsTFLImYHA/1750514999/2080/0x5000c500f1e3749d/c52ff8bb90904a49b0d272ac65e2f496.mp4.m3u8?i=1920x816_4502
+#EXTINF:0,Индиана Джонс и Храм Судьбы (1984)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/FG30Ld4VQFsqZdpkkIoXgg/1750515000/2088/0x5000c500f1e14287/1533f43905004dc8ae06e74af4e9e9fd.mp4.m3u8?i=1920x816_6669
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="simpleTVFakeEpgId",Индиана Джонс и последний крестовый поход (1989)
-https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSg7ARgZXu9gWO/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="simpleTVFakeEpgId",Индиана Джонс и Королевство хрустального черепа (2008)
-https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSxouzsIoGXekb/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="simpleTVFakeEpgId",Индиана Джонс и колесо судьбы (2023)
+#EXTINF:0,Индиана Джонс и последний крестовый поход (1989)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/sQ6DS0aqyOlfkUMMtcJtWw/1750515001/2076/0x5000c500f1e52299/f599e848539a4da195a2220ec603b38b.mp4.m3u8?i=1920x816_10173
+#EXTINF:0,Индиана Джонс и Королевство хрустального черепа (2008)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/CLG-m05cXJny2V2Kpd6hug/1750515002/2086/0x5000c500f1e563e5/3e0ceb5ffaad405b8f09c6b5a30e46f9.mp4.m3u8?i=1920x800_4764
+#EXTINF:0,Индиана Джонс и колесо судьбы (2023)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/hGyzsEKgDSVZx3UeerInlQ/1750515003/2078/0x5000c500f1e56958/6b6697d524144fe4a099b16ef6a7d590.mp4.m3u8?i=1920x800_3131
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Кровавый алмаз (2006)
+#EXTINF:0,Кровавый алмаз (2006)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/QFn0M3w4K2GPiD_ZEbatfg/1750515004/2084/0x5000c500f1e5abcf/a373f1095d4f459f840d8bb603ce594f.mp4.m3u8?i=1920x792_3772
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Лига выдающихся джентльменов (2003)
+#EXTINF:0,Лига выдающихся джентльменов (2003)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/oE4hWi3jyeGUZ2KbD7rGUw/1750515005/2189/0x5000c500e65678c9/77bba4322c02486f922690a587c089c1.mp4.m3u8?i=1920x808_3115
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Блэйд (1998)
-https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSZHUSxcbgtKH9/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Блэйд 2 (2002)
+#EXTINF:0,Блэйд (1998)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/-GfsIo9ZW-OcNturdGSKHw/1750515006/2082/0x5000c500f1db4f74/77930ec2cb98415689e265c5c1d99f40.mp4.m3u8?i=1920x808_3370
+#EXTINF:0,Блэйд 2 (2002)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/u1GbKYXKsesQ3HEkmoZw6Q/1750515007/2092/0x5000c500f1dc6662/27419ebf67ba468cb8dde37e95a3f61c.mp4.m3u8?i=1920x1080_3246
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Блэйд 3 (2004)
+#EXTINF:0,Блэйд 3 (2004)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/wloL1-DrJWMtXsu8UCfOKA/1750515008/2092/0x5000c500f1e2a661/6d6c325d5f2448ecb6d766a7b3306cb5.mp4.m3u8?i=1920x816_2862
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Робокоп (1987)
+#EXTINF:0,Робокоп (1987)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/9sfWu0Ym9j2G5WvKzH_6_A/1750515009/2086/0x5000c500f1e579b3/b7236552664a4a8dae918093c2ce013f.mp4.m3u8?i=1920x1040_5794
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Робокоп 2 (1990)
+#EXTINF:0,Робокоп 2 (1990)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/hzcOEGQuQVVydx58XTi9Tg/1750515010/2092/0x5000c500f1df2daa/c5e81bd24deb4eff9589b0d79f0b9bc4.mp4.m3u8?i=1920x1040_3800
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Робокоп 3 (1992)
+#EXTINF:0,Робокоп 3 (1992)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/KVyFspv5hOV3LATS9iBfnA/1750515011/2096/0x5000c500f1e59a45/cec8171628cd44858da5e5e8c08731fb.mp4.m3u8?i=1920x1040_3042
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Обитель зла (2002)
+#EXTINF:0,Обитель зла (2002)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/na5oX6MTa4LxExUN0wtBXA/1750515012/2076/0x5000c500f1d3b626/5b6ce3dbdf634277b00fae168c74a541.mp4.m3u8?i=1920x1040_3775
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Обитель зла 2: Апокалипсис (2004)
-https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/5jktNnXL32yJpGzJCOs/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Обитель зла 3 (2007)
-https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXIz7zmgrYZV6j/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Обитель зла 4: Жизнь после смерти (2010)
-https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSl1Ia6NicTYfG/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Обитель Зла: Возмездие (2012)
+#EXTINF:0,Обитель зла 2: Апокалипсис (2004)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/KH4hRxXxdayg44w6wWJOrw/1750515013/2076/0x5000c500f1e405ef/aeb8795f6f5c4d8e929a461e7028bf26.mp4.m3u8?i=1920x792_4058
+#EXTINF:0,Обитель зла 3 (2007)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/TqjX8zWv5lgqFAS3Mei42Q/1750515014/2076/0x5000c500f1e31400/8aeb9ea933534391ae8695f37e00ca81.mp4.m3u8?i=1920x800_4510
+#EXTINF:0,Обитель зла 4: Жизнь после смерти (2010)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/qg-sc8DaIac4uLlhRUP6zQ/1750515015/2076/0x5000c500f1e4c974/07657c479fec47d69474a2638db9ebbe.mp4.m3u8?i=1920x800_4046
+#EXTINF:0,Обитель Зла: Возмездие (2012)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Y7YByspuqwnrGiyUCjcLcg/1750515016/2094/0x5000c500f1e5b4c4/b563a3f7a16f4c4485d963abe4098a89.mp4.m3u8?i=1920x800_7683
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Обитель зла: Последняя глава (2016)
-https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnX4vvAtJbUfqFY/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Министерство идей.png" tvg-id="simpleTVFakeEpgId",Терминатор (1984)
-https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS8icpv5rp--qK/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Крик ТВ (Екатеринбург).png" tvg-id="simpleTVFakeEpgId",Терминатор 3: Восстание машин 60 fps (2003)
+#EXTINF:0,Обитель зла: Последняя глава (2016)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/cq1z-sdhs2-DtXid3ecnLg/1750515017/2076/0x5000c500f1e31400/083a5dd97c6747489ef3698d875f7b62.mp4.m3u8?i=1920x800_2958
+#EXTINF:0,Терминатор (1984)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/VQg_ZUXtKk7yKIKXiSrbEw/1750515019/2094/0x5000c500f1dd6d05/f8c016d4d0ef453293eea58a2615a842.mp4.m3u8?i=1920x1040_5058
+#EXTINF:0,Терминатор 3: Восстание машин 60 fps (2003)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/f0JB4Ft3n1XckiFJdmJUKg/1750515020/2470/0x5000c500e883ba7e/ba92cb112ca240ccaa80e325b8ee50a1.mp4.m3u8?i=1920x784_8583
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Крик ТВ (Екатеринбург).png" tvg-id="simpleTVFakeEpgId",Терминатор 4: Да прийдет спаситель (2009)
+#EXTINF:0,Терминатор 4: Да прийдет спаситель (2009)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/H9cfTEDFGpPSWn1nBhxLBg/1750515021/2094/0x5000c500f1db122f/1d3b3734284f473fbcd923f9ddc2d817.mp4.m3u8?i=1920x800_3637
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="https://iptvx.one/picons/zal-01-tricolor.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zal-01-tricolor",Люди в черном (1997)
+#EXTINF:0,Люди в черном (1997)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/OkYdHDq3g3mYMC3PkAhMNA/1750515022/1861/0x5000c500e53c916b/0f27da6c54774499be1c5cc4691734a3.mp4.m3u8?i=1920x1032_10882
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Матч! Арена HD.png" tvg-id="simpleTVFakeEpgId",Матрица (1999)
-https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXeF1D-Mz3ft_e/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="simpleTVFakeEpgId",Матрица: Перезагрузка (2003)
-https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/zE2SWKS9rfYWarrdGbz/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="simpleTVFakeEpgId",Матрица: Революция (2003)
-https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/5jktNnXoUDvedOxZblB/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="simpleTVFakeEpgId",Матрица: Воскрешение (2021)
-https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnXbS1RsZpnHGmj/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Смертельное оружие 1 (1987)
+#EXTINF:0,Матрица (1999)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/ECsuj4-92_axbG-VrBdE7w/1750515023/2092/0x5000c500f1db0e75/2cfaad81a8dc452b92c9f0a99d35f0e9.mp4.m3u8?i=1920x800_3057
+#EXTINF:0,Матрица: Перезагрузка (2003)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/3o7Qjt8DL6qZf-0oLv0Kmg/1750515024/2096/0x5000c500f1d6b600/e198f30b21ba41fda5038630ace6030c.mp4.m3u8?i=1920x800_2965
+#EXTINF:0,Матрица: Революция (2003)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/nTdgEL8gyZMaBDddjDBPOw/1750515025/2086/0x5000c500f1d8b72b/a7bb4b89a5ae48a293f77d27baf276f9.mp4.m3u8?i=1920x800_3406
+#EXTINF:0,Матрица: Воскрешение (2021)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/17tpgyunwhNG72hhOjsCAw/1750515025/2090/0x5000c500f1e363b1/3d2c7b8be89044ffb958d07906b4f592.mp4.m3u8?i=1920x800_2781
+#EXTINF:0,Смертельное оружие 1 (1987)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/BUoBgpSiqd9ti2USfyHf_g/1750515027/2078/0x5000c500f1dd70fe/4e75229a5c424a98b18e9acf1eaafa6d.mp4.m3u8?i=1920x1080_7279
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Смертельное оружие 2 (1989)
+#EXTINF:0,Смертельное оружие 2 (1989)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/4vEBOV13aY8OOS2hFG83EA/1750515027/2078/0x5000c500f1e50e46/8e00639e9be74efe821523ef944f4163.mp4.m3u8?i=1920x800_2559
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Смертельное оружие 3 (1992)
+#EXTINF:0,Смертельное оружие 3 (1992)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Trb0AdpWrvsqQ1i2dtmVjQ/1750515028/2080/0x5000c500f1d9b395/f5639425e4ff4ff2b4dac49ef2f99428.mp4.m3u8?i=1920x792_3095
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Смертельное оружие 4 (1998)
+#EXTINF:0,Смертельное оружие 4 (1998)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/4jjxJlEa13sSiFz-aYvpFQ/1750515029/2092/0x5000c500f1db50ea/6573729710e74f9ca0f7b3336a10b85a.mp4.m3u8?i=1920x800_3130
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Совершенно секретно.png" tvg-id="simpleTVFakeEpgId",Крепкий орешек 1 (1988)
+#EXTINF:0,Крепкий орешек 1 (1988)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/O1sjJ7g36ZsfFX2nCBl04w/1750515030/2080/0x5000c500f1e5bef2/eee9699e83834d5c9398806781620b61.mp4.m3u8?i=1920x808_3111
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Совершенно секретно.png" tvg-id="simpleTVFakeEpgId",Крепкий орешек 2 (1990)
+#EXTINF:0,Крепкий орешек 2 (1990)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/qDs_bZUH7ie3oVOuyypglw/1750515031/2094/0x5000c500f1e373ab/58c8c5f7b0294431a70f9f3269a55c2a.mp4.m3u8?i=1920x808_2656
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Совершенно секретно.png" tvg-id="simpleTVFakeEpgId",Крепкий орешек 3: Возмездие (1995)
+#EXTINF:0,Крепкий орешек 3: Возмездие (1995)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/nw9MU5XgegkJiey7w4SrqQ/1750515032/2086/0x5000c500f1e56de3/63095003d0344536a133943c076a361b.mp4.m3u8?i=1920x816_5140
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Совершенно секретно.png" tvg-id="simpleTVFakeEpgId",Крепкий орешек 4.0 (2007)
-https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKS9cDLru3RHRvd/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Совершенно секретно.png" tvg-id="simpleTVFakeEpgId",Крепкий орешек: Хороший день чтобы умереть (2013)
+#EXTINF:0,Крепкий орешек 4.0 (2007)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/Z6_I_we7EYuihnTr6cUV8g/1750515033/2096/0x5000c500f1ddd63f/d40201d85254411688b481ea8c6e5cc4.mp4.m3u8?i=1920x800_4010
+#EXTINF:0,Крепкий орешек: Хороший день чтобы умереть (2013)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/LbdD9nONDM5kw5nmCKh-JQ/1750515034/2074/0x5000c500f1e5bcb3/7f025662e55f448a84e4525daa024f1e.mp4.m3u8?i=1920x1040_6334
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Голый пистолет (1988)
+#EXTINF:0,Голый пистолет (1988)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/WwqMtRiyeVQ0oBLfAqVhrQ/1750515035/2389/0x5000c500f2b4348b/65c2d1794041468184173eb9b2a2a343.mp4.m3u8?i=1920x1080_9545
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Голый пистолет 2 1/2: Запах страха (1991)
+#EXTINF:0,Голый пистолет 2 1/2: Запах страха (1991)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/JAfpz44mSY-pArUAOUvpYw/1750515036/2199/0x5000c500e74e8332/389d8de069f742acba88730f981d509e.mp4.m3u8?i=1920x1080_17617
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Голый пистолет 33 1/3: Последний выпад (1994)
+#EXTINF:0,Голый пистолет 33 1/3: Последний выпад (1994)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/xMXPZWj-FAauFkWgyO9KAA/1750515037/2084/0x5000c500f1e56cb7/1c3a5ddc4fbb4c89a69270e74da7b80b.mp4.m3u8?i=1920x1080_5164
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Наш кинороман.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_romantichnoe",Роман с камнем (1984)
+#EXTINF:0,Роман с камнем (1984)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/5IUZI_bP3YnpIYL5jrmBTA/1750515038/2088/0x5000c500f1e528b2/01a622d6ece446518bf60e650fbd6d48.mp4.m3u8?i=1920x808_4126
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",За бортом (1987)
+#EXTINF:0,За бортом (1987)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/kbSggYvOOEzwIHR8DzwDDQ/1750515039/2161/0x5000c500e716d47f/95ba52b3146e4bf6bd82d336288128f4.mp4.m3u8?i=1920x1040_7960
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Шансон ТВ_.png" tvg-id="simpleTVFakeEpgId",Сонная Лощина (1999)
+#EXTINF:0,Сонная Лощина (1999)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/oLPj0nin0Wp3RuDIzZonsQ/1750515040/2594/0x5000039ce8611dd1/0df93f3df7924f5f839ed787966429dd.mp4.m3u8?i=1920x1040_8141
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Эдвард руки-ножницы (1990)
+#EXTINF:0,Эдвард руки-ножницы (1990)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/mTIs0S2w35KCKR7aZh984A/1750515041/2082/0x5000c500f1e58de1/4a39ec11a1db471398cf5f861a484f56.mp4.m3u8?i=1920x1040_3623
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Суини Тодд демон-парикмахер с Флит-стрит (2007)
+#EXTINF:0,Суини Тодд демон-парикмахер с Флит-стрит (2007)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/JHJDqhRDGYQdkZogrApgpA/1750515042/2084/0x5000c500f1d6eb4f/f34f9a60442644ff8945ab40cdec10cd.mp4.m3u8?i=1920x1080_4521
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бегущий по лезвию (1982)
+#EXTINF:0,Бегущий по лезвию (1982)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/0R1TeCxqZemtlfAuvrvVKg/1750515043/2094/0x5000c500f1e56b86/a4b73c567f7c4008a015d195501e1322.mp4.m3u8?i=1920x800_4439
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/День Победы.png" tvg-id="simpleTVFakeEpgId",Побег из Шоушенка (1994)
+#EXTINF:0,Побег из Шоушенка (1994)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Z8fRzZUTvNneGq4cOuP3Ig/1750515044/2090/0x5000c500f1e53ed1/fb597d78a4664d439e00bece9987f52a.mp4.m3u8?i=1920x1080_3158
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Плохие парни (1995)
+#EXTINF:0,Плохие парни (1995)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/zZWm-thMpLTGIAbHiQq8hw/1750515045/2520/0x5000039ce83829cd/ec44be3452214b1eb9557e766abde4fb.mp4.m3u8?i=1920x1040_3684
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Плохие парни 2 (2003)
+#EXTINF:0,Плохие парни 2 (2003)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Qhk7hI4ty92g9lE2LsO60w/1750515046/2387/0x5000c500f2b8d4ef/cf66e7867bf74f71ba202baa13b4264a.mp4.m3u8?i=1920x1080_7181
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Плохие парни навсегда (2020)
+#EXTINF:0,Плохие парни навсегда (2020)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/QJVN1J1Cex-z4SFkgbRmfg/1750515047/2407/0x5000c500f2b8fd77/41b238f863414ee69f8e4c3706695c24.mp4.m3u8?i=1920x800_5410
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Плохие парни до конца (2024)
+#EXTINF:0,Плохие парни до конца (2024)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/ltXBklCghtdl84EYlj6EKA/1750515048/2195/0x5000c500e68dd46b/7709893a9127431b8d2e3542d508e7c5.mp4.m3u8?i=1920x800_4154
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Хищник 1 (1987)
+#EXTINF:0,Хищник 1 (1987)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/iKX1dy-EQZr1R-mbzv9OfQ/1750515049/2086/0x5000c500f1dc5f4c/e610d9ec709a46d188a7eb884048687a.mp4.m3u8?i=1920x1040_3276
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Хищник 2 (1990)
+#EXTINF:0,Хищник 2 (1990)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/DgyL5sp3-_YD33fVT_hFJQ/1750515050/2086/0x5000c500f1e563e5/b401b1bbd15444f1920801e8644d0fa5.mp4.m3u8?i=1920x1040_3463
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Харли Дэвидсон и ковбой Мальборо (1991)
+#EXTINF:0,Харли Дэвидсон и ковбой Мальборо (1991)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/5msNG9tk93fb3SB_-y3Ozg/1750515051/2476/0x5000c500e8774f96/2c4ba25009c54ceead8b309c1e5a427d.mp4.m3u8?i=1920x1080_10607
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Хищники (2010)
+#EXTINF:0,Хищники (2010)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/j-3iM_3FoIXH5Y9EeZ1XnA/1750515052/2094/0x5000c500f1e5abf9/6b8948b8aa3b4bf3a94ca30f983aa630.mp4.m3u8?i=1920x816_4261
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Первый Образовательный.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_bst-bratsk",Братство волка (2001)
+#EXTINF:0,Братство волка (2001)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/OLe0ZcF9kRmTyKBnRPEXmQ/1750515053/2096/0x5000c500f1e5ac99/1bf6eca24e114ec7a641745355d4193c.mp4.m3u8?i=1920x824_3319
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Парк Патриот.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_patriot",Патриот (2000)
+#EXTINF:0,Патриот (2000)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/wiTLaiGghqnZ0LEqlNK-2Q/1750515054/2094/0x5000c500f1e5251e/5fd295c49670408b99e8c6adb60685c3.mp4.m3u8?i=1920x800_3418
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Багровые реки 2: Ангелы апокалипсиса (2001)
+#EXTINF:0,Багровые реки 2: Ангелы апокалипсиса (2001)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/JB_DXOyXZ55WvEuMsqaHOw/1750515055/2074/0x5000c500f1e5245e/0998d790978e4a9f8fe6d3a3afa18eac.mp4.m3u8?i=1920x808_2711
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Труп невесты (2005)
+#EXTINF:0,Труп невесты (2005)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/pxkIc1Ffiw3PDq_Ks6AZmA/1750515056/1879/0x5000c500e5355ac6/e93b2fbb82534cdb92846a7f46211646.mp4.m3u8?i=1920x1080_3238
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Шрек (2001)
+#EXTINF:0,Шрек (2001)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/uAnWmaMD1l26nxog5YX9Rw/1750515057/2084/0x5000c500f1e37576/2ca2b39ebe46452ea52a78ff68e899de.mp4.m3u8?i=1920x1080_4155
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="simpleTVFakeEpgId",Сияние (1980)
+#EXTINF:0,Сияние (1980)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/bSTXfvoCbAKs_SeM1U9DDw/1750515058/2086/0x5000c500f1dd737a/61778e2f29b24b0f9b08e2a5ac789cd8.mp4.m3u8?i=1920x1080_2531
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="https://iptvx.one/picons/deviatka.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_deviatka",Девятые врата (1999)
+#EXTINF:0,Девятые врата (1999)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/k06w_96DGbqeHndYBOK54g/1750515059/1970/rutube-ds-origin-132-2/eec2312992094d108e2bd5fa628aad0b.mp4.m3u8?i=1920x816_1648
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/ОТВ Челябинск.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_kernel-spiderman",Человек тьмы 4K (1990)
+#EXTINF:0,Человек тьмы 4K (1990)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/b2mtmedhckcq11fEY9yTCA/1750515060/1822/0x5000c500c8c54e6e/8de341325a954ce294d71aea60cf3878.mp4.m3u8?i=3840x2160_16011
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Мамонтенок.png" tvg-id="simpleTVFakeEpgId",Тень (1994)
+#EXTINF:0,Тень (1994)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/tjdCnksRBIW5ehygQJ-_uQ/1750515061/2080/0x5000c500f1e579e7/63c7983d4528474a81ee35790eb7ba8c.mp4.m3u8?i=1920x1080_16172
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Драйв.png" tvg-id="simpleTVFakeEpgId",Дракула (1992)
+#EXTINF:0,Дракула (1992)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/2oR6c3NGg-fQs-jg3LpcHg/1750515061/2454/0x5000c500e883918f/afae75fe6b404565af920e8a9b22c941.mp4.m3u8?i=1920x1040_9349
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Храброе сердце (1995)
+#EXTINF:0,Храброе сердце (1995)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/ol6yGqnrE_SmQy7Y2OkKkQ/1750515062/1887/0x5000c500e53d01b1/7567e5ba9b4b4e4e8b9d898f943a5b39.mp4.m3u8?i=1920x816_5758
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="simpleTVFakeEpgId",Скала (1996)
-https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/YI8o3NtELQL6-NIuajP/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="simpleTVFakeEpgId",Троя (2004)
-https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSZfX1fMVKLph_/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Гремлины (1984)
+#EXTINF:0,Скала (1996)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/x1_Q_5f7xbQr6S2luYv2lg/1750515064/2219/0x5000c5007446408c/2adbb045f8a9444a84763592074598ec.mp4.m3u8?i=1920x816_8620
+#EXTINF:0,Троя (2004)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/EN3kgpnlwZPT5d_hH7osqg/1750515064/2090/0x5000c500f1e53ed1/90a9e35084074e7e9064af7cb873b067.mp4.m3u8?i=1920x792_3570
+#EXTINF:0,Гремлины (1984)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/zQNiwIxEEYoJm90HUbAKjg/1750515065/2448/0x5000c500e882ba60/d19532cb7a434d2691c9ea43bd718311.mp4.m3u8?i=1920x1080_4302
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Гремлины 2: Новенькая партия (1990)
+#EXTINF:0,Гремлины 2: Новенькая партия (1990)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/cwjBi4chqRDreU7GKSsqLg/1750515066/2468/0x5000c500e883962b/7c69a78d37c144d09a1a2343c2a5744c.mp4.m3u8?i=1920x1080_5455
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Царство небесное (2005)
+#EXTINF:0,Царство небесное (2005)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/SSvcb7Gx1jCaU8jGt-9VJw/1750515067/2088/0x5000c500f1e14287/bf7a0e2b30444d00a7c9ddb5af4642fc.mp4.m3u8?i=1920x816_3352
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="https://iptvx.one/picons/otv-odincovo.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_otv-odincovo",Один дома (1990)
-https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSNzJREV9d2HV7/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="https://iptvx.one/picons/otv-odincovo.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_otv-odincovo",Один дома 2: Затерянный в Нью-Йорке (2010)
+#EXTINF:0,Один дома (1990)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/YOdv538tPfLg-hiemERidA/1750515068/1893/0x5000c500e539c06f/d0618f08c897472f9c4de21f44ff781f.mp4.m3u8?i=1920x1032_15816
+#EXTINF:0,Один дома 2: Затерянный в Нью-Йорке (2010)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/19UlpnHeoWsXAvxTS0H7wA/1750515069/1867/0x5000c500e53d02d1/4f87990c33ba494c8d6398fd965f5eaf.mp4.m3u8?i=1920x1040_8282
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Приключения HD.png" tvg-id="simpleTVFakeEpgId",Принц Персии: Пески времени (2010)
+#EXTINF:0,Принц Персии: Пески времени (2010)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/ZHlQrt1N1yvPmcpVuN9oMQ/1750515071/2080/0x5000c500f1e5215e/139d7acc71564a8a994a7d7d2c59ddb8.mp4.m3u8?i=1920x800_4812
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/ТМ-Квант.png" tvg-id="simpleTVFakeEpgId",Ван Хельсинг (2004)
-https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKSKI_VNrukjTDZ/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Сайлент Хилл (2006)
+#EXTINF:0,Ван Хельсинг (2004)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/DeXwAvgvC6MtwQfboRuG-w/1750515072/1772/0x5000c500c45cabe9/0840331647944eb3868994c2f1617540.mp4.m3u8?i=1920x1040_6471
+#EXTINF:0,Сайлент Хилл (2006)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/ylwNwHKa45funZ1zH1Ac7w/1750515073/1867/0x5000c500e53c8763/9fcfcfb520ed436894e63e3e9436bf81.mp4.m3u8?i=1920x816_4945
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Сайлент Хилл 2 (2012)
+#EXTINF:0,Сайлент Хилл 2 (2012)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/zt6R0MvjbDQZXLoqo7lqAQ/1750515074/2082/0x5000c500f1dc0cc2/09b0fc7833db4a258833f29562cd954b.mp4.m3u8?i=1920x800_4027
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Спас.png" tvg-id="simpleTVFakeEpgId",Спасти рядового Райана (1998)
+#EXTINF:0,Спасти рядового Райана (1998)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/qS_vNZGqETWGo_HaxwvCDw/1750515074/2092/0x5000c500f1d0a129/bb4ac6697dc2407287174dd499373df9.mp4.m3u8?i=1920x1032_7893
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Перец International.png" tvg-id="simpleTVFakeEpgId",Перл-Харбор (2001)
+#EXTINF:0,Перл-Харбор (2001)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/PkgaiSV-3d5q58r-lO8XOg/1750515075/2076/0x5000c500f1e2a653/a3f8cba0c03e45a893390662dabd7339.mp4.m3u8?i=1920x800_3629
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Армагеддон (1998)
+#EXTINF:0,Армагеддон (1998)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/19tJjJdWd4fnH83iOEQoQg/1750515077/1877/0x5000c500e539cbb9/f877b0389ecd41e0b5b6daa253a1d9f8.mp4.m3u8?i=1920x800_7584
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бегущий человек (1987)
+#EXTINF:0,Бегущий человек (1987)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/6heu0Q_Uw_Cl3OVjZZvS5A/1750515077/1871/0x5000c500e4db1142/10aab125431544c7acc2aff36ceb78ba.mp4.m3u8?i=848x480_1508
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Эффект бабочки (2004)
+#EXTINF:0,Эффект бабочки (2004)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/C7UTBwG1eoeINqQksL6ddA/1750515078/2167/0x5000c500e6685066/6b719a4751b844ad92096509569d9787.mp4.m3u8?i=1920x1080_7681
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Пираты Карибского моря. Проклятие Черной жемчужины (2003)
+#EXTINF:0,Пираты Карибского моря. Проклятие Черной жемчужины (2003)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/LMmYSvozO7ZCHDzks16q-Q/1750515079/1861/0x5000c500e539f074/143b42bb4ee242dd9d660f01c2b8925c.mp4.m3u8?i=1920x1080_6473
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Пираты Карибского моря: Сундук мертвеца (2006)
+#EXTINF:0,Пираты Карибского моря: Сундук мертвеца (2006)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/-2WkB3FM-Wr3IJwX5TgbmA/1750515080/2090/0x5000c500f1e5b45d/0d4ca73a35cb4e70becf7254f9549a03.mp4.m3u8?i=1920x800_3894
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Пираты Карибского моря: На краю Света (2007)
+#EXTINF:0,Пираты Карибского моря: На краю Света (2007)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/p7bNomLO3r5f6-ugUr3tCw/1750515081/2080/0x5000c500f1e52678/213d02ad10ab45e19cb295e105c758f3.mp4.m3u8?i=1920x800_3784
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Пираты Карибского моря: На странных берегах (2011)
+#EXTINF:0,Пираты Карибского моря: На странных берегах (2011)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/UCwIpx-n7bW2IlYn5JFVng/1750515082/2096/0x5000c500f1e53214/605bd8c592134555b0f053cffb26c179.mp4.m3u8?i=1920x800_3839
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
+#EXTINF:0,Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/f_eNETjwJ0yEVnnQ1FS3Dg/1750515083/2082/0x5000c500f1d6dd69/abf6800e5d244a80ad962f338feef7ca.mp4.m3u8?i=1920x800_5067
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_apostrof",Остров головорезов (1995)
+#EXTINF:0,Остров головорезов (1995)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/sn8BlekNCY4xeWf2xsiVbg/1750515084/2201/0x5000c5007446d66b/830f26601914454fba826cb33aa9cb28.mp4.m3u8?i=1920x816_3512
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Первый Образовательный.png" tvg-id="simpleTVFakeEpgId",Разрушитель (1993)
+#EXTINF:0,Разрушитель (1993)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/sxvgVL4zFiX4IQvilW4KhQ/1750515085/2084/0x5000c500f1e5bc16/f787157213a94061aa65e4082c73f37e.mp4.m3u8?i=1920x800_2579
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Зал суда.png" tvg-id="simpleTVFakeEpgId",Судья Дредд (1995)
+#EXTINF:0,Судья Дредд (1995)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/2fHeLscnb5iKOsYP4v3EWQ/1750515086/2094/0x5000c500f1e5b4c4/a057446b03a44dad81482c771ec41efd.mp4.m3u8?i=1904x1080_9316
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_zvezda",Звездный десант (1997)
+#EXTINF:0,Звездный десант (1997)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/vZZKTZSzxibc02UdHdWRrw/1750515087/2096/0x5000c500f1e5ac51/35797a988b1c405f8dae381e1c52843a.mp4.m3u8?i=1920x1040_5893
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Маска (1994)
-https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSRJdaPntQOUSX/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Форрест Гамп (1994)
+#EXTINF:0,Маска (1994)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/mVkTgcTrEaJ5N0Cl_-vkyQ/1750515088/2088/0x5000c500f1e50207/2a73d46b6ead4b469a0f23b9f124ab3a.mp4.m3u8?i=1920x1080_2964
+#EXTINF:0,Форрест Гамп (1994)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/xOAHMQfm05LuZQ1g8c_o2w/1750515089/2080/0x5000c500f1e4ee8f/98def6ae0af54c518a5792673792e81f.mp4.m3u8?i=1920x816_7406
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="48510dc23fd840369a4c540ac0e836b3_piaty-int",Пятый элемент (1997)
+#EXTINF:0,Пятый элемент (1997)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/Or12C31vIseZrKv9_9-Nrg/1750515090/2082/0x5000c500f1e3d606/da5a7d6529ae4b3e991e7b9a45a8bda6.mp4.m3u8?i=1920x1080_4117
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",К-9: (Собачья работа 1989)
+#EXTINF:0,К-9: (Собачья работа 1989)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/y6EXF7MMgMhkuK0A1Pf0mA/1750515091/1881/0x5000c500e539f380/6114d6a8726d468d9b20d97a867fe9a2.mp4.m3u8?i=1920x1040_14461
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Чужой (1979)
+#EXTINF:0,Чужой (1979)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/UHpmnwluh7aNJedUEQ7Hkg/1750515092/1869/0x5000c500e53c0ba6/c159441ba24c4270b832f2ccf6b4c638.mp4.m3u8?i=1920x816_3577
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Чужие (1986)
+#EXTINF:0,Чужие (1986)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/wNKrrirIN-322FMP2hdvMA/1750515093/2084/0x5000c500f1e565cc/720238d9fbdd432099836d93b4f02e9c.mp4.m3u8?i=1920x1080_4495
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Чужой 3 (1992)
+#EXTINF:0,Чужой 3 (1992)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/O1g4x1VXDyMYdnkbYV-wSQ/1750515094/2088/0x5000c500f1e5bbdf/6e1acd4f84504a119ac1a7eb2808ad9f.mp4.m3u8?i=1920x808_2837
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Чужой 4: Воскрешение (1997)
+#EXTINF:0,Чужой 4: Воскрешение (1997)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/09CnYd4pvFXKZhgsxtpK_A/1750515095/2096/0x5000c500f1e50966/157552c816314567b0bee921d4490b54.mp4.m3u8?i=1920x816_4061
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Чужой: Завет (2017)
-https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSDSW_8kYHCei-/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Чужой: Ромул (2024)
-https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSqg0946T0rLL1/ZX
-#EXTINF:-1 group-title="KINO ZAL VPN" tvg-id="simpleTVFakeEpgId",Бешеные псы (1991)
+#EXTINF:0,Чужой: Завет (2017)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/rO03JtOpVfee023RU3aHLw/1750515096/1818/0x5000c500c97c9439/6a7a7e0db6ad474e9731b3eb6ce4f8e6.mp4.m3u8?i=1920x800_9695
+#EXTINF:0,Чужой: Ромул (2024)
+#EXTGRP:KINO ZAL VPN
+https://river-1.rutube.ru/hls-vod/bZoQgUzeVO_y_LtOeyATYw/1750515097/2460/0x5000c500e8834c2e/055d2b9eb61d40f2a2997f82d7f460c8.mp4.m3u8?i=2560x1064_3046
+#EXTINF:0,Бешеные псы (1991)
+#EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/ql2eRWgSLPLqqY_nuznwKQ/1750515098/2417/0x5000c500f2b4a9bb/c09d0b20afc94057b1c502381e64d5af.mp4.m3u8?i=1920x1080_5179
+#EXTINF:0,Источник вечной молодости (HDR) (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/xdhKhqAx/bTkXNvLx6U/zE2SWKSD2KZhOtL3m_A/ZX
+#EXTINF:0,Кракен (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/JLxVTeJD/bTkXNvLx6U/zE2SWKSkTHi8xw46tuG/ZX
+#EXTINF:0,Расплата 2 (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/JLxVTeJD/bTkXNvLx6U/zE2SWKSZtInwT3mfazJ/ZX
+#EXTINF:0,Полный нокаут (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/FbZEopwh/bTkXNvLx6U/5jktNnX7UhePBJk4zD9/ZX
+#EXTINF:0,Оно Новая глава (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/FbZEopwh/bTkXNvLx6U/zE2SWKS6YmQKusSvJ11/ZX
+#EXTINF:0,Мастер (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/GMPb65uk/bTkXNvLx6U/5jktNnXoYIK2WhFHI1T/ZX
+#EXTINF:0,Дроп (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/xdhKhqAx/bTkXNvLx6U/zE2SWKSI6NbMOa3hrCx/ZX
+#EXTINF:0,Новичок (2025)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/FbZEopwh/bTkXNvLx6U/zE2SWKSza2RUjN8bnbg/ZX
 #EXTINF:0,Гадкая сестра (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/bTkXNvLx6U/5jktNnX4f0P2DK58Jxa/ZX
@@ -1030,16 +2024,16 @@ https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/zE2SWKSACbaiut9RR6-/ZX
 #EXTINF:0,Бастион 36 (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/zE2SWKSnzculiON8MNN/ZX
-#EXTINF:0,Помешанная на контроле (2025)
+#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Помешанная на контроле (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/EiKYJIFOyO/zE2SWKSfuNH2BkHmn1m/ZX
-#EXTINF:0,Шелдон Планктон: Фильм (2025)
+#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Шелдон Планктон: Фильм (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/zE2SWKSujCpY3fRbZY-/ZX
-#EXTINF:0,Василий (2025)
+#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Василий (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/EiKYJIFOyO/zE2SWKSosCh22CLvSlQ/ZX
-#EXTINF:0,Капитан Крюк (2025)
+#EXTINF:0,tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg",Капитан Крюк (2025)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/EiKYJIFOyO/zE2SWKSitlPaLVDOhBU/ZX
 #EXTINF:0,Компаньон (2025)
@@ -1759,6 +2753,9 @@ https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSPNgbbD7vbpnA/ZX
 #EXTINF:0,Левиафан (1989)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSYs8jrligxj-R/ZX
+#EXTINF:0,Мир Юрского периода: Господство (2022)
+#EXTGRP:KINO ZAL 4К
+https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSf--w0lCdbLzm/ZX
 #EXTINF:0,Последние дни на Марсе (2013)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSqHKDJ-u9Jz0-/ZX
@@ -1843,9 +2840,6 @@ https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSyR1F_4dwSBMd/ZX
 #EXTINF:0,День независимости: Возрождение (2016)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSA2-0g_K9HN58/ZX
-#EXTINF:0,Мир Юрского периода: Господство (2022)
-#EXTGRP:KINO ZAL 4К
-https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSf--w0lCdbLzm/ZX
 #EXTINF:0,Гравитация (2013)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXj9dV3DWG5RT1/ZX
@@ -2236,6 +3230,10 @@ https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSxouzsIoGXekb/ZX
 #EXTINF:0,Индиана Джонс и Колесо судьбы (2023)
 #EXTGRP:KINO ZAL 4К
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXDUCGkZpEubis/ZX
+#EXTINF:0,viju TV1000 HD
+#EXTGRP:Каналы с VPN
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=zSBAVt_5cUi0sDorrBgN6g&e=1750042656&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+
 #EXTINF:0,На вершине горы (Фильм 2025)
 #EXTGRP:KINO ZAL 
 https://vod.plvideo.ru/xdhKhqAx/bTkXNvLx6U/ZQ01hGwhYGehQ6_AsLW/ZX
@@ -2301,7 +3299,6 @@ https://vod.plvideo.ru/JLxVTeJD/zgo80TEGgy/YI8o3NtVsIZkMeXB4jY/ZX
 #EXTINF:0,Шальная пуля 3 (2025)
 #EXTGRP:KINO ZAL
 https://vod.plvideo.ru/GMPb65uk/bTkXNvLx6U/YI8o3NtURmeG2vJ4f-p/ZX
-
 #EXTINF:0,Сёрфер (2025)
 #EXTGRP:KINO ZAL
 https://vod.plvideo.ru/GMPb65uk/bTkXNvLx6U/YI8o3NtGHRXTftWf6X7/ZX
