@@ -65,9 +65,6 @@ http://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:AVB
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0,Звезда Плюс HD
-#EXTGRP:AVB
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDI1IDEwOjQ3OjA4IEFNJmhhc2hfdmFsdWU9dDM2dXo4T3d1NFN4WjNpV3JzcDE5UT09JnZhbGlkbWludXRlcz0xMDA=
 #EXTINF:0,Известия HD
 #EXTGRP:AVB
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -110,7 +107,7 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:0,Ратник HD
 #EXTGRP:AVB
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:0,RTVi 
+#EXTINF:0,RTVi не работает
 #EXTGRP:AVB
 https://server3.musical.uz/rtvi/tracks-v1a1/mono.m3u8?remote=46.242.14.76&token=01299fad59f30571a699248ae1132d276bb6a4a7-bc871e2631201d4920c0233e817d1714-1750255795-1750244995
 #EXTINF:0,Дождь HD
@@ -245,10 +242,10 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:0,Red Bull TV
 #EXTGRP:AVB
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0,Eurosport 1 HD 
+#EXTINF:0,Eurosport 1 HD не работает
 #EXTGRP:AVB
 https://server3.musical.uz/eurosport1_web/tracks-v1a1/rewind-86400.m3u8?token=c41a8f43eca61e97d1cb546e7d54915af4c0c454-e55a93d20c6cedca177fd8ce03055aae-1750256233-1750245433
-#EXTINF:0,Eurosport 2 HD 
+#EXTINF:0,Eurosport 2 HD не работает
 #EXTGRP:AVB
 https://server2.musical.uz/eurosport2_web/tracks-v1a1/rewind-86400.m3u8?token=806665832fcfd5fe8aeb1209752bedabf05cce81-198e503ec35206cda1801b80e8763fad-1750256356-1750245556
 #EXTINF:0,Матч! Игра HD не работает
