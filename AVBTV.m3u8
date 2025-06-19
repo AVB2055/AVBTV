@@ -1163,9 +1163,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
 
 
-
-#EXTGRP:Кинозал VPN
 #EXTINF:0,Сердце знает (2025)
+#EXTGRP:Кинозал VPN
 https://river-1.rutube.ru/hls-vod/hV479s34A4Onaa0d7Spz8Q/1750514921/2223/0x5000c500e6b094b8/b0995b461d1b467399b678467959b9ae.mp4.m3u8?i=1920x1080_2236
 #EXTINF:0,Убийства в Баланье (2025)
 #EXTGRP:Кинозал VPN
