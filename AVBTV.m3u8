@@ -1,4 +1,4 @@
-#EXTM3U
+м#EXTM3U
 #EXTINF:0,Первый канал HD
 #EXTGRP:AVB
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -248,15 +248,9 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B21/176.m3u8
 #EXTINF:0,Eurosport 2 HD 
 #EXTGRP:AVB
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/192.m3u8
-#EXTINF:0,Матч! Игра HD не работает
-#EXTGRP:AVB
-http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/225/index.m3u8
 #EXTINF:0,Матч! Игра
 #EXTGRP:AVB
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
-#EXTINF:0,Матч! Арена HD не работает
-#EXTGRP:AVB
-http://a3fedb7d.kazaktelekom.com/iptv/64QGBVQ32FN38W/207/index.m3u8
 #EXTINF:0,Матч! Арена
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/54/index.m3u8
