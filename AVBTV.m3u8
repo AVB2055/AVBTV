@@ -1162,7 +1162,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE4
 #EXTGRP:Tricolor
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Channel_LIVE5
 
+
 #EXTGRP:Кинозал VPN
+#EXTINF:0,Сердце знает (2025)
 https://river-1.rutube.ru/hls-vod/hV479s34A4Onaa0d7Spz8Q/1750514921/2223/0x5000c500e6b094b8/b0995b461d1b467399b678467959b9ae.mp4.m3u8?i=1920x1080_2236
 #EXTINF:0,Убийства в Баланье (2025)
 #EXTGRP:Кинозал VPN
@@ -3127,21 +3129,51 @@ https://vod.plvideo.ru/xdhKhqAx/cXyXEGJ0A4/YI8o3NtEjuJQmWIgUV8/ZX
 #EXTINF:0,Подземелья и драконы: Честь среди воров (Фильм, 2023)
 #EXTGRP:Кинозал
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/FP7MRNSDt7K_ft1gR81/ZX	
-#EXTINF:0,Анчартед: На картах не значится (2022) БОЕВИК • ПРИКЛЮЧЕНИЯ
+#EXTINF:0,+ Анчартед: На картах не значится (2022) БОЕВИК • ПРИКЛЮЧЕНИЯ
 #EXTGRP:Кинозал
 https://vod.plvideo.ru/xdhKhqAx/cXyXEGJ0A4/YI8o3NtFoe1Z29IJ6EI/ZX
-#EXTINF:0,Потерянная принцесса (Фильм 2025)
+#EXTINF:0,+ Потерянная принцесса (Фильм 2025)
 #EXTGRP:Кинозал
 https://vod.plvideo.ru/FbZEopwh/bTkXNvLx6U/YI8o3NtMl8v5Cn1SmC0/ZX
-#EXTINF:0,Расхитители гробниц. Королева монстров
+#EXTINF:0,+ Расхитители гробниц. Королева монстров
 #EXTGRP:Кинозал
 https://vod.plvideo.ru/GMPb65uk/zgo80TEGgy/YI8o3Nt7Ju7MB2hbGhw/ZX
-#EXTINF:0,Ларго Винч Гнев прошлого (2024)
+#EXTINF:0,+ Ларго Винч Гнев прошлого (2024)
 #EXTGRP:Кинозал
 https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/FP7MRNSeN0FcP9YGXRO/ZX
-#EXTINF:0,Сверхъестественное. Разлом времени 4К (2024г), Таиланд, фантастика, боевик, приключения
+#EXTINF:0,+ Сверхъестественное. Разлом времени 4К (2024г), Таиланд, фантастика, боевик, приключения
 #EXTGRP:Кинозал
 https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/zE2SWKSMZ6ya_H61qgR/ZX
-#EXTINF:0,Хранители.пяти.королевств (Фильм 2024)
+#EXTINF:0,+ Хранители.пяти.королевств (Фильм 2024)
 #EXTGRP:Кинозал
 https://vod.plvideo.ru/GMPb65uk/AZAevqJa5r/YI8o3NtQyCZcHZo-_Cj/ZX
+#EXTINF:0,+ Готика (Gothika, 2003)
+#EXTGRP:KINO ZAL
+https://vod.plvideo.ru/GMPb65uk/bTkXNvLx6U/FP7MRNSjV44enm65w8q/ZX
+#EXTINF:0,+ Не говори никому (Ne le dis à personne, 2006)	
+#EXTGRP:KINO ZAL
+https://river-1.rutube.ru/hls-vod/ySDGWzZwsAY8TvAZTK7fmw/1750931834/2520/0x5000039ce83bf575/8109e7185039414995abfd9bb53a0555.mp4.m3u8?i=1920x816_3642
+#EXTINF:0,+ Призрак (The Ghost Writer, 2009)
+#EXTGRP:KINO ZAL
+https://vod.plvideo.ru/GMPb65uk/zgo80TEGgy/iyfN6I3zQjEiXRNIyPH/ZX
+#EXTINF:0,+ Обитель проклятых (Stonehearst Asylum, 2014)
+#EXTGRP:KINO ZAL
+https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/YI8o3NtWom_i3JqZWUZ/ZX
+#EXTINF:0,+ Девушка в тумане (La ragazza nella nebbia, 2017)
+#EXTGRP:KINO ZAL
+https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/iyfN6I35xS2WHR76jiY/ZX
+#EXTINF:0,+ Обитель теней (Marrowbone, 2017)
+#EXTGRP:KINO ZAL
+https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/FP7MRNSD-srg-zc00P4/ZX
+#EXTINF:0,+ Зависнуть в Палм-Спрингс (Palm Springs, 2020)
+#EXTGRP:KINO ZAL
+https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/YI8o3NtLotTBrpEmicN/ZX
+#EXTINF:0,+ Женщина в окне (The Woman in the Window, 2021)
+#EXTGRP:KINO ZAL
+https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/FP7MRNS6972RmmoWHiD/ZX
+#EXTINF:0,+ Рождённый после смерти (Strange But True, 2019)	
+#EXTGRP:KINO ZAL
+https://vkvd381.okcdn.ru/?expires=1750587357440&srcIp=46.242.14.76&pr=40&srcAg=CHROME&ms=185.226.52.204&type=5&subId=2272042289746&sig=wYKmns3-2ZY&ct=0&urls=45.136.22.136&clientType=13&appId=512000384397&id=1058672937554
+#EXTINF:0,+ Невидимка (In Darkness, 2017)
+#EXTGRP:KINO ZAL
+https://vkvd507.okcdn.ru/?expires=1750587406978&srcIp=46.242.14.76&pr=40&srcAg=CHROME&ms=185.226.55.145&mid=2945540565071&type=5&subId=2320145517135&sig=wlnT3RLNy48&ct=21&urls=185.226.53.142&clientType=13&id=1699643198031&bytes=0-37527
