@@ -307,7 +307,7 @@ http://v4.proofix.ru:80/7tv-live/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:0,Анекдот ТВ
 #EXTGRP:AVB
-https://server3.musical.uz/anekdot/tracks-v1a1/mono.m3u8?remote=46.242.14.76&token=ef4432cc819313e039b6f1bded08fa9cb434000a-6860baf47dd4f4fad72c8ab37a477bee-1750584857-1750574057
+https://server2.musical.uz/anekdot/tracks-v1a1/mono.m3u8?remote=46.242.14.76&token=c8785221a119aedb1dc7bff272040e37259f41cf-6771cfaeae1fe3b729d9529663bde38a-1750875677-1750864877
 #EXTINF:0,КВН ТВ
 #EXTGRP:AVB
 http://178.163.6.92:4022/udp/234.0.0.233:2000
