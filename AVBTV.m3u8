@@ -452,9 +452,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP:AVB
 http://178.124.152.238:8088/detmir
-#EXTINF:0,Детское кино Int
-#EXTGRP:AVB
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Мультимания
 #EXTGRP:AVB
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
