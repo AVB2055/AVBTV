@@ -164,12 +164,6 @@ https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=9445009889576578422036
 #EXTINF:0,FREEДОМ - UATV Channel
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,1Filmax Фантастика
-#EXTGRP:AVB
-http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:0,2Filmax Комедия
-#EXTGRP:AVB
-http://hls.goodgame.ru:8080/hls/204717.m3u8?bw943150461232
 #EXTINF:0,Amedia Premium HD
 #EXTGRP:AVB
 http://195.18.23.20:8000/play/3/index.m3u8
@@ -302,9 +296,6 @@ http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:0,2x2
 #EXTGRP:AVB
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:0,Анекдот ТВ
-#EXTGRP:AVB
-https://server2.musical.uz/anekdot/tracks-v1a1/mono.m3u8?remote=46.242.14.76&token=c8785221a119aedb1dc7bff272040e37259f41cf-6771cfaeae1fe3b729d9529663bde38a-1750875677-1750864877
 #EXTINF:0,КВН ТВ
 #EXTGRP:AVB
 http://178.163.6.92:4022/udp/234.0.0.233:2000
@@ -359,9 +350,6 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:0,Relax
 #EXTGRP:AVB
 http://185.57.68.33/232/mpegts
-#EXTINF:0,Afrobeats TV
-#EXTGRP:AVB
-https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0,Juice TV [nz]
 #EXTGRP:AVB
 https://juicex.nz/hls/mystream.m3u8
