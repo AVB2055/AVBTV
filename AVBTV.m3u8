@@ -260,9 +260,6 @@ http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:0,Лапки Live
 #EXTGRP:AVB
 http://91.247.68.229:8000/play/Lapki/index.m3u8
-#EXTINF:0,TERRA HD
-#EXTGRP:AVB
-http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:0,Top Secret
 #EXTGRP:AVB
 http://178.124.152.238:8088/sovsec
