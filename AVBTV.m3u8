@@ -347,9 +347,6 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 #EXTINF:0,LOUPE 4K
 #EXTGRP:AVB
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:0,Relax
-#EXTGRP:AVB
-http://185.57.68.33/232/mpegts
 #EXTINF:0,Juice TV [nz]
 #EXTGRP:AVB
 https://juicex.nz/hls/mystream.m3u8
