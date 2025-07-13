@@ -311,6 +311,9 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0,Ю HD
 #EXTGRP:AVB
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:0,Че!
+#EXTGRP:AVB
+http://178.163.2.9:4022/udp/234.0.0.218:2000
 #EXTINF:0,Fashion TV Midnite Secrets HD
 #EXTGRP:AVB
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
