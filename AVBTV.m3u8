@@ -83,9 +83,6 @@ http://178.212.71.253:8000/play/19/index.m3u8
 #EXTINF:0,МУЗ-ТВ
 #EXTGRP:AVB
 http://178.163.13.217:4022/udp/234.0.0.96:2000
-#EXTINF:0,360 Новости HD
-#EXTGRP:AVB
-http://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:0,360° Новости HD
 #EXTGRP:AVB
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
