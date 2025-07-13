@@ -140,9 +140,6 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 #EXTINF:0,Первый Российский Национальный канал
 #EXTGRP:AVB
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:0,Ратник HD
-#EXTGRP:AVB
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:0,Большая Азия HD
 #EXTGRP:AVB
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -236,12 +233,6 @@ http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:AVB
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:0,ЭХО ТВ
-#EXTGRP:AVB
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0,Живая Природа HD
-#EXTGRP:AVB
-http://tv.ttk.mx:9066
 #EXTINF:0,Живая Планета
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/114/index.m3u8
@@ -251,9 +242,6 @@ http://178.163.7.130:4022/udp/234.0.0.98:2000
 #EXTINF:0,Охота и рыбалка
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/93/index.m3u8
-#EXTINF:0,Лапки Live
-#EXTGRP:AVB
-http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:0,Top Secret
 #EXTGRP:AVB
 http://178.124.152.238:8088/sovsec
@@ -307,9 +295,6 @@ http://213.91.178.133:8000/play/a0ay
 http://195.245.99.242/Perec/playlist.m3u8
 #EXTINF:0,Сарафан
 #EXTGRP:AVB
-http://tv.ttk.mx:9044
-#EXTINF:0,Сарафан
-#EXTGRP:AVB
 http://178.212.71.253:8000/play/44/index.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP:AVB
@@ -326,9 +311,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0,Твое ТВ HD-Юмор
 #EXTGRP:AVB
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0,Че
-#EXTGRP:AVB
-http://tv.ttk.mx:9141
 #EXTINF:0,Ю HD
 #EXTGRP:AVB
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
@@ -416,24 +398,10 @@ http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:0,Матч! Арена
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:0,Матч! Страна
-#EXTGRP:AVB
-http://tv.ttk.mx:9154
-#EXTINF:0,Матч! Боец
-#EXTGRP:AVB
-http://tv.ttk.mx:9107
 #EXTINF:0,Конный Мир
 #EXTGRP:AVB
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 1 HD
-#EXTGRP:AVB
-http://tv.ttk.mx:9114
-#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
-#EXTGRP:AVB
-http://tv.ttk.mx:9111
-#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
-#EXTGRP:AVB
-http://tv.ttk.mx:9116
+
 #EXTINF:0,Матч Премьер
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/57/index.m3u8
