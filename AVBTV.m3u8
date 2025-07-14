@@ -385,7 +385,7 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:AVB
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/176.m3u8
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:AVB
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/192.m3u8
