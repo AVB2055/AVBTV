@@ -197,9 +197,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTINF:0,НТВ Право
 
 https://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:0,Зал суда
-
-http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:0,НТВ Стиль
 
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
