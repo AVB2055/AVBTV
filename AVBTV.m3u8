@@ -371,9 +371,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0,Шансон ТВ
 
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:0,Red Bull TV
-
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Eurosport 1 HD
 
 http://178.134.1.158:8081/eurosport/index.m3u8
@@ -419,6 +416,9 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 #EXTINF:0,KHL Prime HD
 
 http://178.124.179.122:8088/KHL_HD/index.m3u8
+#EXTINF:0,Red Bull TV
+
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Конный Мир
 
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
