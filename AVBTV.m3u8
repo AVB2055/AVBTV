@@ -327,7 +327,8 @@ https://juicex.nz/hls/mystream.m3u8
 #EXTGRP:AVB
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:0,Minimal / Deep Tech
-#EXTGRP:AVBhttps://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTGRP:AVB
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:0,Trace Urban HD
 #EXTGRP:AVB
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
