@@ -263,9 +263,6 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:0,Светлое ТВ
 
 http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:0,Загородная Жизнь
-
-http://185.57.68.33/40/mpegts
 #EXTINF:0,2x2
 
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
