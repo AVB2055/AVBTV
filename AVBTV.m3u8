@@ -388,7 +388,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:AVB
-http://tinyurl.com/%74%76%7A%61%74%61%6B21/192.m3u8
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:0,Матч!
 #EXTGRP:AVB
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
