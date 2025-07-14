@@ -389,22 +389,39 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:AVB
 http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
+#EXTINF:0,Старт HD
+#EXTGRP:AVB
+http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG
 #EXTINF:0,Матч!
 #EXTGRP:AVB
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:0,Матч! Игра
 #EXTGRP:AVB
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:AVB
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
 #EXTINF:0,Матч! Арена
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:AVB
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 #EXTINF:0,Конный Мир
 #EXTGRP:AVB
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-
 #EXTINF:0,Матч Премьер
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:AVB
+http://77.235.1.19:8000/play/a002/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:AVB
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:AVB
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #EXTINF:0,KHL Prime HD
 #EXTGRP:AVB
 http://178.124.179.122:8088/KHL_HD/index.m3u8
