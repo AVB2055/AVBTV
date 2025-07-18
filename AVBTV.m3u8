@@ -62,7 +62,7 @@ http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
 #EXTINF:0,Домашний --
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF:0,Домашний --
+#EXTINF:0,Домашний HD --
 #EXTGRP:AVB
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=domashny
 #EXTINF:0,Домашний Int
@@ -74,6 +74,9 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:0,Пятница! --
 #EXTGRP:AVB
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0,Пятница! HD--
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 #EXTINF:0,Звезда HD
 #EXTGRP:AVB
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
@@ -254,15 +257,9 @@ http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
 #EXTINF:0,2x2 --
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/113/index.m3u8
-#EXTINF:0,2x2 HD --
-#EXTGRP:AVB
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:0,7 TV
 #EXTGRP:AVB
 http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:0,2x2
-#EXTGRP:AVB
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:0,Перец
 #EXTGRP:AVB
 http://213.91.178.133:8000/play/a0ay
@@ -290,9 +287,6 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:0,Че! --
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/139/index.m3u8
-#EXTINF:0,Че! --
-#EXTGRP:AVB
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:0,Че! --
 #EXTGRP:AVB
 http://api.peers.tv/timeshift/perec/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI4MjE5MzksImlhdCI6MTc1MjczNTUzOSwiY2lkIjo2LCJ1aWQiOjkzMDcxMDkxNCwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.Z4TLkK1TxnPU3xNJml2JiOUtNUCt-MSa_nKCsyQ94vk&offset=10
