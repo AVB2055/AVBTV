@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:0,Первый канал HD
 #EXTGRP:AVB
-http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Первый канал HD
-#EXTGRP:AVB
 http://srv-1-streaming.iptvin.online:8080/ort_hd/video.m3u8?token=6a69e60dad22d6ebb17d61b662f39f6066f088b2-4786700469-1752857238-1752814038
 #EXTINF:0,Первый канал +1 HD
 #EXTGRP:AVB
@@ -80,7 +77,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:0,Пятница! --
 #EXTGRP:AVB
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:0,Пятница! HD--
+#EXTINF:0,Пятница! HD --
 #EXTGRP:AVB
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 #EXTINF:0,Звезда HD
@@ -124,7 +121,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:0,Соловьев.Live HD --
 #EXTGRP:AVB
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0,КРИК-ТВ HD
 #EXTGRP:AVB
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
