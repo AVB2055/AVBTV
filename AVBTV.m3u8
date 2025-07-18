@@ -23,21 +23,30 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:0,Пятый канал --
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/5/index.m3u8
+#EXTINF:0,Пятый канал --
+#EXTGRP:AVB
+http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
 #EXTINF:0,Россия Культура
 #EXTGRP:AVB
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP:AVB
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,Карусель ----
+#EXTINF:0,Карусель --
 #EXTGRP:AVB
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0,Карусель --
+#EXTGRP:AVB
+http://31.210.208.171:8080/karusel/index.m3u8?token=+W2MSER
 #EXTINF:0,ОТР --
 #EXTGRP:AVB
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
 #EXTINF:0,ОТР --
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/9/index.m3u8
+#EXTINF:0,ОТР --
+#EXTGRP:AVB
+http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
 #EXTINF:0,ТВЦ
 #EXTGRP:AVB
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -53,6 +62,9 @@ http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
 #EXTINF:0,Домашний --
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:0,Домашний --
+#EXTGRP:AVB
+http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=domashny
 #EXTINF:0,Домашний Int
 #EXTGRP:AVB
 http://178.124.152.238:8088/dom
@@ -98,7 +110,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:0,ОСН HD
 #EXTGRP:AVB
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:0,Соловьев.Live HD
+#EXTINF:0,Соловьев.Live 
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:0,КРИК-ТВ HD
@@ -242,6 +254,9 @@ http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
 #EXTINF:0,2x2 --
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/113/index.m3u8
+#EXTINF:0,2x2 HD --
+#EXTGRP:AVB
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:0,7 TV
 #EXTGRP:AVB
 http://v4.proofix.ru:80/7tv-live/index.m3u8
