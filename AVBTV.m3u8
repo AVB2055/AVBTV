@@ -22,13 +22,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:0,Пятый канал --
 #EXTGRP:AVB
-http://178.212.71.253:8000/play/5/index.m3u8
-#EXTINF:0,Пятый канал --
-#EXTGRP:AVB
 http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
-#EXTINF:0,Пятый канал HD --
-#EXTGRP:AVB
-http://srv-1-streaming.iptvin.online:8080/5_channel_hd/video.m3u8?token=90ffa16a0a24cd76e6169d3e261ee9e0a5b471af-4786700469-1752857238-1752814038
 #EXTINF:0,Россия Культура
 #EXTGRP:AVB
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
@@ -37,16 +31,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Карусель --
 #EXTGRP:AVB
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:0,Карусель --
-#EXTGRP:AVB
 http://31.210.208.171:8080/karusel/index.m3u8?token=+W2MSER
 #EXTINF:0,ОТР --
 #EXTGRP:AVB
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
-#EXTINF:0,ОТР --
-#EXTGRP:AVB
-http://178.212.71.253:8000/play/9/index.m3u8
 #EXTINF:0,ОТР --
 #EXTGRP:AVB
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
@@ -116,9 +104,6 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:0,ОСН HD
 #EXTGRP:AVB
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:0,Соловьев.Live --
-#EXTGRP:AVB
-http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:0,Соловьев.Live HD --
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
@@ -146,9 +131,6 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 #EXTINF:0,Москва Доверие
 #EXTGRP:AVB
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:0,Лен ТВ 24 HD
-#EXTGRP:AVB
-https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
 #EXTINF:0,Красная линия
 #EXTGRP:AVB
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -170,6 +152,9 @@ https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=944500988957657842203
 #EXTINF:0,Настоящее время HD --
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:0,Настоящее время HD --
+#EXTGRP:AVB
+http://portal.ott.pink/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Белсат HD
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
@@ -227,9 +212,6 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:0,Охотник и Рыболов HD
 #EXTGRP:AVB
 http://178.163.7.130:4022/udp/234.0.0.98:2000
-#EXTINF:0,Охота и рыбалка
-#EXTGRP:AVB
-http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:0,Top Secret
 #EXTGRP:AVB
 http://178.124.152.238:8088/sovsec
@@ -242,9 +224,6 @@ http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0,ЕГЭ ТВ
 #EXTGRP:AVB
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
-#EXTINF:0,Психология
-#EXTGRP:AVB
-http://178.212.71.253:8000/play/96/index.m3u8
 #EXTINF:0,E HD
 #EXTGRP:AVB
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
@@ -266,9 +245,6 @@ http://178.212.71.253:8000/play/113/index.m3u8
 #EXTINF:0,7 TV
 #EXTGRP:AVB
 http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:0,Перец
-#EXTGRP:AVB
-http://213.91.178.133:8000/play/a0ay
 #EXTINF:0,Перец
 #EXTGRP:AVB
 http://195.245.99.242/Perec/playlist.m3u8
@@ -368,9 +344,6 @@ http://178.212.71.253:8000/play/54/index.m3u8
 #EXTINF:0,Матч! Арена HD
 #EXTGRP:AVB
 http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
-#EXTINF:0,Матч Премьер HD
-#EXTGRP:AVB
-https://mhd128.iptv2022.com/p/Um0RZuaSjrTMZKWaEaw4mg,1752786012/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Матч! Футбол 1 HD
 #EXTGRP:AVB
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
