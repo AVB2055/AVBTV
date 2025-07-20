@@ -2,9 +2,9 @@
 #EXTINF:0,Первый канал HD
 #EXTGRP:AVB
 http://srv-1-streaming.iptvin.online:8080/ort_hd/video.m3u8?token=8c7417ad05dda1ff967797fe1dd9a7f79e62d91d-4786700469-1752991035-1752947835
-#EXTINF:0,Первый канал 
+#EXTINF:0,Первый канал HD
 #EXTGRP:AVB
-http://31.133.36.244:8000/1
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Первый канал +1 HD
 #EXTGRP:AVB
 http://178.163.2.70:4022/udp/234.0.0.172:2000
