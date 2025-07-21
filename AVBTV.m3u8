@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:0,Первый канал HD --
+#EXTINF:0,Первый канал HD
 #EXTGRP:AVB
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://srv-1-streaming.iptvin.online:8080/ort_hd/video.m3u8?token=0d422889455c726c2e3e5cb43bf6c637e9944117-4786700469-1753125118-1753081918
+#EXTINF:0,Первый канал HD 
+#EXTGRP:AVB
+http://178.212.71.253:8000/play/1/index.m3u8
 #EXTINF:0,Первый канал +1 HD
 #EXTGRP:AVB
 http://178.163.2.70:4022/udp/234.0.0.172:2000
@@ -20,7 +23,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:AVB
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:0,Пятый канал 
+#EXTINF:0,Пятый канал --
 #EXTGRP:AVB
 http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
 #EXTINF:0,Россия Культура
