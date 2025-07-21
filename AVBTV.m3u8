@@ -77,6 +77,9 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:AVB
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:AVB
+http://srv-1-streaming.iptvin.online:8080/tnt_hd/video.m3u8?token=4d96697633d95ad18286b7e75bf82d3f74863505-4786700469-1753125118-1753081918
 #EXTINF:0,ТНТ --
 #EXTGRP:AVB
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -101,7 +104,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:0,ОСН HD
 #EXTGRP:AVB
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:0,Соловьев.Live HD --
+#EXTINF:0,Соловьев.Live HD
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0,КРИК-ТВ HD --
