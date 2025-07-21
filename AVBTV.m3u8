@@ -23,7 +23,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:AVB
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:0,Пятый канал --
+#EXTINF:0,Пятый канал
 #EXTGRP:AVB
 http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
 #EXTINF:0,Россия Культура
@@ -77,12 +77,12 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:AVB
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,ТНТ HD
-#EXTGRP:AVB
-http://srv-1-streaming.iptvin.online:8080/tnt_hd/video.m3u8?token=4d96697633d95ad18286b7e75bf82d3f74863505-4786700469-1753125118-1753081918
-#EXTINF:0,ТНТ --
+#EXTINF:0,ТНТ 
 #EXTGRP:AVB
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:AVB
+https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/4f-N2MrwQ_RUPFhzy2U1RQ/1753689317/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 #EXTINF:0,МУЗ-ТВ
 #EXTGRP:AVB
 http://178.163.13.217:4022/udp/234.0.0.96:2000
@@ -125,7 +125,7 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:0,Мир 24 HD
 #EXTGRP:AVB
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0,Москва 24 --
+#EXTINF:0,Москва 24 
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:0,Москва Доверие
