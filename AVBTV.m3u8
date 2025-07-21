@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Первый канал HD
+#EXTINF:0,Первый канал HD --
 #EXTGRP:AVB
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Первый канал +1 HD
@@ -29,13 +29,13 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0,Россия 24
 #EXTGRP:AVB
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,Карусель --
+#EXTINF:0,Карусель
 #EXTGRP:AVB
 http://31.210.208.171:8080/karusel/index.m3u8?token=+W2MSER
-#EXTINF:0,ОТР --
+#EXTINF:0,ОТР
 #EXTGRP:AVB
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
-#EXTINF:0,ОТР --
+#EXTINF:0,ОТР
 #EXTGRP:AVB
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
 #EXTINF:0,ТВЦ
@@ -50,7 +50,7 @@ http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:0,СТС
 #EXTGRP:AVB
 http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
-#EXTINF:0,Домашний --
+#EXTINF:0,Домашний
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:0,Домашний Int
@@ -59,7 +59,7 @@ http://178.124.152.238:8088/dom
 #EXTINF:0,ТВ 3
 #EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:0,Пятница! HD --
+#EXTINF:0,Пятница! HD
 #EXTGRP:AVB
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 #EXTINF:0,Звезда HD
@@ -74,7 +74,7 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:AVB
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,ТНТ 
+#EXTINF:0,ТНТ --
 #EXTGRP:AVB
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:0,МУЗ-ТВ
@@ -101,7 +101,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:0,Соловьев.Live HD --
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,КРИК-ТВ HD
+#EXTINF:0,КРИК-ТВ HD --
 #EXTGRP:AVB
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:0,ТАСС HD
@@ -119,7 +119,7 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:0,Мир 24 HD
 #EXTGRP:AVB
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0,Москва 24
+#EXTINF:0,Москва 24 --
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:0,Москва Доверие
@@ -140,13 +140,13 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:AVB
 http://cdn.admuspeh.my/8118/video.m3u8?token=FKfLUSpbhRvsjpqM
-#EXTINF:0,Дождь HD --
+#EXTINF:0,Дождь HD 
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,Настоящее время HD --
+#EXTINF:0,Настоящее время HD
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,Настоящее время HD --
+#EXTINF:0,Настоящее время HD 
 #EXTGRP:AVB
 http://portal.ott.pink/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Белсат HD
@@ -230,10 +230,10 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:0,Светлое ТВ
 #EXTGRP:AVB
 http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:0,2x2 --
+#EXTINF:0,2x2 
 #EXTGRP:AVB
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
-#EXTINF:0,2x2 --
+#EXTINF:0,2x2 
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/113/index.m3u8
 #EXTINF:0,7 TV
@@ -260,12 +260,9 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0,Ю HD
 #EXTGRP:AVB
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-#EXTINF:0,Че! --
+#EXTINF:0,Че! 
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/139/index.m3u8
-#EXTINF:0,Че! --
-#EXTGRP:AVB
-http://api.peers.tv/timeshift/perec/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI4MjE5MzksImlhdCI6MTc1MjczNTUzOSwiY2lkIjo2LCJ1aWQiOjkzMDcxMDkxNCwicmVnIjpmYWxzZSwiaXAiOjM2NDgxMzc5OTUsImFkdWx0IjpmYWxzZX0.Z4TLkK1TxnPU3xNJml2JiOUtNUCt-MSa_nKCsyQ94vk&offset=10
 #EXTINF:0,Fashion TV Midnite Secrets HD
 #EXTGRP:AVB
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
@@ -293,9 +290,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,1HD
 #EXTGRP:AVB
 http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF:0,RU TV HD
-#EXTGRP:AVB
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:0,Первый Музыкальный Россия HD
 #EXTGRP:AVB
 http://hz1.teleport.cc/HLS/HD.m3u8
