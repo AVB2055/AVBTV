@@ -241,7 +241,7 @@ http://178.212.71.253:8000/play/113/index.m3u8
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:0,Перец
 #EXTGRP:AVB
-http://178.124.152.238:8088/perec
+http://213.91.178.133:8000/play/a0ay
 #EXTINF:0,СТС Love 
 #EXTGRP:AVB
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
@@ -269,24 +269,15 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #EXTINF:0,67 HD
 #EXTGRP:AVB
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-#EXTINF:0,CLASSICAL HARMONY HD
-#EXTGRP:AVB
-https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:0,HolidayScapes
 #EXTGRP:AVB
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
-#EXTINF:0,LOUPE 4K
-#EXTGRP:AVB
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:0,m2o TV
 #EXTGRP:AVB
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:0,Minimal / Deep Tech
 #EXTGRP:AVB
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:0,Trace Urban HD
-#EXTGRP:AVB
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,1HD
 #EXTGRP:AVB
 http://91.247.68.229:8000/play/eee/index.m3u8
