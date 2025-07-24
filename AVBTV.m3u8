@@ -58,9 +58,6 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 http://178.124.152.238:8088/dom
 #EXTINF:0,ТВ 3
 #EXTGRP:AVB
-https://nea-live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_6000000=10004.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNTA0MDkwNjQ2NDExMCIsImV4cCI6MTc1MzkzODY4MCwiaHdpZCI6IjViMTc0NDgzYmVjNzZiZjkxMTk4NjNmY2FmNTYxYzE0YjEzYTdmYzZhYjdkZWFhNDFhNzVkZDdmMTc5NmM2NDQiLCJsYXN0X3JlcV9kYXRlIjoxNzUzMzMzODgwLCJzZXNzaW9uX2lkIjoiYzNmODMyYTMwYzk0Y2QyMWQyMzg2NzZiMDYxOWM0MzciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.4hNftwE_ijISK8KyhFsXjNrSXZGOhtZRzPeOwODTQ3I
-#EXTINF:0,ТВ 3
-#EXTGRP:AVB
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:0,Пятница! HD
 #EXTGRP:AVB
