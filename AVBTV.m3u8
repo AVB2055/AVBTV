@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,Первый канал HD
+#EXTGRP:AVB
+http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDI1IDY6NTc6MjYgUE0maGFzaF92YWx1ZT1SWVpvZzFVeGRNTzlUT0xpc25GOVJ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:0,Первый канал 
 #EXTGRP:AVB
 http://31.133.36.244:8000/1
