@@ -172,9 +172,6 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:AVB
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:0,360° HD
-#EXTGRP:AVB
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:0,НТВ Право
 #EXTGRP:AVB
 https://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
