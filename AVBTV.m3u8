@@ -259,9 +259,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:0,Minimal / Deep Tech
 #EXTGRP:AVB
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:0,1HD
-#EXTGRP:AVB
-http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:0,Первый Музыкальный Россия HD
 #EXTGRP:AVB
 http://hz1.teleport.cc/HLS/HD.m3u8
