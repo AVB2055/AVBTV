@@ -2,6 +2,9 @@
 #EXTINF:0,Первый канал HD ontivi
 #EXTGRP:AVB
 https://s.ontivi.net/MZcfoljRXwq-PAr-e44HOA/540/1753714840/index.m3u8
+#EXTINF:0,Первый канал HD rutube
+#EXTGRP:AVB
+https://salam-smr-53.rutube.ru/dive/river-5-543.rtbcdn.ru/NsmcaFAv9mrnBuSoP77a7w/stream/genetta-303.m9.rutube.ru/IXffF1-3ZFKrQCzwgN-6lw/1754302480/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:0,Первый канал 
 #EXTGRP:AVB
 http://31.133.36.244:8000/1
@@ -142,7 +145,7 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:0,Соловьев.Live
 #EXTGRP:AVB
-https://salam-smr-53.rutube.ru/dive/river-5-543.rtbcdn.ru/NsmcaFAv9mrnBuSoP77a7w/stream/genetta-303.m9.rutube.ru/IXffF1-3ZFKrQCzwgN-6lw/1754302480/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://server.musical.uz/tv/solovev-live/tracks-v1a1/mono.m3u8?remote=95.26.106.231&token=d9dc37ad04f2249cb29a86127ff929f73ebdf74f-2e00ec2f088e42657de470d3ee970a6d-1753708795-1753697995
 #EXTINF:0,RTVi admuspeh.my
 #EXTGRP:AVB
 http://cdn.admuspeh.my/8118/video.m3u8?token=FKfLUSpbhRvsjpqM
