@@ -82,10 +82,7 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0,ТНТ 
 #EXTGRP:AVB
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:0,ТНТ HD
-#EXTGRP:AVB
-https://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/4f-N2MrwQ_RUPFhzy2U1RQ/1753689317/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+http://178.163.4.220:4022/udp/234.0.0.186:2000
 #EXTINF:0,МУЗ-ТВ
 #EXTGRP:AVB
 http://178.163.13.217:4022/udp/234.0.0.96:2000
