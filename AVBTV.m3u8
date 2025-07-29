@@ -220,8 +220,6 @@ http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="История" tvg-logo="https://cdn.epg.one/img2/1036.png",История 
 http://45.159.74.22/Istoria/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AVB" tvg-id="КВН ТВ" tvg-logo="https://cdn.epg.one/img2/1700.png",КВН ТВ
-http://45.159.74.22/Bober/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="TLC HD" tvg-logo="https://cdn.epg.one/img2/425.png",TLC
 http://45.159.74.22/TLC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="Кухня ТВ HD" tvg-logo="https://cdn.epg.one/img2/614.png",Кухня ТВ
@@ -232,7 +230,6 @@ http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
 http://45.159.74.22/DTX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="" tvg-logo="https://cdn.epg.one/img2/2425.png",Тонус ТВ
 http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
-
 #EXTINF:0,Nano HD
 #EXTGRP:AVB
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
@@ -299,6 +296,8 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:0,Че! 
 #EXTGRP:AVB
 http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:-1 group-title="AVB" tvg-id="КВН ТВ" tvg-logo="https://cdn.epg.one/img2/1700.png",КВН ТВ
+http://45.159.74.22/Bober/tracks-v1a1/mono.m3u8
 #EXTINF:0,Fashion TV Midnite Secrets HD
 #EXTGRP:AVB
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
