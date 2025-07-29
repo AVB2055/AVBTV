@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:0,Первый канал HD ontivi
-#EXTGRP:AVB
-https://s.ontivi.net/MZcfoljRXwq-PAr-e44HOA/540/1753714840/index.m3u8
-#EXTINF:0,Первый канал HD rutube
+#EXTINF:0,Первый канал HD 
 #EXTGRP:AVB
 https://salam-smr-53.rutube.ru/dive/river-5-543.rtbcdn.ru/NsmcaFAv9mrnBuSoP77a7w/stream/genetta-303.m9.rutube.ru/IXffF1-3ZFKrQCzwgN-6lw/1754302480/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:0,Первый канал 
@@ -127,7 +124,7 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Москва 24 
 #EXTGRP:AVB
-https://s.ontivi.net/L_7m0dnlLGrnMSVjNmqahQ/585/1753715194/index.m3u8
+http://178.163.3.80:4022/udp/234.0.0.194:2000
 #EXTINF:0,Москва Доверие
 #EXTGRP:AVB
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
@@ -145,13 +142,10 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:0,Соловьев.Live HD
 #EXTGRP:AVB
-https://server.musical.uz/tv/solovev-live/tracks-v1a1/mono.m3u8?remote=95.26.106.231&token=d9dc37ad04f2249cb29a86127ff929f73ebdf74f-2e00ec2f088e42657de470d3ee970a6d-1753708795-1753697995
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0,RTVi admuspeh.my
 #EXTGRP:AVB
 http://cdn.admuspeh.my/8118/video.m3u8?token=FKfLUSpbhRvsjpqM
-#EXTINF:0,RTVi smotrettv.com
-#EXTGRP:AVB
-https://server2.musical.uz/rtvi/tracks-v1a1/mono.m3u8?remote=95.26.106.231&token=96c1c55736e1bc3a2172643e22b6ae88dbe3f302-9da20bb367f1f1d846f28d9e1bff3453-1753708696-1753697896
 #EXTINF:0,Дождь HD 
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
