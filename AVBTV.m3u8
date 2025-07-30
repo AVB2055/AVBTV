@@ -1,18 +1,21 @@
 #EXTM3U
 #EXTINF:0,Первый канал HD 
 #EXTGRP:AVB
+https://live-1-301.uma.media/stream/1247/HLS/ntvplus/E2-n8knyt81IsMhLwTedrw/1753876891/eyJzZXNzaW9uSWQiOiJVRFpDUkVRM09YTTVabFJXYkhSNk0wWmFRMnhWVmtsdlpUYzJOMkZuVTNsd1pHNWhUSEZxUjBSa1owdERUbXRyUTFCSFoyOVlja0ZOVURKYWQzaGxOemRDV2tGelNXcFFNR3BCTVhrMVltUTJjbXhLUlVFOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1247-1080p.m3u8
+#EXTINF:0,Первый канал HD 
+#EXTGRP:Reserve
 https://salam-smr-53.rutube.ru/dive/river-5-543.rtbcdn.ru/NsmcaFAv9mrnBuSoP77a7w/stream/genetta-303.m9.rutube.ru/IXffF1-3ZFKrQCzwgN-6lw/1754302480/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:0,Первый канал 
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://31.133.36.244:8000/1
 #EXTINF:0,Первый канал 
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://31.210.208.171:8080/1kanal/index.m3u8?token=+W2MSER
 #EXTINF:0,Первый канал +1 HD
 #EXTGRP:AVB
 http://178.163.2.70:4022/udp/234.0.0.172:2000
 #EXTINF:0,Россия 1 HD
-#EXTGRP:AVB
+#EXTGRP:Reserve
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP:AVB
@@ -20,11 +23,14 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0,Матч ТВ HD
 #EXTGRP:AVB
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/2204.png" group-title="Reserve",Матч! HD
+#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
+http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:AVB
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ HD
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP:AVB
@@ -38,9 +44,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Карусель
 #EXTGRP:AVB
 http://31.210.208.171:8080/karusel/index.m3u8?token=+W2MSER
-#EXTINF:0,ОТР
-#EXTGRP:AVB
-http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
 #EXTINF:0,ОТР
 #EXTGRP:AVB
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
@@ -72,7 +75,7 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTGRP:AVB
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:0,Звезда HD
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:AVB
@@ -108,7 +111,7 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTGRP:AVB
 https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:0,TV BRICS HD
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV BRICS HD
 #EXTGRP:AVB
@@ -144,23 +147,17 @@ http://185.26.157.3:8080/live/rtvi/mono.m3u8
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Дождь HD [Geo-blocked]
-#EXTGRP:AVB
+#EXTGRP:Reserve
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:0,Настоящее время HD
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,Настоящее время HD 
-#EXTGRP:AVB
-http://portal.ott.pink/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Белсат HD
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,FREEДОМ - UATV Channel
 #EXTGRP:AVB
 https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,Amedia Premium HD
-#EXTGRP:AVB
-http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="Trash HD"  tvg-logo="http://epg.one/img2/3361.png",Trash HD
 https://woobl.ru/platform24.php?id=4830&p=index.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="Кинопремьера HD" tvg-logo="https://cdn.epg.one/img2/566.png",Кинопремьера
@@ -183,6 +180,9 @@ http://45.159.74.22/DomKino/tracks-v1a1/mono.m3u8
 http://45.159.74.22/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id=".Sci-Fi HD" tvg-logo="https://cdn.epg.one/img2/516.png",.sci-fi
 http://45.159.74.22/Kinoseriya/tracks-v1a1/mono.m3u8
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:AVB
+http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="Amedia Premium HD" tvg-logo="https://cdn.epg.one/img2/1372.png",Amedia Premium
 http://45.159.74.22/AmediaPremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="Amedia Hit HD" tvg-logo="https://cdn.epg.one/img2/2007.png",Amedia Hit
@@ -203,7 +203,7 @@ https://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTGRP:AVB
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ Стиль
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://cdn2.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="History HD" tvg-logo="https://cdn.epg.one/img2/1394.png",History HD
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
@@ -273,7 +273,7 @@ http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTGRP:AVB
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
 #EXTINF:0,2x2 
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://178.212.71.253:8000/play/113/index.m3u8
 #EXTINF:0,Перец
 #EXTGRP:AVB
@@ -341,17 +341,26 @@ http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 #EXTGRP:AVB
 http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:0,Матч! Игра
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:0,Матч! Игра HD
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/0215.png" group-title="AVB",Матч! Игра HD
+#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
+https://bl.video.matchtv.ru/media/start/free_71462918530/17_76666997491217f4514cc1c9316ab99d/3d25552e7b937d09c299d041de13433d/4828076680.m3u8
 #EXTINF:0,Матч! Арена
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://178.212.71.253:8000/play/54/index.m3u8
 #EXTINF:0,Матч! Арена HD
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/12104.png" group-title="AVB",МАТЧ! Арена HD
+#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
+https://bl.video.matchtv.ru/media/start/free_71390440925/17_9a32d7c6e26c38cbf12eac3bdb76849c/d8cce72bad07fda5aaedf37638469aad/4828076680.m3u8
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/8014.png" group-title="AVB",Матч! Страна HD
+#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
+https://bl.video.matchtv.ru/media/start/free_71245485715/17_72477605/282f0b5f2d94038f259b5e8493a3a4c7/4828076680.m3u8
 #EXTINF:0,Матч! Футбол 1 HD
 #EXTGRP:AVB
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
@@ -361,11 +370,14 @@ http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:0,Матч! Футбол 3 HD
 #EXTGRP:AVB
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10679.png" group-title="AVB",Матч! Боец HD
+#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
+https://bl.video.matchtv.ru/media/start/free_71317963320/17_6a6ffd269d21331c36923698e5058dff/d1bf7e60eb90958ed76d6ebcd56039a3/4828076680.m3u8
 #EXTINF:0,Старт Триумф HD
 #EXTGRP:AVB
 https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:0,Старт Триумф HD
-#EXTGRP:AVB
+#EXTGRP:Reserve
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph
 #EXTINF:0,Red Bull TV
 #EXTGRP:AVB
@@ -373,21 +385,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Конный Мир
 #EXTGRP:AVB
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/2204.png" group-title="AVB",Матч! HD
-#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
-http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/0215.png" group-title="AVB",Матч! Игра HD
-#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
-https://bl.video.matchtv.ru/media/start/free_71462918530/17_76666997491217f4514cc1c9316ab99d/3d25552e7b937d09c299d041de13433d/4828076680.m3u8
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/12104.png" group-title="AVB",МАТЧ! Арена HD
-#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
-https://bl.video.matchtv.ru/media/start/free_71390440925/17_9a32d7c6e26c38cbf12eac3bdb76849c/d8cce72bad07fda5aaedf37638469aad/4828076680.m3u8
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/8014.png" group-title="AVB",Матч! Страна HD
-#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
-https://bl.video.matchtv.ru/media/start/free_71245485715/17_72477605/282f0b5f2d94038f259b5e8493a3a4c7/4828076680.m3u8
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10679.png" group-title="AVB",Матч! Боец HD
-#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
-https://bl.video.matchtv.ru/media/start/free_71317963320/17_6a6ffd269d21331c36923698e5058dff/d1bf7e60eb90958ed76d6ebcd56039a3/4828076680.m3u8
 #EXTINF:0,Чип и Дейл HD
 #EXTGRP:AVB
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
