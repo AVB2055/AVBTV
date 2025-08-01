@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:0,Первый канал HD 
+#EXTINF:0,Первый канал 
 #EXTGRP:AVB
-https://live-1-301.uma.media/stream/1247/HLS/ntvplus/E2-n8knyt81IsMhLwTedrw/1753876891/eyJzZXNzaW9uSWQiOiJVRFpDUkVRM09YTTVabFJXYkhSNk0wWmFRMnhWVmtsdlpUYzJOMkZuVTNsd1pHNWhUSEZxUjBSa1owdERUbXRyUTFCSFoyOVlja0ZOVURKYWQzaGxOemRDV2tGelNXcFFNR3BCTVhrMVltUTJjbXhLUlVFOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1247-1080p.m3u8
-#EXTINF:0,Первый канал HD 
-#EXTGRP:Reserve
-https://salam-smr-53.rutube.ru/dive/river-5-543.rtbcdn.ru/NsmcaFAv9mrnBuSoP77a7w/stream/genetta-303.m9.rutube.ru/IXffF1-3ZFKrQCzwgN-6lw/1754302480/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
-#EXTINF:0,Первый канал 
-#EXTGRP:Reserve
-http://31.133.36.244:8000/1
-#EXTINF:0,Первый канал 
-#EXTGRP:Reserve
 http://31.210.208.171:8080/1kanal/index.m3u8?token=+W2MSER
 #EXTINF:0,Первый канал +1 HD
 #EXTGRP:AVB
@@ -346,21 +337,12 @@ http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:0,Матч! Игра HD
 #EXTGRP:Reserve
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/0215.png" group-title="AVB",Матч! Игра HD
-#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
-https://bl.video.matchtv.ru/media/start/free_71462918530/17_76666997491217f4514cc1c9316ab99d/3d25552e7b937d09c299d041de13433d/4828076680.m3u8
 #EXTINF:0,Матч! Арена
 #EXTGRP:Reserve
 http://178.212.71.253:8000/play/54/index.m3u8
 #EXTINF:0,Матч! Арена HD
 #EXTGRP:Reserve
 http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/12104.png" group-title="AVB",МАТЧ! Арена HD
-#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
-https://bl.video.matchtv.ru/media/start/free_71390440925/17_9a32d7c6e26c38cbf12eac3bdb76849c/d8cce72bad07fda5aaedf37638469aad/4828076680.m3u8
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/8014.png" group-title="AVB",Матч! Страна HD
-#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
-https://bl.video.matchtv.ru/media/start/free_71245485715/17_72477605/282f0b5f2d94038f259b5e8493a3a4c7/4828076680.m3u8
 #EXTINF:0,Матч! Футбол 1 HD
 #EXTGRP:AVB
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
@@ -370,9 +352,6 @@ http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:0,Матч! Футбол 3 HD
 #EXTGRP:AVB
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10679.png" group-title="AVB",Матч! Боец HD
-#EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
-https://bl.video.matchtv.ru/media/start/free_71317963320/17_6a6ffd269d21331c36923698e5058dff/d1bf7e60eb90958ed76d6ebcd56039a3/4828076680.m3u8
 #EXTINF:0,Старт Триумф HD
 #EXTGRP:AVB
 https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
