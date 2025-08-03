@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0,Первый канал HD
-#EXTGRP:AVB
+#EXTGRP:Reserve
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Первый канал HD
-#EXTGRP:Reserve
+#EXTGRP:AVB
 http://85.117.61.97:8000/play/a01n/index.m3u8
 #EXTINF:0,Первый канал HD
 #EXTGRP:Reserve
@@ -144,13 +144,13 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0,RTVi 
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://185.26.157.3:8080/live/rtvi/mono.m3u8
 #EXTINF:0,Дождь HD 
-#EXTGRP:AVB
+#EXTGRP:Reserve
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Дождь HD [Geo-blocked]
-#EXTGRP:Reserve
+#EXTGRP:AVB
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:0,Настоящее время HD
 #EXTGRP:AVB
@@ -194,7 +194,7 @@ http://45.159.74.22/Nauka/tracks-v1a1/mono.m3u8
 #EXTGRP:AVB
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:0,НТВ Сериал
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:AVB
@@ -246,7 +246,7 @@ http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTGRP:AVB
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Неизвестная Россия HD
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 #EXTINF:0,Моя Планета
 #EXTGRP:AVB
@@ -388,6 +388,7 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:0,Радость Моя
 #EXTGRP:AVB
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
 
 
 
