@@ -5,12 +5,6 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Первый канал HD
 #EXTGRP:AVB
 http://85.117.61.97:8000/play/a01n/index.m3u8
-#EXTINF:0,Первый канал HD
-#EXTGRP:Reserve
-http://185.26.157.3:8080/live/perviyhd/mono.m3u8
-#EXTINF:0,Первый канал HD VPN
-#EXTGRP:Reserve
-https://mhd128.iptv2022.com/p/GUJFCuRVgn7IkuxEeOfXUg,1754117871/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,Первый канал 
 #EXTGRP:Reserve
 http://31.210.208.171:8080/1kanal/index.m3u8?token=+W2MSER
@@ -144,8 +138,8 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0,RTVi 
-#EXTGRP:Reserve
-http://185.26.157.3:8080/live/rtvi/mono.m3u8
+#EXTGRP:AVB
+http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:0,Дождь HD 
 #EXTGRP:Reserve
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
