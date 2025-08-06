@@ -139,7 +139,10 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0,RTVi 
 #EXTGRP:AVB
-http://178.134.1.158:8081/rtvi/index.m3u8
+http://8baf1970.rossteleccom.net/iptv/VQGVQ6PEPS7KZC/2086/index.m3u8
+#EXTINF:0,RTVi 
+#EXTGRP:Reserve
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2086/index.m3u8
 #EXTINF:0,Дождь HD 
 #EXTGRP:Reserve
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
@@ -385,5 +388,6 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:0,Радость Моя
 #EXTGRP:AVB
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
 
 
