@@ -223,10 +223,6 @@ http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="История" tvg-logo="https://cdn.epg.one/img2/1036.png",История 
 http://45.159.74.22/Istoria/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AVB" tvg-id="TLC HD" tvg-logo="https://cdn.epg.one/img2/425.png",TLC
-http://45.159.74.22/TLC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="AVB" tvg-id="Кухня ТВ HD" tvg-logo="https://cdn.epg.one/img2/614.png",Кухня ТВ
-http://45.159.74.22/KukhnyaTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="Космический HD" tvg-logo="https://cdn.epg.one/img2/2310.png",Первый космический
 http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="Загородный" tvg-logo="https://cdn.epg.one/img2/2513.png",Загородный
@@ -388,6 +384,7 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:0,Радость Моя
 #EXTGRP:AVB
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
 
 
 
