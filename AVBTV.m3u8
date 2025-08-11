@@ -3,16 +3,13 @@
 #EXTGRP:Reserve
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Первый канал HD
-#EXTGRP:AVB
-https://mhd128.iptv2022.com/p/I4BSIeOIvIZ6rzFvVtvD6g,1754946003/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:0,Первый канал HD
 #EXTGRP:Reserve
 http://er-cdn.ertelecom.ru/os/video/hls/3eefe1da733ccff8a1770dd010773be08877331e25ee9447c12ffa98ac9a60d3b68f2fe7313dddeed3ac8555659c4743b393c47c8ae2fe3d793d7ff18d86f42fd038dc80597f82dec2d8452758cdd45cebbe0d0bda04ef1e41e455f53a7b8c99da8b9b1dd369aa2bc27ae71307bebf5405c69a96cee5c2a4ee8c55fc2a807d65ab848a5880dc3427b0987b453d29f20c4a536e00190d27a1ba5f307a83173bd89569626ed629f1b5f78132ee1ebf4a98384c4dbea7b9f55c009214a952d6fdb5b524a77dda61979f090dc85d0bd80d2366b194c2013fb56feda5fd3bc930aad76402b9f79fae9f978a182211e1e7d47f59774c935bd31ed236e3ec15ab2e26f314c61c0629bd1d94d10d6f0d1d2205a8937ccce6308406980500296e1d1a7d22b2a4cf5d08fe9d4bd99f63015c0093bd9a0149684ffcd0310812f8f0b8483506f6970b3132ab3eace805f396c33cbdab/playlist.m3u8
 #EXTINF:0,Первый канал HD
 #EXTGRP:Reserve
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=jweGX0dJuxJiDGzzcx8iSQ&e=1754989382&scheme=https
 #EXTINF:0,Первый канал HD
-#EXTGRP:Reserve
+#EXTGRP:AVB
 http://srv-1-streaming.iptvin.online:8080/ort_hd/video.m3u8?token=aae911ca09092a639df8819a39fffdd8d91074b4-296571432-1754951379-1754908179
 #EXTINF:0,Первый канал 
 #EXTGRP:Reserve
@@ -381,6 +378,7 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:0,Радость Моя
 #EXTGRP:AVB
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
 
 
 
