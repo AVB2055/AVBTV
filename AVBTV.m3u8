@@ -49,7 +49,7 @@ http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP:AVB
-https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:0,СПАС
 #EXTGRP:AVB
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
@@ -372,5 +372,6 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:0,Радость Моя
 #EXTGRP:AVB
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
 
 
