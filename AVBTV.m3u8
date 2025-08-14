@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Первый канал HD
 #EXTGRP:AVB
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://178.163.2.9:4022/udp/234.0.0.172:2000
 #EXTINF:0,Россия 1 HD
 #EXTGRP:AVB
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -342,6 +342,15 @@ http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:Reserve
 http://31.210.208.171:8080/1kanal/index.m3u8?token=+W2MSER
+#EXTINF:0,Первый канал HD
+#EXTGRP:Reserve
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,Первый канал HD
+#EXTGRP:Reserve
+http://178.163.7.232:4022/udp/234.0.0.172:2000
+#EXTINF:-1 ,Первый канал HD
+#EXTGRP:Reserve
+http://178.163.2.9:4022/udp/234.0.0.172:2000
 #EXTINF:0,Россия 1 HD
 #EXTGRP:Reserve
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
