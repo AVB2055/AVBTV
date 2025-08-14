@@ -164,10 +164,27 @@ http://45.159.74.22/Kinoseriya/tracks-v1a1/mono.m3u8
 #EXTINF:0,Amedia Premium HD
 #EXTGRP:AVB
 http://195.18.23.20:8000/play/3/index.m3u8
-
-#EXTINF:0,Amedia Hit
+#EXTINF:0,Filmzone
+#EXTGRP:AVB
+http://45.159.74.22/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:AVB
+http://45.159.74.22/AnimalPlanet/mono.m3u8
+#EXTINF:0,Amedia Hit HD
 #EXTGRP:AVB
 http://45.159.74.22/Nauka/tracks-v1a1/mono.m3u8
+#EXTINF:0,ATV Kinoman
+#EXTGRP:AVB
+http://45.159.74.22/Kinoman/mono.m3u8
+#EXTINF:0,ATV Bazmoc TV
+#EXTGRP:AVB
+http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
+#EXTINF:0,FOX
+#EXTGRP:AVB
+http://45.159.74.22/Fox/mono.m3u8
+#EXTINF:0,Мужское кино 
+#EXTGRP:AVB
+http://45.159.74.22/MujskoeKino/mono.m3u8
 #EXTINF:0,НТВ Сериал
 #EXTGRP:AVB
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
@@ -183,6 +200,21 @@ https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:0,Лекторий Достоевский
 #EXTGRP:AVB
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:AVB
+http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:AVB
+http://45.159.74.22/NationalGeographic/mono.m3u8
+#EXTINF:0,Discovery
+#EXTGRP:AVB
+http://45.159.74.22/DiscoveryChannel/mono.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:AVB
+http://45.159.74.22/InvestigationDiscovery/mono.m3u8
+#EXTINF:0,History HD
+#EXTGRP:AVB
+http://45.159.74.22/Channel_123/mono.m3u8
 #EXTINF:0,History HD
 #EXTGRP:AVB
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
@@ -195,15 +227,6 @@ http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:AVB
 http://45.159.74.22/AnimalPlanet/tracks-v1a2/mono.m3u8
-#EXTINF:0,Охотник и Рыболов
-#EXTGRP:AVB
-http://45.159.74.22/Channel_124/tracks-v1a1/mono.m3u8
-#EXTINF:0,Дикая рыбалка
-#EXTGRP:AVB
-http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
-#EXTINF:0,Дикая охота
-#EXTGRP:AVB
-http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:0,Телекафе
 #EXTGRP:AVB
 http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
@@ -225,6 +248,15 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Моя Планета
 #EXTGRP:AVB
 http://194.143.148.28:8080/Nauka20/mpegts
+#EXTINF:0,Охотник и Рыболов
+#EXTGRP:AVB
+http://45.159.74.22/Channel_124/tracks-v1a1/mono.m3u8
+#EXTINF:0,Дикая рыбалка
+#EXTGRP:AVB
+http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
+#EXTINF:0,Дикая охота
+#EXTGRP:AVB
+http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:AVB
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
