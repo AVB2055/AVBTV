@@ -2,9 +2,6 @@
 #EXTINF:0,Первый канал HD
 #EXTGRP:AVB
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Первый канал HD
-#EXTGRP:Reserve
-http://er-cdn.ertelecom.ru/os/video/hls/3eefe1da733ccff8a1770dd010773be08877331e25ee9447c12ffa98ac9a60d3b68f2fe7313dddeed3ac8555659c4743b393c47c8ae2fe3d793d7ff18d86f42fd038dc80597f82dec2d8452758cdd45cebbe0d0bda04ef1e41e455f53a7b8c99da8b9b1dd369aa2bc27ae71307bebf5405c69a96cee5c2a4ee8c55fc2a807d65ab848a5880dc3427b0987b453d29f20c4a536e00190d27a1ba5f307a83173bd89569626ed629f1b5f78132ee1ebf4a98384c4dbea7b9f55c009214a952d6fdb5b524a77dda61979f090dc85d0bd80d2366b194c2013fb56feda5fd3bc930aad76402b9f79fae9f978a182211e1e7d47f59774c935bd31ed236e3ec15ab2e26f314c61c0629bd1d94d10d6f0d1d2205a8937ccce6308406980500296e1d1a7d22b2a4cf5d08fe9d4bd99f63015c0093bd9a0149684ffcd0310812f8f0b8483506f6970b3132ab3eace805f396c33cbdab/playlist.m3u8
 #EXTINF:0,Первый канал 
 #EXTGRP:Reserve
 http://31.210.208.171:8080/1kanal/index.m3u8?token=+W2MSER
@@ -101,6 +98,9 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:0,ОСН HD
 #EXTGRP:AVB
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
+#EXTINF:0,Крик ТВ HD
+#EXTGRP:AVB
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:0,ТАСС HD
 #EXTGRP:AVB
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
@@ -117,8 +117,11 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTGRP:AVB
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Москва 24 
-#EXTGRP:AVB
+#EXTGRP:Reserve
 http://178.163.3.80:4022/udp/234.0.0.194:2000
+#EXTINF:0,Москва 24 
+#EXTGRP:AVB
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:0,Москва Доверие
 #EXTGRP:AVB
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
@@ -205,6 +208,9 @@ https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ Стиль
 #EXTGRP:Reserve
 http://cdn2.ntv.ru/th_style/playlist.m3u8
+#EXTINF:0,Лекторий Достоевский
+#EXTGRP:AVB
+https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="History HD" tvg-logo="https://cdn.epg.one/img2/1394.png",History HD
 http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="Discovery Channel HD" tvg-logo="https://cdn.epg.one/img2/325.png",Discovery
@@ -288,6 +294,9 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8000/play/139/index.m3u8
 #EXTINF:-1 group-title="AVB" tvg-id="КВН ТВ" tvg-logo="https://cdn.epg.one/img2/1700.png",КВН ТВ
 http://45.159.74.22/Bober/tracks-v1a1/mono.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:AVB
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:0,Fashion TV Midnite Secrets HD
 #EXTGRP:AVB
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
@@ -369,9 +378,7 @@ http://178.124.152.238:8088/detmir
 #EXTINF:0,Мультимания
 #EXTGRP:AVB
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
-#EXTINF:0,Радость Моя
-#EXTGRP:AVB
-http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
 
 
 
