@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,Первый канал HD
+#EXTINF:0 ,Первый канал HD
 #EXTGRP:AVB
-http://178.163.2.9:4022/udp/234.0.0.172:2000
+http://178.163.7.232:4022/udp/234.0.0.172:2000
 #EXTINF:0,Россия 1 HD
 #EXTGRP:AVB
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -380,21 +380,12 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый канал HD
 #EXTGRP:Reserve
 http://178.163.7.232:4022/udp/234.0.0.172:2000
-#EXTINF:-1 ,Первый канал HD
-#EXTGRP:Reserve
-http://178.163.2.9:4022/udp/234.0.0.172:2000
-#EXTINF:0,Россия 1 HD
-#EXTGRP:Reserve
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:0,Матч! HD
 #EXTGRP:Reserve
 http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Reserve
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:0,Домашний 
-#EXTGRP:Reserve
-http://178.163.2.9:4022/udp/234.0.0.191:2000
 #EXTINF:0,Домашний 
 #EXTGRP:Reserve
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/514/index.m3u8
