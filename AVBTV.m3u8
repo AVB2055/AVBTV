@@ -2,9 +2,6 @@
 #EXTINF:0,Первый канал HD
 #EXTGRP:AVB
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Первый канал +1 HD
-#EXTGRP:AVB
-http://178.163.2.70:4022/udp/234.0.0.172:2000
 #EXTINF:0,Россия 1 HD
 #EXTGRP:AVB
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -43,13 +40,13 @@ http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
 #EXTINF:0,Домашний
 #EXTGRP:AVB
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/514/index.m3u8
 #EXTINF:0,Домашний Int
 #EXTGRP:AVB
 http://178.124.152.238:8088/dom
 #EXTINF:0,ТВ 3
-#EXTGRP:AVB
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTGRP:Reserve
+https://bl.rutube.ru/livestream/ff99b4d6cc81635fdcd094af044d8d96/index.m3u8?s=57q4ZXNr0dmTxWMlG0aliA&e=1755205445&scheme=https
 #EXTINF:0,Пятница!
 #EXTGRP:AVB
 http://158.101.222.193:88/georgia_play.php?id=perec
@@ -101,9 +98,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:AVB
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:0,Москва Доверие
-#EXTGRP:AVB
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:0,Красная линия
 #EXTGRP:AVB
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -170,9 +164,7 @@ http://45.159.74.22/Kinoseriya/tracks-v1a1/mono.m3u8
 #EXTINF:0,Amedia Premium HD
 #EXTGRP:AVB
 http://195.18.23.20:8000/play/3/index.m3u8
-#EXTINF:0,Amedia Premium
-#EXTGRP:AVB
-http://45.159.74.22/AmediaPremium/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,Amedia Hit
 #EXTGRP:AVB
 http://45.159.74.22/Nauka/tracks-v1a1/mono.m3u8
@@ -359,6 +351,21 @@ http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/
 #EXTINF:0,НТВ HD
 #EXTGRP:Reserve
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:0,Домашний 
+#EXTGRP:Reserve
+http://178.163.2.9:4022/udp/234.0.0.191:2000
+#EXTINF:0,Домашний 
+#EXTGRP:Reserve
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/514/index.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Reserve
+https://bl.rutube.ru/livestream/ff99b4d6cc81635fdcd094af044d8d96/index.m3u8?s=UgnCBI7Xj_ef2UChYIwuXg&e=1755205419&scheme=https
+#EXTINF:0,ТВ3
+#EXTGRP:Reserve
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/15116/index.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Reserve
+http://178.163.5.143:4022/udp/234.0.0.171:2000
 #EXTINF:0,Звезда HD
 #EXTGRP:Reserve
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -380,6 +387,9 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:0,НТВ Стиль
 #EXTGRP:Reserve
 http://cdn2.ntv.ru/th_style/playlist.m3u8
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:Reserve
+http://45.159.74.22/AmediaPremium/tracks-v1a1/mono.m3u8
 #EXTINF:0,Неизвестная Россия HD
 #EXTGRP:Reserve
 http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
