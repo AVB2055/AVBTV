@@ -69,15 +69,17 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Новости",Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 group-title="Новости",RTVi
+#EXTINF:-1 group-title="Новости",RTVi  [СМИ иноагент]
 http://8baf1970.rossteleccom.net/iptv/VQGVQ6PEPS7KZC/2086/index.m3u8
-#EXTINF:-1 group-title="Новости",Дождь HD [Geo-blocked]
+#EXTINF:-1 group-title="Новости",Дождь HD [Geo-blocked]  [СМИ иноагент]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Настоящее время HD  [СМИ иногент]
+#EXTINF:-1 group-title="Новости",Дождь HD  [СМИ иноагент]
+https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Новости",Настоящее время HD  [СМИ иноагент]
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Новости",Белсат HD  [СМИ иногент]
+#EXTINF:-1 group-title="Новости",Белсат HD  [СМИ иноагент]
 https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Новости",FREEДОМ - UATV Channel  [СМИ иногент]
+#EXTINF:-1 group-title="Новости",FREEДОМ - UATV Channel  [СМИ иноагент]
 https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Кино и сериалы",Trash HD
 https://woobl.ru/platform24.php?id=4830&p=index.m3u8
@@ -325,11 +327,11 @@ http://176.107.219.20:9000/play/a003/index.m3u8
 http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1 group-title="Новости",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 group-title="Новости",Дождь ТВ [СМИ иногент]
+#EXTINF:-1 group-title="Новости",Дождь ТВ [СМИ иноагент] [СМИ иноагент]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Дождь HD [СМИ иногент]
+#EXTINF:-1 group-title="Новости",Дождь HD [СМИ иноагент]
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Новости",Настоящее время HD [СМИ иногент]
+#EXTINF:-1 group-title="Новости",Настоящее время HD [СМИ иноагент]
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="Новости",RT Д HD
 http://stream-msk-10.ott.tricolor.tv/dtv/id357_MSKSG-PVR-1--RTD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
@@ -1485,8 +1487,6 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 http://178.163.3.80:4022/udp/234.0.0.194:2000
 #EXTINF:-1 group-title="Новости",RTVi
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2086/index.m3u8
-#EXTINF:-1 group-title="Новости",Дождь HD
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Эфирные",НТВ Сериал
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные",НТВ Стиль
@@ -1507,3 +1507,4 @@ http://178.212.71.253:8000/play/54/index.m3u8
 http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Старт Триумф HD
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph
+
