@@ -191,7 +191,7 @@ http://178.134.1.158:8081/rtvi/index.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="Информационные",Настоящее время HD [СМИ иноагент]
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 group-title="Test",Настоящее время HD  [СМИ иноагент]
+#EXTINF:-1 group-title="Информационные",Настоящее время HD  [СМИ иноагент]
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Информационные",Дождь HD [Geo-blocked]  [СМИ иноагент]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
@@ -199,9 +199,9 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Дождь HD [СМИ иногент]
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Test1",Белсат HD  [СМИ иноагент]
+#EXTINF:-1 group-title="Информационные",Белсат HD  [СМИ иноагент]
 https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Test1",FREEДОМ - UATV Channel  [СМИ иноагент]
+#EXTINF:-1 group-title="Информационные",FREEДОМ - UATV Channel  [СМИ иноагент]
 https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Информационные",Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
