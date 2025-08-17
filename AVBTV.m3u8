@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-title="Мультиплексы",Первый канал HD
+#EXTINF:-1 group-title="Федеральные",Первый канал HD
 http://178.163.7.232:4022/udp/234.0.0.172:2000
-#EXTINF:-1 group-title="Мультиплексы",Россия 1 HD
+#EXTINF:-1 group-title="Федеральные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Мультиплексы",Матч ТВ HD
+#EXTINF:-1 group-title="Федеральные",Матч ТВ HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="Мультиплексы",НТВ HD
+#EXTINF:-1 group-title="Федеральные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Мультиплексы",Пятый канал
+#EXTINF:-1 group-title="Федеральные",Пятый канал
 http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Мультиплексы",Россия Культура
+#EXTINF:-1 group-title="Федеральные",Россия Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="Мультиплексы",Россия 24
+#EXTINF:-1 group-title="Федеральные",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Мультиплексы",Карусель
+#EXTINF:-1 group-title="Федеральные",Карусель
 http://31.210.208.171:8080/karusel/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Мультиплексы",ОТР
+#EXTINF:-1 group-title="Федеральные",ОТР
 http://31.210.208.171:8080/otr/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Мультиплексы",ТВЦ
+#EXTINF:-1 group-title="Федеральные",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Мультиплексы",РЕН ТВ
+#EXTINF:-1 group-title="Федеральные",РЕН ТВ
 http://178.217.72.66:8080/REN_TV/index.m3u8
-#EXTINF:-1 group-title="Мультиплексы",СПАС
+#EXTINF:-1 group-title="Федеральные",СПАС
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Мультиплексы",СТС
+#EXTINF:-1 group-title="Федеральные",СТС
 http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Мультиплексы",Домашний HD
+#EXTINF:-1 group-title="Федеральные",Домашний HD
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 group-title="Мультиплексы",ТВ 3
+#EXTINF:-1 group-title="Федеральные",ТВ 3
 http://178.163.5.143:4022/udp/234.0.0.171:2000
-#EXTINF:-1 group-title="Мультиплексы",Пятница!
+#EXTINF:-1 group-title="Федеральные",Пятница!
 http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 group-title="Мультиплексы",Звезда HD
+#EXTINF:-1 group-title="Федеральные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="Мультиплексы",Мир HD
+#EXTINF:-1 group-title="Федеральные",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Мультиплексы",ТНТ
+#EXTINF:-1 group-title="Федеральные",ТНТ
 http://178.163.4.220:4022/udp/234.0.0.186:2000
-#EXTINF:-1 group-title="Мультиплексы",МУЗ-ТВ
+#EXTINF:-1 group-title="Федеральные",МУЗ-ТВ
 http://178.163.13.217:4022/udp/234.0.0.96:2000
 
 #EXTINF:-1 group-title="Эфирные",Первый канал HD
@@ -1467,4 +1467,5 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Relax",Baraza Relax TV Music
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
 
