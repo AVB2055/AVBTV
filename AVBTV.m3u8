@@ -25,8 +25,8 @@ http://178.217.72.66:8080/REN_TV/index.m3u8
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС
 http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Федеральные",Домашний HD
-http://178.217.72.66:8080/Domashniy/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Домашний 
+https://45.159.74.22/Domashniy/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3
 http://178.163.5.143:4022/udp/234.0.0.171:2000
 #EXTINF:-1 group-title="Федеральные",Пятница!
@@ -75,19 +75,17 @@ https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="Эфирные",СТС Love
 http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1 group-title="Эфирные",Домашний 
-http://85.117.61.97:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Домашний 
 http://178.212.71.253:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="Эфирные",Домашний 
+https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Эфирные",Домашний Int
 http://178.124.152.238:8088/dom
-#EXTINF:-1 group-title="Эфирные",ТВ3 HD
+#EXTINF:-1 group-title="Эфирные",ТВ3 
 http://31.210.208.171:8080/tv3/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Эфирные",Пятница! International
 http://158.101.222.193:88/georgia_play.php?id=friday
 #EXTINF:-1 group-title="Эфирные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Эфирные",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Эфирные",Звезда Плюс HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Эфирные",Мир 24 HD
@@ -155,7 +153,7 @@ https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 group-title="Информационные",RTVi
 http://8baf1970.rossteleccom.net/iptv/VQGVQ6PEPS7KZC/2086/index.m3u8
 #EXTINF:-1 group-title="Информационные",RTVi
-http://178.134.1.158:8081/rtvi/index.m3u8
+http://85.187.13.40:18000/rtvi
 #EXTINF:-1 group-title="Информационные",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="Информационные",Настоящее время HD [СМИ иноагент]
@@ -191,24 +189,17 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 #EXTINF:-1 group-title="Информационные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Лекторий Достоевский
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",365 дней ТВ
-http://77.235.1.19:8000/play/a055/index.m3u8
+
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 group-title="Познавательные",Ностальгия
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="Познавательные",History HD
 http://45.159.74.22/Channel_123/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",History HD
-http://45.159.74.22/Channel_123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",История
 http://45.159.74.22/Istoria/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
-#EXTINF:-1 group-title="Познавательные",Investigation Discovery
-http://45.159.74.22/InvestigationDiscovery/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",ID Xtra Европа
@@ -221,8 +212,6 @@ http://45.11.139.43:8555/terra/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательные",Терра Инкогнита
 http://178.124.153.123:44400/terra
-#EXTINF:-1 group-title="Познавательные",Curiosity Stream HD
-http://31.133.36.244:8000/174
 #EXTINF:-1 group-title="Познавательные",Первый космический
 http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy
@@ -241,10 +230,6 @@ http://45.159.74.22/NationalGeographic/mono.m3u8
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery HD
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery HD
-http://178.217.72.66:8080/Discovery_HD/video.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery HD
-http://45.159.74.22/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия HD
@@ -253,6 +238,8 @@ http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 group-title="Познавательные",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG TV
+http://178.124.152.238:8088/rtg
 #EXTINF:-1 group-title="Познавательные",Точка отрыва
 http://77.235.1.19:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто 24
@@ -263,14 +250,12 @@ http://178.217.72.66:8080/insight/index.m3u8
 https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet
-http://45.159.74.22/AnimalPlanet/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet
-http://45.159.74.22/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
 http://158.160.149.81:8080/255/index.m3u8
 #EXTINF:-1 group-title="Познавательные",ЗооПарк
 http://178.134.1.158:8081/zoopark/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Теледом HD
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Познавательные",Мужской
 http://158.160.149.81:8080/8850/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Univer HD
@@ -295,18 +280,13 @@ http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 http://195.18.23.20:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Здоровое ТВ
 http://178.212.71.253:8000/play/94/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Кулинар ТВ
-https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 group-title="Познавательные",Аппетитный
 http://77.235.1.19:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="Познавательные",КУХНЯ-ТВ
 http://178.124.152.238:8088/kuhnya
-#EXTINF:-1 group-title="Познавательные",RTG TV
-http://178.124.152.238:8088/rtg
 #EXTINF:-1 group-title="Познавательные",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 group-title="Познавательные",Теледом HD
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+
 #EXTINF:-1 group-title="Развлекательные",Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ HD
