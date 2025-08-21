@@ -42,8 +42,6 @@ http://178.163.13.217:4022/udp/234.0.0.96:2000
 
 #EXTINF:-1 group-title="Эфирные",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="Эфирные",Первый канал HD
-http://178.163.7.232:4022/udp/234.0.0.172:2000
 #EXTINF:-1 group-title="Эфирные",Первый канал
 http://31.210.208.171:8080/1kanal/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Эфирные",НТВ HD
@@ -700,6 +698,7 @@ https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Relax",Baraza Relax TV Music
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
 
 
 
