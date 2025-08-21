@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Федеральные",Первый канал HD
-http://178.163.7.232:4022/udp/234.0.0.172:2000
+https://cdn9.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1755066527&mncpkpjgigpklafbenkddfcgalikldde_playlist_index=0
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Матч ТВ HD
@@ -698,6 +698,7 @@ https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Relax",Baraza Relax TV Music
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
 
 
 
