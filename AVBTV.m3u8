@@ -322,10 +322,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Kiss TV
 http://livestream.siliconweb.com/live/kissfm/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",CARAC1
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",V2BEAT TV
@@ -350,20 +346,11 @@ http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Музыкальные",Techno Dance Music
-https://132544.edgevideo.ru/streams/132544_931193/1325441080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",RETRO Music Hits
-https://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
-
 
 #EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
 http://178.217.72.66:8080/Eurosport_HD/video.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
-http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
 http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
-#EXTINF:-1 group-title="Спортивные",Eurosport
-http://45.159.74.22/Eurosport/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! HD
 http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч Страна
@@ -390,8 +377,6 @@ https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph
 #EXTINF:-1 group-title="Спортивные",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Спортивные",Удар ТВ
-http://95.85.109.219:7000/play/a066
 #EXTINF:-1 group-title="Спортивные",Fast & FunBox
 http://85.117.61.97:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный Мир
@@ -615,6 +600,7 @@ https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="Relax",Baraza Relax TV Music
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
 
 
 
