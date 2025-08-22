@@ -66,8 +66,6 @@ https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="Эфирные",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Эфирные",Рен ТВ International
-https://cdn2.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="Эфирные",СТС Love
 http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1 group-title="Эфирные",Домашний 
@@ -250,10 +248,6 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 group-title="Познавательные",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Светлое ТВ
-http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Первый молодёжный
-https://v2.catcast.tv/content/48542/index.m3u8
 #EXTINF:-1 group-title="Познавательные",ЗооПарк
 http://178.134.1.158:8081/zoopark/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Univer HD
@@ -291,7 +285,7 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://45.159.74.22/Bober/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",КВН ТВ HD
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ 
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Развлекательные",Сарафан
 http://178.163.6.142:4022/udp/234.0.0.246:2000
@@ -320,8 +314,6 @@ https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные",VEVO Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
-#EXTINF:-1 group-title="Музыкальные",Rmusic
-https://otv.wotom.net/rmusic/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные",MIXM TB
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 group-title="Музыкальные",Spirit TV
@@ -330,8 +322,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Kiss TV
 http://livestream.siliconweb.com/live/kissfm/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Kaloopy HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
 #EXTINF:-1 group-title="Музыкальные",CARAC1
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",CHD-TV Rock
@@ -340,8 +330,6 @@ http://194.26.229.213/chdtv_rock/index.m3u8
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",V2BEAT TV
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Музыкальные",Kiss Kiss TV HD
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Dance TV
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="Музыкальные",Deep House District
@@ -358,12 +346,8 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыкальные",MTV Live [US]
 http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Europe
-http://fl5.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",1HD Music
 http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный
-http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные",Techno Dance Music
@@ -371,11 +355,11 @@ https://132544.edgevideo.ru/streams/132544_931193/1325441080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",RETRO Music Hits
 https://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
 
+
 #EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
 http://178.217.72.66:8080/Eurosport_HD/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
 http://178.134.1.158:8081/eurosport/index.m3u8
-http://158.160.149.81:8080/2587/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
 http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Eurosport
@@ -400,10 +384,6 @@ http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
-http://45.11.139.43:8555/fut1/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
-http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Старт Триумф HD
 https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:-1 group-title="Спортивные",Старт Триумф HD
@@ -412,8 +392,6 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Спортивные",Удар ТВ
 http://95.85.109.219:7000/play/a066
-#EXTINF:-1 group-title="Спортивные",БОКС ТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спортивные",Fast & FunBox
 http://85.117.61.97:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный Мир
@@ -424,6 +402,8 @@ http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Детские",Чип и Дейл HD
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Детские",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские",Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
@@ -447,8 +427,6 @@ http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 #EXTINF:-1 group-title="Детские",Мульт и музыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1 group-title="Детские",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Детские",Пингвин Лоло
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",Мамонтёнок
@@ -488,8 +466,6 @@ http://45.159.74.22/Fox/mono.m3u8
 http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Феникс+Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 group-title="Фильмовые",Romance
-http://77.235.1.19:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Фильмовые",Amedia 1
