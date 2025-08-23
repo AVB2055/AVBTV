@@ -182,6 +182,12 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 #EXTINF:-1 group-title="Информационные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 
+#EXTINF:-1 group-title="Познавательные",Тео-ТВ
+https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Теледом HD
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="Познавательные",Теледом HD
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Познавательные",Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 group-title="Познавательные",Ностальгия
@@ -194,7 +200,7 @@ http://45.159.74.22/Istoria/tracks-v1a1/mono.m3u8
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Investigation Discovery
+#EXTINF:-1 group-title="Познавательные",ID_Xtra
 http://178.217.72.66:8080/ID_Xtra/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Top Secret
 http://178.124.152.238:8088/sovsec
@@ -212,12 +218,6 @@ http://178.217.72.66:8080/National_Geographic/index.m3u8
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Insight TV HD
 http://178.217.72.66:8080/insight/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Тео-ТВ
-https://stream.teotv.ru/live/site360/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Теледом HD
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 group-title="Познавательные",Теледом HD
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 group-title="Познавательные",Арсенал
@@ -262,18 +262,6 @@ https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 http://77.235.1.19:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Загородный
-http://45.159.74.22/DTX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Загородная жизнь
-http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title="Познавательные",Тонус ТВ
-http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Здоровое ТВ
-http://178.212.71.253:8000/play/94/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Аппетитный
-http://77.235.1.19:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="Познавательные",КУХНЯ-ТВ
-http://178.124.152.238:8088/kuhnya
 
 #EXTINF:-1 group-title="Развлекательные",Твое ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -346,6 +334,18 @@ http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Музыкальные",Baraza TV Relax Music
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Baraza Relax TV Music
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Fashion TV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",FTV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Fashion TV Paris
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
 http://178.217.72.66:8080/Eurosport_HD/video.m3u8
@@ -543,63 +543,10 @@ http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:-1 group-title="BCU-CineMan",CineMan VHS HD
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
 
-#EXTINF:-1 group-title="Fashion",Fashion TV Midnite Secrets HD
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fashion",Fashion 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fashion",Fashion TV HD
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:-1 group-title="Fashion",FTV Midnite Secrets HD
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Fashion",World Fashion Channel En
-http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
-#EXTINF:-1 group-title="Fashion",World Fashion Channel
-http://live-3.otcnet.ru/wfcrus/index.m3u8
-#EXTINF:-1 group-title="Fashion",Fashion TV Africa
-http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
-#EXTINF:-1 group-title="Fashion",Fashion TV Paris
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 
-#EXTINF:-1 group-title="Relax",Relax 1
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64331.ts
-#EXTINF:-1 group-title="Relax",Relax 2
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64332.ts
-#EXTINF:-1 group-title="Relax",Relax 3
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64330.ts
-#EXTINF:-1 group-title="Relax",Relax 4
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65374.ts
-#EXTINF:-1 group-title="Relax",Relax 5
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64777.ts
-#EXTINF:-1 group-title="Relax",Relax 6
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64781.ts
-#EXTINF:-1 group-title="Relax",Relax 7
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65375.ts
-#EXTINF:-1 group-title="Relax",Relax 8
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64822.ts
-#EXTINF:-1 group-title="Relax",Relax 9
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/100624.ts
-#EXTINF:-1 group-title="Relax",Relax 10
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/244486.ts
-#EXTINF:-1 group-title="Relax",Relax 11
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65376.ts
-#EXTINF:-1 group-title="Relax",Relax 12
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/264811.ts
-#EXTINF:-1 group-title="Relax",Relax 13
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/246028.ts
-#EXTINF:-1 group-title="Relax",Relax 14
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66287.ts
-#EXTINF:-1 group-title="Relax",Relax 15
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/81968.ts
-#EXTINF:-1 group-title="Relax",Relax 16
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66433.ts
-#EXTINF:-1 group-title="Relax",Relax 17
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64782.ts
-#EXTINF:-1 group-title="Relax",Relax 18
-https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8
-#EXTINF:-1 group-title="Relax",Baraza TV Relax Music
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="Relax",Baraza Relax TV Music
-https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
+
+
 
 
 
