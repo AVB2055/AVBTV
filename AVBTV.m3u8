@@ -145,8 +145,6 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/track
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",RT Док HD
 https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:-1 group-title="Информационные",RTVi
-http://85.187.13.40:18000/rtvi
 #EXTINF:-1 group-title="Информационные",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="Информационные",Настоящее время HD [СМИ иноагент]
@@ -275,8 +273,6 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://45.159.74.22/Bober/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ 
 http://158.101.222.193:88/georgia_play.php?id=kvntv
-#EXTINF:-1 group-title="Развлекательные",Сарафан
-http://178.163.6.142:4022/udp/234.0.0.246:2000
 #EXTINF:-1 group-title="Развлекательные",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 group-title="Развлекательные",Народ Всё Видит
@@ -487,8 +483,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 #EXTINF:-1 group-title="Фильмовые",SeleCaoTV 2
 https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
-#EXTINF:-1 group-title="Фильмовые",Millennium
-https://132544.edgevideo.ru/streams/132544_931202/132544480/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",KinoMix
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",LAV-KINO
@@ -542,6 +536,7 @@ http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
 http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:-1 group-title="BCU-CineMan",CineMan VHS HD
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+
 
 
 
