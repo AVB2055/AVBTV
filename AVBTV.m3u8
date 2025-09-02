@@ -16,15 +16,17 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Карусель 
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ОТР 
-http://srv-1-streaming.iptvin.online:8080/OTR/index.m3u8?token=abef2764158d1846c11daceb98080c09241e9e79-296571432-1756768867-1756725667
+https://bl.webcaster.pro/media/playlist/free_fd0f2f657cb850987f0d3a28dc05ab0b/5_2972636396/720p/b16f43cbf14ca2acc4e4ff3db7a34760/1756847578.m3u8?sr=65&seek=1756800600&uid=FFNTZREI-SG0W-TVII-4Q8D-ANFTF1UKEMNN&ref=https%3A%2F%2Fotr-online.ru%2F
+#EXTINF:-1 group-title="Федеральные",ОТР 
+https://strm.yandex.ru/vod/vh-canvas-converted/vod-content/5872048066997291502/2c300075-700c-42ea-b0d3-f1a184f6e6eb/kaltura/desc_02e0bc6e85d3cab893a0473d9c88f4b2/vXoxsC4w-v2M/manifest.mpd?vsid=04e7fbab1d2130a34e704a74d78b43e95c537c144464xVASx1778x1756804583&t=1756804584067&mncpkpjgigpklafbenkddfcgalikldde_playlist_index=0
 #EXTINF:-1 group-title="Федеральные",ТВЦ 
 http://178.163.3.208:4022/udp/234.0.0.192:2000
 #EXTINF:-1 group-title="Федеральные",РЕН ТВ FHD
 http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1 group-title="Федеральные",СПАС
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Федеральные",СТС FHD
-http://srv-1-streaming.iptvin.online:8080/sts_hd/video.m3u8?token=043388984769be41838bd8fd7a7161270bc6923f-296571432-1756768867-1756725667
+#EXTINF:-1 group-title="Федеральные",СТС
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний 
 http://178.212.71.253:8000/play/14/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3
@@ -178,8 +180,6 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 #EXTINF:-1 group-title="Информационные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Тео-ТВ
-https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Познавательные",Теледом HD
@@ -220,8 +220,6 @@ http://158.101.222.193:88/georgia_play.php?id=auto24
 http://45.159.74.22/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",RTG TV
-http://178.124.152.238:8088/rtg
 #EXTINF:-1 group-title="Познавательные",Первый космический
 http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy
@@ -273,8 +271,6 @@ http://45.159.74.22/Bober/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Развлекательные",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 group-title="Развлекательные",Народ Всё Видит
-http://77.235.1.19:8000/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",AFV Family
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",The Pet Collective
@@ -284,7 +280,7 @@ https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 group-title="Развлекательные",5-Minute Crafts Live
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb5638186573608684ce3b78d3f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa0fcb05c41d064a2ac154d937b58e683179fc914bfd1d6469845d376f417c896a58ed611e033a059896f58c41222404facc21fa1dc4ea5d39b1b48f6130d736e99623ef184281993554c4cfd85a4d7d11252bce00e936124b50f9c4e9672f70305e4e6932d8b899aa5306a2ba5d7556e23a1f7b381f22c739674fabba3b5191acaa3442817993f9c4abf5be1204860f96af0b0965a0f41bb7129dcb265d1f09796fdbf9d4fd308c5d4f7972a7883026e0dab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a552e73d72094ce3b21f5e434d6fd9a1335e6737901396a6a08b40000ee8f8daed800268755e39664cdab2a920e1cdaa4f3a19ce542a650e60349e16d964da40044019c010d7a31e67c7610528f5ac2b524a66f49ce799e636abe83be00ba929ef89f95b2e9944b136e0c16ec68d22/46/960x540_2200000/index.m3u8
 
-#EXTINF:-1 group-title="Музыкальные",67 HD
+#EXTINF:-1 group-title="Музыкальные",USHBA67 HD
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",radio m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -312,8 +308,6 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="Музыкальные",Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="Музыкальные",DeeJay
-https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Song TV Россия
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",RU.TV HD
@@ -367,8 +361,6 @@ https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph
 #EXTINF:-1 group-title="Спортивные",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Спортивные",Fast & FunBox
-http://85.117.61.97:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный Мир
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Конный мир
