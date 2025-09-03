@@ -10,13 +10,13 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый канал
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия Культура FHD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Карусель 
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="Федеральные",ОТР 
-https://bl.webcaster.pro/media/playlist/free_fd0f2f657cb850987f0d3a28dc05ab0b/5_2972636396/720p/b16f43cbf14ca2acc4e4ff3db7a34760/1756847578.m3u8?sr=65&seek=1756800600&uid=FFNTZREI-SG0W-TVII-4Q8D-ANFTF1UKEMNN&ref=https%3A%2F%2Fotr-online.ru%2F
+http://178.212.71.253:8000/play/9/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВЦ 
 http://178.163.3.208:4022/udp/234.0.0.192:2000
 #EXTINF:-1 group-title="Федеральные",РЕН ТВ FHD
