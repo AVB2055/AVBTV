@@ -143,8 +143,6 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/track
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",RT Док HD
 https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:-1 group-title="Информационные",RTVi
-http://8c6d2038.kazaktelekom.com/iptv/HEF97RZTRRDV59/2086/index.m3u8
 #EXTINF:-1 group-title="Информационные",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="Информационные",Настоящее время HD [СМИ иноагент]
@@ -516,6 +514,7 @@ http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
 http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:-1 group-title="BCU-CineMan",CineMan VHS HD
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+
 
 
 
