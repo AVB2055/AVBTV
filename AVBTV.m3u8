@@ -24,7 +24,7 @@ http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1 group-title="Федеральные",СПАС
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v5a1/mono.m3u8
+https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="Федеральные",Домашний 
 http://178.212.71.253:8000/play/14/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3
@@ -518,6 +518,7 @@ http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
 http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:-1 group-title="BCU-CineMan",CineMan VHS HD
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+
 
 
 
