@@ -184,14 +184,8 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 group-title="Познавательные",Ностальгия
 http://178.124.152.238:8088/nostalgia
-#EXTINF:-1 group-title="Познавательные",History HD
-http://45.159.74.22/Channel_123/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",История
-http://45.159.74.22/Istoria/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Travel Channel
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
-#EXTINF:-1 group-title="Познавательные",Investigation Discovery
-http://45.159.74.22/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",ID_Xtra
 http://178.217.72.66:8080/ID_Xtra/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Top Secret
@@ -200,30 +194,20 @@ http://178.124.152.238:8088/sovsec
 http://45.11.139.43:8555/terra/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Терра Инкогнита
 http://178.124.153.123:44400/terra
-#EXTINF:-1 group-title="Познавательные",National Geographic
-http://45.159.74.22/NationalGeographic/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://178.217.72.66:8080/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery HD
-http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Insight TV HD
 http://178.217.72.66:8080/insight/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Авто 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
-#EXTINF:-1 group-title="Познавательные",Арсенал
-http://45.159.74.22/Tekhno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",E HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Первый космический
-http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy
 http://85.117.61.97:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Galaxy HD
 http://178.217.72.66:8080/galaxyhd/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Big Planet
 http://178.217.72.66:8080/big_planet/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
-http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Неизвестная Россия HD
@@ -263,8 +247,6 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твое ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
-http://45.159.74.22/Bober/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Развлекательные",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
@@ -294,8 +276,6 @@ http://89.179.247.144/hls/mixm.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",HiDance
 https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Kiss TV
-http://livestream.siliconweb.com/live/kissfm/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",V2BEAT TV
@@ -312,8 +292,6 @@ http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Live [US]
-http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",1HD Music
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
@@ -398,44 +376,11 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 http://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские",МУЛЬТИКИ И СКАЗКИ
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинопремьера
-http://45.159.74.22/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинохит
-http://45.159.74.22:80/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Мужское кино
-http://45.159.74.22/MujskoeKino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинокомедия
-http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киносемья
-http://45.159.74.22/VipComedy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",НСТ
-http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Дом Кино
-http://45.159.74.22/DomKino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум
-http://45.159.74.22/THT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",.sci-fi
-http://45.159.74.22/Kinoseriya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",ATV Kinoman
-http://45.159.74.22/Kinoman/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",FOX
-http://45.159.74.22/Fox/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Телекафе
-http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Феникс+Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+
 #EXTINF:-1 group-title="Фильмовые",Cinema Космос ТВ
 http://178.124.152.238:8088/cinema
-#EXTINF:-1 group-title="Фильмовые",Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Фильмовые",Amedia 2 HD
 http://178.217.72.66:8080/A2/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia Hit HD
-http://45.159.74.22/Nauka/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia Premium
-http://158.101.222.193:88/georgia_play.php?id=amediapremium
-#EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
-http://45.159.74.22/AmediaPremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Star Cinema HD
 http://77.235.1.19:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Star Family HD
@@ -446,12 +391,6 @@ http://77.235.1.19:8000/play/a051/index.m3u8
 http://95.85.109.219:7000/play/a05w
 #EXTINF:-1 group-title="Фильмовые",Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",FOX
-http://45.159.74.22/Fox/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Мужское кино
-http://45.159.74.22/MujskoeKino/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 #EXTINF:-1 group-title="Фильмовые",SeleCaoTV 2
@@ -460,8 +399,6 @@ https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Logovo Films
-https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",RED PREMIUM
 http://95.85.109.219:7000/play/a06e
 #EXTINF:-1 group-title="Фильмовые",FMC
