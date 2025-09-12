@@ -444,4 +444,54 @@ http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:-1 group-title="BCU-CineMan",CineMan VHS HD
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
 
+#EXTINF:-1 group-title="RF",Первый канал
+https://streaming.televizor-24-tochka.ru/live/4.m3u8
+#EXTINF:-1 group-title="RF",Россия 1
+https://streaming.televizor-24-tochka.ru/live/5.m3u8
+#EXTINF:-1 group-title="RF",Матч ТВ
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1 group-title="RF",НТВ
+https://streaming.televizor-24-tochka.ru/live/7.m3u8
+#EXTINF:-1 group-title="RF",Пятый канал
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1 group-title="RF",Россия К
+https://streaming.televizor-24-tochka.ru/live/9.m3u8
+#EXTINF:-1 group-title="RF",Россия 24
+https://streaming.televizor-24-tochka.ru/live/10.m3u8
+#EXTINF:-1 group-title="RF",Карусель
+https://streaming.televizor-24-tochka.ru/live/11.m3u8
+#EXTINF:-1 group-title="RF",ОТР
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
+#EXTINF:-1 group-title="RF",ТВЦ
+https://streaming.televizor-24-tochka.ru/live/13.m3u8
+#EXTINF:-1 group-title="RF",Рен ТВ
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTINF:-1 group-title="RF",Спас
+https://streaming.televizor-24-tochka.ru/live/15.m3u8
+#EXTINF:-1 group-title="RF",СТС
+https://streaming.televizor-24-tochka.ru/live/16.m3u8
+#EXTINF:-1 group-title="RF",Домашний
+https://streaming.televizor-24-tochka.ru/live/17.m3u8
+#EXTINF:-1 group-title="RF",ТВ3
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1 group-title="RF",Пятница!
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
+#EXTINF:-1 group-title="RF",Муз ТВ
+https://streaming.televizor-24-tochka.ru/live/20.m3u8
+#EXTINF:-1 group-title="RF",Звезда
+https://streaming.televizor-24-tochka.ru/live/21.m3u8
+#EXTINF:-1 group-title="RF",Мир
+https://streaming.televizor-24-tochka.ru/live/22.m3u8
+#EXTINF:-1 group-title="RF",ТНТ
+https://streaming.televizor-24-tochka.ru/live/23.m3u8
+#EXTINF:-1 group-title="RF",Таврия
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1 group-title="RF",За!ТВ
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1 group-title="RF",Юнион
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1 group-title="RF",КРЫМ 24
+https://streaming.televizor-24-tochka.ru/live/28.m3u8
+
+
 
