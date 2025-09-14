@@ -389,7 +389,7 @@ https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/pla
 #EXTINF:0,Первый Молодежный
 #EXTGRP:Развлекательные
 https://autopilot.catcast.tv/content/48542/index.m3u8
-#EXTINF:0,1-139
+#EXTINF:0,VK Видео Live
 #EXTGRP:Развлекательные
 https://autopilot.catcast.tv/content/139/index.m3u8
 #EXTINF:0,Event
@@ -746,3 +746,4 @@ https://streaming.televizor-24-tochka.ru/live/23.m3u8
 #EXTINF:0,Муз ТВ
 #EXTGRP:RF
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
+
