@@ -351,7 +351,7 @@ http://77.235.1.19:8000/play/a02n/index.m3u8
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:0,Сити Эдем ТВ
-#EXTGRP:Просвещение
+#EXTGRP:Познавательные
 https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:Развлекательные
@@ -746,4 +746,5 @@ https://streaming.televizor-24-tochka.ru/live/23.m3u8
 #EXTINF:0,Муз ТВ
 #EXTGRP:RF
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
+
 
