@@ -431,13 +431,13 @@ https://autopilot.catcast.tv/content/33418/index.m3u8
 #EXTINF:0,NM TV
 #EXTGRP:Музыкальные
 https://autopilot.catcast.tv/content/40650/index.m3u8
-#EXTINF:0,Выступления-40078
+#EXTINF:0,PR-вечеринки
 #EXTGRP:Музыкальные
 https://autopilot.catcast.tv/content/40078/index.m3u8
 #EXTINF:0,FTV Midnite Secrets HD
 #EXTGRP:Музыкальные
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:0,Неделя моды в Москве-40721
+#EXTINF:0,Неделя моды в Москве
 #EXTGRP:Музыкальные
 https://autopilot.catcast.tv/content/40721/index.m3u8
 #EXTINF:0,Fashion TV Paris
@@ -696,5 +696,6 @@ https://streaming.televizor-24-tochka.ru/live/23.m3u8
 #EXTINF:0,Муз ТВ
 #EXTGRP:RF
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
+
 
 
