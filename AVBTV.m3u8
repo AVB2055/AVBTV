@@ -98,9 +98,6 @@ http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:0,Домашний
 #EXTGRP:Эфирные
 https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:0,Домашний Int
-#EXTGRP:Эфирные
-http://178.124.152.238:8088/dom
 #EXTINF:0,ТВЦ
 #EXTGRP:Эфирные
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -152,9 +149,6 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:0,Перец
 #EXTGRP:Эфирные
 http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:0,Перец
-#EXTGRP:Эфирные
-http://178.124.152.238:8088/perec
 #EXTINF:0,РБК HD
 #EXTGRP:Информационные
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
@@ -278,18 +272,12 @@ https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:0,Кто есть кто
 #EXTGRP:Познавательные
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:0,Ностальгия
-#EXTGRP:Познавательные
-http://178.124.152.238:8088/nostalgia
 #EXTINF:0,Travel Channel
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Travel_Channel/video.m3u8
 #EXTINF:0,ID_Xtra
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/ID_Xtra/index.m3u8
-#EXTINF:0,Top Secret
-#EXTGRP:Познавательные
-http://178.124.152.238:8088/sovsec
 #EXTINF:0,Terra
 #EXTGRP:Познавательные
 http://45.11.139.43:8555/terra/index.m3u8
@@ -320,9 +308,6 @@ http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:0,Неизвестная Россия HD
 #EXTGRP:Познавательные
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:0,Неизвестная Россия HD
-#EXTGRP:Познавательные
-http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 #EXTINF:0,Моя Планета
 #EXTGRP:Познавательные
 http://194.143.148.28:8080/Nauka20/mpegts
@@ -341,21 +326,9 @@ http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:0,Мособр TV HD
 #EXTGRP:Познавательные
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:0,Мособр TV HD
-#EXTGRP:Познавательные
-https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
-#EXTINF:0,ЕГЭ
-#EXTGRP:Познавательные
-http://77.235.1.19:8000/play/a02n/index.m3u8
-#EXTINF:0,Просвещение
-#EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:0,Сити Эдем ТВ
 #EXTGRP:Познавательные
 https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:0,Теледом HD
-#EXTGRP:Развлекательные
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:Развлекательные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
@@ -392,27 +365,18 @@ https://autopilot.catcast.tv/content/48542/index.m3u8
 #EXTINF:0,VK Видео Live
 #EXTGRP:Развлекательные
 https://autopilot.catcast.tv/content/139/index.m3u8
-#EXTINF:0,Event
+#EXTINF:0,Event TV
 #EXTGRP:Развлекательные
 https://autopilot.catcast.tv/content/33958/index.m3u8
 #EXTINF:0,НТК
 #EXTGRP:Развлекательные
 https://autopilot.catcast.tv/content/51/index.m3u8
-#EXTINF:0,34246
-#EXTGRP:Развлекательные
-https://autopilot.catcast.tv/content/34246/index.m3u8
 #EXTINF:0,USHBA67 HD
 #EXTGRP:Музыкальные
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-#EXTINF:0,radio m2o TV
-#EXTGRP:Музыкальные
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:0,radio m2o
 #EXTGRP:Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-#EXTINF:0,Minimal / Deep Tech
-#EXTGRP:Музыкальные
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:0,Первый Музыкальный Россия HD
 #EXTGRP:Музыкальные
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -428,9 +392,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:0,HiDance
 #EXTGRP:Музыкальные
 https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
-#EXTINF:0,CHD-TV RU Rock HD
-#EXTGRP:Музыкальные
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:0,V2BEAT TV
 #EXTGRP:Музыкальные
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
@@ -464,24 +425,18 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 #EXTINF:0,Baraza Relax TV Music
 #EXTGRP:Музыкальные
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:0,Fashion TV Midnite Secrets HD
-#EXTGRP:Музыкальные
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:0,FTV Midnite Secrets HD
-#EXTGRP:Музыкальные
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:0,Выступления-40730
-#EXTGRP:Музыкальные
-https://autopilot.catcast.tv/content/40730/index.m3u8
-#EXTINF:0,Выступления-40078
-#EXTGRP:Музыкальные
-https://autopilot.catcast.tv/content/40078/index.m3u8
 #EXTINF:0,Музыка-33418
 #EXTGRP:Музыкальные
 https://autopilot.catcast.tv/content/33418/index.m3u8
 #EXTINF:0,NM TV
 #EXTGRP:Музыкальные
 https://autopilot.catcast.tv/content/40650/index.m3u8
+#EXTINF:0,Выступления-40078
+#EXTGRP:Музыкальные
+https://autopilot.catcast.tv/content/40078/index.m3u8
+#EXTINF:0,FTV Midnite Secrets HD
+#EXTGRP:Музыкальные
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:0,Неделя моды в Москве-40721
 #EXTGRP:Музыкальные
 https://autopilot.catcast.tv/content/40721/index.m3u8
@@ -593,9 +548,7 @@ http://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,МУЛЬТИКИ И СКАЗКИ
 #EXTGRP:Детские
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
-#EXTINF:0,Cinema Космос ТВ
-#EXTGRP:Фильмовые
-http://178.124.152.238:8088/cinema
+
 #EXTINF:0,Saga TV
 #EXTGRP:Фильмовые
 http://95.85.109.219:7000/play/a05w
@@ -620,9 +573,6 @@ http://95.85.109.219:7000/play/a06e
 #EXTINF:0,FMC
 #EXTGRP:Фильмовые
 https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
-#EXTINF:0,Смотрим Фильмовые
-#EXTGRP:Фильмовые
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
