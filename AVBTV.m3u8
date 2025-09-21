@@ -55,7 +55,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0,ТНТ HD
 #EXTGRP:Федеральные
-https://mhd128.iptv2022.com/p/jS0rlgU-Hfg-sfIZKdt_gw,1758315604/streaming/tntott/324/1/tracks-v5a1/mono.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/7251/index.m3u8
 #EXTINF:0,МУЗ-ТВ
 #EXTGRP:Федеральные
 http://178.163.13.217:4022/udp/234.0.0.96:2000
@@ -651,6 +651,7 @@ http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:0,CineMan VHS HD
 #EXTGRP:BCU-CineMan
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+
 
 
 
