@@ -268,7 +268,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 https://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Информационные
-http://rhsbjv7k.tvclub.xyz/iptv/DBKNM5HQTQ2XH7/2086/index.m3u8
+http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:0,DW Russia
 #EXTGRP:Информационные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -651,6 +651,7 @@ http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:0,CineMan VHS HD
 #EXTGRP:BCU-CineMan
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+
 
 
 
