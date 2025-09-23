@@ -11,25 +11,25 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:0,НТВ HD
 #EXTGRP:Федеральные
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пятый канал
+#EXTINF:0,Пятый канал WINK
 #EXTGRP:Федеральные
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
-#EXTINF:0,Россия Культура HD
+http://srv-1-streaming.iptvin.online:8080/5_channel_hd/video.m3u8?token=24de26089e775745af7e4261dae55cb6d8c2d136-296571432-1758649927-1758606727
+#EXTINF:0,Россия Культура HD  WINK
 #EXTGRP:Федеральные
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,Карусель
+#EXTINF:0,Карусель WINK
 #EXTGRP:Федеральные
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+http://srv-1-streaming.iptvin.online:8080/karusel/video.m3u8?token=50b758293104cefe74f083db2cd5ca4feb1ac29a-296571432-1758649927-1758606727
 #EXTINF:0,ОТР
 #EXTGRP:Федеральные
 http://178.212.71.253:8000/play/9/index.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Федеральные
 http://178.163.3.208:4022/udp/234.0.0.192:2000
-#EXTINF:0,РЕН ТВ HD
+#EXTINF:0,РЕН ТВ 
 #EXTGRP:Федеральные
 http://178.163.2.228:4022/udp/234.0.0.240:2000
 #EXTINF:0,СПАС
