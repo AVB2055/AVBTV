@@ -31,7 +31,7 @@ http://178.212.71.253:8000/play/9/index.m3u8
 http://178.163.3.208:4022/udp/234.0.0.192:2000
 #EXTINF:0,РЕН ТВ HD
 #EXTGRP:Федеральные
-http://178.217.72.66:8080/REN_TV/index.m3u8
+http://178.163.2.228:4022/udp/234.0.0.240:2000
 #EXTINF:0,СПАС
 #EXTGRP:Федеральные
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
@@ -332,39 +332,12 @@ https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:0,Кто есть кто
 #EXTGRP:Познавательные
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:0,Travel Channel
-#EXTGRP:Познавательные
-http://178.217.72.66:8080/Travel_Channel/video.m3u8
-#EXTINF:0,ID_Xtra
-#EXTGRP:Познавательные
-http://178.217.72.66:8080/ID_Xtra/index.m3u8
-#EXTINF:0,Terra
-#EXTGRP:Познавательные
-http://45.11.139.43:8555/terra/index.m3u8
-#EXTINF:0,Терра Инкогнита
-#EXTGRP:Познавательные
-http://178.124.153.123:44400/terra
-#EXTINF:0,National Geographic HD
-#EXTGRP:Познавательные
-http://178.217.72.66:8080/National_Geographic/index.m3u8
-#EXTINF:0,Insight TV HD
-#EXTGRP:Познавательные
-http://178.217.72.66:8080/insight/index.m3u8
 #EXTINF:0,Авто 24
 #EXTGRP:Познавательные
 http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:0,E HD
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:0,Galaxy HD
-#EXTGRP:Познавательные
-http://178.217.72.66:8080/galaxyhd/index.m3u8
-#EXTINF:0,Big Planet
-#EXTGRP:Познавательные
-http://178.217.72.66:8080/big_planet/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-#EXTGRP:Познавательные
-http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:0,Неизвестная Россия HD
 #EXTGRP:Познавательные
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -494,39 +467,15 @@ https://autopilot.catcast.tv/content/40721/index.m3u8
 #EXTINF:0,Fashion TV Paris
 #EXTGRP:Музыкальные
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Eurosport_HD/video.m3u8
-#EXTINF:0,Eurosport 2 HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:0,Матч! HD
 #EXTGRP:Спортивные
 http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8
-#EXTINF:0,Матч Страна
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Nash_Sport/index.m3u8
-#EXTINF:0,Матч! Игра HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Igra_HD/index.m3u8
 #EXTINF:0,Матч! Арена
 #EXTGRP:Спортивные
 http://178.212.71.253:8000/play/54/index.m3u8
 #EXTINF:0,Матч! Арена
 #EXTGRP:Спортивные
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:0,Матч! Арена HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
-#EXTINF:0,Матч! Футбол 1 HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
-#EXTINF:0,Матч! Футбол 2 HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
-#EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #EXTINF:0,Старт Триумф HD
 #EXTGRP:Спортивные
 https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
@@ -603,54 +552,7 @@ https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:0,Фильмы-34393
 #EXTGRP:Фильмовые
 https://autopilot.catcast.tv/content/34393/index.m3u8
-#EXTINF:0,BCU Action HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/BCUActionHD/index.m3u8
-#EXTINF:0,BCU Catastrophe HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
-#EXTINF:0,BCU Comedy HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/BCUComedyHD/index.m3u8
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
-#EXTINF:0,BCU Romantic HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/BCURomanticHD/index.m3u8
-#EXTINF:0,BCU Stars HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/BCUStarsHD/index.m3u8
-#EXTINF:0,BCU VHS HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/BCUVHSHD/index.m3u8
-#EXTINF:0,BCU Kinorating HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8
-#EXTINF:0,CineMan Action HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/CineMan_Action/index.m3u8
-#EXTINF:0,CineMan Comedy HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
-#EXTINF:0,CineMan HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/CineMan/index.m3u8
-#EXTINF:0,CineMan Marvel HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
-#EXTINF:0,CineMan Melodrama
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/CineMan_Melodrama/index.m3u8
-#EXTINF:0,CineMan Thriller HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
-#EXTINF:0,CineMan Top HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/CineMan_Top/index.m3u8
-#EXTINF:0,CineMan VHS HD
-#EXTGRP:BCU-CineMan
-http://178.217.72.66:8080/CineMan_VHS/index.m3u8
+
 
 
 
