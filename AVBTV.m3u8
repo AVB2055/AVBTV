@@ -11,18 +11,18 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:0,НТВ HD
 #EXTGRP:Федеральные
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пятый канал WINK
+#EXTINF:0,Пятый канал 
 #EXTGRP:Федеральные
-http://srv-1-streaming.iptvin.online:8080/5_channel_hd/video.m3u8?token=24de26089e775745af7e4261dae55cb6d8c2d136-296571432-1758649927-1758606727
-#EXTINF:0,Россия Культура HD  WINK
+http://srv-1-streaming.iptvin.online:8080/5_channel_hd/video.m3u8?token=ebff577633553c612df8496e6833574d0ad1f95a-296571432-1758753508-1758710308
+#EXTINF:0,Россия Культура HD
 #EXTGRP:Федеральные
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,Карусель WINK
+#EXTINF:0,Карусель 
 #EXTGRP:Федеральные
-http://srv-1-streaming.iptvin.online:8080/karusel/video.m3u8?token=50b758293104cefe74f083db2cd5ca4feb1ac29a-296571432-1758649927-1758606727
+http://srv-1-streaming.iptvin.online:8080/karusel/video.m3u8?token=a6b7cf07942cabc3129305635648a052ae241856-296571432-1758753508-1758710308
 #EXTINF:0,ОТР
 #EXTGRP:Федеральные
 http://178.212.71.253:8000/play/9/index.m3u8
@@ -149,9 +149,15 @@ http://cdn2.ntv.ru/th_style/playlist.m3u8
 #EXTINF:0,НТВ Стиль
 #EXTGRP:Эфирные
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:0,Пятый канал 
+#EXTGRP:Эфирные
+http://178.163.6.142:4022/udp/234.0.0.205:2000
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Эфирные
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:0,Карусель 
+#EXTGRP:Федеральные
+http://178.163.6.142:4022/udp/234.0.0.203:2000
 #EXTINF:0,СТС Love
 #EXTGRP:Эфирные
 http://31.148.48.15/STS_Love/index.m3u8
