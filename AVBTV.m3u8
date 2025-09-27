@@ -13,7 +13,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пятый канал 
 #EXTGRP:Федеральные
-http://srv-1-streaming.iptvin.online:8080/5_channel_hd/video.m3u8?token=ebff577633553c612df8496e6833574d0ad1f95a-296571432-1758753508-1758710308
+http://178.163.13.218:4022/udp/234.0.0.205:2000
 #EXTINF:0,Россия Культура HD
 #EXTGRP:Федеральные
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
@@ -22,7 +22,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Карусель 
 #EXTGRP:Федеральные
-http://srv-1-streaming.iptvin.online:8080/karusel/video.m3u8?token=a6b7cf07942cabc3129305635648a052ae241856-296571432-1758753508-1758710308
+http://178.212.71.253:8000
 #EXTINF:0,ОТР
 #EXTGRP:Федеральные
 http://178.212.71.253:8000/play/9/index.m3u8
@@ -149,15 +149,12 @@ http://cdn2.ntv.ru/th_style/playlist.m3u8
 #EXTINF:0,НТВ Стиль
 #EXTGRP:Эфирные
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пятый канал 
-#EXTGRP:Эфирные
-http://178.163.6.142:4022/udp/234.0.0.205:2000
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Эфирные
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:0,Карусель 
+#EXTINF:0,Карусель
 #EXTGRP:Эфирные
-http://178.163.6.142:4022/udp/234.0.0.203:2000
+https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP:Эфирные
 http://31.148.48.15/STS_Love/index.m3u8
@@ -230,12 +227,6 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:0,ТАСС HD
 #EXTGRP:Информационные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:0,ТАСС
-#EXTGRP:Информационные
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:0,Известия HD
-#EXTGRP:Информационные
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:0,Известия HD
 #EXTGRP:Информационные
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -365,9 +356,6 @@ http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:0,Мособр TV HD
 #EXTGRP:Познавательные
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:0,Сити Эдем ТВ
-#EXTGRP:Познавательные
-https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:Развлекательные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
@@ -546,18 +534,13 @@ https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:0,Alpha Moretime
-#EXTGRP:Фильмовые
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:0,СТРК HD
 #EXTGRP:Фильмовые
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:0,ЛИК
 #EXTGRP:Фильмовые
 https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:0,Фильмы-34393
-#EXTGRP:Фильмовые
-https://autopilot.catcast.tv/content/34393/index.m3u8
+
 
 
 
