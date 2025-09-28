@@ -22,7 +22,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Карусель 
 #EXTGRP:Федеральные
-http://178.212.71.253:8000
+http://178.163.4.37:4022/udp/234.0.0.203:2000
 #EXTINF:0,ОТР
 #EXTGRP:Федеральные
 http://178.212.71.253:8000/play/9/index.m3u8
@@ -540,6 +540,7 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:0,ЛИК
 #EXTGRP:Фильмовые
 https://autopilot.catcast.tv/content/41596/index.m3u8
+
 
 
 
