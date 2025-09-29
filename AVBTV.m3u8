@@ -467,9 +467,6 @@ http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/
 #EXTINF:0,Матч! Арена
 #EXTGRP:Спортивные
 http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:0,Матч! Арена
-#EXTGRP:Спортивные
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:0,Старт Триумф HD
 #EXTGRP:Спортивные
 https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
@@ -491,9 +488,6 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0,VITAL DRIVE
 #EXTGRP:Спортивные
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:0,Чип и Дейл HD
-#EXTGRP:Детские
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0,Смайлик ТВ
 #EXTGRP:Детские
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -507,12 +501,6 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist
 #EXTGRP:Детские
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 
-#EXTINF:0,Saga TV
-#EXTGRP:Фильмовые
-http://95.85.109.219:7000/play/a05w
-#EXTINF:0,Китай ТВ
-#EXTGRP:Фильмовые
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:0,SeleCaoTV 1
 #EXTGRP:Фильмовые
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
@@ -525,21 +513,21 @@ https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
 #EXTINF:0,LAV-KINO
 #EXTGRP:Фильмовые
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0,RED PREMIUM
-#EXTGRP:Фильмовые
-http://95.85.109.219:7000/play/a06e
 #EXTINF:0,FMC
 #EXTGRP:Фильмовые
 https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:0,СТРК HD
-#EXTGRP:Фильмовые
-http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:0,ЛИК
 #EXTGRP:Фильмовые
 https://autopilot.catcast.tv/content/41596/index.m3u8
+#EXTINF:0,Китай ТВ
+#EXTGRP:Фильмовые
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:0,СТРК HD
+#EXTGRP:Фильмовые
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 
 
 
