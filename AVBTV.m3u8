@@ -215,15 +215,15 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:0,РБК HD
 #EXTGRP:Информационные
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-##EXTINF:0,РБК HD
-##EXTGRP:Информационные
-#http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+#EXTINF:0,РБК HD
+#EXTGRP:Информационные
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:0,ОСН HD
 #EXTGRP:Информационные
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-##EXTINF:0,ОСН HD
-##EXTGRP:Информационные
-#http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+#EXTINF:0,ОСН HD
+#EXTGRP:Информационные
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:0,ТАСС HD
 #EXTGRP:Информационные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
@@ -239,11 +239,11 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:0,TV BRICS HD
 #EXTGRP:Информационные
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-##EXTINF:0,TV BRICS
-##EXTGRP:Информационные
-#http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
-##EXTINF:0,TV BRICS HD
-##EXTGRP:Информационные
+#EXTINF:0,TV BRICS
+#EXTGRP:Информационные
+http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
+#EXTINF:0,TV BRICS HD
+#EXTGRP:Информационные
 #http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:Информационные
@@ -540,6 +540,7 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:0,ЛИК
 #EXTGRP:Фильмовые
 https://autopilot.catcast.tv/content/41596/index.m3u8
+
 
 
 
