@@ -244,7 +244,7 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 #EXTINF:0,TV BRICS HD
 #EXTGRP:Информационные
-#http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:Информационные
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
@@ -540,6 +540,7 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:0,ЛИК
 #EXTGRP:Фильмовые
 https://autopilot.catcast.tv/content/41596/index.m3u8
+
 
 
 
