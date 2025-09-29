@@ -344,7 +344,7 @@ http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:0,Большая Азия HD
 #EXTGRP:Познавательные
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:0,34114
+#EXTINF:0,Клуб путешествий Михаила Кожухова
 #EXTGRP:Познавательные
 https://autopilot.catcast.tv/content/34114/index.m3u8
 #EXTINF:0,Univer HD
@@ -540,6 +540,7 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:0,ЛИК
 #EXTGRP:Фильмовые
 https://autopilot.catcast.tv/content/41596/index.m3u8
+
 
 
 
