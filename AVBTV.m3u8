@@ -13,7 +13,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пятый канал 
 #EXTGRP:Федеральные
-http://178.163.13.218:4022/udp/234.0.0.205:2000
+http://178.163.5.6:4022/udp/234.0.0.205:2000
 #EXTINF:0,Россия Культура HD
 #EXTGRP:Федеральные
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
@@ -519,6 +519,7 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:0,СТРК HD
 #EXTGRP:Фильмовые
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+
 
 
 
