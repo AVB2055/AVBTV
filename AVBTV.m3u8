@@ -128,16 +128,13 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:0,НТВ Сериал
 #EXTGRP:Эфирные
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:0,НТВ Сериал
+#EXTINF:0,НТВ Сериал  
 #EXTGRP:Эфирные
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:0,НТВ Сериал
-#EXTGRP:Эфирные
-http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:Эфирные
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:0,НТВ Хит
+#EXTINF:0,НТВ Хит  
 #EXTGRP:Эфирные
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ Право
@@ -146,7 +143,7 @@ https://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ Стиль
 #EXTGRP:Эфирные
 http://cdn2.ntv.ru/th_style/playlist.m3u8
-#EXTINF:0,НТВ Стиль
+#EXTINF:0,НТВ Стиль  
 #EXTGRP:Эфирные
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:0,Россия 24 HD
@@ -173,19 +170,10 @@ http://178.163.6.29:4022/udp/234.0.0.171:2000
 #EXTINF:0,Звезда HD
 #EXTGRP:Эфирные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0,Звезда HD
+#EXTINF:0,Звезда HD    
 #EXTGRP:Эфирные
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0,Мир
-#EXTGRP:Эфирные
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,Мир
-#EXTGRP:Эфирные
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0,Мир 24 HD
-#EXTGRP:Эфирные
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0,Мир 24
 #EXTGRP:Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,ТНТ4
@@ -212,13 +200,13 @@ http://93.125.121.61:8383/play/a007
 #EXTINF:0,РБК HD
 #EXTGRP:Информационные
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-#EXTINF:0,РБК HD
+#EXTINF:0,РБК HD  
 #EXTGRP:Информационные
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:0,ОСН HD
 #EXTGRP:Информационные
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:0,ОСН HD
+#EXTINF:0,ОСН HD  
 #EXTGRP:Информационные
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:0,ТАСС HD
@@ -239,13 +227,13 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:0,TV BRICS
 #EXTGRP:Информационные
 http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
-#EXTINF:0,TV BRICS HD
+#EXTINF:0,TV BRICS HD  
 #EXTGRP:Информационные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:Информационные
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:0,Москва 24
+#EXTINF:0,Москва 24  
 #EXTGRP:Информационные
 http://178.163.3.80:4022/udp/234.0.0.194:2000
 #EXTINF:0,360 Новости HD
@@ -269,28 +257,28 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:0,Настоящее время HD [СМИ иноагент]
 #EXTGRP:Информационные
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:0,Настоящее время HD  [СМИ иноагент]
+#EXTINF:0,Настоящее время HD [СМИ иноагент]
 #EXTGRP:Информационные
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,Дождь HD [Geo-blocked]  [СМИ иноагент]
+#EXTINF:0,Дождь HD [Geo-blocked] [СМИ иноагент] 
 #EXTGRP:Информационные
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:0,Дождь ТВ [СМИ иногент]
 #EXTGRP:Информационные
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:0,Дождь HD [СМИ иногент]
+#EXTINF:0,Дождь HD [СМИ иногент]  
 #EXTGRP:Информационные
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,Белсат HD  [СМИ иноагент]
+#EXTINF:0,Белсат HD [СМИ иноагент]   
 #EXTGRP:Информационные
 https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,FREEДОМ - UATV Channel  [СМИ иноагент]
+#EXTINF:0,FREEДОМ - UATV Channel [СМИ иноагент]
 #EXTGRP:Информационные
 https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Соловьев.Live HD
 #EXTGRP:Информационные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,Соловьев.Live HD
+#EXTINF:0,Соловьев.Live HD  
 #EXTGRP:Информационные
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:0,News Front TV
