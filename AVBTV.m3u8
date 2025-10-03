@@ -11,7 +11,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:0,НТВ HD
 #EXTGRP:Федеральные
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пятый канал 
+#EXTINF:0,Пятый канал
 #EXTGRP:Федеральные
 http://178.163.5.6:4022/udp/234.0.0.205:2000
 #EXTINF:0,Россия Культура HD
@@ -20,7 +20,7 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,Карусель 
+#EXTINF:0,Карусель
 #EXTGRP:Федеральные
 http://178.163.4.37:4022/udp/234.0.0.203:2000
 #EXTINF:0,ОТР
@@ -29,7 +29,7 @@ http://178.212.71.253:8000/play/9/index.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Федеральные
 http://178.163.3.208:4022/udp/234.0.0.192:2000
-#EXTINF:0,РЕН ТВ 
+#EXTINF:0,РЕН ТВ
 #EXTGRP:Федеральные
 http://178.163.2.228:4022/udp/234.0.0.240:2000
 #EXTINF:0,СПАС
@@ -46,7 +46,7 @@ http://178.212.71.253:8000/play/14/index.m3u8
 http://178.163.5.143:4022/udp/234.0.0.171:2000
 #EXTINF:0,Пятница!
 #EXTGRP:Федеральные
-http://158.101.222.193:88/georgia_play.php?id=perec
+http://178.163.12.210:4022/udp/234.0.0.235:2000
 #EXTINF:0,Звезда HD
 #EXTGRP:Федеральные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
@@ -167,9 +167,6 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Эфирные
 https://streaming.goodstream.cyou/live/296.m3u8
-#EXTINF:0,Пятница! International
-#EXTGRP:Эфирные
-http://158.101.222.193:88/georgia_play.php?id=friday
 #EXTINF:0,ТВ3
 #EXTGRP:Эфирные
 http://178.163.6.29:4022/udp/234.0.0.171:2000
@@ -211,7 +208,7 @@ http://178.212.71.253:8000/play/139/index.m3u8
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:0,Перец
 #EXTGRP:Эфирные
-http://158.101.222.193:88/georgia_play.php?id=perec
+http://93.125.121.61:8383/play/a007
 #EXTINF:0,РБК HD
 #EXTGRP:Информационные
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
@@ -326,12 +323,6 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:0,КРЫМ 24
 #EXTGRP:Информационные
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
-#EXTINF:0,Кто есть кто
-#EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:0,Авто 24
-#EXTGRP:Познавательные
-http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:0,E HD
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
@@ -362,9 +353,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0,Твоё ТВ HD Юмор
 #EXTGRP:Развлекательные
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0,КВН ТВ
-#EXTGRP:Развлекательные
-http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:0,The Pet Collective
 #EXTGRP:Развлекательные
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
@@ -410,9 +398,6 @@ https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:0,Deep House District
 #EXTGRP:Музыкальные
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:0,Song TV Россия
-#EXTGRP:Музыкальные
-https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:0,RU.TV HD
 #EXTGRP:Музыкальные
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
@@ -491,7 +476,6 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist
 #EXTINF:0,МУЛЬТИКИ И СКАЗКИ
 #EXTGRP:Детские
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
-
 #EXTINF:0,SeleCaoTV 1
 #EXTGRP:Фильмовые
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
@@ -519,27 +503,3 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:0,СТРК HD
 #EXTGRP:Фильмовые
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
