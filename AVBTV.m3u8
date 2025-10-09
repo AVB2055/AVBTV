@@ -305,6 +305,12 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:0,КРЫМ 24
 #EXTGRP:Информационные
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
+#EXTINF:0,Беларусь РТР
+#EXTGRP:Информационные
+http://194.158.222.36:6105
+#EXTINF:0,ТСВ Приднестровье HD
+#EXTGRP:Информационные
+https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:0,Неизвестная Россия HD
 #EXTGRP:Познавательные
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -482,5 +488,6 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:0,СТРК HD
 #EXTGRP:Фильмовые
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+
 
 
