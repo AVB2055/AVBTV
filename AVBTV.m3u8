@@ -263,9 +263,6 @@ https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=9445009889576578422036
 #EXTINF:0,Дождь HD [Geo-blocked] [СМИ иноагент] 
 #EXTGRP:Информационные
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:0,Дождь ТВ [СМИ иногент]
-#EXTGRP:Информационные
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:0,Дождь HD [СМИ иногент]  
 #EXTGRP:Информационные
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
@@ -278,9 +275,6 @@ https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=944500988957657842203
 #EXTINF:0,Соловьев.Live HD
 #EXTGRP:Информационные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,Соловьев.Live HD  
-#EXTGRP:Информационные
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:0,News Front TV
 #EXTGRP:Информационные
 https://tv.2kita.com/stream/index.m3u8
@@ -311,9 +305,6 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:0,КРЫМ 24
 #EXTGRP:Информационные
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
-#EXTINF:0,E HD
-#EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:0,Неизвестная Россия HD
 #EXTGRP:Познавательные
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -491,3 +482,4 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:0,СТРК HD
 #EXTGRP:Фильмовые
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+
