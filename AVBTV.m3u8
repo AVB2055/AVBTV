@@ -43,7 +43,7 @@ http://178.212.71.253:8000/play/13/index.m3u8
 http://178.212.71.253:8000/play/14/index.m3u8
 #EXTINF:0,ТВ3
 #EXTGRP:Федеральные
-http://178.163.5.143:4022/udp/234.0.0.171:2000
+http://178.163.3.80:4022/udp/234.0.0.171:2000
 #EXTINF:0,Пятница!
 #EXTGRP:Федеральные
 http://178.163.12.210:4022/udp/234.0.0.235:2000
@@ -285,21 +285,9 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:0,Настоящее время HD [СМИ иноагент]
 #EXTGRP:Информационные
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:0,Настоящее время HD [СМИ иноагент]
-#EXTGRP:Информационные
-https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Дождь HD [Geo-blocked] [СМИ иноагент] 
 #EXTGRP:Информационные
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:0,Дождь HD [СМИ иногент]  
-#EXTGRP:Информационные
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,Белсат HD [СМИ иноагент]   
-#EXTGRP:Информационные
-https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:0,FREEДОМ - UATV Channel [СМИ иноагент]
-#EXTGRP:Информационные
-https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:0,Соловьев.Live HD
 #EXTGRP:Информационные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
@@ -486,27 +474,15 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:0,Первый музыкальный HD
 #EXTGRP:Музыкальные
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:0,Baraza TV Relax Music
-#EXTGRP:Музыкальные
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:0,Baraza Relax TV Music
-#EXTGRP:Музыкальные
-https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:0,Музыка-33418
 #EXTGRP:Музыкальные
 https://autopilot.catcast.tv/content/33418/index.m3u8
 #EXTINF:0,NM TV
 #EXTGRP:Музыкальные
 https://autopilot.catcast.tv/content/40650/index.m3u8
-#EXTINF:0,PR-вечеринки
-#EXTGRP:Музыкальные
-https://autopilot.catcast.tv/content/40078/index.m3u8
 #EXTINF:0,FTV Midnite Secrets HD
 #EXTGRP:Музыкальные
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:0,Неделя моды в Москве
-#EXTGRP:Музыкальные
-https://autopilot.catcast.tv/content/40721/index.m3u8
 #EXTINF:0,Fashion TV Paris
 #EXTGRP:Музыкальные
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
@@ -636,9 +612,6 @@ https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:0,ЛИК
-#EXTGRP:Фильмовые
-https://autopilot.catcast.tv/content/41596/index.m3u8
 #EXTINF:0,Китай ТВ
 #EXTGRP:Фильмовые
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
