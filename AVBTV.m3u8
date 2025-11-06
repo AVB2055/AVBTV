@@ -59,66 +59,6 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/7251/index.m3u8
 #EXTINF:0,МУЗ-ТВ
 #EXTGRP:Федеральные
 http://178.163.13.217:4022/udp/234.0.0.96:2000
-#EXTINF:0,Первый канал  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/4.m3u8
-#EXTINF:0,Россия 1  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/5.m3u8
-#EXTINF:0,Матч ТВ  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
-#EXTINF:0,НТВ  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/7.m3u8
-#EXTINF:0,Пятый канал  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/8.m3u8
-#EXTINF:0,Россия К  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/9.m3u8
-#EXTINF:0,Россия 24  
-#EXTGRP:Федеральные-televizor24  
-https://streaming.televizor-24-tochka.ru/live/10.m3u8
-#EXTINF:0,Карусель  
-#EXTGRP:Федеральные-televizor24  
-https://streaming.televizor-24-tochka.ru/live/11.m3u8
-#EXTINF:0,ОТР  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/12.m3u8
-#EXTINF:0,ТВЦ  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/13.m3u8
-#EXTINF:0,Рен ТВ  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/14.m3u8
-#EXTINF:0,Спас  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/15.m3u8
-#EXTINF:0,СТС  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/16.m3u8
-#EXTINF:0,Домашний  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/17.m3u8
-#EXTINF:0,ТВ3  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/18.m3u8
-#EXTINF:0,Пятница!  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/19.m3u8
-#EXTINF:0,Звезда  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/21.m3u8
-#EXTINF:0,Мир  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/22.m3u8
-#EXTINF:0,ТНТ  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/23.m3u8
-#EXTINF:0,Муз ТВ  
-#EXTGRP:Федеральные-televizor24
-https://streaming.televizor-24-tochka.ru/live/20.m3u8
 #EXTINF:0,Первый канал HD  
 #EXTGRP:Эфирные
 https://cdn9.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1755066527&mncpkpjgigpklafbenkddfcgalikldde_playlist_index=0
@@ -600,6 +540,7 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:0,Китай ТВ
 #EXTGRP:Фильмовые
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+
 
 
 
