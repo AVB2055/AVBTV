@@ -95,9 +95,6 @@ https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:0,СТС Love
 #EXTGRP:Эфирные
 http://31.148.48.15/STS_Love/index.m3u8
-#EXTINF:0,Домашний
-#EXTGRP:Эфирные
-https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Эфирные
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -540,6 +537,7 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:0,Китай ТВ
 #EXTGRP:Фильмовые
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+
 
 
 
