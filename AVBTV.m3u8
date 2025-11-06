@@ -228,9 +228,6 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:0,Соловьев.Live HD
 #EXTGRP:Информационные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,News Front TV
-#EXTGRP:Информационные
-https://tv.2kita.com/stream/index.m3u8
 #EXTINF:0,Про бизнес
 #EXTGRP:Информационные
 http://176.107.219.20:9000/play/a003/index.m3u8
@@ -270,9 +267,6 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u
 #EXTINF:0,Мир24
 #EXTGRP:Информационные  
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:0,Соловьев Live
-#EXTGRP:Информационные  
-http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:0,БелРос
 #EXTGRP:Информационные  
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
