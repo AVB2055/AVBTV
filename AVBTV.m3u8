@@ -16,7 +16,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://178.163.5.6:4022/udp/234.0.0.205:2000
 #EXTINF:0,Россия Культура HD
 #EXTGRP:Федеральные
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+http://178.163.2.65:4022/udp/234.0.0.202:2000
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
@@ -37,7 +37,7 @@ http://178.163.2.228:4022/udp/234.0.0.240:2000
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Федеральные
-http://178.212.71.253:8000/play/13/index.m3u8
+https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:0,Домашний
 #EXTGRP:Федеральные
 http://178.212.71.253:8000/play/14/index.m3u8
@@ -59,9 +59,14 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/7251/index.m3u8
 #EXTINF:0,МУЗ-ТВ
 #EXTGRP:Федеральные
 http://178.163.13.217:4022/udp/234.0.0.96:2000
+
+
 #EXTINF:0,Первый канал HD  
 #EXTGRP:Эфирные
 https://cdn9.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1755066527&mncpkpjgigpklafbenkddfcgalikldde_playlist_index=0
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Эфирные  
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:0,НТВ HD
 #EXTGRP:Эфирные
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
@@ -92,27 +97,27 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:0,Карусель
 #EXTGRP:Эфирные
 https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:Эфирные  
+http://178.212.71.253:8000/play/11/index.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP:Эфирные
 http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Эфирные
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:0,СТС
-#EXTGRP:Эфирные
-https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:0,ТВ3
 #EXTGRP:Эфирные
 http://178.163.6.29:4022/udp/234.0.0.171:2000
 #EXTINF:0,Звезда HD
 #EXTGRP:Эфирные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0,Звезда HD    
-#EXTGRP:Эфирные
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Мир 24 HD
 #EXTGRP:Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Эфирные  
+http://178.212.71.253:8000/play/19/index.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP:Эфирные
 http://31.148.48.15/TNT4/index.m3u8
@@ -134,33 +139,6 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:0,Перец
 #EXTGRP:Эфирные
 http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:0,Россия 1 HD
-#EXTGRP:Эфирные  
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:0,РЕН ТВ
-#EXTGRP:Эфирные  
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:0,РЕН ТВ
-#EXTGRP:Эфирные  
-http://178.212.71.253:8000/play/11/index.m3u8
-#EXTINF:0,Звезда
-#EXTGRP:Эфирные  
-http://178.212.71.253:8000/play/17/index.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:Эфирные  
-http://178.212.71.253:8000/play/19/index.m3u8
-#EXTINF:0,Легендарный 24 HD
-#EXTGRP:Эфирные  
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:0,Ностальгия
-#EXTGRP:Эфирные  
-http://178.212.71.253:8000/play/131/index.m3u8
-#EXTINF:0,Эхо ТВ
-#EXTGRP:Эфирные  
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0,Открытый Мир
-#EXTGRP:Эфирные  
-http://v4.proofix.ru/0mir/index.m3u8
 
 #EXTINF:0,РБК HD
 #EXTGRP:Информационные
@@ -255,6 +233,9 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:0,КРЫМ 24
 #EXTGRP:Информационные
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
+#EXTINF:0,Легендарный 24 HD
+#EXTGRP:Информационные  
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:0,Беларусь РТР
 #EXTGRP:Информационные
 http://194.158.222.36:6105
@@ -270,6 +251,11 @@ http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:0,БелРос
 #EXTGRP:Информационные  
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:0,Эхо ТВ
+#EXTGRP:Информационные  
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+
 #EXTINF:0,Неизвестная Россия HD
 #EXTGRP:Познавательные
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -282,6 +268,9 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:0,Клуб путешествий Михаила Кожухова
 #EXTGRP:Познавательные
 https://autopilot.catcast.tv/content/34114/index.m3u8
+#EXTINF:0,Ностальгия
+#EXTGRP:Познавательные  
+http://178.212.71.253:8000/play/131/index.m3u8
 #EXTINF:0,Univer HD
 #EXTGRP:Познавательные
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
@@ -303,6 +292,13 @@ http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:0,Вопросы и ответы
 #EXTGRP:Познавательные  
 http://178.212.71.253:8000/play/97/index.m3u
+#EXTINF:0,Открытый Мир
+#EXTGRP:Познавательные  
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:0,Китай ТВ
+#EXTGRP:Познавательные
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+
 #EXTINF:0,Теледом HD
 #EXTGRP:Развлекательные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
@@ -330,15 +326,6 @@ https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:0,Gameplay трейлеры
 #EXTGRP:Развлекательные  
 https://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:0,Твоё ТВ HD v5
-#EXTGRP:Развлекательные  
-https://tvoetv.space/tvoetv/index.m3u8
-#EXTINF:0,Твоё ТВ HD Юмор v5
-#EXTGRP:Развлекательные  
-https://tvoetv.space/tvoetv_humor/video.m3u8
-#EXTINF:0,Твоё ТВ HD Юмор (Skycam)
-#EXTGRP:Развлекательные  
-http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 #EXTINF:0,Шоу Бенни Хилла
 #EXTGRP:Развлекательные  
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
@@ -351,6 +338,7 @@ https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:0,Приколы 2
 #EXTGRP:Развлекательные  
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,1HD
 #EXTGRP:Музыкальные  
 http://91.247.68.229:8000/play/eee/index.m3u8
@@ -525,9 +513,6 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:0,Китай ТВ
-#EXTGRP:Фильмовые
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 
 
 
