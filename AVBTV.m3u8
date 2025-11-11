@@ -61,9 +61,6 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/7251/index.m3u8
 http://178.163.13.217:4022/udp/234.0.0.96:2000
 
 
-#EXTINF:0,Первый канал HD  
-#EXTGRP:Эфирные
-https://cdn9.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1755066527&mncpkpjgigpklafbenkddfcgalikldde_playlist_index=0
 #EXTINF:0,Россия 1 HD
 #EXTGRP:Эфирные  
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -513,6 +510,7 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
 
 
 
