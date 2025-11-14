@@ -311,9 +311,6 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,Залипательные ролики 2
 #EXTGRP:Развлекательные
 https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:0,VK Видео Live
-#EXTGRP:Развлекательные
-https://autopilot.catcast.tv/content/139/index.m3u8
 #EXTINF:0,E
 #EXTGRP:Развлекательные  
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
@@ -390,9 +387,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0,Музыка-33418
 #EXTGRP:Музыкальные
 https://autopilot.catcast.tv/content/33418/index.m3u8
-#EXTINF:0,NM TV
-#EXTGRP:Музыкальные
-https://autopilot.catcast.tv/content/40650/index.m3u8
 #EXTINF:0,Fashion TV Paris
 #EXTGRP:Музыкальные
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
@@ -504,7 +498,6 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-
 
 
 
