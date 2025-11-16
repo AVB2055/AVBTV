@@ -126,7 +126,7 @@ http://31.148.48.15/TNT4/index.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:0,Суббота
 #EXTGRP:Эфирные
-https://mhd128.iptv2022.com/p/r0k86JE0X-QVkg6KqEgZ4Q,1763154003/streaming/superott/324/1/tracks-v5a1/mono.m3u8
+http://hls2.hd-tv.club/2_super/index.m3u8
 #EXTINF:0,2x2
 #EXTGRP:Эфирные
 http://178.212.71.253:8000/play/113/index.m3u8
@@ -498,6 +498,7 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
 
 
 
