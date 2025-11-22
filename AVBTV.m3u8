@@ -16,7 +16,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://178.163.5.6:4022/udp/234.0.0.205:2000
 #EXTINF:0,Россия Культура 
 #EXTGRP:Федеральные
-http://178.163.6.142:4022/udp/234.0.0.202:2000
+http://178.163.3.80:4022/udp/234.0.0.202:2000
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
@@ -498,6 +498,7 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
 
 
 
