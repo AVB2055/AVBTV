@@ -25,7 +25,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 http://178.163.4.37:4022/udp/234.0.0.203:2000
 #EXTINF:0,ОТР
 #EXTGRP:Федеральные
-http://178.212.71.253:8000/play/9/index.m3u8
+http://178.163.13.64:4022/udp/234.0.0.208:2000
 #EXTINF:0,ТВЦ
 #EXTGRP:Федеральные
 http://178.163.3.208:4022/udp/234.0.0.192:2000
@@ -37,10 +37,10 @@ http://178.163.2.228:4022/udp/234.0.0.240:2000
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Федеральные
-https://streaming.goodstream.cyou/live/296.m3u8
+http://178.163.13.64:4022/udp/234.0.0.239:2000
 #EXTINF:0,Домашний
 #EXTGRP:Федеральные
-http://178.212.71.253:8000/play/14/index.m3u8
+http://178.163.13.64:4022/udp/234.0.0.191:2000
 #EXTINF:0,ТВ3
 #EXTGRP:Федеральные
 http://178.163.3.80:4022/udp/234.0.0.171:2000
@@ -94,9 +94,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:0,Карусель
 #EXTGRP:Эфирные
 https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:0,РЕН ТВ
-#EXTGRP:Эфирные  
-http://178.212.71.253:8000/play/11/index.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP:Эфирные
 http://31.148.48.15/STS_Love/index.m3u8
@@ -112,9 +109,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Мир24
 #EXTGRP:Информационные  
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:Эфирные  
-http://178.212.71.253:8000/play/19/index.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP:Эфирные
 http://31.148.48.15/TNT4/index.m3u8
@@ -126,7 +120,7 @@ http://hls2.hd-tv.club/2_super/index.m3u8
 http://178.212.71.253:8000/play/113/index.m3u8
 #EXTINF:0,Че!
 #EXTGRP:Эфирные
-http://178.212.71.253:8000/play/139/index.m3u8
+http://178.163.13.64:4022/udp/234.0.0.218:2000
 #EXTINF:0,Ю HD
 #EXTGRP:Эфирные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
@@ -161,12 +155,6 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:0,Первый Российский Национальный канал
 #EXTGRP:Информационные
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:0,TV BRICS HD
-#EXTGRP:Информационные
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:0,TV BRICS
-#EXTGRP:Информационные
-http://rusbrics.mediacdn.ru/cdn/brics/russian/chunklist.m3u8
 #EXTINF:0,TV BRICS HD  
 #EXTGRP:Информационные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
@@ -259,9 +247,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:0,Клуб путешествий Михаила Кожухова
 #EXTGRP:Познавательные
 https://autopilot.catcast.tv/content/34114/index.m3u8
-#EXTINF:0,Ностальгия
-#EXTGRP:Познавательные  
-http://178.212.71.253:8000/play/131/index.m3u8
 #EXTINF:0,Univer HD
 #EXTGRP:Познавательные
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
@@ -327,9 +312,6 @@ https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 #EXTGRP:Развлекательные  
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,1HD
-#EXTGRP:Музыкальные  
-http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:0,Первый Музыкальный
 #EXTGRP:Музыкальные  
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -432,9 +414,6 @@ https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:0,Матч! HD
 #EXTGRP:Спортивные
 http://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8
-#EXTINF:0,Матч! Арена
-#EXTGRP:Спортивные
-http://178.212.71.253:8000/play/54/index.m3u8
 #EXTINF:0,Старт Триумф HD
 #EXTGRP:Спортивные
 https://bl.webcaster.pro/media/start/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
@@ -459,9 +438,6 @@ https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:0,UFA TV HD
 #EXTGRP:Спортивные  
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-#EXTINF:0,Матч! Футбол 1
-#EXTGRP:Спортивные  
-http://178.212.71.253:8000/play/58/index.m3u8
 #EXTINF:0,Матч! Арена
 #EXTGRP:Спортивные  
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
