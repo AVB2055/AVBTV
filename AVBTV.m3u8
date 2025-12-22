@@ -182,6 +182,9 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:0,Настоящее время HD [СМИ иноагент]
 #EXTGRP:Информационные
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:0,Настоящее время HD [СМИ иноагент]
+#EXTGRP:Информационные
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
 #EXTINF:0,Дождь HD [Geo-blocked] [СМИ иноагент] 
 #EXTGRP:Информационные
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
@@ -438,6 +441,7 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0,Alpha Cinema
 #EXTGRP:Фильмовые
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
 
 
 
